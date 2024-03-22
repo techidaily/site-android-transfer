@@ -8,9 +8,9 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-const indexNowKey = '3873fc8968054f3e939c3c67e22183bb'; // 替换为你的API密钥
-const siteHostName = 'techidaily.com'; // 替换为你的网站URL
-const groupItemCount = 500; // 每组最多个URL
+const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const siteHostName = 'android-transfer.techidaily.com'; // 替换为你的网站URL
+const groupItemCount = 100; // 每组最多个URL
 
 
 // 生成元素为 1，2， 3，…… 的数组
