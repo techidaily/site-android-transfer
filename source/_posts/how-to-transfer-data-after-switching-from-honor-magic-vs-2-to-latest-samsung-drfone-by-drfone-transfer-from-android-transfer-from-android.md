@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor Magic Vs 2 to Latest Samsung | Dr.fone
-date: 2024-04-01T11:54:52.604Z
-updated: 2024-04-02T11:54:52.604Z
+date: 2024-04-01T12:36:27.001Z
+updated: 2024-04-02T12:36:27.001Z
 tags: 
   - transfer
 categories:

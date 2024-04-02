@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor 80 Pro Straight Screen Edition to Latest Samsung | Dr.fone
-date: 2024-04-01T11:54:52.593Z
-updated: 2024-04-02T11:54:52.593Z
+date: 2024-04-01T12:36:26.979Z
+updated: 2024-04-02T12:36:26.979Z
 tags: 
   - transfer
 categories:

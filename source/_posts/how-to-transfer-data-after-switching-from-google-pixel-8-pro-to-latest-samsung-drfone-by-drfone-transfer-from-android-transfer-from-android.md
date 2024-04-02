@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Google Pixel 8 Pro to Latest Samsung | Dr.fone
-date: 2024-04-01T11:54:52.590Z
-updated: 2024-04-02T11:54:52.590Z
+date: 2024-04-01T12:36:26.975Z
+updated: 2024-04-02T12:36:26.975Z
 tags: 
   - transfer
 categories:

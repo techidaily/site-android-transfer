@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 | Dr.fone
-date: 2024-04-01T11:54:52.641Z
-updated: 2024-04-02T11:54:52.641Z
+date: 2024-04-01T12:36:26.926Z
+updated: 2024-04-02T12:36:26.926Z
 tags: 
   - transfer
 categories:

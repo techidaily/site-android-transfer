@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Flip 5G to iPhone XS/11 | Dr.fone
-date: 2024-04-01T11:54:52.636Z
-updated: 2024-04-02T11:54:52.636Z
+date: 2024-04-01T12:36:26.892Z
+updated: 2024-04-02T12:36:26.892Z
 tags: 
   - transfer
 categories:

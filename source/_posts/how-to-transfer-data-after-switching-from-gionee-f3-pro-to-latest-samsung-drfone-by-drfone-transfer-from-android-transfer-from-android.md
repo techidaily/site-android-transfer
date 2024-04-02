@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Gionee F3 Pro to Latest Samsung | Dr.fone
-date: 2024-04-01T11:54:52.586Z
-updated: 2024-04-02T11:54:52.586Z
+date: 2024-04-01T12:36:26.971Z
+updated: 2024-04-02T12:36:26.971Z
 tags: 
   - transfer
 categories:
