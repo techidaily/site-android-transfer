@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Content from android to iPhone Directly | Dr.fone
-date: 2024-03-19 13:58:16
-updated: 2024-03-22 12:55:49
+date: 2024-04-01T11:54:52.648Z
+updated: 2024-04-02T11:54:52.648Z
 tags: 
   - transfer
 categories:

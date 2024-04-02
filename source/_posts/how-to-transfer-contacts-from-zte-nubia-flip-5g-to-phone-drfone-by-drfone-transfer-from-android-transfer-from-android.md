@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Flip 5G To Phone | Dr.fone
-date: 2024-03-21 15:24:36
-updated: 2024-03-22 19:54:14
+date: 2024-04-01T11:54:52.640Z
+updated: 2024-04-02T11:54:52.640Z
 tags: 
   - transfer
 categories:

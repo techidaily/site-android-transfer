@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Asus ROG Phone 7 Ultimate to Latest Samsung | Dr.fone
-date: 2024-03-19 18:21:35
-updated: 2024-03-22 22:45:50
+date: 2024-04-01T11:54:52.650Z
+updated: 2024-04-02T11:54:52.650Z
 tags: 
   - transfer
 categories:

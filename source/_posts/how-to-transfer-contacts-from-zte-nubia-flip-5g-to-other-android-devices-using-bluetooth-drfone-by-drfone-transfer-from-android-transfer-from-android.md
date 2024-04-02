@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Flip 5G to Other Android Devices Using Bluetooth? | Dr.fone
-date: 2024-03-20 17:26:24
-updated: 2024-03-22 21:12:35
+date: 2024-04-01T11:54:52.638Z
+updated: 2024-04-02T11:54:52.638Z
 tags: 
   - transfer
 categories:

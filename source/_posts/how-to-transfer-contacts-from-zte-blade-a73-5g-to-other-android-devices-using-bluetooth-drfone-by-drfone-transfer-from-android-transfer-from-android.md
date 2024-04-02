@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Blade A73 5G to Other Android Devices Using Bluetooth? | Dr.fone
-date: 2024-03-20 19:44:45
-updated: 2024-03-22 23:56:22
+date: 2024-04-01T11:54:52.631Z
+updated: 2024-04-02T11:54:52.631Z
 tags: 
   - transfer
 categories:

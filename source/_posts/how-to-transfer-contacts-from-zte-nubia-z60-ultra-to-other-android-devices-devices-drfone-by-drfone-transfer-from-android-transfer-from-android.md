@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Z60 Ultra to Other Android Devices Devices? | Dr.fone
-date: 2024-03-19 11:52:27
-updated: 2024-03-22 18:40:16
+date: 2024-04-01T11:54:52.642Z
+updated: 2024-04-02T11:54:52.642Z
 tags: 
   - transfer
 categories:

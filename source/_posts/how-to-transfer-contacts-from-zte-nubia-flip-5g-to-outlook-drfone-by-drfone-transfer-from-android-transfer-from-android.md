@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Flip 5G to Outlook | Dr.fone
-date: 2024-03-19 15:23:30
-updated: 2024-03-22 12:28:44
+date: 2024-04-01T11:54:52.639Z
+updated: 2024-04-02T11:54:52.639Z
 tags: 
   - transfer
 categories:
