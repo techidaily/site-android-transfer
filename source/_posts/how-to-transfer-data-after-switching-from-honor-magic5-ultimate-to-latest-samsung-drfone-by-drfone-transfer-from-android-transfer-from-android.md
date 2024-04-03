@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor Magic5 Ultimate to Latest Samsung | Dr.fone
-date: 2024-04-02T00:24:08.429Z
-updated: 2024-04-03T00:24:08.429Z
+date: 2024-04-02T00:43:02.918Z
+updated: 2024-04-03T00:43:02.918Z
 tags: 
   - transfer
 categories:

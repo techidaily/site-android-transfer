@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor 90 to Latest Samsung | Dr.fone
-date: 2024-04-02T00:24:08.419Z
-updated: 2024-04-03T00:24:08.419Z
+date: 2024-04-02T00:43:02.915Z
+updated: 2024-04-03T00:43:02.915Z
 tags: 
   - transfer
 categories:

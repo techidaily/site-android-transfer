@@ -108,7 +108,13 @@ const publishTask = () => {
     
     try {
         console.log('执行 yarn 安装依赖');
-        execSync(`yarn`, { cwd: __dirname });
+        execSync(`yarn install`, { cwd: __dirname });
+
+        try {
+          console.log('执行 git gc --prune=now');
+          execSync(`git gc --prune=now`, { cwd: __dirname });
+          execSync(`git gc --prune=now`, { cwd: `${__dirname}/.deploy_git` });
+        } catch(e){}
 
         console.log('执行 yarn run publish');
         const child = execSync(`yarn run publish`, { cwd: __dirname });

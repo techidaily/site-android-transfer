@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor X9a to Latest Samsung | Dr.fone
-date: 2024-04-02T00:24:08.460Z
-updated: 2024-04-03T00:24:08.460Z
+date: 2024-04-02T00:43:02.923Z
+updated: 2024-04-03T00:43:02.923Z
 tags: 
   - transfer
 categories:

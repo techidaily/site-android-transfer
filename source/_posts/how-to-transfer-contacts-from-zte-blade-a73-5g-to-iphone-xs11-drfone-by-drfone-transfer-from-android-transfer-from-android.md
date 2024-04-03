@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Blade A73 5G to iPhone XS/11 | Dr.fone
-date: 2024-04-02T00:24:08.354Z
-updated: 2024-04-03T00:24:08.354Z
+date: 2024-04-02T00:43:02.897Z
+updated: 2024-04-03T00:43:02.897Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor X50 GT to Latest Samsung | Dr.fone
-date: 2024-04-02T00:24:08.452Z
-updated: 2024-04-03T00:24:08.452Z
+date: 2024-04-02T00:43:02.919Z
+updated: 2024-04-03T00:43:02.919Z
 tags: 
   - transfer
 categories:
