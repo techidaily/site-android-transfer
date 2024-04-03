@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Blade A73 5G to Outlook | Dr.fone
-date: 2024-04-01T12:36:26.889Z
-updated: 2024-04-02T12:36:26.889Z
+date: 2024-04-02T00:24:08.357Z
+updated: 2024-04-03T00:24:08.357Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor Magic 5 Lite to Latest Samsung | Dr.fone
-date: 2024-04-01T12:36:26.993Z
-updated: 2024-04-02T12:36:26.993Z
+date: 2024-04-02T00:24:08.419Z
+updated: 2024-04-03T00:24:08.419Z
 tags: 
   - transfer
 categories:

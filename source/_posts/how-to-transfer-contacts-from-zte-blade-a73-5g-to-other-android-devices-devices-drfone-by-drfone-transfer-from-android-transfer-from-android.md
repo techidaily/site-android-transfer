@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Blade A73 5G to Other Android Devices Devices? | Dr.fone
-date: 2024-04-01T12:36:26.886Z
-updated: 2024-04-02T12:36:26.886Z
+date: 2024-04-02T00:24:08.355Z
+updated: 2024-04-03T00:24:08.355Z
 tags: 
   - transfer
 categories:

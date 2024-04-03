@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Asus ROG Phone 8 Pro to Latest Samsung | Dr.fone
-date: 2024-04-01T12:36:26.944Z
-updated: 2024-04-02T12:36:26.944Z
+date: 2024-04-02T00:24:08.407Z
+updated: 2024-04-03T00:24:08.407Z
 tags: 
   - transfer
 categories:

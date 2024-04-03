@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor Magic 6 to Latest Samsung | Dr.fone
-date: 2024-04-01T12:36:26.999Z
-updated: 2024-04-02T12:36:26.999Z
+date: 2024-04-02T00:24:08.424Z
+updated: 2024-04-03T00:24:08.424Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Z60 Ultra To Phone | Dr.fone
-date: 2024-04-01T12:36:26.939Z
-updated: 2024-04-02T12:36:26.939Z
+date: 2024-04-02T00:24:08.401Z
+updated: 2024-04-03T00:24:08.401Z
 tags: 
   - transfer
 categories:

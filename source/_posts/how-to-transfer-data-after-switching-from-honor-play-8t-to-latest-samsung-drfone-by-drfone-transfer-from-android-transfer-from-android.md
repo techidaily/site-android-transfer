@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor Play 8T to Latest Samsung | Dr.fone
-date: 2024-04-01T12:36:26.840Z
-updated: 2024-04-02T12:36:26.840Z
+date: 2024-04-02T00:24:08.448Z
+updated: 2024-04-03T00:24:08.448Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Honor X50i to Latest Samsung | Dr.fone
-date: 2024-04-01T12:36:26.845Z
-updated: 2024-04-02T12:36:26.845Z
+date: 2024-04-02T00:24:08.454Z
+updated: 2024-04-03T00:24:08.454Z
 tags: 
   - transfer
 categories:
