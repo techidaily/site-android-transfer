@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Google Pixel 7a to Latest Samsung | Dr.fone
-date: 2024-04-02T00:43:02.912Z
-updated: 2024-04-03T00:43:02.912Z
+date: 2024-04-02T07:26:49.780Z
+updated: 2024-04-03T07:26:49.780Z
 tags: 
   - transfer
 categories:

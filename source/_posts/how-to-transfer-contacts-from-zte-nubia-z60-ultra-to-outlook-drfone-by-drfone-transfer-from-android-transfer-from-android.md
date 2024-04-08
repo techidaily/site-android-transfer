@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Z60 Ultra to Outlook | Dr.fone
-date: 2024-04-02T00:43:02.901Z
-updated: 2024-04-03T00:43:02.901Z
+date: 2024-04-02T07:26:49.770Z
+updated: 2024-04-03T07:26:49.770Z
 tags: 
   - transfer
 categories:
