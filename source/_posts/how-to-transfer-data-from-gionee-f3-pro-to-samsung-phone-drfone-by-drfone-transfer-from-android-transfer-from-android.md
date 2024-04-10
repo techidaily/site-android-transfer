@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Gionee F3 Pro to Samsung Phone | Dr.fone
-date: 2024-04-07T22:22:10.099Z
-updated: 2024-04-08T22:22:10.099Z
+date: 2024-04-09T05:16:52.599Z
+updated: 2024-04-10T05:16:52.599Z
 tags: 
   - transfer
 categories:

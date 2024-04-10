@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Asus ROG Phone 7 Ultimate to BlackBerry | Dr.fone
-date: 2024-04-07T22:22:10.081Z
-updated: 2024-04-08T22:22:10.081Z
+date: 2024-04-09T05:16:52.566Z
+updated: 2024-04-10T05:16:52.566Z
 tags: 
   - transfer
 categories:

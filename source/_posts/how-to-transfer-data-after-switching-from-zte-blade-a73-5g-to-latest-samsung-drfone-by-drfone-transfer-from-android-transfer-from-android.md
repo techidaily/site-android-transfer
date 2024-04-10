@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From ZTE Blade A73 5G to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:10.069Z
-updated: 2024-04-08T22:22:10.069Z
+date: 2024-04-09T05:16:52.556Z
+updated: 2024-04-10T05:16:52.556Z
 tags: 
   - transfer
 categories:

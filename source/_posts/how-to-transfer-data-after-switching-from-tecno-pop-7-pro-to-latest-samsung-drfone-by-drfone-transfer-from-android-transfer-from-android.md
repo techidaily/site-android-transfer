@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Tecno Pop 7 Pro to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.835Z
-updated: 2024-04-08T22:22:09.835Z
+date: 2024-04-09T05:16:52.353Z
+updated: 2024-04-10T05:16:52.353Z
 tags: 
   - transfer
 categories:

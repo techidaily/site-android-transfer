@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo Y100i Power 5G to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.924Z
-updated: 2024-04-08T22:22:09.924Z
+date: 2024-04-09T05:16:52.448Z
+updated: 2024-04-10T05:16:52.448Z
 tags: 
   - transfer
 categories:

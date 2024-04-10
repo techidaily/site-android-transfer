@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From ZTE Nubia Flip 5G to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:10.071Z
-updated: 2024-04-08T22:22:10.071Z
+date: 2024-04-09T05:16:52.558Z
+updated: 2024-04-10T05:16:52.558Z
 tags: 
   - transfer
 categories:

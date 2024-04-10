@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel Fold to BlackBerry | Dr.fone
-date: 2024-04-07T22:22:10.118Z
-updated: 2024-04-08T22:22:10.118Z
+date: 2024-04-09T05:16:52.618Z
+updated: 2024-04-10T05:16:52.618Z
 tags: 
   - transfer
 categories:

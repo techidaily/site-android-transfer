@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 100 to Any iOS Devices | Dr.fone
-date: 2024-04-07T22:22:10.127Z
-updated: 2024-04-08T22:22:10.127Z
+date: 2024-04-09T05:16:52.627Z
+updated: 2024-04-10T05:16:52.627Z
 tags: 
   - transfer
 categories:

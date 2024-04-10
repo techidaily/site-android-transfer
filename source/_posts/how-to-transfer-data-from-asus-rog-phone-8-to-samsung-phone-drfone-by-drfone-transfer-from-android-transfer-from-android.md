@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Asus ROG Phone 8 to Samsung Phone | Dr.fone
-date: 2024-04-07T22:22:10.094Z
-updated: 2024-04-08T22:22:10.094Z
+date: 2024-04-09T05:16:52.581Z
+updated: 2024-04-10T05:16:52.581Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 7a to Other Android Devices? | Dr.fone
-date: 2024-04-07T22:22:10.103Z
-updated: 2024-04-08T22:22:10.103Z
+date: 2024-04-09T05:16:52.603Z
+updated: 2024-04-10T05:16:52.603Z
 tags: 
   - transfer
 categories:

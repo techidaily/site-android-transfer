@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 100 Pro to Other Android Devices? | Dr.fone
-date: 2024-04-07T22:22:10.124Z
-updated: 2024-04-08T22:22:10.124Z
+date: 2024-04-09T05:16:52.624Z
+updated: 2024-04-10T05:16:52.624Z
 tags: 
   - transfer
 categories:

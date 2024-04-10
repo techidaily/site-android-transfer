@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 Pro to Any iOS Devices | Dr.fone
-date: 2024-04-07T22:22:10.106Z
-updated: 2024-04-08T22:22:10.106Z
+date: 2024-04-09T05:16:52.606Z
+updated: 2024-04-10T05:16:52.606Z
 tags: 
   - transfer
 categories:

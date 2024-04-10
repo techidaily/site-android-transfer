@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Tecno Pova 5 Pro to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.839Z
-updated: 2024-04-08T22:22:09.839Z
+date: 2024-04-09T05:16:52.365Z
+updated: 2024-04-10T05:16:52.365Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 70 Lite 5G to Samsung Phone | Dr.fone
-date: 2024-04-07T22:22:10.136Z
-updated: 2024-04-08T22:22:10.136Z
+date: 2024-04-09T05:16:52.637Z
+updated: 2024-04-10T05:16:52.637Z
 tags: 
   - transfer
 categories:

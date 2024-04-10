@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo S18e to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.871Z
-updated: 2024-04-08T22:22:09.871Z
+date: 2024-04-09T05:16:52.418Z
+updated: 2024-04-10T05:16:52.418Z
 tags: 
   - transfer
 categories:

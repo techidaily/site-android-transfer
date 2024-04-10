@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Tecno Spark 20C to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.852Z
-updated: 2024-04-08T22:22:09.852Z
+date: 2024-04-09T05:16:52.399Z
+updated: 2024-04-10T05:16:52.399Z
 tags: 
   - transfer
 categories:

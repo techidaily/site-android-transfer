@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel Fold to Samsung Phone | Dr.fone
-date: 2024-04-07T22:22:10.120Z
-updated: 2024-04-08T22:22:10.120Z
+date: 2024-04-09T05:16:52.620Z
+updated: 2024-04-10T05:16:52.620Z
 tags: 
   - transfer
 categories:

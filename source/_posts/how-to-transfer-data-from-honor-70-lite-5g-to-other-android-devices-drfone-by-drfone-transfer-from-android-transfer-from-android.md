@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 70 Lite 5G to Other Android Devices? | Dr.fone
-date: 2024-04-07T22:22:10.135Z
-updated: 2024-04-08T22:22:10.135Z
+date: 2024-04-09T05:16:52.636Z
+updated: 2024-04-10T05:16:52.636Z
 tags: 
   - transfer
 categories:

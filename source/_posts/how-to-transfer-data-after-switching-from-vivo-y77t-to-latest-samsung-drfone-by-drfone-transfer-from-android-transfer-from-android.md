@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo Y77t to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.950Z
-updated: 2024-04-08T22:22:09.950Z
+date: 2024-04-09T05:16:52.474Z
+updated: 2024-04-10T05:16:52.474Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Asus ROG Phone 8 to BlackBerry | Dr.fone
-date: 2024-04-07T22:22:10.092Z
-updated: 2024-04-08T22:22:10.092Z
+date: 2024-04-09T05:16:52.578Z
+updated: 2024-04-10T05:16:52.578Z
 tags: 
   - transfer
 categories:

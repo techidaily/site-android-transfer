@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Xiaomi Redmi Note 12 Pro 5G to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:10.022Z
-updated: 2024-04-08T22:22:10.022Z
+date: 2024-04-09T05:16:52.543Z
+updated: 2024-04-10T05:16:52.543Z
 tags: 
   - transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo Y56 5G to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.949Z
-updated: 2024-04-08T22:22:09.949Z
+date: 2024-04-09T05:16:52.473Z
+updated: 2024-04-10T05:16:52.473Z
 tags: 
   - transfer
 categories:

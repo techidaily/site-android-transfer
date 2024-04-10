@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Xiaomi Redmi K70 Pro to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:10.013Z
-updated: 2024-04-08T22:22:10.013Z
+date: 2024-04-09T05:16:52.534Z
+updated: 2024-04-10T05:16:52.534Z
 tags: 
   - transfer
 categories:

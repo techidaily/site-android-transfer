@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo X90S to Latest Samsung | Dr.fone
-date: 2024-04-07T22:22:09.902Z
-updated: 2024-04-08T22:22:09.902Z
+date: 2024-04-09T05:16:52.441Z
+updated: 2024-04-10T05:16:52.441Z
 tags: 
   - transfer
 categories:

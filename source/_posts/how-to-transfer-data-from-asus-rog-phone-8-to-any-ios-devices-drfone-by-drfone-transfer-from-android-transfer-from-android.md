@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Asus ROG Phone 8 to Any iOS Devices | Dr.fone
-date: 2024-04-07T22:22:10.090Z
-updated: 2024-04-08T22:22:10.090Z
+date: 2024-04-09T05:16:52.577Z
+updated: 2024-04-10T05:16:52.577Z
 tags: 
   - transfer
 categories:

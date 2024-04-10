@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 GT to Other Android Devices? | Dr.fone
-date: 2024-04-07T22:22:10.146Z
-updated: 2024-04-08T22:22:10.146Z
+date: 2024-04-09T05:16:52.657Z
+updated: 2024-04-10T05:16:52.657Z
 tags: 
   - transfer
 categories:

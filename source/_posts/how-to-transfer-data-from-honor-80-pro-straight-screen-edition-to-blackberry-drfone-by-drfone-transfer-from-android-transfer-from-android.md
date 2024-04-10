@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 80 Pro Straight Screen Edition to BlackBerry | Dr.fone
-date: 2024-04-07T22:22:10.139Z
-updated: 2024-04-08T22:22:10.139Z
+date: 2024-04-09T05:16:52.639Z
+updated: 2024-04-10T05:16:52.639Z
 tags: 
   - transfer
 categories:
