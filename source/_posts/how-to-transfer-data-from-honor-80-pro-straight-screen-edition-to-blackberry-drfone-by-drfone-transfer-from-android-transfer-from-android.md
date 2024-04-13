@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 80 Pro Straight Screen Edition to BlackBerry | Dr.fone
-date: 2024-04-09T05:16:52.639Z
-updated: 2024-04-10T05:16:52.639Z
+date: 2024-04-12T02:12:51.742Z
+updated: 2024-04-13T02:12:51.742Z
 tags: 
   - transfer
 categories:
@@ -410,6 +410,12 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Honor 80 Pro Straight Screen Edition to Gmail.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

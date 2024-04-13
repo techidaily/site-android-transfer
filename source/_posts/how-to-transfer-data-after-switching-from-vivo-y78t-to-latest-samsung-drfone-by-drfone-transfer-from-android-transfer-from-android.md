@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo Y78t to Latest Samsung | Dr.fone
-date: 2024-04-09T05:16:52.477Z
-updated: 2024-04-10T05:16:52.477Z
+date: 2024-04-12T02:12:51.569Z
+updated: 2024-04-13T02:12:51.569Z
 tags: 
   - transfer
 categories:
@@ -495,6 +495,12 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Vivo Y78t to Gmail.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

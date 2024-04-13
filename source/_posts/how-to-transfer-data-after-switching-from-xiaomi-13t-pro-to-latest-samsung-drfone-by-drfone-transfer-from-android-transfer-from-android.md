@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Xiaomi 13T Pro to Latest Samsung | Dr.fone
-date: 2024-04-09T05:16:52.479Z
-updated: 2024-04-10T05:16:52.479Z
+date: 2024-04-12T02:12:51.572Z
+updated: 2024-04-13T02:12:51.572Z
 tags: 
   - transfer
 categories:
@@ -450,6 +450,12 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your Xiaomi 13T Pro supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
