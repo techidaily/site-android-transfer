@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C02 to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:13:49.167Z
-updated: 2024-04-13T02:13:49.167Z
+date: 2024-04-30T02:13:27.487Z
+updated: 2024-05-01T02:13:27.487Z
 tags: 
   - transfer
 categories:
@@ -490,3 +490,4 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 14 Pro Max to iPod touch | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 11 Pro+? | Dr.fone</u></a></li>
 </ul></div>
+

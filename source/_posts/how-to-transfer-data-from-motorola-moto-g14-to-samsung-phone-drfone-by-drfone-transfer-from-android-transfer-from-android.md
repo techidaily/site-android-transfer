@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G14 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:42.843Z
-updated: 2024-04-13T02:13:42.843Z
+date: 2024-04-30T02:13:27.348Z
+updated: 2024-05-01T02:13:27.348Z
 tags: 
   - transfer
 categories:
@@ -505,3 +505,4 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-pro-max-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola G24 Power? | Dr.fone</u></a></li>
 </ul></div>
+

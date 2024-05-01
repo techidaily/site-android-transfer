@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze 2 to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:29.573Z
-updated: 2024-04-13T02:13:29.573Z
+date: 2024-04-30T02:13:27.078Z
+updated: 2024-05-01T02:13:27.078Z
 tags: 
   - transfer
 categories:
@@ -411,3 +411,4 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://techidaily.com/how-do-i-reset-my-asus-rog-phone-8-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Asus ROG Phone 8 Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix FRP Bypass</u></a></li>
 </ul></div>
+

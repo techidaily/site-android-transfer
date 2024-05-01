@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 Pro to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:33.145Z
-updated: 2024-04-13T02:13:33.145Z
+date: 2024-04-30T02:13:27.115Z
+updated: 2024-05-01T02:13:27.115Z
 tags: 
   - transfer
 categories:
@@ -430,3 +430,4 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-s17-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo S17 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-google-pixel-7a-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Google Pixel 7a</u></a></li>
 </ul></div>
+

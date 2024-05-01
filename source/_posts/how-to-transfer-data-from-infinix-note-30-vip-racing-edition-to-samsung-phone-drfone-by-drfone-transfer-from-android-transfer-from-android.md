@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30 VIP Racing Edition to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:14.534Z
-updated: 2024-04-13T02:13:14.534Z
+date: 2024-04-30T02:13:26.879Z
+updated: 2024-05-01T02:13:26.879Z
 tags: 
   - transfer
 categories:
@@ -392,3 +392,4 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-k11x-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo K11x</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-update-iphone-8-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 8 to the Latest iOS Version? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Defy 2 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:36.372Z
-updated: 2024-04-13T02:13:36.372Z
+date: 2024-04-30T02:13:27.176Z
+updated: 2024-05-01T02:13:27.176Z
 tags: 
   - transfer
 categories:
@@ -327,3 +327,4 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max Passcode Screen?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-x-flip-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo X Flip FRP Bypass</u></a></li>
 </ul></div>
+

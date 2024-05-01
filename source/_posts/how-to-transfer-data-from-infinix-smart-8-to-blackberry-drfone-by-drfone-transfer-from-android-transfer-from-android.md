@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:19.010Z
-updated: 2024-04-13T02:13:19.010Z
+date: 2024-04-30T02:13:26.939Z
+updated: 2024-05-01T02:13:26.939Z
 tags: 
   - transfer
 categories:
@@ -422,3 +422,4 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+

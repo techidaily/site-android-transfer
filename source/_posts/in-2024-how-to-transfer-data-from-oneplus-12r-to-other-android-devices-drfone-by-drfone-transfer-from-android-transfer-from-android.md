@@ -366,3 +366,4 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-google-pixel-8-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, How to Migrate Android Data From Google Pixel 8 to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-sony-xperia-5-v-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Sony Xperia 5 V to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+

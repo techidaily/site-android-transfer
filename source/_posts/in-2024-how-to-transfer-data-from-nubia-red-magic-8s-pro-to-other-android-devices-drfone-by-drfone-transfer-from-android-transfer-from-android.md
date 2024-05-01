@@ -412,3 +412,4 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100i-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Videos from Vivo Y100i to iPad | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y77t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, 4 Ways to Transfer Music from Vivo Y77t to iPhone | Dr.fone</u></a></li>
 </ul></div>
+

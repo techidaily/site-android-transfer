@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 100 Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:51.720Z
-updated: 2024-04-13T02:12:51.720Z
+date: 2024-04-30T02:13:26.587Z
+updated: 2024-05-01T02:13:26.587Z
 tags: 
   - transfer
 categories:
@@ -481,3 +481,4 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/" ><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-12-when-you-forget-the-passcode-drfone-by-drfone-ios/" ><u>In 2024, How to Access Your Apple iPhone 12 When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+

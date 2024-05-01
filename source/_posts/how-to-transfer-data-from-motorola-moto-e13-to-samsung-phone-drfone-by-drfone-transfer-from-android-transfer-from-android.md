@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto E13 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:40.517Z
-updated: 2024-04-13T02:13:40.517Z
+date: 2024-04-30T02:13:27.306Z
+updated: 2024-05-01T02:13:27.306Z
 tags: 
   - transfer
 categories:
@@ -331,3 +331,4 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Android devices? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-lost-data-from-itel-a70-by-fonelab-android-recover-data/"><u>Recover lost data from Itel A70</u></a></li>
 </ul></div>
+

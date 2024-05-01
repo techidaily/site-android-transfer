@@ -473,3 +473,4 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-smart-8-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Smart 8 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 7 HD? | Dr.fone</u></a></li>
 </ul></div>
+

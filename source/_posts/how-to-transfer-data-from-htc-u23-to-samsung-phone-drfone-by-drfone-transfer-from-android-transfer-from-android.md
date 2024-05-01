@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from HTC U23 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:06.868Z
-updated: 2024-04-13T02:13:06.868Z
+date: 2024-04-30T02:13:26.790Z
+updated: 2024-05-01T02:13:26.790Z
 tags: 
   - transfer
 categories:
@@ -474,3 +474,4 @@ In conclusion, there are various methods to transfer videos from HTC U23 to iPad
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-se-2022-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone SE (2022) Location by Number | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
+

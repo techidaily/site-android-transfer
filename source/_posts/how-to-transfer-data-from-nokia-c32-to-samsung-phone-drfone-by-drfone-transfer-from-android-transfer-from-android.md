@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C32 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:54.084Z
-updated: 2024-04-13T02:13:54.084Z
+date: 2024-04-30T02:13:27.588Z
+updated: 2024-05-01T02:13:27.588Z
 tags: 
   - transfer
 categories:
@@ -445,3 +445,4 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 iOS? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-12-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme 12 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+

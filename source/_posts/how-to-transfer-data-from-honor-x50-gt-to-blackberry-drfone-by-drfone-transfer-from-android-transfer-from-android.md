@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50 GT to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:01.337Z
-updated: 2024-04-13T02:13:01.337Z
+date: 2024-04-30T02:13:26.720Z
+updated: 2024-05-01T02:13:26.720Z
 tags: 
   - transfer
 categories:
@@ -438,3 +438,4 @@ Truly, it’s now very easy to move contacts from Honor X50 GT to iPhone (13/14/
 <li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12r-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Redmi Note 12R</u></a></li>
 </ul></div>
+

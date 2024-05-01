@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50 GT to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:01.624Z
-updated: 2024-04-13T02:13:01.624Z
+date: 2024-04-30T02:13:26.722Z
+updated: 2024-05-01T02:13:26.722Z
 tags: 
   - transfer
 categories:
@@ -554,3 +554,4 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nokia-105-classic-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nokia 105 Classic to iPhone | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 7 HD to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:16.319Z
-updated: 2024-04-13T02:13:16.319Z
+date: 2024-04-30T02:13:26.912Z
+updated: 2024-05-01T02:13:26.912Z
 tags: 
   - transfer
 categories:
@@ -438,3 +438,4 @@ How to Transfer Data from Infinix Smart 7 HD to BlackBerry With 1-Click
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-motorola-moto-g84-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Motorola Moto G84 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+

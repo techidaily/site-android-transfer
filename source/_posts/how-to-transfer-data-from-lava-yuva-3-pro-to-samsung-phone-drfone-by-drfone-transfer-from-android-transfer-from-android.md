@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:33.432Z
-updated: 2024-04-13T02:13:33.432Z
+date: 2024-04-30T02:13:27.118Z
+updated: 2024-05-01T02:13:27.118Z
 tags: 
   - transfer
 categories:
@@ -421,3 +421,4 @@ When you know how to move music from Lava Yuva 3 Pro to iPhone, you can easily m
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 20C | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a24-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A24 Activity | Dr.fone</u></a></li>
 </ul></div>
+

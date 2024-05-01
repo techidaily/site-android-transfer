@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Itel P55T to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:26.388Z
-updated: 2024-04-13T02:13:26.388Z
+date: 2024-04-30T02:13:27.039Z
+updated: 2024-05-01T02:13:27.039Z
 tags: 
   - transfer
 categories:
@@ -408,3 +408,4 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X100 Pro Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y100t-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y100t | Dr.fone</u></a></li>
 </ul></div>
+

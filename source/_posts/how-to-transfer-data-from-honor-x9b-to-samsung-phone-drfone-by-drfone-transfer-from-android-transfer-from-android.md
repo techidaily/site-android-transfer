@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X9b to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:05.722Z
-updated: 2024-04-13T02:13:05.722Z
+date: 2024-04-30T02:13:26.779Z
+updated: 2024-05-01T02:13:26.779Z
 tags: 
   - transfer
 categories:
@@ -361,3 +361,4 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-ace-2-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Ace 2 Pro IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo A1 5G? | Dr.fone</u></a></li>
 </ul></div>
+

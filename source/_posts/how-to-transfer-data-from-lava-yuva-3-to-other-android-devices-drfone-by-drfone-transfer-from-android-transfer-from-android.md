@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:13:33.867Z
-updated: 2024-04-13T02:13:33.867Z
+date: 2024-04-30T02:13:27.122Z
+updated: 2024-05-01T02:13:27.122Z
 tags: 
   - transfer
 categories:
@@ -463,3 +463,4 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Phone without PIN</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-15-pro-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 15 Pro</u></a></li>
 </ul></div>
+

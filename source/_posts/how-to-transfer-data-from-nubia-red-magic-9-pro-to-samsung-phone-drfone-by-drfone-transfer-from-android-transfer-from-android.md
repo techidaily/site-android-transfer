@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nubia Red Magic 9 Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:58.158Z
-updated: 2024-04-13T02:13:58.158Z
+date: 2024-04-30T02:13:27.667Z
+updated: 2024-05-01T02:13:27.667Z
 tags: 
   - transfer
 categories:
@@ -471,3 +471,4 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-5-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT 5 Pro Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-note-12t-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi Note 12T Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+

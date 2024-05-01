@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G13 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:42.245Z
-updated: 2024-04-13T02:13:42.245Z
+date: 2024-04-30T02:13:27.342Z
+updated: 2024-05-01T02:13:27.342Z
 tags: 
   - transfer
 categories:
@@ -451,3 +451,4 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-2022-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE (2022) Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y78plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y78+ Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+

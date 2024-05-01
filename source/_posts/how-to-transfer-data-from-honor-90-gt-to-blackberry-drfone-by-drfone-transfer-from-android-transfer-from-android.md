@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 GT to BlackBerry | Dr.fone
-date: 2024-04-12T02:12:51.748Z
-updated: 2024-04-13T02:12:51.748Z
+date: 2024-04-30T02:13:26.606Z
+updated: 2024-05-01T02:13:26.606Z
 tags: 
   - transfer
 categories:
@@ -443,3 +443,4 @@ When you know how to move music from Honor 90 GT to iPhone, you can easily make 
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-x-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, How to Transfer Photos from Apple iPhone X to other iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-c02-to-other-android-devices-drfone-by-drfone-android/" ><u>In 2024, Guide to Mirror Your Nokia C02 to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C02 to Any iOS Devices | Dr.fone
-date: 2024-04-12T02:13:48.874Z
-updated: 2024-04-13T02:13:48.874Z
+date: 2024-04-30T02:13:27.485Z
+updated: 2024-05-01T02:13:27.485Z
 tags: 
   - transfer
 categories:
@@ -614,3 +614,4 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 14 Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Xiaomi Redmi K70 Pro?</u></a></li>
 </ul></div>
+

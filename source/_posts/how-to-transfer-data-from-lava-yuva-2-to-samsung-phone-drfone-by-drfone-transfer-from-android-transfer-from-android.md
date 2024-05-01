@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 2 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:32.857Z
-updated: 2024-04-13T02:13:32.857Z
+date: 2024-04-30T02:13:27.112Z
+updated: 2024-05-01T02:13:27.112Z
 tags: 
   - transfer
 categories:
@@ -562,3 +562,4 @@ Regardless of the fact that many free solutions are there that can help you **tr
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme Narzo N55 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Meizu 21 Pro | Dr.fone</u></a></li>
 </ul></div>
+

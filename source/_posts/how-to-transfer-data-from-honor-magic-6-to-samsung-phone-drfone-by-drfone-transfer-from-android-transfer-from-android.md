@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor Magic 6 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:56.880Z
-updated: 2024-04-13T02:12:56.880Z
+date: 2024-04-30T02:13:26.676Z
+updated: 2024-05-01T02:13:26.676Z
 tags: 
   - transfer
 categories:
@@ -592,3 +592,4 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord N30 SE | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-honor-90-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 90 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+

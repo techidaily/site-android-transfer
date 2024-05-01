@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nubia Red Magic 8S Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:57.007Z
-updated: 2024-04-13T02:13:57.007Z
+date: 2024-04-30T02:13:27.643Z
+updated: 2024-05-01T02:13:27.643Z
 tags: 
   - transfer
 categories:
@@ -482,3 +482,4 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g24-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G24 Location by Number | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a05-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A05 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+

@@ -574,3 +574,4 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-3-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Photos From Lava Yuva 3 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a54-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Samsung Galaxy A54 5G to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel Fold to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:51.715Z
-updated: 2024-04-13T02:12:51.715Z
+date: 2024-04-30T02:13:26.581Z
+updated: 2024-05-01T02:13:26.581Z
 tags: 
   - transfer
 categories:
@@ -471,3 +471,4 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/" ><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 7 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/" ><u>How To Recover Lost Data on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
 </ul></div>
+

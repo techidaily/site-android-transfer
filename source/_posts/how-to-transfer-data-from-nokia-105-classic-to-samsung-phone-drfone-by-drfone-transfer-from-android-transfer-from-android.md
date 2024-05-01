@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia 105 Classic to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:47.567Z
-updated: 2024-04-13T02:13:47.567Z
+date: 2024-04-30T02:13:27.451Z
+updated: 2024-05-01T02:13:27.451Z
 tags: 
   - transfer
 categories:
@@ -447,3 +447,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y27s-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y27s Devices</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-multiple-pdf-files-stellar-by-stellar-guide/"><u>How to Repair Multiple PDF Files | Stellar</u></a></li>
 </ul></div>
+

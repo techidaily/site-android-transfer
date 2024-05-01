@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Hot 30i to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:10.364Z
-updated: 2024-04-13T02:13:10.364Z
+date: 2024-04-30T02:13:26.823Z
+updated: 2024-05-01T02:13:26.823Z
 tags: 
   - transfer
 categories:
@@ -469,3 +469,4 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-s23plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy S23+? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 12? | Dr.fone</u></a></li>
 </ul></div>
+

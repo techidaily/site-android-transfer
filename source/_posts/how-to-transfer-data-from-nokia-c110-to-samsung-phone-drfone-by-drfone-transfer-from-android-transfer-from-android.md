@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C110 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:49.911Z
-updated: 2024-04-13T02:13:49.911Z
+date: 2024-04-30T02:13:27.495Z
+updated: 2024-05-01T02:13:27.495Z
 tags: 
   - transfer
 categories:
@@ -502,3 +502,4 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a54-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A54 5G Devices | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Plus without Password?</u></a></li>
 </ul></div>
+

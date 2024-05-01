@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nubia Red Magic 8S Pro+ to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:57.581Z
-updated: 2024-04-13T02:13:57.581Z
+date: 2024-04-30T02:13:27.655Z
+updated: 2024-05-01T02:13:27.655Z
 tags: 
   - transfer
 categories:
@@ -483,3 +483,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Phones with/without a PC</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-best-infinix-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Infinix Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+

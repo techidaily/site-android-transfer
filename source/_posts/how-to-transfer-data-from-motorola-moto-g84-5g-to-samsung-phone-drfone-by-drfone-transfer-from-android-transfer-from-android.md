@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G84 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:45.819Z
-updated: 2024-04-13T02:13:45.819Z
+date: 2024-04-30T02:13:27.423Z
+updated: 2024-05-01T02:13:27.423Z
 tags: 
   - transfer
 categories:
@@ -385,3 +385,4 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-12-pro-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from 12 Pro 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-se-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone SE Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+

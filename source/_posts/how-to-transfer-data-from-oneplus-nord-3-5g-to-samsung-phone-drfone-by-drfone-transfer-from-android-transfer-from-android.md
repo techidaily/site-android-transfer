@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord 3 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:14:05.233Z
-updated: 2024-04-13T02:14:05.233Z
+date: 2024-04-30T02:13:27.773Z
+updated: 2024-05-01T02:13:27.773Z
 tags: 
   - transfer
 categories:
@@ -464,3 +464,4 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-apple-iphone-15-pro-max-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Apple iPhone 15 Pro Max on Windows</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor Play 8T to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:00.476Z
-updated: 2024-04-13T02:13:00.476Z
+date: 2024-04-30T02:13:26.711Z
+updated: 2024-05-01T02:13:26.711Z
 tags: 
   - transfer
 categories:
@@ -403,3 +403,4 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-14-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi 14 to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-pixel-8-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Google Pixel 8 Pro FRP In 3 Different Ways</u></a></li>
 </ul></div>
+

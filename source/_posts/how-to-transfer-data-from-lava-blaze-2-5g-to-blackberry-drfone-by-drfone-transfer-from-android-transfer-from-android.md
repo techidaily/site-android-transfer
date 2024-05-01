@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze 2 5G to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:28.428Z
-updated: 2024-04-13T02:13:28.428Z
+date: 2024-04-30T02:13:27.065Z
+updated: 2024-05-01T02:13:27.065Z
 tags: 
   - transfer
 categories:
@@ -363,3 +363,4 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-htc-u23-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring HTC U23 Pro PC | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 15 Pro Max?</u></a></li>
 </ul></div>
+

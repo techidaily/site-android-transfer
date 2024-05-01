@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50 to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:13:02.054Z
-updated: 2024-04-13T02:13:02.054Z
+date: 2024-04-30T02:13:26.727Z
+updated: 2024-05-01T02:13:26.727Z
 tags: 
   - transfer
 categories:
@@ -464,3 +464,4 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 <li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
+

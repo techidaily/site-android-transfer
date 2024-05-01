@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G 5G (2023) to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:41.093Z
-updated: 2024-04-13T02:13:41.093Z
+date: 2024-04-30T02:13:27.311Z
+updated: 2024-05-01T02:13:27.311Z
 tags: 
   - transfer
 categories:
@@ -469,3 +469,4 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-14-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 14 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11f-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Reno 11F 5G Phone with Broken Screen</u></a></li>
 </ul></div>
+

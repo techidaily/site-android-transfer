@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord N30 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:14:07.027Z
-updated: 2024-04-13T02:14:07.027Z
+date: 2024-04-30T02:13:27.790Z
+updated: 2024-05-01T02:13:27.790Z
 tags: 
   - transfer
 categories:
@@ -471,3 +471,4 @@ To summarize, while it may seem troublesome to ****transfer files from OnePlus N
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Sony Xperia 1 V? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 12 | Dr.fone</u></a></li>
 </ul></div>
+

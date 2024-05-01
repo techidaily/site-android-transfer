@@ -494,3 +494,4 @@ At last, we hope that you now know how to transfer music from Nubia Z50 Ultra to
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-vip-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Infinix Note 30 VIP to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100i-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Videos from Vivo Y100i to iPad | Dr.fone</u></a></li>
 </ul></div>
+

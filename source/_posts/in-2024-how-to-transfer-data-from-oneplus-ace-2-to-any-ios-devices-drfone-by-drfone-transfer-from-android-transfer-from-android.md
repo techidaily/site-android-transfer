@@ -512,3 +512,4 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-30i-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Photos from Infinix Hot 30i to New Android? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-12-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Videos from OnePlus 12 to iPad | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:51.709Z
-updated: 2024-04-13T02:12:51.709Z
+date: 2024-04-30T02:13:26.576Z
+updated: 2024-05-01T02:13:26.576Z
 tags: 
   - transfer
 categories:
@@ -664,3 +664,4 @@ In conclusion, there are various methods to transfer videos from Google Pixel 8 
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/" ><u>Unlocking iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/" ><u>How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
 </ul></div>
+

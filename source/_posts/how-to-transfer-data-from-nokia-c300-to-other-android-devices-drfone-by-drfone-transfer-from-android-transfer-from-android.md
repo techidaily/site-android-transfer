@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C300 to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:13:53.360Z
-updated: 2024-04-13T02:13:53.360Z
+date: 2024-04-30T02:13:27.581Z
+updated: 2024-05-01T02:13:27.581Z
 tags: 
   - transfer
 categories:
@@ -377,3 +377,4 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme C51? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G04? | Dr.fone</u></a></li>
 </ul></div>
+

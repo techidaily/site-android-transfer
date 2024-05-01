@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 7 HD to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:16.014Z
-updated: 2024-04-13T02:13:16.014Z
+date: 2024-04-30T02:13:26.909Z
+updated: 2024-05-01T02:13:26.909Z
 tags: 
   - transfer
 categories:
@@ -339,3 +339,4 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://techidaily.com/things-you-dont-know-about-itel-p55-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P55 5G Reset Code | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Reset Code | Dr.fone</u></a></li>
 </ul></div>
+

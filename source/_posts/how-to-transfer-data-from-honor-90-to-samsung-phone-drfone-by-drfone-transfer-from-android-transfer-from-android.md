@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:53.365Z
-updated: 2024-04-13T02:12:53.365Z
+date: 2024-04-30T02:13:26.626Z
+updated: 2024-05-01T02:13:26.626Z
 tags: 
   - transfer
 categories:
@@ -442,3 +442,4 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://techidaily.com/how-to-factory-reset-realme-c67-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C67 5G without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nokia-c210-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nokia C210 Phones</u></a></li>
 </ul></div>
+

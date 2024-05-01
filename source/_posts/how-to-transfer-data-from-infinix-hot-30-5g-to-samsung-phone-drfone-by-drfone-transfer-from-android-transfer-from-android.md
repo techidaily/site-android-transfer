@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Hot 30 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:09.783Z
-updated: 2024-04-13T02:13:09.783Z
+date: 2024-04-30T02:13:26.818Z
+updated: 2024-05-01T02:13:26.818Z
 tags: 
   - transfer
 categories:
@@ -450,3 +450,4 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://techidaily.com/how-to-reset-motorola-moto-g24-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G24 without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+

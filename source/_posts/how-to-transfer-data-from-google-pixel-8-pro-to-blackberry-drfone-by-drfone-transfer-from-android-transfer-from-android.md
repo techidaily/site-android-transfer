@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 Pro to BlackBerry | Dr.fone
-date: 2024-04-12T02:12:51.700Z
-updated: 2024-04-13T02:12:51.700Z
+date: 2024-04-30T02:13:26.568Z
+updated: 2024-05-01T02:13:26.568Z
 tags: 
   - transfer
 categories:
@@ -463,3 +463,4 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-s23plus-phones-by-drfone-android/" ><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy S23+ Phones</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-motorola-edge-2023-by-drfone-android/" ><u>Universal Unlock Pattern for Motorola Edge 2023</u></a></li>
 </ul></div>
+

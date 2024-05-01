@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G84 5G to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:45.513Z
-updated: 2024-04-13T02:13:45.513Z
+date: 2024-04-30T02:13:27.420Z
+updated: 2024-05-01T02:13:27.420Z
 tags: 
   - transfer
 categories:
@@ -493,3 +493,4 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nokia-c22-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nokia C22?</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-k70-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi K70 Pro Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+

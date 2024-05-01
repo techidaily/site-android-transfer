@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C300 to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:53.213Z
-updated: 2024-04-13T02:13:53.213Z
+date: 2024-04-30T02:13:27.580Z
+updated: 2024-05-01T02:13:27.580Z
 tags: 
   - transfer
 categories:
@@ -397,3 +397,4 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-12-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi 12?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
+

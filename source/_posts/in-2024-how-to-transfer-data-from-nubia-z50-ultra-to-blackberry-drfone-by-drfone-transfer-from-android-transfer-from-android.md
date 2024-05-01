@@ -408,3 +408,4 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27s-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Vivo Y27s to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-n30-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from OnePlus Nord N30 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+

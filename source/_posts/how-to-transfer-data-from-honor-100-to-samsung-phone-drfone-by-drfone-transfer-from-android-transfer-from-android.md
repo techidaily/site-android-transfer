@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 100 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:51.726Z
-updated: 2024-04-13T02:12:51.726Z
+date: 2024-04-30T02:13:26.592Z
+updated: 2024-05-01T02:13:26.592Z
 tags: 
   - transfer
 categories:
@@ -483,3 +483,4 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://fake-location.techidaily.com/how-to-fix-sony-xperia-1-v-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/" ><u>How to Fix Sony Xperia 1 V Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a1x-5g-device-by-drfone-android/" ><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A1x 5G Device</u></a></li>
 </ul></div>
+

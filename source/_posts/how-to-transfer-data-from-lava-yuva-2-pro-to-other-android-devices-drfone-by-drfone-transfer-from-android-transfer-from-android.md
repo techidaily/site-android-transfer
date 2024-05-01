@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 2 Pro to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:13:32.138Z
-updated: 2024-04-13T02:13:32.138Z
+date: 2024-04-30T02:13:27.104Z
+updated: 2024-05-01T02:13:27.104Z
 tags: 
   - transfer
 categories:
@@ -557,3 +557,4 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
 </ul></div>
+

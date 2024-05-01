@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Zero 30 5G to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:19.614Z
-updated: 2024-04-13T02:13:19.614Z
+date: 2024-04-30T02:13:26.943Z
+updated: 2024-05-01T02:13:26.943Z
 tags: 
   - transfer
 categories:
@@ -355,3 +355,4 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://howto.techidaily.com/vivo-t2-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-realme-narzo-n55-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Realme Narzo N55</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Hot 40 Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:10.939Z
-updated: 2024-04-13T02:13:10.939Z
+date: 2024-04-30T02:13:26.829Z
+updated: 2024-05-01T02:13:26.829Z
 tags: 
   - transfer
 categories:
@@ -430,3 +430,4 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Lava Storm 5G | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-14-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi 14 FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+

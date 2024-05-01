@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C12 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:51.673Z
-updated: 2024-04-13T02:13:51.673Z
+date: 2024-04-30T02:13:27.564Z
+updated: 2024-05-01T02:13:27.564Z
 tags: 
   - transfer
 categories:
@@ -452,3 +452,4 @@ We hope that you learned some of the phone clone methods and applications that y
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-zero-5g-2023-turbo-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Zero 5G 2023 Turbo Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-note-30-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Note 30 Pro ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+

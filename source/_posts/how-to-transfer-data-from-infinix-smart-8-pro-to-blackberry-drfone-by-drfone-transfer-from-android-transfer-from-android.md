@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 Pro to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:18.435Z
-updated: 2024-04-13T02:13:18.435Z
+date: 2024-04-30T02:13:26.934Z
+updated: 2024-05-01T02:13:26.934Z
 tags: 
   - transfer
 categories:
@@ -415,3 +415,4 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-motorola-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Motorola</u></a></li>
 </ul></div>
+

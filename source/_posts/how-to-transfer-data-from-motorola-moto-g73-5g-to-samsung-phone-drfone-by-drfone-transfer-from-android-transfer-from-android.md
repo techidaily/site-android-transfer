@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G73 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:45.191Z
-updated: 2024-04-13T02:13:45.191Z
+date: 2024-04-30T02:13:27.417Z
+updated: 2024-05-01T02:13:27.417Z
 tags: 
   - transfer
 categories:
@@ -464,3 +464,4 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-6s-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-infinix-hot-40i-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Hot 40i? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+

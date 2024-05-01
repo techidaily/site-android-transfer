@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C12 to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:51.380Z
-updated: 2024-04-13T02:13:51.380Z
+date: 2024-04-30T02:13:27.561Z
+updated: 2024-05-01T02:13:27.561Z
 tags: 
   - transfer
 categories:
@@ -503,3 +503,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-x8b-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor X8b Screen | Dr.fone</u></a></li>
 </ul></div>
+

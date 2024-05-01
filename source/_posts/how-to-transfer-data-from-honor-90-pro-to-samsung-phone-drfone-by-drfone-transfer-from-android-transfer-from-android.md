@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:52.778Z
-updated: 2024-04-13T02:12:52.778Z
+date: 2024-04-30T02:13:26.620Z
+updated: 2024-05-01T02:13:26.620Z
 tags: 
   - transfer
 categories:
@@ -412,3 +412,4 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c12-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C12 Device SIM</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
+

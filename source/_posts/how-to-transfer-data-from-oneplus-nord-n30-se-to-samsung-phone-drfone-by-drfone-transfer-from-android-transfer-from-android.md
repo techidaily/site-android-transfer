@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord N30 SE to Samsung Phone | Dr.fone
-date: 2024-04-12T02:14:07.604Z
-updated: 2024-04-13T02:14:07.604Z
+date: 2024-04-30T02:13:27.795Z
+updated: 2024-05-01T02:13:27.795Z
 tags: 
   - transfer
 categories:
@@ -407,3 +407,4 @@ How to Transfer Data from OnePlus Nord N30 SE to BlackBerry With 1-Click
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-yuva-3-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Yuva 3 Pro without backup.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 </ul></div>
+

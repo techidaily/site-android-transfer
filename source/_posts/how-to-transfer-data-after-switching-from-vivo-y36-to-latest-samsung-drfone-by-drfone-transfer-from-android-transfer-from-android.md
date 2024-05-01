@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo Y36 to Latest Samsung | Dr.fone
-date: 2024-04-12T02:12:51.558Z
-updated: 2024-04-13T02:12:51.558Z
+date: 2024-04-30T02:13:26.415Z
+updated: 2024-05-01T02:13:26.415Z
 tags: 
   - transfer
 categories:
@@ -579,3 +579,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-realme-c53-by-stellar-photo-recovery-android-mobile-photo-recover/" ><u>How to recover deleted photos from Android Gallery after format on Realme C53</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-5g-phone-with-broken-screen-by-drfone-android/" ><u>How to Unlock Samsung Galaxy M14 5G Phone with Broken Screen</u></a></li>
 </ul></div>
+

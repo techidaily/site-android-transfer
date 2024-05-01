@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor Play 40C to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:59.315Z
-updated: 2024-04-13T02:12:59.315Z
+date: 2024-04-30T02:13:26.700Z
+updated: 2024-05-01T02:13:26.700Z
 tags: 
   - transfer
 categories:
@@ -525,3 +525,4 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Realme 12+ 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Samsung Galaxy A15 4G ?</u></a></li>
 </ul></div>
+

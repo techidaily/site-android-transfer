@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:12:51.707Z
-updated: 2024-04-13T02:12:51.707Z
+date: 2024-04-30T02:13:26.574Z
+updated: 2024-05-01T02:13:26.574Z
 tags: 
   - transfer
 categories:
@@ -385,3 +385,4 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-12-5g-screen-mirroring-app-drfone-by-drfone-android/" ><u>In 2024, Overview of the Best Realme 12 5G Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-v14-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/" ><u>Free electronic signature for PDF v1.4 document</u></a></li>
 </ul></div>
+

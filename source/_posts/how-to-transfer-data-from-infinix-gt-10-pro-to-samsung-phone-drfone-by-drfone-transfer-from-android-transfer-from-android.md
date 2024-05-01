@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix GT 10 Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:09.167Z
-updated: 2024-04-13T02:13:09.167Z
+date: 2024-04-30T02:13:26.814Z
+updated: 2024-05-01T02:13:26.814Z
 tags: 
   - transfer
 categories:
@@ -525,3 +525,4 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c22-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C22 FRP</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-8-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone 8 and Android Phones</u></a></li>
 </ul></div>
+

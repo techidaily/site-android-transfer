@@ -424,3 +424,4 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-sony-xperia-10-v-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Videos from Sony Xperia 10 V to iPad | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-c12-plus-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Videos from Nokia C12 Plus to iPad | Dr.fone</u></a></li>
 </ul></div>
+

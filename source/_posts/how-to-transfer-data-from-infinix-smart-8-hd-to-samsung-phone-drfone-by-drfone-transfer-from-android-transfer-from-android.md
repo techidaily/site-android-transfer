@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 HD to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:17.495Z
-updated: 2024-04-13T02:13:17.495Z
+date: 2024-04-30T02:13:26.925Z
+updated: 2024-05-01T02:13:26.925Z
 tags: 
   - transfer
 categories:
@@ -605,3 +605,4 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-realme-narzo-n53-by-fonelab-android-recover-music/"><u>How to restore wiped music on Realme Narzo N53</u></a></li>
 </ul></div>
+

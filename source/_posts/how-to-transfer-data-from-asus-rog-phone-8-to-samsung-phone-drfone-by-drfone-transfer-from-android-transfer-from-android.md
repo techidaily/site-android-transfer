@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Asus ROG Phone 8 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:51.686Z
-updated: 2024-04-13T02:12:51.686Z
+date: 2024-04-30T02:13:26.554Z
+updated: 2024-05-01T02:13:26.554Z
 tags: 
   - transfer
 categories:
@@ -495,3 +495,4 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-12-by-drfone-ios/" ><u>In 2024, How To Factory Unlock Your Telstra iPhone 12</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-pivot-table-field-name-is-not-valid-error-in-excel-2013-by-stellar-guide/" ><u>How to fix Pivot Table Field Name is not Valid error in Excel 2013?</u></a></li>
 </ul></div>
+

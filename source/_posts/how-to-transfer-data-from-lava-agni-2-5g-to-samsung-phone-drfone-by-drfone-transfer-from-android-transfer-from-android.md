@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Agni 2 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:28.139Z
-updated: 2024-04-13T02:13:28.139Z
+date: 2024-04-30T02:13:27.062Z
+updated: 2024-05-01T02:13:27.062Z
 tags: 
   - transfer
 categories:
@@ -507,3 +507,4 @@ At last, we hope that you now know how to transfer music from Lava Agni 2 5G to 
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-7-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 7 when Phone is Broken?</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C110 to Any iOS Devices | Dr.fone
-date: 2024-04-12T02:13:49.458Z
-updated: 2024-04-13T02:13:49.458Z
+date: 2024-04-30T02:13:27.490Z
+updated: 2024-05-01T02:13:27.490Z
 tags: 
   - transfer
 categories:
@@ -629,3 +629,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c110-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C110? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-itel-p40plus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Itel P40+</u></a></li>
 </ul></div>
+

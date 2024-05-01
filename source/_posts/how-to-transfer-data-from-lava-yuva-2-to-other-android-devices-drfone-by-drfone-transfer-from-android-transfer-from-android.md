@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 2 to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:13:32.713Z
-updated: 2024-04-13T02:13:32.713Z
+date: 2024-04-30T02:13:27.110Z
+updated: 2024-05-01T02:13:27.110Z
 tags: 
   - transfer
 categories:
@@ -421,3 +421,4 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-11x-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme 11X 5G to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a1-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A1 5G by Name | Dr.fone</u></a></li>
 </ul></div>
+

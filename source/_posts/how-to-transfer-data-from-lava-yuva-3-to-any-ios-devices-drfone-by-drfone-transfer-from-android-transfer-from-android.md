@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 to Any iOS Devices | Dr.fone
-date: 2024-04-12T02:13:33.574Z
-updated: 2024-04-13T02:13:33.574Z
+date: 2024-04-30T02:13:27.119Z
+updated: 2024-05-01T02:13:27.119Z
 tags: 
   - transfer
 categories:
@@ -525,3 +525,4 @@ At last, we hope that you now know how to transfer music from Lava Yuva 3 to Oth
 <li><a href="https://techidaily.com/is-your-nokia-g22-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia G22 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+

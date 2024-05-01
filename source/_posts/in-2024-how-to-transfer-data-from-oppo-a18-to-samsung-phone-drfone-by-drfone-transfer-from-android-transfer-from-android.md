@@ -464,3 +464,4 @@ Truly, it’s now very easy to move contacts from Oppo A18 to iPhone (13/14/15).
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x-fold-2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Vivo X Fold 2 to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 40 to iPhone | Dr.fone</u></a></li>
 </ul></div>
+

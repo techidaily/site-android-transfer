@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus 11 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:14:00.574Z
-updated: 2024-04-13T02:14:00.574Z
+date: 2024-04-30T02:13:27.717Z
+updated: 2024-05-01T02:13:27.717Z
 tags: 
   - transfer
 categories:
@@ -452,3 +452,4 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Pro Without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-v29e-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo V29e Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+

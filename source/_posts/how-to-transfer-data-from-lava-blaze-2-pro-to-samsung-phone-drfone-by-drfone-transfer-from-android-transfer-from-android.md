@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze 2 Pro to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:29.291Z
-updated: 2024-04-13T02:13:29.291Z
+date: 2024-04-30T02:13:27.074Z
+updated: 2024-05-01T02:13:27.074Z
 tags: 
   - transfer
 categories:
@@ -695,3 +695,4 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-hot-40-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Hot 40 Phone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+

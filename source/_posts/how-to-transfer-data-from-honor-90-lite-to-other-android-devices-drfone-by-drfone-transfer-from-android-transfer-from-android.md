@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 Lite to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:12:52.037Z
-updated: 2024-04-13T02:12:52.037Z
+date: 2024-04-30T02:13:26.613Z
+updated: 2024-05-01T02:13:26.613Z
 tags: 
   - transfer
 categories:
@@ -392,3 +392,4 @@ In conclusion, there are various methods to transfer videos from Honor 90 Lite t
 <li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-7-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 7 After Forgetting the Passcode?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-moto-g23-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Moto G23 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+

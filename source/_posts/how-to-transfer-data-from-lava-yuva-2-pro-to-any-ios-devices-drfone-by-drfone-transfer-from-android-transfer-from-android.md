@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 2 Pro to Any iOS Devices | Dr.fone
-date: 2024-04-12T02:13:31.841Z
-updated: 2024-04-13T02:13:31.841Z
+date: 2024-04-30T02:13:27.101Z
+updated: 2024-05-01T02:13:27.101Z
 tags: 
   - transfer
 categories:
@@ -652,3 +652,4 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-sony-xperia-10-v-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Sony Xperia 10 V? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y56-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y56 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
+

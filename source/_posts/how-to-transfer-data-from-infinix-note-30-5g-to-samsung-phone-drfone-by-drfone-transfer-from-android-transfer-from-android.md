@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:12.753Z
-updated: 2024-04-13T02:13:12.753Z
+date: 2024-04-30T02:13:26.865Z
+updated: 2024-05-01T02:13:26.865Z
 tags: 
   - transfer
 categories:
@@ -467,3 +467,4 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-g22-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia G22 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+

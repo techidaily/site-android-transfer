@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 GT to Samsung Phone | Dr.fone
-date: 2024-04-12T02:12:51.751Z
-updated: 2024-04-13T02:12:51.751Z
+date: 2024-04-30T02:13:26.609Z
+updated: 2024-05-01T02:13:26.609Z
 tags: 
   - transfer
 categories:
@@ -484,3 +484,4 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://location-social.techidaily.com/how-to-change-nokia-c110-location-on-skout-drfone-by-drfone-virtual-android/" ><u>How to Change Nokia C110 Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g54-5g-drfone-by-drfone-virtual-android/" ><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola G54 5G | Dr.fone</u></a></li>
 </ul></div>
+

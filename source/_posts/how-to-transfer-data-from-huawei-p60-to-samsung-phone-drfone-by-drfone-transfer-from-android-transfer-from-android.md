@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Huawei P60 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:13:08.592Z
-updated: 2024-04-13T02:13:08.592Z
+date: 2024-04-30T02:13:26.807Z
+updated: 2024-05-01T02:13:26.807Z
 tags: 
   - transfer
 categories:
@@ -519,3 +519,4 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-moto-e13-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola Moto E13 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Plus in Lost Mode</u></a></li>
 </ul></div>
+

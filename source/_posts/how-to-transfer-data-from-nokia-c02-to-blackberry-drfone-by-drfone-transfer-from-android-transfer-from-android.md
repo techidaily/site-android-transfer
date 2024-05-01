@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C02 to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:49.020Z
-updated: 2024-04-13T02:13:49.020Z
+date: 2024-04-30T02:13:27.486Z
+updated: 2024-05-01T02:13:27.486Z
 tags: 
   - transfer
 categories:
@@ -361,3 +361,4 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-8-plus-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 8 Plus using find my iphone</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Lava Yuva 3 | Dr.fone</u></a></li>
 </ul></div>
+

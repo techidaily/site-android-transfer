@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30i to BlackBerry | Dr.fone
-date: 2024-04-12T02:13:15.426Z
-updated: 2024-04-13T02:13:15.426Z
+date: 2024-04-30T02:13:26.903Z
+updated: 2024-05-01T02:13:26.903Z
 tags: 
   - transfer
 categories:
@@ -519,3 +519,4 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor 90 Lite | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Hot 40i FRP</u></a></li>
 </ul></div>
+

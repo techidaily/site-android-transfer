@@ -390,3 +390,4 @@ Truly, it’s now very easy to move contacts from Samsung Galaxy XCover 6 Pro Ta
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

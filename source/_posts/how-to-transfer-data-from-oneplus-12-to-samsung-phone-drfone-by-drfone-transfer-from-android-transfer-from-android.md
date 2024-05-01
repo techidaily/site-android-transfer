@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus 12 to Samsung Phone | Dr.fone
-date: 2024-04-12T02:14:01.746Z
-updated: 2024-04-13T02:14:01.746Z
+date: 2024-04-30T02:13:27.729Z
+updated: 2024-05-01T02:13:27.729Z
 tags: 
   - transfer
 categories:
@@ -402,3 +402,4 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v27e-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V27e Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-13-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 13 Pro? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+

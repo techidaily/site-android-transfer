@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 to Other Android Devices? | Dr.fone
-date: 2024-04-12T02:13:19.152Z
-updated: 2024-04-13T02:13:19.152Z
+date: 2024-04-30T02:13:26.940Z
+updated: 2024-05-01T02:13:26.940Z
 tags: 
   - transfer
 categories:
@@ -457,3 +457,4 @@ In conclusion, there are various methods to transfer videos from Infinix Smart 8
 <li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-13-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 13 mini with iTunes</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze Curve 5G to Any iOS Devices | Dr.fone
-date: 2024-04-12T02:13:30.050Z
-updated: 2024-04-13T02:13:30.050Z
+date: 2024-04-30T02:13:27.082Z
+updated: 2024-05-01T02:13:27.082Z
 tags: 
   - transfer
 categories:
@@ -488,3 +488,4 @@ When you know how to move music from Lava Blaze Curve 5G to iPhone, you can easi
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-google-pixel-7a-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Google Pixel 7a?</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a05s-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A05s Devices | Dr.fone</u></a></li>
 </ul></div>
+
