@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Tecno Camon 20 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:45.276Z
-updated: 2024-05-01T02:19:45.276Z
+date: 2024-05-19T18:55:12.307Z
+updated: 2024-05-20T18:55:12.307Z
 tags: 
   - transfer
 categories:
@@ -464,4 +464,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-note-30-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Note 30 without backup.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-poco-m6-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Poco M6 Pro 5G</u></a></li>
 </ul></div>
+
 

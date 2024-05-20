@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G13 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:29.554Z
-updated: 2024-05-01T02:24:29.554Z
+date: 2024-05-19T18:55:15.829Z
+updated: 2024-05-20T18:55:15.829Z
 tags: 
   - transfer
 categories:
@@ -437,4 +437,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 15 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Max Without iTunes</u></a></li>
 </ul></div>
+
 

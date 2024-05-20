@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50i to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:26.742Z
-updated: 2024-05-01T02:13:26.742Z
+date: 2024-05-19T18:55:06.457Z
+updated: 2024-05-20T18:55:06.457Z
 tags: 
   - transfer
 categories:
@@ -449,4 +449,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c55-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme C55 Phone with Broken Screen</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12-proplus-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12 Pro+ 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

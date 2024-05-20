@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus 12R to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.735Z
-updated: 2024-05-01T02:13:27.735Z
+date: 2024-05-19T18:55:07.263Z
+updated: 2024-05-20T18:55:07.263Z
 tags: 
   - transfer
 categories:
@@ -521,4 +521,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c33-2023-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C33 2023 Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 10 V to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:14:44.726Z
-updated: 2024-05-01T02:14:44.726Z
+date: 2024-05-19T18:55:08.331Z
+updated: 2024-05-20T18:55:08.331Z
 tags: 
   - transfer
 categories:
@@ -463,4 +463,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-nord-n30-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus Nord N30 5G – What Can I Do? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/unlocking-global-audiences-top-video-language-converters/"><u>Unlocking Global Audiences Top Video Language Converters</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y77t to New Phone | Dr.fone
-date: 2024-04-30T02:21:44.501Z
-updated: 2024-05-01T02:21:44.501Z
+date: 2024-05-19T18:55:13.798Z
+updated: 2024-05-20T18:55:13.798Z
 tags: 
   - transfer
 categories:
@@ -363,4 +363,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Edge 2023 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.231Z
-updated: 2024-05-01T02:13:27.231Z
+date: 2024-05-19T18:55:06.940Z
+updated: 2024-05-20T18:55:06.940Z
 tags: 
   - transfer
 categories:
@@ -464,4 +464,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-honor-100-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor 100 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

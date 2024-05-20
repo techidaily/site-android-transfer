@@ -580,3 +580,4 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-hd-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Infinix Smart 8 HD to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

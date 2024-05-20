@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Lava Agni 2 5G to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:01.622Z
-updated: 2024-05-01T02:29:01.622Z
+date: 2024-05-19T18:55:19.459Z
+updated: 2024-05-20T18:55:19.459Z
 tags: 
   - transfer
 categories:
@@ -481,4 +481,5 @@ In conclusion, there are various methods to transfer videos from Lava Agni 2 5G 
 <li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-11-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 11 Pro Max Space | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
 </ul></div>
+
 

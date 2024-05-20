@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Moto G 5G (2023) to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:12.605Z
-updated: 2024-05-01T02:18:12.605Z
+date: 2024-05-19T18:55:11.011Z
+updated: 2024-05-20T18:55:11.011Z
 tags: 
   - transfer
 categories:
@@ -463,4 +463,5 @@ Truly, it’s now very easy to move contacts from Motorola Moto G 5G (2023) to i
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G24 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 8 Plus? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

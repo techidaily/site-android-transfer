@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor X50i+ to New Phone | Dr.fone
-date: 2024-04-30T02:20:49.321Z
-updated: 2024-05-01T02:20:49.321Z
+date: 2024-05-19T18:55:13.187Z
+updated: 2024-05-20T18:55:13.187Z
 tags: 
   - transfer
 categories:
@@ -361,4 +361,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-itel-p55plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Itel P55+ Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

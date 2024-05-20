@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus Nord N30 SE to New Android? | Dr.fone
-date: 2024-04-30T02:18:39.016Z
-updated: 2024-05-01T02:18:39.016Z
+date: 2024-05-19T18:55:11.305Z
+updated: 2024-05-20T18:55:11.305Z
 tags: 
   - transfer
 categories:
@@ -531,4 +531,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-fast-to-furious-how-to-create-slow-motion-effects-on-kapwing/"><u>Updated 2024 Approved From Fast to Furious How to Create Slow-Motion Effects on Kapwing</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Phantom V Fold to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:50.456Z
-updated: 2024-05-01T02:14:50.456Z
+date: 2024-05-19T18:55:08.396Z
+updated: 2024-05-20T18:55:08.396Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 to Other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/repeated-text-animation-tutorial-in-filmora-for-2024/"><u>Repeated Text Animation Tutorial in Filmora for 2024</u></a></li>
 </ul></div>
+
 

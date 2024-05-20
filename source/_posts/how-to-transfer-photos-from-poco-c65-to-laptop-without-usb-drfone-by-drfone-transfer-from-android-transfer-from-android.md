@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco C65 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:59.560Z
-updated: 2024-05-01T02:18:59.560Z
+date: 2024-05-19T18:55:11.613Z
+updated: 2024-05-20T18:55:11.613Z
 tags: 
   - transfer
 categories:
@@ -570,4 +570,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone XR | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-v29-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo V29 Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

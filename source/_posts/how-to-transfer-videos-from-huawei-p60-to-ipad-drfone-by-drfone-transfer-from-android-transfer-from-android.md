@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Huawei P60 to iPad | Dr.fone
-date: 2024-04-30T02:22:00.020Z
-updated: 2024-05-01T02:22:00.020Z
+date: 2024-05-19T18:55:14.327Z
+updated: 2024-05-20T18:55:14.327Z
 tags: 
   - transfer
 categories:
@@ -396,4 +396,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-motorola-moto-g84-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Motorola Moto G84 5G FRP In 3 Different Ways</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-14-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 14 Pro Max? How to Fix it?</u></a></li>
 </ul></div>
+
 

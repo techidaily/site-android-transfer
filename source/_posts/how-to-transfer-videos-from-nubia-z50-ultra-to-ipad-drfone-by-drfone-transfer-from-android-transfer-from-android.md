@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nubia Z50 Ultra to iPad | Dr.fone
-date: 2024-04-30T02:22:17.017Z
-updated: 2024-05-01T02:22:17.017Z
+date: 2024-05-19T18:55:14.510Z
+updated: 2024-05-20T18:55:14.510Z
 tags: 
   - transfer
 categories:
@@ -490,4 +490,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://ai-editing-video.techidaily.com/3-best-effects-to-appear-on-camera-made-with-filmora/"><u>3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 Phone FRP Lock</u></a></li>
 </ul></div>
+
 

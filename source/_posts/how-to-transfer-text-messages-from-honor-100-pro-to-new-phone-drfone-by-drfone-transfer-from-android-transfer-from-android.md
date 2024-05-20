@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor 100 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:44.643Z
-updated: 2024-05-01T02:20:44.643Z
+date: 2024-05-19T18:55:13.120Z
+updated: 2024-05-20T18:55:13.120Z
 tags: 
   - transfer
 categories:
@@ -369,4 +369,5 @@ In conclusion, there are various methods to transfer videos from Honor 100 Pro t
 <li><a href="https://blog-min.techidaily.com/how-to-sign-jpeg-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Sign .jpeg document with Digital Signature - (Tutorial)</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unbeatable-free-4k-video-editing-options-for-youtubers/"><u>2024 Approved Unbeatable Free 4K Video Editing Options for YouTubers</u></a></li>
 </ul></div>
+
 

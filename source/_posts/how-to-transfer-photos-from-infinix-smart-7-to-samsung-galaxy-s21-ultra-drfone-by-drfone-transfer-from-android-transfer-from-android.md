@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Smart 7 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:48.088Z
-updated: 2024-05-01T02:17:48.088Z
+date: 2024-05-19T18:55:10.686Z
+updated: 2024-05-20T18:55:10.686Z
 tags: 
   - transfer
 categories:
@@ -406,4 +406,5 @@ At last, we hope that you now know how to transfer music from Infinix Smart 7 to
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Infinix Hot 30 5G Pictures  An Easy Method Explained.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

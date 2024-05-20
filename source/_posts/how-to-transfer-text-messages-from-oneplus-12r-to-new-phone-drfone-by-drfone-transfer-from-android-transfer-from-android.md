@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from OnePlus 12R to New Phone | Dr.fone
-date: 2024-04-30T02:21:08.843Z
-updated: 2024-05-01T02:21:08.843Z
+date: 2024-05-19T18:55:13.407Z
+updated: 2024-05-20T18:55:13.407Z
 tags: 
   - transfer
 categories:
@@ -361,4 +361,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor Play 7T? | Dr.fone</u></a></li>
 </ul></div>
+
 

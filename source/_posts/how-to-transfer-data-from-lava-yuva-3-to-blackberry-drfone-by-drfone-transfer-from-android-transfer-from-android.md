@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.121Z
-updated: 2024-05-01T02:13:27.121Z
+date: 2024-05-19T18:55:06.874Z
+updated: 2024-05-20T18:55:06.874Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-xr-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone XR Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-google-pixel-fold-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Google Pixel Fold Devices</u></a></li>
 </ul></div>
+
 

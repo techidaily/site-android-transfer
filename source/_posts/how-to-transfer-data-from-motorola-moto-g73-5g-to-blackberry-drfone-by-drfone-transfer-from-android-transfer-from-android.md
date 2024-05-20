@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G73 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.414Z
-updated: 2024-05-01T02:13:27.414Z
+date: 2024-05-19T18:55:07.057Z
+updated: 2024-05-20T18:55:07.057Z
 tags: 
   - transfer
 categories:
@@ -465,4 +465,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-vivo-y36i-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-12-proplus-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 12 Pro+ 5G Devices</u></a></li>
 </ul></div>
+
 

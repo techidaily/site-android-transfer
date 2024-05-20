@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor 90 to New Phone | Dr.fone
-date: 2024-04-30T02:20:45.995Z
-updated: 2024-05-01T02:20:45.995Z
+date: 2024-05-19T18:55:13.130Z
+updated: 2024-05-20T18:55:13.130Z
 tags: 
   - transfer
 categories:
@@ -437,4 +437,5 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 <li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-ace-2-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Ace 2 Pro</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-the-most-out-of-fcpx-10-free-plugins-every-editor-should-use/"><u>Updated In 2024, Get the Most Out of FCPX 10 Free Plugins Every Editor Should Use</u></a></li>
 </ul></div>
+
 

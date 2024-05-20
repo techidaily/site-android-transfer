@@ -477,3 +477,4 @@ In conclusion, there are various methods to transfer videos from Itel A60s to iP
      data-full-width-responsive="true"></ins>
 
 
+

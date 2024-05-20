@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme 11 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:57.225Z
-updated: 2024-05-01T02:13:57.225Z
+date: 2024-05-19T18:55:07.737Z
+updated: 2024-05-20T18:55:07.737Z
 tags: 
   - transfer
 categories:
@@ -433,4 +433,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://techidaily.com/recover-apple-iphone-se-2022-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2022) Data From iTunes | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

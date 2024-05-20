@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from ZTE Axon 40 Lite to New Phone | Dr.fone
-date: 2024-04-30T02:21:51.052Z
-updated: 2024-05-01T02:21:51.052Z
+date: 2024-05-19T18:55:13.851Z
+updated: 2024-05-20T18:55:13.851Z
 tags: 
   - transfer
 categories:
@@ -650,4 +650,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 7 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05 Phone without PIN</u></a></li>
 </ul></div>
+
 

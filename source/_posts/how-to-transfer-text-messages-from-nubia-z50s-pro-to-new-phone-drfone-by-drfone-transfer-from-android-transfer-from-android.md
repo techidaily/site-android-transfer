@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Nubia Z50S Pro to New Phone | Dr.fone
-date: 2024-04-30T02:21:08.070Z
-updated: 2024-05-01T02:21:08.070Z
+date: 2024-05-19T18:55:13.402Z
+updated: 2024-05-20T18:55:13.402Z
 tags: 
   - transfer
 categories:
@@ -399,4 +399,5 @@ When you know how to move music from Nubia Z50S Pro to iPhone, you can easily ma
 <li><a href="https://animation-videos.techidaily.com/updated-ways-to-create-an-animated-sticky-navbar-for-2024/"><u>Updated Ways to Create an Animated Sticky Navbar for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung has native MOV support?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y36i to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:20:19.335Z
-updated: 2024-05-01T02:20:19.335Z
+date: 2024-05-19T18:55:12.832Z
+updated: 2024-05-20T18:55:12.832Z
 tags: 
   - transfer
 categories:
@@ -554,4 +554,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>The way to get back lost music from Galaxy S23 FE</u></a></li>
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Huawei Nova Y91 | Dr.fone</u></a></li>
 </ul></div>
+
 

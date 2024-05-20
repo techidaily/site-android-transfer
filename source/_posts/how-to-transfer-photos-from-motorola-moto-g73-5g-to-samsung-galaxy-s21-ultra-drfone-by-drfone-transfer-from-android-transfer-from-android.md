@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Moto G73 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:16.703Z
-updated: 2024-05-01T02:18:16.703Z
+date: 2024-05-19T18:55:11.059Z
+updated: 2024-05-20T18:55:11.059Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ To summarize, while it may seem troublesome to ****transfer files from Motorola 
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Smart 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y02t-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y02T Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

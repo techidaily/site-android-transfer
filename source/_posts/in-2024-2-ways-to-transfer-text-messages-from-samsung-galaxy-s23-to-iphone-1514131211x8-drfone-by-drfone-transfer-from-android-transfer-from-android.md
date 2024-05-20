@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S23 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:56.941Z
-updated: 2024-05-01T02:24:56.941Z
+date: 2024-05-19T18:55:16.155Z
+updated: 2024-05-20T18:55:16.155Z
 tags: 
   - transfer
 categories:
@@ -433,4 +433,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-play-8t-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor Play 8T Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

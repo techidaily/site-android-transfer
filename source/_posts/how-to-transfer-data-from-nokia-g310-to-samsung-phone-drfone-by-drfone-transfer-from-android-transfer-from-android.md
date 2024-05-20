@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia G310 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.600Z
-updated: 2024-05-01T02:13:27.600Z
+date: 2024-05-19T18:55:07.165Z
+updated: 2024-05-20T18:55:07.165Z
 tags: 
   - transfer
 categories:
@@ -401,4 +401,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo X90S | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-oppo-find-n3-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Oppo Find N3 Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme C67 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:22.267Z
-updated: 2024-05-01T02:21:22.267Z
+date: 2024-05-19T18:55:13.553Z
+updated: 2024-05-20T18:55:13.553Z
 tags: 
   - transfer
 categories:
@@ -480,4 +480,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y27s-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y27s System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-poco-c50-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Poco C50? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

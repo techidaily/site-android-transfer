@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Poco C65 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:48.126Z
-updated: 2024-05-01T02:13:48.126Z
+date: 2024-05-19T18:55:07.630Z
+updated: 2024-05-20T18:55:07.630Z
 tags: 
   - transfer
 categories:
@@ -479,4 +479,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-tecno-spark-20-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Tecno Spark 20 Pro FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

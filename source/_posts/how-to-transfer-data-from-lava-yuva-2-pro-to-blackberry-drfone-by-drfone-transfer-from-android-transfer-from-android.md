@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 2 Pro to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.103Z
-updated: 2024-05-01T02:13:27.103Z
+date: 2024-05-19T18:55:06.856Z
+updated: 2024-05-20T18:55:06.856Z
 tags: 
   - transfer
 categories:
@@ -437,4 +437,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y28 5G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-x-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone X | Dr.fone</u></a></li>
 </ul></div>
+
 

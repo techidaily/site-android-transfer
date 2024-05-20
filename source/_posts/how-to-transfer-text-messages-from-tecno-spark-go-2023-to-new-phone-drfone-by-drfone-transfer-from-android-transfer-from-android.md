@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Tecno Spark Go (2023) to New Phone | Dr.fone
-date: 2024-04-30T02:21:35.848Z
-updated: 2024-05-01T02:21:35.848Z
+date: 2024-05-19T18:55:13.730Z
+updated: 2024-05-20T18:55:13.730Z
 tags: 
   - transfer
 categories:
@@ -393,4 +393,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme V30T? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-a05s-by-drfone-android-unlock-android-unlock/"><u>How to unlock Itel A05s</u></a></li>
 </ul></div>
+
 

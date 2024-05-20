@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nubia Z50S Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:17.212Z
-updated: 2024-05-01T02:22:17.212Z
+date: 2024-05-19T18:55:14.511Z
+updated: 2024-05-20T18:55:14.511Z
 tags: 
   - transfer
 categories:
@@ -470,4 +470,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-a38-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo A38.</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-plus-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 Plus to Other iPhone? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Hot 30i to New Phone | Dr.fone
-date: 2024-04-30T02:20:51.644Z
-updated: 2024-05-01T02:20:51.644Z
+date: 2024-05-19T18:55:13.206Z
+updated: 2024-05-20T18:55:13.206Z
 tags: 
   - transfer
 categories:
@@ -402,4 +402,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo Reno 8T | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-se-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 SE PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

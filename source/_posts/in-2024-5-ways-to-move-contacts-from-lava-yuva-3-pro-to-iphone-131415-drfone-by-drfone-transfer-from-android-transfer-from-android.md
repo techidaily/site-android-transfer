@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Lava Yuva 3 Pro to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:03.406Z
-updated: 2024-05-01T02:29:03.406Z
+date: 2024-05-19T18:55:19.473Z
+updated: 2024-05-20T18:55:19.473Z
 tags: 
   - transfer
 categories:
@@ -529,4 +529,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Pova 5 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-15-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 15 Pro Space | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Razr 40 to New Phone | Dr.fone
-date: 2024-04-30T02:21:03.613Z
-updated: 2024-05-01T02:21:03.613Z
+date: 2024-05-19T18:55:13.332Z
+updated: 2024-05-20T18:55:13.332Z
 tags: 
   - transfer
 categories:
@@ -315,4 +315,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-realme-gt-neo-5-se-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Realme GT Neo 5 SE</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2019-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2019 has Encountered a Problem | Stellar</u></a></li>
 </ul></div>
+
 

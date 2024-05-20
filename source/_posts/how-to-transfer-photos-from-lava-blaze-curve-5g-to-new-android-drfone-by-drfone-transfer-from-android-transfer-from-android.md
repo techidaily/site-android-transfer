@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Blaze Curve 5G to New Android? | Dr.fone
-date: 2024-04-30T02:18:01.673Z
-updated: 2024-05-01T02:18:01.673Z
+date: 2024-05-19T18:55:10.859Z
+updated: 2024-05-20T18:55:10.859Z
 tags: 
   - transfer
 categories:
@@ -605,4 +605,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-blaze-2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Blaze 2 Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor 70 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

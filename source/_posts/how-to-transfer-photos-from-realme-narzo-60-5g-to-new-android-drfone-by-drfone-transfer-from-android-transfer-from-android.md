@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Realme Narzo 60 5G to New Android? | Dr.fone
-date: 2024-04-30T02:19:17.571Z
-updated: 2024-05-01T02:19:17.571Z
+date: 2024-05-19T18:55:11.902Z
+updated: 2024-05-20T18:55:11.902Z
 tags: 
   - transfer
 categories:
@@ -603,4 +603,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-y100i-by-fonelab-android-recover-video/"><u>How to recover old videos from your Y100i</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Itel A60s to New Android? | Dr.fone
-date: 2024-04-30T02:17:53.314Z
-updated: 2024-05-01T02:17:53.314Z
+date: 2024-05-19T18:55:10.790Z
+updated: 2024-05-20T18:55:10.790Z
 tags: 
   - transfer
 categories:
@@ -748,4 +748,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y36-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y36</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone 13 Pro</u></a></li>
 </ul></div>
+
 

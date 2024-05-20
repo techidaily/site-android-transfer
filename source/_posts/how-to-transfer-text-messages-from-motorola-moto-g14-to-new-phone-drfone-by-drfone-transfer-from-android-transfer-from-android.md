@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Moto G14 to New Phone | Dr.fone
-date: 2024-04-30T02:21:02.459Z
-updated: 2024-05-01T02:21:02.459Z
+date: 2024-05-19T18:55:13.323Z
+updated: 2024-05-20T18:55:13.323Z
 tags: 
   - transfer
 categories:
@@ -420,4 +420,5 @@ When you know how to move music from Motorola Moto G14 to iPhone, you can easily
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xr-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XR</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-video-dubbing-software-for-pc-free-download-for-2024/"><u>New The Ultimate List of Video Dubbing Software for PC (Free Download) for 2024</u></a></li>
 </ul></div>
+
 

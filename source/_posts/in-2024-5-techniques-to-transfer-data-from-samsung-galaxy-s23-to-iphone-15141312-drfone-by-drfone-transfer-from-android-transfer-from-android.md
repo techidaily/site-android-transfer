@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Samsung Galaxy S23 to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T02:28:24.512Z
-updated: 2024-05-01T02:28:24.512Z
+date: 2024-05-19T18:55:18.791Z
+updated: 2024-05-20T18:55:18.791Z
 tags: 
   - transfer
 categories:
@@ -574,4 +574,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://ai-video-editing.techidaily.com/10-top-suggestions-for-ai-video-interviews-for-2024/"><u>10 Top Suggestions for AI Video Interviews for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi?</u></a></li>
 </ul></div>
+
 

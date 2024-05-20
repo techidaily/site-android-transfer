@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Samsung Galaxy S23 Tactical Edition to iPad | Dr.fone
-date: 2024-04-30T02:22:38.411Z
-updated: 2024-05-01T02:22:38.411Z
+date: 2024-05-19T18:55:14.712Z
+updated: 2024-05-20T18:55:14.712Z
 tags: 
   - transfer
 categories:
@@ -505,4 +505,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://techidaily.com/how-to-hard-reset-vivo-y02t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y02T Without Password | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

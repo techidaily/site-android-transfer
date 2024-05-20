@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10C to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:14:57.273Z
-updated: 2024-05-01T02:14:57.273Z
+date: 2024-05-19T18:55:08.507Z
+updated: 2024-05-20T18:55:08.507Z
 tags: 
   - transfer
 categories:
@@ -470,4 +470,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://ai-vdieo-software.techidaily.com/fre-for-2024/"><u>Fre for 2024</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-11-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 11?</u></a></li>
 </ul></div>
+
 

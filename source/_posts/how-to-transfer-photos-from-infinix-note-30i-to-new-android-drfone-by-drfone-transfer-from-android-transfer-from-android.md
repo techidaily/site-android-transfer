@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30i to New Android? | Dr.fone
-date: 2024-04-30T02:17:46.696Z
-updated: 2024-05-01T02:17:46.696Z
+date: 2024-05-19T18:55:10.638Z
+updated: 2024-05-20T18:55:10.638Z
 tags: 
   - transfer
 categories:
@@ -531,4 +531,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-infinix-note-30-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Infinix Note 30 5G using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

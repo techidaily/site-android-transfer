@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y100i Power 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:50.848Z
-updated: 2024-05-01T02:22:50.848Z
+date: 2024-05-19T18:55:14.853Z
+updated: 2024-05-20T18:55:14.853Z
 tags: 
   - transfer
 categories:
@@ -408,4 +408,5 @@ How to Transfer Data from Vivo Y100i Power 5G to BlackBerry With 1-Click
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-magic-v2-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Magic V2 on Windows</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-13-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 13 Is Unlocked</u></a></li>
 </ul></div>
+
 

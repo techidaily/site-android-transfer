@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Samsung Galaxy M14 4G to iPad | Dr.fone
-date: 2024-04-30T02:22:37.255Z
-updated: 2024-05-01T02:22:37.255Z
+date: 2024-05-19T18:55:14.685Z
+updated: 2024-05-20T18:55:14.685Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ How to Transfer Data from Samsung Galaxy M14 4G to BlackBerry With 1-Click
 <li><a href="https://animation-videos.techidaily.com/some-must-know-useful-lego-animation-ideas-for-you/"><u>Some Must-Know Useful Lego Animation Ideas for You</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y36 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:20:18.752Z
-updated: 2024-05-01T02:20:18.752Z
+date: 2024-05-19T18:55:12.826Z
+updated: 2024-05-20T18:55:12.826Z
 tags: 
   - transfer
 categories:
@@ -554,4 +554,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://ai-video-apps.techidaily.com/updated-master-video-editing-on-mac-with-mkvtoolnix-a-step-by-step-guide-2023/"><u>Updated Master Video Editing on Mac with MKVtoolnix A Step-by-Step Guide 2023</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-honor-play-8t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Play 8T Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

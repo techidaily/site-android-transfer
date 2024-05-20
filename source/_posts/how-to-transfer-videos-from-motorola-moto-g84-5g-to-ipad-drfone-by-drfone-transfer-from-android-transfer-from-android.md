@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Motorola Moto G84 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:12.425Z
-updated: 2024-05-01T02:22:12.425Z
+date: 2024-05-19T18:55:14.464Z
+updated: 2024-05-20T18:55:14.464Z
 tags: 
   - transfer
 categories:
@@ -512,4 +512,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-g24-power-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola G24 Power for Streaming | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Note 30 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

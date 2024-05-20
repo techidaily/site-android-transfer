@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy A05 to New Android? | Dr.fone
-date: 2024-04-30T02:19:22.251Z
-updated: 2024-05-01T02:19:22.251Z
+date: 2024-05-19T18:55:11.993Z
+updated: 2024-05-20T18:55:11.993Z
 tags: 
   - transfer
 categories:
@@ -570,4 +570,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 14 to ZTE Phones | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-12-miniipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 12 mini/iPad/iPod</u></a></li>
 </ul></div>
+
 

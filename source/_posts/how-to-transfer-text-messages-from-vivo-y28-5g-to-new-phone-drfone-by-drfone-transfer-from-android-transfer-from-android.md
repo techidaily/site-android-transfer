@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y28 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:43.539Z
-updated: 2024-05-01T02:21:43.539Z
+date: 2024-05-19T18:55:13.791Z
+updated: 2024-05-20T18:55:13.791Z
 tags: 
   - transfer
 categories:
@@ -332,4 +332,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://screen-mirror.techidaily.com/how-honor-x50i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X50i Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
+
 

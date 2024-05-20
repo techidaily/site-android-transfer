@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 Plus to New Android? | Dr.fone
-date: 2024-04-30T02:17:49.067Z
-updated: 2024-05-01T02:17:49.067Z
+date: 2024-05-19T18:55:10.696Z
+updated: 2024-05-20T18:55:10.696Z
 tags: 
   - transfer
 categories:
@@ -528,4 +528,5 @@ When you know how to move music from Infinix Smart 8 Plus to iPhone, you can eas
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-free/"><u>In 2024, Free</u></a></li>
 </ul></div>
+
 

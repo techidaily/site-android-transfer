@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Realme 11 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:19:06.812Z
-updated: 2024-05-01T02:19:06.812Z
+date: 2024-05-19T18:55:11.745Z
+updated: 2024-05-20T18:55:11.745Z
 tags: 
   - transfer
 categories:
@@ -479,4 +479,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S24 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Itel P55T? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Samsung Galaxy S23 Tactical Edition to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:14:35.058Z
-updated: 2024-05-01T02:14:35.058Z
+date: 2024-05-19T18:55:08.236Z
+updated: 2024-05-20T18:55:08.236Z
 tags: 
   - transfer
 categories:
@@ -539,4 +539,5 @@ To summarize, while it may seem troublesome to ****transfer files from Samsung G
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y77t-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y77t Lock Screen Password?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

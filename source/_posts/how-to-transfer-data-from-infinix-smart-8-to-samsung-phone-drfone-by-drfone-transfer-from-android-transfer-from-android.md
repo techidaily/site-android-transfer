@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.941Z
-updated: 2024-05-01T02:13:26.941Z
+date: 2024-05-19T18:55:06.697Z
+updated: 2024-05-20T18:55:06.697Z
 tags: 
   - transfer
 categories:
@@ -446,4 +446,5 @@ When you know how to move music from Infinix Smart 8 to iPhone, you can easily m
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-a58-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo A58 4G Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-gt-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme GT 5 Pro to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

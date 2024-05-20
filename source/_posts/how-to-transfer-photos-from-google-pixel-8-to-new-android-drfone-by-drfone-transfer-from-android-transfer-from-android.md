@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Google Pixel 8 to New Android? | Dr.fone
-date: 2024-04-30T02:17:18.787Z
-updated: 2024-05-01T02:17:18.787Z
+date: 2024-05-19T18:55:10.300Z
+updated: 2024-05-20T18:55:10.300Z
 tags: 
   - transfer
 categories:
@@ -443,4 +443,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iTunes | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-m14-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy M14 5G FRP Bypass</u></a></li>
 </ul></div>
+
 

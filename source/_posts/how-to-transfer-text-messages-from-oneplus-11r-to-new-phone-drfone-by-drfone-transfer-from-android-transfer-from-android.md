@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from OnePlus 11R to New Phone | Dr.fone
-date: 2024-04-30T02:21:08.457Z
-updated: 2024-05-01T02:21:08.457Z
+date: 2024-05-19T18:55:13.405Z
+updated: 2024-05-20T18:55:13.405Z
 tags: 
   - transfer
 categories:
@@ -377,4 +377,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Poco X5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-12-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 12 mini iCloud Bypass</u></a></li>
 </ul></div>
+
 

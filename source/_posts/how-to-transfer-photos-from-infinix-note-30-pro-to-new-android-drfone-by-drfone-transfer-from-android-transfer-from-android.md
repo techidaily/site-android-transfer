@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:44.361Z
-updated: 2024-05-01T02:17:44.361Z
+date: 2024-05-19T18:55:10.586Z
+updated: 2024-05-20T18:55:10.586Z
 tags: 
   - transfer
 categories:
@@ -386,4 +386,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-x-official-method-to-unlock-your-apple-iphone-x-by-drfone-ios/"><u>How To Unlock Apple iPhone X Official Method to Unlock Your Apple iPhone X</u></a></li>
 </ul></div>
+
 

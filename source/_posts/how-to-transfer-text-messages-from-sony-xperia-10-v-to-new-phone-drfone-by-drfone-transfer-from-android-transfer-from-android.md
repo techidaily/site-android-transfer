@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Sony Xperia 10 V to New Phone | Dr.fone
-date: 2024-04-30T02:21:31.770Z
-updated: 2024-05-01T02:21:31.770Z
+date: 2024-05-19T18:55:13.697Z
+updated: 2024-05-20T18:55:13.697Z
 tags: 
   - transfer
 categories:
@@ -427,4 +427,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://ai-video-editing.techidaily.com/new-top-10-voice-over-generators-windows-mac-android-iphone-and-onli-for-2024/"><u>New Top 10 Voice Over Generators Windows, Mac, Android, iPhone, and Onli for 2024</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE iOS System Issues? | Dr.fone</u></a></li>
 </ul></div>
+
 

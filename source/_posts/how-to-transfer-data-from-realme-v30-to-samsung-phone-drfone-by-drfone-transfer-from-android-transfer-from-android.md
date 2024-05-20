@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme V30 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:16.750Z
-updated: 2024-05-01T02:14:16.750Z
+date: 2024-05-19T18:55:08.030Z
+updated: 2024-05-20T18:55:08.030Z
 tags: 
   - transfer
 categories:
@@ -388,4 +388,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-moto-g34-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Moto G34 5G Phone? Unlock It Now</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c12-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C12 FRP Bypass</u></a></li>
 </ul></div>
+
 

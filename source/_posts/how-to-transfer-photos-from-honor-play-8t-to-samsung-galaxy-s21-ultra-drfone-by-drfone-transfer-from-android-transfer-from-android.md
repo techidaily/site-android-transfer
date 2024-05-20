@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor Play 8T to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:31.477Z
-updated: 2024-05-01T02:17:31.477Z
+date: 2024-05-19T18:55:10.426Z
+updated: 2024-05-20T18:55:10.426Z
 tags: 
   - transfer
 categories:
@@ -404,4 +404,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 5G in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a24-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
+
 

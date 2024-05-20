@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Lava Blaze Curve 5G to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:02.420Z
-updated: 2024-05-01T02:29:02.420Z
+date: 2024-05-19T18:55:19.465Z
+updated: 2024-05-20T18:55:19.465Z
 tags: 
   - transfer
 categories:
@@ -532,4 +532,5 @@ To summarize, while it may seem troublesome to ****transfer files from Lava Blaz
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-c55-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme C55 Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

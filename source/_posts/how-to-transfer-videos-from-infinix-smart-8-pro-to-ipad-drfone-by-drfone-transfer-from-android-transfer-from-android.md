@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Smart 8 Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:03.471Z
-updated: 2024-05-01T02:22:03.471Z
+date: 2024-05-19T18:55:14.353Z
+updated: 2024-05-20T18:55:14.353Z
 tags: 
   - transfer
 categories:
@@ -599,4 +599,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://fix-guide.techidaily.com/infinix-hot-30-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 30 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-motorola-moto-g34-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola Moto G34 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

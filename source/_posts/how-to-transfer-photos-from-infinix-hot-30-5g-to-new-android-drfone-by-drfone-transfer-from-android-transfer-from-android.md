@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 30 5G to New Android? | Dr.fone
-date: 2024-04-30T02:17:40.839Z
-updated: 2024-05-01T02:17:40.839Z
+date: 2024-05-19T18:55:10.552Z
+updated: 2024-05-20T18:55:10.552Z
 tags: 
   - transfer
 categories:
@@ -582,4 +582,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme GT 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a15-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A15 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

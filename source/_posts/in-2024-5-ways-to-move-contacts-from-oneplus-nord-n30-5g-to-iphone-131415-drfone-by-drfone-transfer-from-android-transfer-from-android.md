@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From OnePlus Nord N30 5G to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:14.655Z
-updated: 2024-05-01T02:29:14.655Z
+date: 2024-05-19T18:55:19.594Z
+updated: 2024-05-20T18:55:19.594Z
 tags: 
   - transfer
 categories:
@@ -576,4 +576,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-enhancement-software-boost-clarity-and-detail-instantly/"><u>New In 2024, Video Enhancement Software Boost Clarity and Detail Instantly</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro, Apples New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

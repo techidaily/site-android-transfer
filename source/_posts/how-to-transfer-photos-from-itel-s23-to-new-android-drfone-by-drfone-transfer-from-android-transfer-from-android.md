@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Itel S23 to New Android? | Dr.fone
-date: 2024-04-30T02:17:58.037Z
-updated: 2024-05-01T02:17:58.037Z
+date: 2024-05-19T18:55:10.830Z
+updated: 2024-05-20T18:55:10.830Z
 tags: 
   - transfer
 categories:
@@ -461,4 +461,5 @@ How to Transfer Data from Itel S23 to BlackBerry With 1-Click
 <li><a href="https://change-location.techidaily.com/honor-x50iplus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50i+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-narzo-60-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme Narzo 60 5G Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

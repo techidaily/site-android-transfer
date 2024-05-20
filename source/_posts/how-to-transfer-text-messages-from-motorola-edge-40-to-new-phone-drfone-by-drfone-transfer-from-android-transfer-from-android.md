@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Edge 40 to New Phone | Dr.fone
-date: 2024-04-30T02:21:01.105Z
-updated: 2024-05-01T02:21:01.105Z
+date: 2024-05-19T18:55:13.312Z
+updated: 2024-05-20T18:55:13.312Z
 tags: 
   - transfer
 categories:
@@ -403,4 +403,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-moto-g23-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Moto G23? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y100t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y100t without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X7b to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.756Z
-updated: 2024-05-01T02:13:26.756Z
+date: 2024-05-19T18:55:06.472Z
+updated: 2024-05-20T18:55:06.472Z
 tags: 
   - transfer
 categories:
@@ -467,4 +467,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S17t Phone Without Password?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-lava-blaze-curve-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Lava Blaze Curve 5G Is Unlocked</u></a></li>
 </ul></div>
+
 

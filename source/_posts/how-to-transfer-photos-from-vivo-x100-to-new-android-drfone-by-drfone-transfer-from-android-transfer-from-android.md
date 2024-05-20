@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo X100 to New Android? | Dr.fone
-date: 2024-04-30T02:20:09.467Z
-updated: 2024-05-01T02:20:09.467Z
+date: 2024-05-19T18:55:12.688Z
+updated: 2024-05-20T18:55:12.688Z
 tags: 
   - transfer
 categories:
@@ -448,4 +448,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme V30 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-13-mini-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 13 mini and iPad</u></a></li>
 </ul></div>
+
 

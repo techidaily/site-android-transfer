@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia G310 to New Android? | Dr.fone
-date: 2024-04-30T02:18:26.557Z
-updated: 2024-05-01T02:18:26.557Z
+date: 2024-05-19T18:55:11.156Z
+updated: 2024-05-20T18:55:11.156Z
 tags: 
   - transfer
 categories:
@@ -491,4 +491,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2013-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2013</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

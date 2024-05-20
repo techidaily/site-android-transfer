@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from OnePlus 12 to New Phone | Dr.fone
-date: 2024-04-30T02:21:08.649Z
-updated: 2024-05-01T02:21:08.649Z
+date: 2024-05-19T18:55:13.406Z
+updated: 2024-05-20T18:55:13.406Z
 tags: 
   - transfer
 categories:
@@ -330,4 +330,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-note-12-4g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi Note 12 4G Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-htc-u23-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass HTC U23 Pro FRP</u></a></li>
 </ul></div>
+
 

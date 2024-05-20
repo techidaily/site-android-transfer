@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Realme V30T to New Android? | Dr.fone
-date: 2024-04-30T02:19:21.667Z
-updated: 2024-05-01T02:19:21.667Z
+date: 2024-05-19T18:55:11.987Z
+updated: 2024-05-20T18:55:11.988Z
 tags: 
   - transfer
 categories:
@@ -557,4 +557,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-zero-30-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Zero 30 5G ? Fix It Easily | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-a1x-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo A1x 5G? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y78t to BlackBerry | Dr.fone
-date: 2024-04-30T02:15:39.144Z
-updated: 2024-05-01T02:15:39.144Z
+date: 2024-05-19T18:55:09.333Z
+updated: 2024-05-20T18:55:09.333Z
 tags: 
   - transfer
 categories:
@@ -436,4 +436,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-note-12-4g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi Note 12 4G for Streaming | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y100t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y100t Devices</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Samsung Galaxy S23 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:34.194Z
-updated: 2024-05-01T02:29:34.194Z
+date: 2024-05-19T18:55:19.730Z
+updated: 2024-05-20T18:55:19.730Z
 tags: 
   - transfer
 categories:
@@ -452,4 +452,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-redmi-note-12r-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Redmi Note 12R has been deleted.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-7-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

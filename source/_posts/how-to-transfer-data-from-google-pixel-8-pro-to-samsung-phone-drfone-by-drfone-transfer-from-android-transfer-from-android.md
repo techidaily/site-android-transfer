@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.570Z
-updated: 2024-05-01T02:13:26.570Z
+date: 2024-05-19T18:55:06.296Z
+updated: 2024-05-20T18:55:06.296Z
 tags: 
   - transfer
 categories:
@@ -546,4 +546,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/" ><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-c67-5g-device-by-drfone-android/" ><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme C67 5G Device</u></a></li>
 </ul></div>
+
 

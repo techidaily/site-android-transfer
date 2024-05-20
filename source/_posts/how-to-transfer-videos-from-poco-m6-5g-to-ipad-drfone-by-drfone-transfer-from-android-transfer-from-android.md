@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Poco M6 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:27.211Z
-updated: 2024-05-01T02:22:27.211Z
+date: 2024-05-19T18:55:14.593Z
+updated: 2024-05-20T18:55:14.593Z
 tags: 
   - transfer
 categories:
@@ -451,4 +451,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix GT 10 Pro.</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme 11 Pro+ to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:58.765Z
-updated: 2024-05-01T02:13:58.765Z
+date: 2024-05-19T18:55:07.757Z
+updated: 2024-05-20T18:55:07.757Z
 tags: 
   - transfer
 categories:
@@ -384,4 +384,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-zte-by-drfone-android/"><u>Full Guide to Unlock Your ZTE</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia 105 Classic | Dr.fone</u></a></li>
 </ul></div>
+
 

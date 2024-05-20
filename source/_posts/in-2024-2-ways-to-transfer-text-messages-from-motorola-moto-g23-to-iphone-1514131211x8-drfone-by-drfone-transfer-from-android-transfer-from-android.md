@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G23 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:29.939Z
-updated: 2024-05-01T02:24:29.939Z
+date: 2024-05-19T18:55:15.832Z
+updated: 2024-05-20T18:55:15.832Z
 tags: 
   - transfer
 categories:
@@ -522,4 +522,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Google Pixel 8</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-8-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 8 Video to Computer? | Dr.fone</u></a></li>
 </ul></div>
+
 

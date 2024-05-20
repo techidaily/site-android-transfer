@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Honor 100 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:48.863Z
-updated: 2024-05-01T02:28:48.863Z
+date: 2024-05-19T18:55:19.361Z
+updated: 2024-05-20T18:55:19.361Z
 tags: 
   - transfer
 categories:
@@ -550,4 +550,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme 11 5G</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-how-to-insert-a-gif-into-powerpoint/"><u>Updated In 2024, How to Insert a GIF Into Powerpoint</u></a></li>
 </ul></div>
+
 

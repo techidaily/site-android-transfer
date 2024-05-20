@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y100A to New Phone | Dr.fone
-date: 2024-04-30T02:21:41.611Z
-updated: 2024-05-01T02:21:41.611Z
+date: 2024-05-19T18:55:13.775Z
+updated: 2024-05-20T18:55:13.775Z
 tags: 
   - transfer
 categories:
@@ -383,4 +383,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-v30t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme V30T</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/lock-your-itel-s23-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Itel S23 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

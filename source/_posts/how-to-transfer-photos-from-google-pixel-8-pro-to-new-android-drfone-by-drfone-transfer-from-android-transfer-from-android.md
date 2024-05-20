@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Google Pixel 8 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:18.207Z
-updated: 2024-05-01T02:17:18.207Z
+date: 2024-05-19T18:55:10.294Z
+updated: 2024-05-20T18:55:10.294Z
 tags: 
   - transfer
 categories:
@@ -494,4 +494,5 @@ Truly, it’s now very easy to move contacts from Google Pixel 8 Pro to iPhone (
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-whatsapp-status-video-makers-free-and-paid/"><u>New In 2024, Best WhatsApp Status Video Makers Free and Paid</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-s23plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel S23+ FRP Bypass</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Smart 8 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:54.371Z
-updated: 2024-05-01T02:20:54.371Z
+date: 2024-05-19T18:55:13.239Z
+updated: 2024-05-20T18:55:13.239Z
 tags: 
   - transfer
 categories:
@@ -297,4 +297,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-y78plus-t1-edition-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo Y78+ (T1) Edition</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

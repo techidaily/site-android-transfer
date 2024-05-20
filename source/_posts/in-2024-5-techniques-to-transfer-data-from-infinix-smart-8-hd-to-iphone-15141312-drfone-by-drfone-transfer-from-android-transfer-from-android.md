@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Infinix Smart 8 HD to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T02:27:48.953Z
-updated: 2024-05-01T02:27:48.953Z
+date: 2024-05-19T18:55:18.361Z
+updated: 2024-05-20T18:55:18.361Z
 tags: 
   - transfer
 categories:
@@ -644,4 +644,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://animation-videos.techidaily.com/updated-10-caricature-makers-to-turn-photo-to-caricature-effects/"><u>Updated 10 Caricature Makers to Turn Photo to Caricature Effects</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

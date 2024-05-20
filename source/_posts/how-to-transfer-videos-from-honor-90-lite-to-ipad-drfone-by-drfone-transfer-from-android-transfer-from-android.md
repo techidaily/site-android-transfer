@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor 90 Lite to iPad | Dr.fone
-date: 2024-04-30T02:21:54.538Z
-updated: 2024-05-01T02:21:54.538Z
+date: 2024-05-19T18:55:13.931Z
+updated: 2024-05-20T18:55:13.931Z
 tags: 
   - transfer
 categories:
@@ -421,4 +421,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-11-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 11 with a Broken Screen?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
+
 

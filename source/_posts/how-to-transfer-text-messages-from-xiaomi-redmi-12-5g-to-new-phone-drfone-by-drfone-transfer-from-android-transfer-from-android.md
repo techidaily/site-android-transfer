@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Xiaomi Redmi 12 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:47.239Z
-updated: 2024-05-01T02:21:47.239Z
+date: 2024-05-19T18:55:13.821Z
+updated: 2024-05-20T18:55:13.821Z
 tags: 
   - transfer
 categories:
@@ -348,4 +348,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-the-complete-guide-to-make-a-text-collage/"><u>In 2024, The Complete Guide to Make a Text Collage</u></a></li>
 <li><a href="https://techidaily.com/best-fixes-for-nubia-red-magic-8s-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nubia Red Magic 8S Pro+ Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Defy 2 to New Android? | Dr.fone
-date: 2024-04-30T02:18:07.636Z
-updated: 2024-05-01T02:18:07.636Z
+date: 2024-05-19T18:55:10.963Z
+updated: 2024-05-20T18:55:10.963Z
 tags: 
   - transfer
 categories:
@@ -584,4 +584,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max iOS System Issues? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 7 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.915Z
-updated: 2024-05-01T02:13:26.915Z
+date: 2024-05-19T18:55:06.618Z
+updated: 2024-05-20T18:55:06.618Z
 tags: 
   - transfer
 categories:
@@ -376,4 +376,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y77t | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme GT 3? | Dr.fone</u></a></li>
 </ul></div>
+
 

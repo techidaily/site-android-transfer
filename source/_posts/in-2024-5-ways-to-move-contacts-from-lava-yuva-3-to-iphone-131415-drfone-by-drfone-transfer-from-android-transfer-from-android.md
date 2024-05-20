@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Lava Yuva 3 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:03.599Z
-updated: 2024-05-01T02:29:03.599Z
+date: 2024-05-19T18:55:19.474Z
+updated: 2024-05-20T18:55:19.474Z
 tags: 
   - transfer
 categories:
@@ -471,4 +471,5 @@ In conclusion, there are various methods to transfer videos from Lava Yuva 3 to 
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X50i+ to New Android? | Dr.fone
-date: 2024-04-30T02:17:34.235Z
-updated: 2024-05-01T02:17:34.235Z
+date: 2024-05-19T18:55:10.463Z
+updated: 2024-05-20T18:55:10.463Z
 tags: 
   - transfer
 categories:
@@ -487,4 +487,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30 Pro Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-smart-8-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Smart 8</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto E13 to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:13:27.302Z
-updated: 2024-05-01T02:13:27.302Z
+date: 2024-05-19T18:55:06.981Z
+updated: 2024-05-20T18:55:06.981Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-x-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone X</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy F15 5G</u></a></li>
 </ul></div>
+
 

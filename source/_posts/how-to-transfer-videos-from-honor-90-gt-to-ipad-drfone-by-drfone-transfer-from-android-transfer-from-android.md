@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor 90 GT to iPad | Dr.fone
-date: 2024-04-30T02:21:54.346Z
-updated: 2024-05-01T02:21:54.346Z
+date: 2024-05-19T18:55:13.929Z
+updated: 2024-05-20T18:55:13.929Z
 tags: 
   - transfer
 categories:
@@ -505,4 +505,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12t-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12T Pro to PC? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-nokia-c110-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Nokia C110 by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

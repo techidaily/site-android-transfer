@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X9b to New Android? | Dr.fone
-date: 2024-04-30T02:17:36.582Z
-updated: 2024-05-01T02:17:36.582Z
+date: 2024-05-19T18:55:10.486Z
+updated: 2024-05-20T18:55:10.486Z
 tags: 
   - transfer
 categories:
@@ -549,4 +549,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://ai-editing-video.techidaily.com/updated-a-roster-of-8-top-color-match-generators/"><u>Updated A Roster of 8 Top Color Match Generators</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

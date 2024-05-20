@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Yuva 2 Pro to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:03.249Z
-updated: 2024-05-01T02:18:03.249Z
+date: 2024-05-19T18:55:10.872Z
+updated: 2024-05-20T18:55:10.872Z
 tags: 
   - transfer
 categories:
@@ -522,4 +522,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Itel P55T | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/will-galaxy-a15-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A15 5G play AVCHD mts files?</u></a></li>
 </ul></div>
+
 

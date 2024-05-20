@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 7 HD to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:47.085Z
-updated: 2024-05-01T02:17:47.085Z
+date: 2024-05-19T18:55:10.640Z
+updated: 2024-05-20T18:55:10.640Z
 tags: 
   - transfer
 categories:
@@ -376,4 +376,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-13-pro-max-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 13 Pro Max to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-3-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT 3 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

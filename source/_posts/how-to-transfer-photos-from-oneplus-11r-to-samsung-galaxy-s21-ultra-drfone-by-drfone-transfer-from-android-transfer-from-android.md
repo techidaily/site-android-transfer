@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From OnePlus 11R to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:32.735Z
-updated: 2024-05-01T02:18:32.735Z
+date: 2024-05-19T18:55:11.251Z
+updated: 2024-05-20T18:55:11.251Z
 tags: 
   - transfer
 categories:
@@ -297,4 +297,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy Z Flip 5</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-tecno-spark-20-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Tecno Spark 20</u></a></li>
 </ul></div>
+
 

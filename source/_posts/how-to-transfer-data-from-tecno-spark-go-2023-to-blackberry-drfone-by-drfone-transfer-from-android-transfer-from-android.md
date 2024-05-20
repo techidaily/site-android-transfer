@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark Go (2023) to BlackBerry | Dr.fone
-date: 2024-04-30T02:15:01.080Z
-updated: 2024-05-01T02:15:01.080Z
+date: 2024-05-19T18:55:08.536Z
+updated: 2024-05-20T18:55:08.536Z
 tags: 
   - transfer
 categories:
@@ -538,4 +538,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-reno-9a-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Reno 9A on Mac?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y28-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y28 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
 </ul></div>
+
 

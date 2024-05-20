@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Lava Yuva 2 to iPad | Dr.fone
-date: 2024-04-30T02:22:08.155Z
-updated: 2024-05-01T02:22:08.155Z
+date: 2024-05-19T18:55:14.433Z
+updated: 2024-05-20T18:55:14.433Z
 tags: 
   - transfer
 categories:
@@ -477,4 +477,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-6-plus-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 6 Plus? Fixed | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

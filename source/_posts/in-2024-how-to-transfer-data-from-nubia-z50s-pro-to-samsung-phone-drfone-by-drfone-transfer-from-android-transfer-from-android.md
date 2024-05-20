@@ -475,3 +475,4 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20c-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Photos from Tecno Spark 20C to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

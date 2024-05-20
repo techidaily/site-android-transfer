@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus 12R to New Android? | Dr.fone
-date: 2024-04-30T02:18:33.709Z
-updated: 2024-05-01T02:18:33.709Z
+date: 2024-05-19T18:55:11.260Z
+updated: 2024-05-20T18:55:11.260Z
 tags: 
   - transfer
 categories:
@@ -499,4 +499,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo K11x | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi K70 Pro</u></a></li>
 </ul></div>
+
 

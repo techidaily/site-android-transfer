@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G23 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.351Z
-updated: 2024-05-01T02:13:27.351Z
+date: 2024-05-19T18:55:07.011Z
+updated: 2024-05-20T18:55:07.011Z
 tags: 
   - transfer
 categories:
@@ -500,4 +500,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi 13C | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

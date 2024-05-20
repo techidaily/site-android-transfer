@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 10 V to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:14:44.342Z
-updated: 2024-05-01T02:14:44.342Z
+date: 2024-05-19T18:55:08.329Z
+updated: 2024-05-20T18:55:08.329Z
 tags: 
   - transfer
 categories:
@@ -591,4 +591,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-12-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 12 Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a05-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A05 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

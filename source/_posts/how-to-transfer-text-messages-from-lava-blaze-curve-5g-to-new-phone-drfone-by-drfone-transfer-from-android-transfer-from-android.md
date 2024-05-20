@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Blaze Curve 5G to New Phone | Dr.fone
-date: 2024-04-30T02:20:58.337Z
-updated: 2024-05-01T02:20:58.337Z
+date: 2024-05-19T18:55:13.287Z
+updated: 2024-05-20T18:55:13.287Z
 tags: 
   - transfer
 categories:
@@ -484,4 +484,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://fix-guide.techidaily.com/poco-c51-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

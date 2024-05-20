@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Huawei P60 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:39.864Z
-updated: 2024-05-01T02:17:39.864Z
+date: 2024-05-19T18:55:10.542Z
+updated: 2024-05-20T18:55:10.542Z
 tags: 
   - transfer
 categories:
@@ -507,4 +507,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-defy-2-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola Defy 2 without App | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y200-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y200 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

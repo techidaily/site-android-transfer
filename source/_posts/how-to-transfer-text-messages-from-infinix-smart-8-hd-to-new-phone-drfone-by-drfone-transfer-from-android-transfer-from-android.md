@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Smart 8 HD to New Phone | Dr.fone
-date: 2024-04-30T02:20:53.966Z
-updated: 2024-05-01T02:20:53.966Z
+date: 2024-05-19T18:55:13.236Z
+updated: 2024-05-20T18:55:13.236Z
 tags: 
   - transfer
 categories:
@@ -437,4 +437,5 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 <li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-f54-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy F54 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-infinix-note-30-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Note 30 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

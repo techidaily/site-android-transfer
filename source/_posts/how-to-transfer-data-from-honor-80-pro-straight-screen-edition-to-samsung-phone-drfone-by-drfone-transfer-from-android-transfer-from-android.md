@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 80 Pro Straight Screen Edition to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.603Z
-updated: 2024-05-01T02:13:26.603Z
+date: 2024-05-19T18:55:06.332Z
+updated: 2024-05-20T18:55:06.332Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/" ><u>Which is the Best Fake GPS Joystick App On Infinix Smart 7 HD? | Dr.fone</u></a></li>
 </ul></div>
+
 

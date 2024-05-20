@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 30 5G to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:40.644Z
-updated: 2024-05-01T02:17:40.644Z
+date: 2024-05-19T18:55:10.550Z
+updated: 2024-05-20T18:55:10.550Z
 tags: 
   - transfer
 categories:
@@ -556,4 +556,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lava-yuva-3-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lava Yuva 3 Pro FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

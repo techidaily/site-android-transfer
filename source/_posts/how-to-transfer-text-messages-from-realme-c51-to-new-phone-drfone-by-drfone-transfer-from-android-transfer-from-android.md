@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme C51 to New Phone | Dr.fone
-date: 2024-04-30T02:21:21.486Z
-updated: 2024-05-01T02:21:21.486Z
+date: 2024-05-19T18:55:13.547Z
+updated: 2024-05-20T18:55:13.547Z
 tags: 
   - transfer
 categories:
@@ -323,4 +323,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://ai-video-translation.techidaily.com/new-unlocking-global-audiences-top-video-language-converters-for-2024/"><u>New Unlocking Global Audiences Top Video Language Converters for 2024</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 12 mini</u></a></li>
 </ul></div>
+
 

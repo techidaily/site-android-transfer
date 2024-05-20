@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 1 V to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:14:43.572Z
-updated: 2024-05-01T02:14:43.572Z
+date: 2024-05-19T18:55:08.322Z
+updated: 2024-05-20T18:55:08.322Z
 tags: 
   - transfer
 categories:
@@ -644,4 +644,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-a15-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy A15 5G in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor X50i | Dr.fone</u></a></li>
 </ul></div>
+
 

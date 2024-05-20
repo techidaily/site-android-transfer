@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your OnePlus 11R Data? | Dr.fone
-date: 2024-04-30T02:23:26.759Z
-updated: 2024-05-01T02:23:26.759Z
+date: 2024-05-19T18:55:15.266Z
+updated: 2024-05-20T18:55:15.266Z
 tags: 
   - transfer
 categories:
@@ -473,4 +473,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-spark-10-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Spark 10 Pro Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

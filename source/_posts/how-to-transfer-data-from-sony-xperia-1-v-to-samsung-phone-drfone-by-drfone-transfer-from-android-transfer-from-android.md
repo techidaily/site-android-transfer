@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 1 V to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:44.149Z
-updated: 2024-05-01T02:14:44.149Z
+date: 2024-05-19T18:55:08.327Z
+updated: 2024-05-20T18:55:08.327Z
 tags: 
   - transfer
 categories:
@@ -535,4 +535,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://ai-video-editing.techidaily.com/1713954166100-new-how-to-make-split-screen-videos-in-filmora-for-2024/"><u>New How To Make Split Screen Videos in Filmora for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-g22-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia G22 FRP Locks</u></a></li>
 </ul></div>
+
 

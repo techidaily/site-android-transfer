@@ -445,3 +445,4 @@ In conclusion, there are various methods to transfer videos from Motorola Moto G
      data-full-width-responsive="true"></ins>
 
 
+

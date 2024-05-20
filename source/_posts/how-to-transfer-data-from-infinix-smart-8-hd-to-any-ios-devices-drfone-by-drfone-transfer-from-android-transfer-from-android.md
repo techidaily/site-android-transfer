@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 HD to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:13:26.919Z
-updated: 2024-05-01T02:13:26.919Z
+date: 2024-05-19T18:55:06.622Z
+updated: 2024-05-20T18:55:06.622Z
 tags: 
   - transfer
 categories:
@@ -505,4 +505,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-m54-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy M54 5G Phones</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto E13? | Dr.fone</u></a></li>
 </ul></div>
+
 

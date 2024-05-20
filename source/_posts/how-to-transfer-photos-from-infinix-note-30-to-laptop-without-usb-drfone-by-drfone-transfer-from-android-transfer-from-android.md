@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:44.751Z
-updated: 2024-05-01T02:17:44.751Z
+date: 2024-05-19T18:55:10.620Z
+updated: 2024-05-20T18:55:10.620Z
 tags: 
   - transfer
 categories:
@@ -510,4 +510,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>Updated In 2024, A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v27-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V27 Pro to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

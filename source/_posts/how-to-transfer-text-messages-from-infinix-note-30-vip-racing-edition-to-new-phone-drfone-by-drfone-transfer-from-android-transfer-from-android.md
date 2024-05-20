@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Note 30 VIP Racing Edition to New Phone | Dr.fone
-date: 2024-04-30T02:20:53.000Z
-updated: 2024-05-01T02:20:53.000Z
+date: 2024-05-19T18:55:13.228Z
+updated: 2024-05-20T18:55:13.228Z
 tags: 
   - transfer
 categories:
@@ -426,4 +426,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a05s-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A05s Unlock Without Password</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-c02-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia C02 to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

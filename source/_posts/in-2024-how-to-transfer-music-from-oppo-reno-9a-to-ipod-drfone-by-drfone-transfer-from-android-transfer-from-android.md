@@ -594,3 +594,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nubia-z50s-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nubia Z50S Pro to iPhone | Dr.fone</u></a></li>
 </ul></div>
 
+

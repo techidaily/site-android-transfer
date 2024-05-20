@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nubia Z50 Ultra to New Android? | Dr.fone
-date: 2024-04-30T02:18:30.745Z
-updated: 2024-05-01T02:18:30.745Z
+date: 2024-05-19T18:55:11.214Z
+updated: 2024-05-20T18:55:11.214Z
 tags: 
   - transfer
 categories:
@@ -713,4 +713,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lava-yuva-2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lava Yuva 2 Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlocking-fcpx-advanced-image-cropping-techniques/"><u>Updated In 2024, Unlocking FCPX Advanced Image Cropping Techniques</u></a></li>
 </ul></div>
+
 

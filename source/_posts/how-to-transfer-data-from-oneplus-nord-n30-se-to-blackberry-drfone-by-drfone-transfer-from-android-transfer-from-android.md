@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord N30 SE to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.792Z
-updated: 2024-05-01T02:13:27.792Z
+date: 2024-05-19T18:55:07.317Z
+updated: 2024-05-20T18:55:07.317Z
 tags: 
   - transfer
 categories:
@@ -496,4 +496,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-hot-40-pro-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Hot 40 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-play-7t-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Play 7T Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus 11 5G to New Android? | Dr.fone
-date: 2024-04-30T02:18:31.946Z
-updated: 2024-05-01T02:18:31.946Z
+date: 2024-05-19T18:55:11.223Z
+updated: 2024-05-20T18:55:11.223Z
 tags: 
   - transfer
 categories:
@@ -462,4 +462,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-10-proplus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 10 Pro+ 5G phone? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Samsung Galaxy S24 Ultra?</u></a></li>
 </ul></div>
+
 

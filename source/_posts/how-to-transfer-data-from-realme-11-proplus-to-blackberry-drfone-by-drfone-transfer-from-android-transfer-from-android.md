@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme 11 Pro+ to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:58.380Z
-updated: 2024-05-01T02:13:58.380Z
+date: 2024-05-19T18:55:07.754Z
+updated: 2024-05-20T18:55:07.754Z
 tags: 
   - transfer
 categories:
@@ -427,4 +427,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y78plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y78+? Fixed | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-y100-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo Y100 5G</u></a></li>
 </ul></div>
+
 

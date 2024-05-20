@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus 11R to iPad | Dr.fone
-date: 2024-04-30T02:22:17.600Z
-updated: 2024-05-01T02:22:17.600Z
+date: 2024-05-19T18:55:14.514Z
+updated: 2024-05-20T18:55:14.514Z
 tags: 
   - transfer
 categories:
@@ -459,4 +459,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-xs-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone XS Max Without Previous Owner?</u></a></li>
 </ul></div>
+
 

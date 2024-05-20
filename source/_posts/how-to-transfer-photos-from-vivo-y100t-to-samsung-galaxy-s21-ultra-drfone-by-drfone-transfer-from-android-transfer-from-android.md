@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo Y100t to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:20:14.363Z
-updated: 2024-05-01T02:20:14.363Z
+date: 2024-05-19T18:55:12.730Z
+updated: 2024-05-20T18:55:12.730Z
 tags: 
   - transfer
 categories:
@@ -563,4 +563,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Open? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

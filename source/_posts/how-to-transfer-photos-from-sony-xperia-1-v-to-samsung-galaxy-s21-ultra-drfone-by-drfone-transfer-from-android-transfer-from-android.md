@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Sony Xperia 1 V to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:42.292Z
-updated: 2024-05-01T02:19:42.292Z
+date: 2024-05-19T18:55:12.268Z
+updated: 2024-05-20T18:55:12.268Z
 tags: 
   - transfer
 categories:
@@ -341,4 +341,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-honor-x50iplus-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Honor X50i+?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713948867761-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-find-out-how-to-add/"><u>Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects for 2024</u></a></li>
 </ul></div>
+
 

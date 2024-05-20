@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Nokia C12 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:21:05.172Z
-updated: 2024-05-01T02:21:05.172Z
+date: 2024-05-19T18:55:13.355Z
+updated: 2024-05-20T18:55:13.355Z
 tags: 
   - transfer
 categories:
@@ -430,4 +430,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic 5 Lite | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 20C? | Dr.fone</u></a></li>
 </ul></div>
+
 

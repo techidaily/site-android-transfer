@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor X50 GT to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:32.665Z
-updated: 2024-05-01T02:17:32.665Z
+date: 2024-05-19T18:55:10.450Z
+updated: 2024-05-20T18:55:10.450Z
 tags: 
   - transfer
 categories:
@@ -464,4 +464,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-xs-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone XS</u></a></li>
 </ul></div>
+
 

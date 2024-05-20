@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 Pro to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:26.935Z
-updated: 2024-05-01T02:13:26.935Z
+date: 2024-05-19T18:55:06.679Z
+updated: 2024-05-20T18:55:06.679Z
 tags: 
   - transfer
 categories:
@@ -457,4 +457,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Cannot play MKV files on Samsung Galaxy F34 5G</u></a></li>
 </ul></div>
+
 

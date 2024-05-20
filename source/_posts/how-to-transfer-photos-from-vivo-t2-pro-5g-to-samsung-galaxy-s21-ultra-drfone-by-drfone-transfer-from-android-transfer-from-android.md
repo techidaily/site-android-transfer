@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo T2 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:20:01.203Z
-updated: 2024-05-01T02:20:01.203Z
+date: 2024-05-19T18:55:12.562Z
+updated: 2024-05-20T18:55:12.562Z
 tags: 
   - transfer
 categories:
@@ -316,4 +316,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-a59-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo A59 5G on Mac?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-narzo-60-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme Narzo 60 5G Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

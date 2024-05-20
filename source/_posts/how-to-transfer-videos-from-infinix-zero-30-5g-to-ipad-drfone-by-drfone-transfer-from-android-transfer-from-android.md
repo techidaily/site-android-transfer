@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Zero 30 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:03.857Z
-updated: 2024-05-01T02:22:03.857Z
+date: 2024-05-19T18:55:14.356Z
+updated: 2024-05-20T18:55:14.356Z
 tags: 
   - transfer
 categories:
@@ -501,4 +501,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://techidaily.com/sign-wps-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wps file Online for Free</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
+
 

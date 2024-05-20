@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Poco C65 to New Phone | Dr.fone
-date: 2024-04-30T02:21:17.552Z
-updated: 2024-05-01T02:21:17.552Z
+date: 2024-05-19T18:55:13.515Z
+updated: 2024-05-20T18:55:13.515Z
 tags: 
   - transfer
 categories:
@@ -408,4 +408,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://ai-video-editing.techidaily.com/new-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-mini-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 12 mini to Factory Settings? | Dr.fone</u></a></li>
 </ul></div>
+
 

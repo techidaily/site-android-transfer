@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 Ultra to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:27:15.665Z
-updated: 2024-05-01T02:27:15.665Z
+date: 2024-05-19T18:55:17.794Z
+updated: 2024-05-20T18:55:17.794Z
 tags: 
   - transfer
 categories:
@@ -529,4 +529,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme 10T 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-polaroid-collage/"><u>New How To Make a Polaroid Collage</u></a></li>
 </ul></div>
+
 

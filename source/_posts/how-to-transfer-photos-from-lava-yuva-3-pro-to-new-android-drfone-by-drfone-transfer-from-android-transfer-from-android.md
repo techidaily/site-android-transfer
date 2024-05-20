@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Yuva 3 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:18:04.722Z
-updated: 2024-05-01T02:18:04.722Z
+date: 2024-05-19T18:55:10.883Z
+updated: 2024-05-20T18:55:10.883Z
 tags: 
   - transfer
 categories:
@@ -503,4 +503,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Mix Fold 3 Phone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone SE | Dr.fone</u></a></li>
 </ul></div>
+
 

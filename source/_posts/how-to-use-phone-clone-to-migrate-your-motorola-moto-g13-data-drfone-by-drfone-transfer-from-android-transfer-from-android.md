@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Motorola Moto G13 Data? | Dr.fone
-date: 2024-04-30T02:23:20.466Z
-updated: 2024-05-01T02:23:20.466Z
+date: 2024-05-19T18:55:15.184Z
+updated: 2024-05-20T18:55:15.184Z
 tags: 
   - transfer
 categories:
@@ -506,4 +506,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 14 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-sony-xperia-5-v-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Sony Xperia 5 V to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

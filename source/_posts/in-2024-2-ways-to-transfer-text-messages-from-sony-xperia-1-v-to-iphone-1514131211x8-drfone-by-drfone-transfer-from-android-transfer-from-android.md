@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Sony Xperia 1 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:59.062Z
-updated: 2024-05-01T02:24:59.062Z
+date: 2024-05-19T18:55:16.177Z
+updated: 2024-05-20T18:55:16.177Z
 tags: 
   - transfer
 categories:
@@ -472,4 +472,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://review-topics.techidaily.com/play-mov-movies-on-huawei-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Huawei , is it possible?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 12 mini without Password?</u></a></li>
 </ul></div>
+
 

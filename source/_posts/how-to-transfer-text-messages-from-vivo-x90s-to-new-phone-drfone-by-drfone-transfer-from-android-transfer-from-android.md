@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo X90S to New Phone | Dr.fone
-date: 2024-04-30T02:21:40.834Z
-updated: 2024-05-01T02:21:40.834Z
+date: 2024-05-19T18:55:13.769Z
+updated: 2024-05-20T18:55:13.769Z
 tags: 
   - transfer
 categories:
@@ -490,4 +490,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-s17-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo S17 to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-itel-a60s-by-drfone-android/"><u>In 2024, How to Bypass FRP from Itel A60s?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Hot 40 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:42.800Z
-updated: 2024-05-01T02:17:42.800Z
+date: 2024-05-19T18:55:10.569Z
+updated: 2024-05-20T18:55:10.569Z
 tags: 
   - transfer
 categories:
@@ -413,4 +413,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nord-n30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nord N30 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 

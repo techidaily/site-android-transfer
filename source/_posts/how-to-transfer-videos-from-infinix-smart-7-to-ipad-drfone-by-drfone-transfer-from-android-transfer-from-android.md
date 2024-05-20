@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Smart 7 to iPad | Dr.fone
-date: 2024-04-30T02:22:02.784Z
-updated: 2024-05-01T02:22:02.784Z
+date: 2024-05-19T18:55:14.348Z
+updated: 2024-05-20T18:55:14.348Z
 tags: 
   - transfer
 categories:
@@ -456,4 +456,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://ai-editing-video.techidaily.com/top-vhs-sound-effect-that-you-can-use-in-video-making-for-2024/"><u>Top VHS Sound Effect That You Can Use in Video Making for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

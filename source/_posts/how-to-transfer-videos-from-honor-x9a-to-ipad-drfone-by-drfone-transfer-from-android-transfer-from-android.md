@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor X9a to iPad | Dr.fone
-date: 2024-04-30T02:21:58.853Z
-updated: 2024-05-01T02:21:58.853Z
+date: 2024-05-19T18:55:14.317Z
+updated: 2024-05-20T18:55:14.317Z
 tags: 
   - transfer
 categories:
@@ -559,4 +559,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-elevate-your-events-with-these-video-invitation-creator-apps/"><u>2024 Approved Elevate Your Events with These Video Invitation Creator Apps</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-converting-conversations-speech-to-text-made-easy/"><u>Updated 2024 Approved Converting Conversations Speech to Text Made Easy</u></a></li>
 </ul></div>
+
 

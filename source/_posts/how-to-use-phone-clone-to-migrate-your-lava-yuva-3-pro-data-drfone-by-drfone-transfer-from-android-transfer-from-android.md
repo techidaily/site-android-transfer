@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Lava Yuva 3 Pro Data? | Dr.fone
-date: 2024-04-30T02:23:17.768Z
-updated: 2024-05-01T02:23:17.768Z
+date: 2024-05-19T18:55:15.166Z
+updated: 2024-05-20T18:55:15.166Z
 tags: 
   - transfer
 categories:
@@ -622,4 +622,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-15-pro-max-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 15 Pro Max Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

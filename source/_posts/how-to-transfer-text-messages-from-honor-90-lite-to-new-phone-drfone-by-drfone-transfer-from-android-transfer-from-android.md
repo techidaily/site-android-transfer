@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor 90 Lite to New Phone | Dr.fone
-date: 2024-04-30T02:20:45.608Z
-updated: 2024-05-01T02:20:45.608Z
+date: 2024-05-19T18:55:13.128Z
+updated: 2024-05-20T18:55:13.128Z
 tags: 
   - transfer
 categories:
@@ -471,4 +471,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo S17t | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-sony-xperia-1-v-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

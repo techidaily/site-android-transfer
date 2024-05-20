@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y36i to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:15:33.374Z
-updated: 2024-05-01T02:15:33.374Z
+date: 2024-05-19T18:55:08.958Z
+updated: 2024-05-20T18:55:08.958Z
 tags: 
   - transfer
 categories:
@@ -546,4 +546,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6s-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6s Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

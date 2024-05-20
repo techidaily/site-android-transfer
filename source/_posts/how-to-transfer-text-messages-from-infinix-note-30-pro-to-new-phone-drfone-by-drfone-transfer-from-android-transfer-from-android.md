@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Note 30 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:52.612Z
-updated: 2024-05-01T02:20:52.612Z
+date: 2024-05-19T18:55:13.224Z
+updated: 2024-05-20T18:55:13.224Z
 tags: 
   - transfer
 categories:
@@ -414,4 +414,5 @@ Regardless of the fact that many free solutions are there that can help you **tr
 <li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 14? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-11-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 11 Backup Password? Heres What to Do</u></a></li>
 </ul></div>
+
 

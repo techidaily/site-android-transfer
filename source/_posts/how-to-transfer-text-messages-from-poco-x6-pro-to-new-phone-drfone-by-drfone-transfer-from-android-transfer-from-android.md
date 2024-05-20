@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Poco X6 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:21:19.105Z
-updated: 2024-05-01T02:21:19.105Z
+date: 2024-05-19T18:55:13.527Z
+updated: 2024-05-20T18:55:13.527Z
 tags: 
   - transfer
 categories:
@@ -474,4 +474,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-5-best-windows-movie-maker-mac-equivalents/"><u>2024 Approved Top 5 Best Windows Movie Maker Mac Equivalents</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A25 5G?</u></a></li>
 </ul></div>
+
 

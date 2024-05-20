@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y36i to iPad | Dr.fone
-date: 2024-04-30T02:22:53.049Z
-updated: 2024-05-01T02:22:53.049Z
+date: 2024-05-19T18:55:14.869Z
+updated: 2024-05-20T18:55:14.869Z
 tags: 
   - transfer
 categories:
@@ -512,4 +512,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Huawei P60 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-detailed-steps-to-rotate-videos-in-lightworks/"><u>Updated 2024 Approved Detailed Steps to Rotate Videos in Lightworks</u></a></li>
 </ul></div>
+
 

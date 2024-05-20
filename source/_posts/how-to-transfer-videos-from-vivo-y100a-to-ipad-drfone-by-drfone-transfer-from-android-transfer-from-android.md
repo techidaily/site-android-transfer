@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y100A to iPad | Dr.fone
-date: 2024-04-30T02:22:50.655Z
-updated: 2024-05-01T02:22:50.655Z
+date: 2024-05-19T18:55:14.852Z
+updated: 2024-05-20T18:55:14.852Z
 tags: 
   - transfer
 categories:
@@ -460,4 +460,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-vivo-g2-phone-by-drfone-android/"><u>How to Reset a Locked Vivo G2 Phone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto G 5G (2023) to New Android? | Dr.fone
-date: 2024-04-30T02:18:12.412Z
-updated: 2024-05-01T02:18:12.412Z
+date: 2024-05-19T18:55:11.010Z
+updated: 2024-05-20T18:55:11.010Z
 tags: 
   - transfer
 categories:
@@ -522,4 +522,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor Magic 5 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-simple-tricks-make-3d-gif-production-of-inspiration-pop-up/"><u>Updated 2024 Approved Simple Tricks Make 3D GIF Production of Inspiration Pop Up</u></a></li>
 </ul></div>
+
 

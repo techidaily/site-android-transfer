@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Realme Note 50 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:51.898Z
-updated: 2024-05-01T02:24:51.898Z
+date: 2024-05-19T18:55:16.116Z
+updated: 2024-05-20T18:55:16.116Z
 tags: 
   - transfer
 categories:
@@ -449,4 +449,5 @@ When you know how to move music from Realme Note 50 to iPhone, you can easily ma
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a23-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A23 5G Unlock Without Password</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-vivo-y02t-by-fonelab-android-recover-music/"><u>How to restore wiped music on Vivo Y02T</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Samsung Galaxy S23 Ultra to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:36.965Z
-updated: 2024-05-01T02:19:36.965Z
+date: 2024-05-19T18:55:12.209Z
+updated: 2024-05-20T18:55:12.209Z
 tags: 
   - transfer
 categories:
@@ -490,4 +490,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-zero-5g-2023-turbo-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Zero 5G 2023 Turbo Bricked Devices | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Realme Narzo N53 | Dr.fone</u></a></li>
 </ul></div>
+
 

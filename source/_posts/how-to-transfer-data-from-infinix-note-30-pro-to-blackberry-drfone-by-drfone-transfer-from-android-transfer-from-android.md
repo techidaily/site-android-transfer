@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30 Pro to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.867Z
-updated: 2024-05-01T02:13:26.867Z
+date: 2024-05-19T18:55:06.586Z
+updated: 2024-05-20T18:55:06.586Z
 tags: 
   - transfer
 categories:
@@ -412,4 +412,5 @@ Truly, it’s now very easy to move contacts from Infinix Note 30 Pro to iPhone 
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-moto-g13-by-drfone-android/"><u>How to Bypass FRP from Motorola Moto G13?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-poco-f5-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Poco F5 Pro 5G Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

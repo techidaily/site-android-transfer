@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from HTC U23 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:37.682Z
-updated: 2024-05-01T02:17:37.682Z
+date: 2024-05-19T18:55:10.492Z
+updated: 2024-05-20T18:55:10.492Z
 tags: 
   - transfer
 categories:
@@ -495,4 +495,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-13-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 13 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-t2-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo T2 5G Phone Hassle-Free</u></a></li>
 </ul></div>
+
 

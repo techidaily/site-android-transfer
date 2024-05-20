@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Music from Sony Xperia 1 V to iPod | Dr.fone
-date: 2024-04-30T02:16:54.132Z
-updated: 2024-05-01T02:16:54.132Z
+date: 2024-05-19T18:55:09.997Z
+updated: 2024-05-20T18:55:09.997Z
 tags: 
   - transfer
 categories:
@@ -403,4 +403,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-know-how-to-add-luts-to-premiere-pro-in-this-guide-you-will-find-details-and-easy-steps-to-proceed-with-using-luts-in-premiere-pro/"><u>Updated Do You Want to Know How to Add LUTs to Premiere Pro? In This Guide, You Will Find Details and Easy Steps to Proceed with Using LUTs in Premiere Pro</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-11-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 11 Pro? 7 Mehtods You Cant-Miss</u></a></li>
 </ul></div>
+
 

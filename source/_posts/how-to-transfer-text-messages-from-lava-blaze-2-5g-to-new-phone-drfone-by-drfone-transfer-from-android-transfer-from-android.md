@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Blaze 2 5G to New Phone | Dr.fone
-date: 2024-04-30T02:20:57.758Z
-updated: 2024-05-01T02:20:57.758Z
+date: 2024-05-19T18:55:13.283Z
+updated: 2024-05-20T18:55:13.283Z
 tags: 
   - transfer
 categories:
@@ -272,4 +272,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-14-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi 14 Pro</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nokia C210 | Dr.fone</u></a></li>
 </ul></div>
+
 

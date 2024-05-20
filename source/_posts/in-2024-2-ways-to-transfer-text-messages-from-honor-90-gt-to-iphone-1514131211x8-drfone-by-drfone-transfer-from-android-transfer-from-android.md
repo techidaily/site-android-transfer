@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Honor 90 GT to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:12.405Z
-updated: 2024-05-01T02:24:12.405Z
+date: 2024-05-19T18:55:15.660Z
+updated: 2024-05-20T18:55:15.660Z
 tags: 
   - transfer
 categories:
@@ -453,4 +453,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y36-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y36 Phones with/without a PC</u></a></li>
 </ul></div>
+
 

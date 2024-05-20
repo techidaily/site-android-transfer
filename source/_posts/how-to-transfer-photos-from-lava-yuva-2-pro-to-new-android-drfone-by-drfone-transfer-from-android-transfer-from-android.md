@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Yuva 2 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:18:03.443Z
-updated: 2024-05-01T02:18:03.443Z
+date: 2024-05-19T18:55:10.874Z
+updated: 2024-05-20T18:55:10.874Z
 tags: 
   - transfer
 categories:
@@ -591,4 +591,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-v2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic V2 Devices | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y100-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y100 Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

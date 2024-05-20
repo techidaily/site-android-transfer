@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Poco C55 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:47.741Z
-updated: 2024-05-01T02:13:47.741Z
+date: 2024-05-19T18:55:07.627Z
+updated: 2024-05-20T18:55:07.627Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://howto.techidaily.com/why-your-realme-narzo-60x-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo 60x 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

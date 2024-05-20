@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From OnePlus Nord 3 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:36.861Z
-updated: 2024-05-01T02:18:36.861Z
+date: 2024-05-19T18:55:11.287Z
+updated: 2024-05-20T18:55:11.287Z
 tags: 
   - transfer
 categories:
@@ -440,4 +440,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S17t | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+
 

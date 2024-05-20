@@ -489,3 +489,4 @@ At last, we hope that you now know how to transfer music from Nubia Red Magic 8S
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-a18-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo A18 to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
 
+

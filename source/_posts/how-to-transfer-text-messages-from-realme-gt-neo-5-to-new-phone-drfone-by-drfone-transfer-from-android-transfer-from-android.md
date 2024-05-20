@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme GT Neo 5 to New Phone | Dr.fone
-date: 2024-04-30T02:21:23.239Z
-updated: 2024-05-01T02:21:23.239Z
+date: 2024-05-19T18:55:13.562Z
+updated: 2024-05-20T18:55:13.562Z
 tags: 
   - transfer
 categories:
@@ -400,4 +400,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Smart 7 HD? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme Narzo 60x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

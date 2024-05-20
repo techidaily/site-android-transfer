@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from ZTE Nubia Z60 Ultra to iPad | Dr.fone
-date: 2024-04-30T02:23:00.775Z
-updated: 2024-05-01T02:23:00.775Z
+date: 2024-05-19T18:55:14.950Z
+updated: 2024-05-20T18:55:14.950Z
 tags: 
   - transfer
 categories:
@@ -454,4 +454,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://fix-guide.techidaily.com/reasons-for-lava-agni-2-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Agni 2 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 

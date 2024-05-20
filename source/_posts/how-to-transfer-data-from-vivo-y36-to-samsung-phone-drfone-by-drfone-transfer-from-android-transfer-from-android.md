@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y36 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:33.180Z
-updated: 2024-05-01T02:15:33.180Z
+date: 2024-05-19T18:55:08.956Z
+updated: 2024-05-20T18:55:08.956Z
 tags: 
   - transfer
 categories:
@@ -470,4 +470,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo S18e? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Edge 2023? | Dr.fone</u></a></li>
 </ul></div>
+
 

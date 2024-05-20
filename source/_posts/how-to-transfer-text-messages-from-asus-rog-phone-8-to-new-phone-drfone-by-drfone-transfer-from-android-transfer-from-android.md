@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Asus ROG Phone 8 to New Phone | Dr.fone
-date: 2024-04-30T02:20:43.484Z
-updated: 2024-05-01T02:20:43.484Z
+date: 2024-05-19T18:55:13.110Z
+updated: 2024-05-20T18:55:13.110Z
 tags: 
   - transfer
 categories:
@@ -324,4 +324,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://ai-editing-video.techidaily.com/updated-11-ways-to-speed-up-a-video-on-iphone-for-2024/"><u>Updated 11 Ways To Speed Up A Video On iPhone for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-g42-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia G42 5G For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 

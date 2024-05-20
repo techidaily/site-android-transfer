@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Sony Xperia 10 V to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:36.518Z
-updated: 2024-05-01T02:29:36.518Z
+date: 2024-05-19T18:55:19.745Z
+updated: 2024-05-20T18:55:19.745Z
 tags: 
   - transfer
 categories:
@@ -475,4 +475,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-find-n3-flip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Find N3 Flip Devices</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

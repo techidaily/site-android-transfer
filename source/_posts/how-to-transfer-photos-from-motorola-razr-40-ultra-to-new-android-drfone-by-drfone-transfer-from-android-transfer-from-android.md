@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Razr 40 Ultra to New Android? | Dr.fone
-date: 2024-04-30T02:18:18.360Z
-updated: 2024-05-01T02:18:18.360Z
+date: 2024-05-19T18:55:11.071Z
+updated: 2024-05-20T18:55:11.071Z
 tags: 
   - transfer
 categories:
@@ -370,4 +370,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-reversing-time-lapse-videos-on-iphone-using-top-applications/"><u>2024 Approved Reversing Time Lapse Videos on iPhone Using Top Applications</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor 90 Lite? | Dr.fone</u></a></li>
 </ul></div>
+
 

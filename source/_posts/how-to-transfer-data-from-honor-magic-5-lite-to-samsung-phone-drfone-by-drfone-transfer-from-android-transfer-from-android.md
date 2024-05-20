@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor Magic 5 Lite to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.631Z
-updated: 2024-05-01T02:13:26.631Z
+date: 2024-05-19T18:55:06.361Z
+updated: 2024-05-20T18:55:06.361Z
 tags: 
   - transfer
 categories:
@@ -530,4 +530,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-htc-u23-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your HTC U23 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-reno-9a-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo Reno 9A Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

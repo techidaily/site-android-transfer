@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X50 GT to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:32.255Z
-updated: 2024-05-01T02:17:32.255Z
+date: 2024-05-19T18:55:10.446Z
+updated: 2024-05-20T18:55:10.446Z
 tags: 
   - transfer
 categories:
@@ -428,4 +428,5 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 <li><a href="https://techidaily.com/remove-honor-lock-screen-without-password-honor-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Lock Screen without Password(Honor 70 Lite 5G)</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-gt-5-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme GT 5 Pro for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

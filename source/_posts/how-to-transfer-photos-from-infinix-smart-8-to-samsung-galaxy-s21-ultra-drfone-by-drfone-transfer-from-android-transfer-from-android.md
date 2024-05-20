@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Smart 8 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:50.541Z
-updated: 2024-05-01T02:17:50.541Z
+date: 2024-05-19T18:55:10.707Z
+updated: 2024-05-20T18:55:10.707Z
 tags: 
   - transfer
 categories:
@@ -409,4 +409,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Nokia 105 Classic | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-12-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 12 Without a Passcode</u></a></li>
 </ul></div>
+
 

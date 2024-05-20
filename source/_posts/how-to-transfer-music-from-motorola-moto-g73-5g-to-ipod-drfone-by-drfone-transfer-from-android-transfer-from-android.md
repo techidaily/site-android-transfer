@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Music from Motorola Moto G73 5G to iPod | Dr.fone
-date: 2024-04-30T02:16:25.663Z
-updated: 2024-05-01T02:16:25.663Z
+date: 2024-05-19T18:55:09.761Z
+updated: 2024-05-20T18:55:09.761Z
 tags: 
   - transfer
 categories:
@@ -701,4 +701,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-clideo-slideshow-simply-for-2024/"><u>New How to Create a Clideo Slideshow Simply for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-se-2020-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone SE (2020) From Your Apple ID</u></a></li>
 </ul></div>
+
 

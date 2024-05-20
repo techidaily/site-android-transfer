@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 10C to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:27:20.731Z
-updated: 2024-05-01T02:27:20.731Z
+date: 2024-05-19T18:55:17.909Z
+updated: 2024-05-20T18:55:17.909Z
 tags: 
   - transfer
 categories:
@@ -509,4 +509,5 @@ When you know how to move music from Tecno Spark 10C to iPhone, you can easily m
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-lava-storm-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Lava Storm 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

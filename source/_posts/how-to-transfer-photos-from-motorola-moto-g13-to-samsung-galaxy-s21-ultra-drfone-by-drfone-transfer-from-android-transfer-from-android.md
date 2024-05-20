@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Moto G13 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:13.788Z
-updated: 2024-05-01T02:18:13.788Z
+date: 2024-05-19T18:55:11.029Z
+updated: 2024-05-20T18:55:11.029Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

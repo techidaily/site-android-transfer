@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus 12R to iPad | Dr.fone
-date: 2024-04-30T02:22:17.992Z
-updated: 2024-05-01T02:22:17.992Z
+date: 2024-05-19T18:55:14.517Z
+updated: 2024-05-20T18:55:14.517Z
 tags: 
   - transfer
 categories:
@@ -562,4 +562,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50s-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nubia Z50S Pro Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

@@ -482,3 +482,4 @@ To summarize, while it may seem troublesome to ****transfer files from Samsung G
      data-full-width-responsive="true"></ins>
 
 
+

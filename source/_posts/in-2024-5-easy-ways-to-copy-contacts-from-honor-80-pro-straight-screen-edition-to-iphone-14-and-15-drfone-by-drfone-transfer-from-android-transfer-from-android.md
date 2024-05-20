@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Honor 80 Pro Straight Screen Edition to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:30.946Z
-updated: 2024-05-01T02:26:30.946Z
+date: 2024-05-19T18:55:17.243Z
+updated: 2024-05-20T18:55:17.243Z
 tags: 
   - transfer
 categories:
@@ -472,4 +472,5 @@ How to Transfer Data from Honor 80 Pro Straight Screen Edition to BlackBerry Wit
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia 150 (2023) | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo K11x | Dr.fone</u></a></li>
 </ul></div>
+
 

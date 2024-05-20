@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y100i to New Phone | Dr.fone
-date: 2024-04-30T02:21:41.997Z
-updated: 2024-05-01T02:21:41.997Z
+date: 2024-05-19T18:55:13.778Z
+updated: 2024-05-20T18:55:13.778Z
 tags: 
   - transfer
 categories:
@@ -396,4 +396,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor Magic 5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Huawei P60? | Dr.fone</u></a></li>
 </ul></div>
+
 

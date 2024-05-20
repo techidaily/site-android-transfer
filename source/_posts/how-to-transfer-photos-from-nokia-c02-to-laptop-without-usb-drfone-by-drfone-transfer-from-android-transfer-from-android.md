@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia C02 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:20.524Z
-updated: 2024-05-01T02:18:20.524Z
+date: 2024-05-19T18:55:11.089Z
+updated: 2024-05-20T18:55:11.089Z
 tags: 
   - transfer
 categories:
@@ -762,4 +762,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-poco-x6-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Poco X6</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 6 Plus?</u></a></li>
 </ul></div>
+
 

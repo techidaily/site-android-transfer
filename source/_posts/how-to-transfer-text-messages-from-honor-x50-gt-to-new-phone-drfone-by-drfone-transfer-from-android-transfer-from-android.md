@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor X50 GT to New Phone | Dr.fone
-date: 2024-04-30T02:20:48.706Z
-updated: 2024-05-01T02:20:48.706Z
+date: 2024-05-19T18:55:13.182Z
+updated: 2024-05-20T18:55:13.182Z
 tags: 
   - transfer
 categories:
@@ -441,4 +441,5 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 <li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-13t-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi 13T ProMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

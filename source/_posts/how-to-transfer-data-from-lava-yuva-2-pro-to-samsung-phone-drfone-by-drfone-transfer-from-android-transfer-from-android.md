@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 2 Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.106Z
-updated: 2024-05-01T02:13:27.106Z
+date: 2024-05-19T18:55:06.859Z
+updated: 2024-05-20T18:55:06.859Z
 tags: 
   - transfer
 categories:
@@ -493,4 +493,5 @@ Truly, it’s now very easy to move contacts from Lava Yuva 2 Pro to iPhone (13/
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo A38 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Sony Xperia 10 V | Dr.fone</u></a></li>
 </ul></div>
+
 

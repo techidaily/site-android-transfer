@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor 90 GT to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:22.480Z
-updated: 2024-05-01T02:17:22.480Z
+date: 2024-05-19T18:55:10.336Z
+updated: 2024-05-20T18:55:10.336Z
 tags: 
   - transfer
 categories:
@@ -393,4 +393,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo X100? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

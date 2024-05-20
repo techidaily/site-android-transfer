@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix GT 10 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:40.449Z
-updated: 2024-05-01T02:17:40.449Z
+date: 2024-05-19T18:55:10.548Z
+updated: 2024-05-20T18:55:10.549Z
 tags: 
   - transfer
 categories:
@@ -469,4 +469,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c12-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C12 Pro Phone Screen?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-c51-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

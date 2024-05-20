@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Huawei Nova Y91 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.799Z
-updated: 2024-05-01T02:13:26.799Z
+date: 2024-05-19T18:55:06.517Z
+updated: 2024-05-20T18:55:06.517Z
 tags: 
   - transfer
 categories:
@@ -530,4 +530,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-13-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 13 Pro Space | Dr.fone</u></a></li>
 </ul></div>
+
 

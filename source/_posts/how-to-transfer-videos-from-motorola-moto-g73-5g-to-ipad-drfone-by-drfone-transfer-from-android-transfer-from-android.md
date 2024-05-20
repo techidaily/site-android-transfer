@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Motorola Moto G73 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:12.232Z
-updated: 2024-05-01T02:22:12.232Z
+date: 2024-05-19T18:55:14.462Z
+updated: 2024-05-20T18:55:14.462Z
 tags: 
   - transfer
 categories:
@@ -493,4 +493,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-oppo-a18-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo A18? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-motorola-edge-40-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Edge 40 Pro Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

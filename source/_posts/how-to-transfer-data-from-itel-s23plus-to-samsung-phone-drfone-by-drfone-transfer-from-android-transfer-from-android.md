@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Itel S23+ to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.051Z
-updated: 2024-05-01T02:13:27.051Z
+date: 2024-05-19T18:55:06.809Z
+updated: 2024-05-20T18:55:06.809Z
 tags: 
   - transfer
 categories:
@@ -488,4 +488,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-vivo-y200-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Vivo Y200</u></a></li>
 </ul></div>
+
 

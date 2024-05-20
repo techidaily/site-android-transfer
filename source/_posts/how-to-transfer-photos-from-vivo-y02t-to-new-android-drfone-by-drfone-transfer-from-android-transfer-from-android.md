@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y02T to New Android? | Dr.fone
-date: 2024-04-30T02:20:10.637Z
-updated: 2024-05-01T02:20:10.637Z
+date: 2024-05-19T18:55:12.697Z
+updated: 2024-05-20T18:55:12.697Z
 tags: 
   - transfer
 categories:
@@ -580,4 +580,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://review-topics.techidaily.com/itel-data-retrieval-tool-restore-lost-data-from-itel-a60s-by-fonelab-android-recover-data/"><u>Itel Data Retrieval tool – restore lost data from Itel A60s</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A18? | Dr.fone</u></a></li>
 </ul></div>
+
 

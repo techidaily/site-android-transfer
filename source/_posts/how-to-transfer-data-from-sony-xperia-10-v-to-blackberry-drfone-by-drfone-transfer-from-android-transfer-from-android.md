@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 10 V to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:44.534Z
-updated: 2024-05-01T02:14:44.534Z
+date: 2024-05-19T18:55:08.330Z
+updated: 2024-05-20T18:55:08.330Z
 tags: 
   - transfer
 categories:
@@ -389,4 +389,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-pova-5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Pova 5 Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 without Losing Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

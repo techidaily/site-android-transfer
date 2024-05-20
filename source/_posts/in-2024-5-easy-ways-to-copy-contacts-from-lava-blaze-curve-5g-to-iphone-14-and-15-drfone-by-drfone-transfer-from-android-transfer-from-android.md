@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Lava Blaze Curve 5G to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:44.012Z
-updated: 2024-05-01T02:26:44.012Z
+date: 2024-05-19T18:55:17.344Z
+updated: 2024-05-20T18:55:17.344Z
 tags: 
   - transfer
 categories:
@@ -538,4 +538,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-razr-40-by-fonelab-android-recover-video/"><u>How to recover old videos from your Razr 40</u></a></li>
 <li><a href="https://techidaily.com/samsung-data-retrieval-tool-restore-lost-data-from-samsung-galaxy-a14-4g-by-fonelab-android-recover-data/"><u>Samsung Data Retrieval tool – restore lost data from Samsung Galaxy A14 4G</u></a></li>
 </ul></div>
+
 

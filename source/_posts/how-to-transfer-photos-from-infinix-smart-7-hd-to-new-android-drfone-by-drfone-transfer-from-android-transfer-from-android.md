@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 7 HD to New Android? | Dr.fone
-date: 2024-04-30T02:17:47.279Z
-updated: 2024-05-01T02:17:47.279Z
+date: 2024-05-19T18:55:10.642Z
+updated: 2024-05-20T18:55:10.642Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic 6? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-v27e-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo V27e</u></a></li>
 </ul></div>
+
 

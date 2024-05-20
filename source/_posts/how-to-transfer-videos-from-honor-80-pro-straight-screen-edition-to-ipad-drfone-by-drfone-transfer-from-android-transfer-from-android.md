@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor 80 Pro Straight Screen Edition to iPad | Dr.fone
-date: 2024-04-30T02:21:54.153Z
-updated: 2024-05-01T02:21:54.153Z
+date: 2024-05-19T18:55:13.927Z
+updated: 2024-05-20T18:55:13.927Z
 tags: 
   - transfer
 categories:
@@ -345,4 +345,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters-mobile-and-desktop/"><u>New In 2024, How to Apply Video Filters Mobile and Desktop</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-13-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 13 Is Unlocked</u></a></li>
 </ul></div>
+
 

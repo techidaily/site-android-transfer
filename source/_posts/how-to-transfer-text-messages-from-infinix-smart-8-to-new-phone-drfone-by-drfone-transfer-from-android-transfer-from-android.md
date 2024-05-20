@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Smart 8 to New Phone | Dr.fone
-date: 2024-04-30T02:20:54.564Z
-updated: 2024-05-01T02:20:54.564Z
+date: 2024-05-19T18:55:13.241Z
+updated: 2024-05-20T18:55:13.241Z
 tags: 
   - transfer
 categories:
@@ -394,4 +394,5 @@ How to Transfer Data from Infinix Smart 8 to BlackBerry With 1-Click
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-x50-gt-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on X50 GT</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

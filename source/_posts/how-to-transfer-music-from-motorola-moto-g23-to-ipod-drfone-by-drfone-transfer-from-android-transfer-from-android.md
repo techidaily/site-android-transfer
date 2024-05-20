@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Music from Motorola Moto G23 to iPod | Dr.fone
-date: 2024-04-30T02:16:25.081Z
-updated: 2024-05-01T02:16:25.081Z
+date: 2024-05-19T18:55:09.758Z
+updated: 2024-05-20T18:55:09.758Z
 tags: 
   - transfer
 categories:
@@ -584,4 +584,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S24 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-vivo-s18e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18e without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

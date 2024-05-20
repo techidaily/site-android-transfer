@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy S23 Tactical Edition to New Android? | Dr.fone
-date: 2024-04-30T02:19:35.488Z
-updated: 2024-05-01T02:19:35.488Z
+date: 2024-05-19T18:55:12.173Z
+updated: 2024-05-20T18:55:12.173Z
 tags: 
   - transfer
 categories:
@@ -543,4 +543,5 @@ At last, we hope that you now know how to transfer music from Samsung Galaxy S23
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-xiaomi-mix-fold-3-easily-by-drfone-android/"><u>In 2024, How To Unlock a Xiaomi Mix Fold 3 Easily?</u></a></li>
 </ul></div>
+
 

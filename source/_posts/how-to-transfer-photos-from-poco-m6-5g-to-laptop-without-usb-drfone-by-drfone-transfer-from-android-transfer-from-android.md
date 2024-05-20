@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco M6 5G to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:19:01.301Z
-updated: 2024-05-01T02:19:01.301Z
+date: 2024-05-19T18:55:11.628Z
+updated: 2024-05-20T18:55:11.628Z
 tags: 
   - transfer
 categories:
@@ -597,4 +597,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://howto.techidaily.com/calls-on-vivo-t2x-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo T2x 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel A60s | Dr.fone</u></a></li>
 </ul></div>
+
 

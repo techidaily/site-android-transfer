@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Honor 100 Pro to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:48.671Z
-updated: 2024-05-01T02:28:48.671Z
+date: 2024-05-19T18:55:19.360Z
+updated: 2024-05-20T18:55:19.360Z
 tags: 
   - transfer
 categories:
@@ -553,4 +553,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-x50-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor X50 Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

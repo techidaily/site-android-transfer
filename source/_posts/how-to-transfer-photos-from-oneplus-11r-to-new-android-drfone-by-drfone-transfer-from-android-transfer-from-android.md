@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus 11R to New Android? | Dr.fone
-date: 2024-04-30T02:18:32.533Z
-updated: 2024-05-01T02:18:32.533Z
+date: 2024-05-19T18:55:11.249Z
+updated: 2024-05-20T18:55:11.249Z
 tags: 
   - transfer
 categories:
@@ -556,4 +556,5 @@ At last, we hope that you now know how to transfer music from OnePlus 11R to Oth
 <li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 6 Plus You Should Try Out</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-s24plus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy S24+ Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

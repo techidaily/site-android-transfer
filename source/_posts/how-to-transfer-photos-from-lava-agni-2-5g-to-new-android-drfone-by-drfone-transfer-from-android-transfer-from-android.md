@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Agni 2 5G to New Android? | Dr.fone
-date: 2024-04-30T02:17:59.213Z
-updated: 2024-05-01T02:17:59.213Z
+date: 2024-05-19T18:55:10.839Z
+updated: 2024-05-20T18:55:10.839Z
 tags: 
   - transfer
 categories:
@@ -476,4 +476,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-8t-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 8T 5G for Parents | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-n3-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find N3 Phone</u></a></li>
 </ul></div>
+
 

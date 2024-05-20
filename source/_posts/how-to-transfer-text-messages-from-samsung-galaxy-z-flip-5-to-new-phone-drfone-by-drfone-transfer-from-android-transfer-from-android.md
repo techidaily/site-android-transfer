@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy Z Flip 5 to New Phone | Dr.fone
-date: 2024-04-30T02:21:31.191Z
-updated: 2024-05-01T02:21:31.191Z
+date: 2024-05-19T18:55:13.692Z
+updated: 2024-05-20T18:55:13.692Z
 tags: 
   - transfer
 categories:
@@ -383,4 +383,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-7-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 7 online without jailbreak</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

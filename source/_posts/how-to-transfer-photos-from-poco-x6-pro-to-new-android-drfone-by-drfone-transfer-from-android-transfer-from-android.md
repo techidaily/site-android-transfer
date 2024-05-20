@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco X6 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:19:04.459Z
-updated: 2024-05-01T02:19:04.459Z
+date: 2024-05-19T18:55:11.666Z
+updated: 2024-05-20T18:55:11.666Z
 tags: 
   - transfer
 categories:
@@ -517,4 +517,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-use-capcut-translate-to-transform-video-content/"><u>In 2024, How To Use CapCut Translate to Transform Video Content</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-smart-8-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Smart 8 Pro FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

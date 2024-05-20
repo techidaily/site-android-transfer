@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Motorola Moto G14 to iPad | Dr.fone
-date: 2024-04-30T02:22:11.459Z
-updated: 2024-05-01T02:22:11.459Z
+date: 2024-05-19T18:55:14.457Z
+updated: 2024-05-20T18:55:14.457Z
 tags: 
   - transfer
 categories:
@@ -693,4 +693,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a14-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A14 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-se-2020-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE (2020) Keeps Asking for Outlook Password</u></a></li>
 </ul></div>
+
 

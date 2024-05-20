@@ -380,3 +380,4 @@ In conclusion, there are various methods to transfer videos from Samsung Galaxy 
      data-full-width-responsive="true"></ins>
 
 
+

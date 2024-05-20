@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y02T to New Phone | Dr.fone
-date: 2024-04-30T02:21:41.029Z
-updated: 2024-05-01T02:21:41.029Z
+date: 2024-05-19T18:55:13.770Z
+updated: 2024-05-20T18:55:13.770Z
 tags: 
   - transfer
 categories:
@@ -384,4 +384,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-12-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi 12 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo K11x | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Google Pixel Fold to New Phone | Dr.fone
-date: 2024-04-30T02:20:44.450Z
-updated: 2024-05-01T02:20:44.450Z
+date: 2024-05-19T18:55:13.118Z
+updated: 2024-05-20T18:55:13.118Z
 tags: 
   - transfer
 categories:
@@ -415,4 +415,5 @@ When you know how to move music from Google Pixel Fold to iPhone, you can easily
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y55s 5G (2023) Phone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-xr-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone XR</u></a></li>
 </ul></div>
+
 

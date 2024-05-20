@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 30i to New Android? | Dr.fone
-date: 2024-04-30T02:17:41.422Z
-updated: 2024-05-01T02:17:41.422Z
+date: 2024-05-19T18:55:10.557Z
+updated: 2024-05-20T18:55:10.557Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-things-people-know-about-wedding-slideshow/"><u>2024 Approved Top Things People Know About Wedding Slideshow</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola Moto G34 5G</u></a></li>
 </ul></div>
+
 

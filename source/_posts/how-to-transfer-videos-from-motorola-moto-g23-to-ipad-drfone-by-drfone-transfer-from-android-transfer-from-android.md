@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Motorola Moto G23 to iPad | Dr.fone
-date: 2024-04-30T02:22:11.653Z
-updated: 2024-05-01T02:22:11.653Z
+date: 2024-05-19T18:55:14.459Z
+updated: 2024-05-20T18:55:14.459Z
 tags: 
   - transfer
 categories:
@@ -557,4 +557,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G14 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Itel S23 to New Phone | Dr.fone
-date: 2024-04-30T02:20:57.176Z
-updated: 2024-05-01T02:20:57.176Z
+date: 2024-05-19T18:55:13.271Z
+updated: 2024-05-20T18:55:13.271Z
 tags: 
   - transfer
 categories:
@@ -417,4 +417,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6 Passcode without a Computer | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-14-plus-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 14 Plus Is Unlocked</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C300 to iPad | Dr.fone
-date: 2024-04-30T02:22:14.934Z
-updated: 2024-05-01T02:22:14.934Z
+date: 2024-05-19T18:55:14.481Z
+updated: 2024-05-20T18:55:14.481Z
 tags: 
   - transfer
 categories:
@@ -467,4 +467,5 @@ At last, we hope that you now know how to transfer music from Nokia C300 to Othe
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-s18e-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo S18e Devices</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Note 30 Pro</u></a></li>
 </ul></div>
+
 

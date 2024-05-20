@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.124Z
-updated: 2024-05-01T02:13:27.124Z
+date: 2024-05-19T18:55:06.877Z
+updated: 2024-05-20T18:55:06.877Z
 tags: 
   - transfer
 categories:
@@ -485,4 +485,5 @@ Truly, it’s now very easy to move contacts from Lava Yuva 3 to iPhone (13/14/1
 <li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic5-ultimatefrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic5 UltimateFRP Lock</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-magic-6-lite-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor Magic 6 Lite Quickly? | Dr.fone</u></a></li>
 </ul></div>
+
 

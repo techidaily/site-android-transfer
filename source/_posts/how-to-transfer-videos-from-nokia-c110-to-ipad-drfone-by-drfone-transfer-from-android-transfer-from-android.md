@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C110 to iPad | Dr.fone
-date: 2024-04-30T02:22:13.778Z
-updated: 2024-05-01T02:22:13.778Z
+date: 2024-05-19T18:55:14.474Z
+updated: 2024-05-20T18:55:14.474Z
 tags: 
   - transfer
 categories:
@@ -543,4 +543,5 @@ Truly, it’s now very easy to move contacts from Nokia C110 to iPhone (13/14/15
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 10T 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your OnePlus 12R Data? | Dr.fone
-date: 2024-04-30T02:23:27.151Z
-updated: 2024-05-01T02:23:27.151Z
+date: 2024-05-19T18:55:15.269Z
+updated: 2024-05-20T18:55:15.269Z
 tags: 
   - transfer
 categories:
@@ -382,4 +382,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Poco C50 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-poco-c50-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Poco C50 Phone</u></a></li>
 </ul></div>
+
 

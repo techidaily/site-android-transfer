@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from OnePlus Nord N30 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:10.541Z
-updated: 2024-05-01T02:21:10.541Z
+date: 2024-05-19T18:55:13.455Z
+updated: 2024-05-20T18:55:13.455Z
 tags: 
   - transfer
 categories:
@@ -413,4 +413,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme C67 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-template-wondershare-virbo-for-2024/"><u>Updated Create AI Avatar Video with Template | Wondershare Virbo for 2024</u></a></li>
 </ul></div>
+
 

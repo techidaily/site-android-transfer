@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor X50 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:33.255Z
-updated: 2024-05-01T02:17:33.255Z
+date: 2024-05-19T18:55:10.455Z
+updated: 2024-05-20T18:55:10.455Z
 tags: 
   - transfer
 categories:
@@ -389,4 +389,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-s23plus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy S23+ Face Lock?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-90-lite-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor 90 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

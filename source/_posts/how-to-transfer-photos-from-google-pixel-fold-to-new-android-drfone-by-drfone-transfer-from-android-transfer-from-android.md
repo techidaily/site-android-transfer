@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Google Pixel Fold to New Android? | Dr.fone
-date: 2024-04-30T02:17:19.368Z
-updated: 2024-05-01T02:17:19.368Z
+date: 2024-05-19T18:55:10.305Z
+updated: 2024-05-20T18:55:10.305Z
 tags: 
   - transfer
 categories:
@@ -543,4 +543,5 @@ At last, we hope that you now know how to transfer music from Google Pixel Fold 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nokia-c300-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nokia C300 Android SIM Unlock APK</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-smart-8-plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Smart 8 Plus Phones with/without a PC</u></a></li>
 </ul></div>
+
 

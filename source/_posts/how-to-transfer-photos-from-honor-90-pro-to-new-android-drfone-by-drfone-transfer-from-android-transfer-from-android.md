@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor 90 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:23.446Z
-updated: 2024-05-01T02:17:23.446Z
+date: 2024-05-19T18:55:10.343Z
+updated: 2024-05-20T18:55:10.343Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Pro Properly</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a05s-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A05s Device</u></a></li>
 </ul></div>
+
 

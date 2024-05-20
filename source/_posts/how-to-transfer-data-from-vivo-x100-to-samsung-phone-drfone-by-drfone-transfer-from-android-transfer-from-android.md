@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo X100 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:20.264Z
-updated: 2024-05-01T02:15:20.264Z
+date: 2024-05-19T18:55:08.826Z
+updated: 2024-05-20T18:55:08.826Z
 tags: 
   - transfer
 categories:
@@ -356,4 +356,5 @@ How to Transfer Data from Vivo X100 to BlackBerry With 1-Click
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-poco-x6-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Poco X6 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-14-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 14</u></a></li>
 </ul></div>
+
 

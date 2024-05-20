@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10 4G to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:54.730Z
-updated: 2024-05-01T02:14:54.730Z
+date: 2024-05-19T18:55:08.487Z
+updated: 2024-05-20T18:55:08.487Z
 tags: 
   - transfer
 categories:
@@ -531,4 +531,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-c65-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco C65? Try These Fixes</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Realme C51 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:49.004Z
-updated: 2024-05-01T02:24:49.004Z
+date: 2024-05-19T18:55:16.056Z
+updated: 2024-05-20T18:55:16.056Z
 tags: 
   - transfer
 categories:
@@ -360,4 +360,5 @@ How to Transfer Data from Realme C51 to BlackBerry With 1-Click
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo A38 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-s17e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo S17e? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

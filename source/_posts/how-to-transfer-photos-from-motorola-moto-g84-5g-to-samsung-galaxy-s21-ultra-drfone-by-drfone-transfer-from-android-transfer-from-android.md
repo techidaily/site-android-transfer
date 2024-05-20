@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Moto G84 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:17.393Z
-updated: 2024-05-01T02:18:17.393Z
+date: 2024-05-19T18:55:11.064Z
+updated: 2024-05-20T18:55:11.064Z
 tags: 
   - transfer
 categories:
@@ -548,4 +548,5 @@ In conclusion, there are various methods to transfer videos from Motorola Moto G
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-poco-f5-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Poco F5 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-x-flip-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

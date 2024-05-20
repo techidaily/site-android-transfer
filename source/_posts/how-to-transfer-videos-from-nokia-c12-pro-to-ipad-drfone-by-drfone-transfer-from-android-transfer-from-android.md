@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C12 Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:14.164Z
-updated: 2024-05-01T02:22:14.164Z
+date: 2024-05-19T18:55:14.476Z
+updated: 2024-05-20T18:55:14.476Z
 tags: 
   - transfer
 categories:
@@ -448,4 +448,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://ai-video-editing.techidaily.com/1713939538821-zoom-in-and-zoom-out-on-youtube/"><u>Zoom In and Zoom Out on YouTube</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-c51-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco C51 Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

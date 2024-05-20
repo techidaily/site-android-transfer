@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia G310 to iPad | Dr.fone
-date: 2024-04-30T02:22:15.534Z
-updated: 2024-05-01T02:22:15.534Z
+date: 2024-05-19T18:55:14.498Z
+updated: 2024-05-20T18:55:14.498Z
 tags: 
   - transfer
 categories:
@@ -524,4 +524,5 @@ When you know how to move music from Nokia G310 to iPhone, you can easily make t
 <li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xs-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XS Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

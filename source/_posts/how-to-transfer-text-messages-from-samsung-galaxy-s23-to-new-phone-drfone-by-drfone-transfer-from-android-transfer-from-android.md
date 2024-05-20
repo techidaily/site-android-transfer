@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy S23 to New Phone | Dr.fone
-date: 2024-04-30T02:21:29.631Z
-updated: 2024-05-01T02:21:29.631Z
+date: 2024-05-19T18:55:13.666Z
+updated: 2024-05-20T18:55:13.666Z
 tags: 
   - transfer
 categories:
@@ -407,4 +407,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lenovo ThinkPhone | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-for-2024/"><u>New How To Add Motion Blur In Davinci Resolve for 2024</u></a></li>
 </ul></div>
+
 

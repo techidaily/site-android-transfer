@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.874Z
-updated: 2024-05-01T02:13:26.874Z
+date: 2024-05-19T18:55:06.593Z
+updated: 2024-05-20T18:55:06.593Z
 tags: 
   - transfer
 categories:
@@ -508,4 +508,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-13-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 13 Pro has bad ESN or blacklisted IMEI?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

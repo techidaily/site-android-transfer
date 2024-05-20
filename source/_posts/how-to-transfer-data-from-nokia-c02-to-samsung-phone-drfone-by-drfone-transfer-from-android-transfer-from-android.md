@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C02 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.489Z
-updated: 2024-05-01T02:13:27.489Z
+date: 2024-05-19T18:55:07.103Z
+updated: 2024-05-20T18:55:07.103Z
 tags: 
   - transfer
 categories:
@@ -397,4 +397,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-gt-5-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme GT 5? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y77t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y77t to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

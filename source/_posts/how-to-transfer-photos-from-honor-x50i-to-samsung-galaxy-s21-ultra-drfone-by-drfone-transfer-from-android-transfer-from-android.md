@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor X50i to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:33.843Z
-updated: 2024-05-01T02:17:33.843Z
+date: 2024-05-19T18:55:10.460Z
+updated: 2024-05-20T18:55:10.460Z
 tags: 
   - transfer
 categories:
@@ -491,4 +491,5 @@ To summarize, while it may seem troublesome to ****transfer files from Honor X50
 <li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v11-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.1 File</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

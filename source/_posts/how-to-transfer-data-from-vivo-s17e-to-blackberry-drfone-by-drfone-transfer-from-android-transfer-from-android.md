@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo S17e to BlackBerry | Dr.fone
-date: 2024-04-30T02:15:04.166Z
-updated: 2024-05-01T02:15:04.166Z
+date: 2024-05-19T18:55:08.585Z
+updated: 2024-05-20T18:55:08.585Z
 tags: 
   - transfer
 categories:
@@ -346,4 +346,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y27s? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y200e 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

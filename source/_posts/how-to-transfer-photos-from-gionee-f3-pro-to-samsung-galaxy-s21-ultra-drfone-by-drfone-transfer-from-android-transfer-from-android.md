@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Gionee F3 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:17.224Z
-updated: 2024-05-01T02:17:17.224Z
+date: 2024-05-19T18:55:10.268Z
+updated: 2024-05-20T18:55:10.268Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo T2 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-note-12r-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi Note 12R?</u></a></li>
 </ul></div>
+
 

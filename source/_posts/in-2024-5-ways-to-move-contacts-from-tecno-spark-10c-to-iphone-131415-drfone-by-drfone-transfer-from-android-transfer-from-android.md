@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Tecno Spark 10C to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:39.819Z
-updated: 2024-05-01T02:29:39.819Z
+date: 2024-05-19T18:55:19.765Z
+updated: 2024-05-20T18:55:19.765Z
 tags: 
   - transfer
 categories:
@@ -581,4 +581,5 @@ To summarize, while it may seem troublesome to ****transfer files from Tecno Spa
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-15-must-use-gifs-editors/"><u>Updated 2024 Approved 15 Must-Use Gifs Editors</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6s-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

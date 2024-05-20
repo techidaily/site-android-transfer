@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 Pro to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:27.116Z
-updated: 2024-05-01T02:13:27.116Z
+date: 2024-05-19T18:55:06.869Z
+updated: 2024-05-20T18:55:06.869Z
 tags: 
   - transfer
 categories:
@@ -415,4 +415,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-nord-3-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Nord 3 5G FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Motorola Moto G Stylus 5G (2023)</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From OnePlus Nord N30 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:38.626Z
-updated: 2024-05-01T02:18:38.626Z
+date: 2024-05-19T18:55:11.301Z
+updated: 2024-05-20T18:55:11.301Z
 tags: 
   - transfer
 categories:
@@ -523,4 +523,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo X Flip? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A24 Phone without PIN</u></a></li>
 </ul></div>
+
 

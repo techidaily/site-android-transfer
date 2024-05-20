@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30i to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:46.502Z
-updated: 2024-05-01T02:17:46.502Z
+date: 2024-05-19T18:55:10.636Z
+updated: 2024-05-20T18:55:10.636Z
 tags: 
   - transfer
 categories:
@@ -536,4 +536,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://animation-videos.techidaily.com/in-2024-secrets-to-make-2d-game-animation/"><u>In 2024, Secrets to Make 2D Game Animation</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 13? | Dr.fone</u></a></li>
 </ul></div>
+
 

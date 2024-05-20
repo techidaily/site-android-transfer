@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From OnePlus 11R to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:12.717Z
-updated: 2024-05-01T02:29:12.717Z
+date: 2024-05-19T18:55:19.579Z
+updated: 2024-05-20T18:55:19.579Z
 tags: 
   - transfer
 categories:
@@ -568,4 +568,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Pop 7 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-tecno-spark-20-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Spark 20 Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

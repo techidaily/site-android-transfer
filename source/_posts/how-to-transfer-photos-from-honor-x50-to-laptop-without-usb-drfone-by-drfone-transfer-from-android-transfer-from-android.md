@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X50 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:32.864Z
-updated: 2024-05-01T02:17:32.864Z
+date: 2024-05-19T18:55:10.451Z
+updated: 2024-05-20T18:55:10.451Z
 tags: 
   - transfer
 categories:
@@ -551,4 +551,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

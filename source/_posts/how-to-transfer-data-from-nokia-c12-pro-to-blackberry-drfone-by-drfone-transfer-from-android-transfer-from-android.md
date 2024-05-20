@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C12 Pro to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.526Z
-updated: 2024-05-01T02:13:27.526Z
+date: 2024-05-19T18:55:07.120Z
+updated: 2024-05-20T18:55:07.120Z
 tags: 
   - transfer
 categories:
@@ -537,4 +537,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xs-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XS Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

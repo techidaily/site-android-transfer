@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor 90 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:45.801Z
-updated: 2024-05-01T02:20:45.801Z
+date: 2024-05-19T18:55:13.129Z
+updated: 2024-05-20T18:55:13.129Z
 tags: 
   - transfer
 categories:
@@ -414,4 +414,5 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 <li><a href="https://techidaily.com/how-to-soft-reset-itel-s23-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel S23 phone? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/apple-iphone-11-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 11 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30 Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.870Z
-updated: 2024-05-01T02:13:26.870Z
+date: 2024-05-19T18:55:06.588Z
+updated: 2024-05-20T18:55:06.588Z
 tags: 
   - transfer
 categories:
@@ -441,4 +441,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-zte-frp-by-drfone-android/"><u>Full Guide to Bypass ZTE FRP</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
+
 

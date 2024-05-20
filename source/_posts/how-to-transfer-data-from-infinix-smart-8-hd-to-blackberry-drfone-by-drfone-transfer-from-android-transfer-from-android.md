@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 HD to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.920Z
-updated: 2024-05-01T02:13:26.920Z
+date: 2024-05-19T18:55:06.623Z
+updated: 2024-05-20T18:55:06.623Z
 tags: 
   - transfer
 categories:
@@ -534,4 +534,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-14-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 14 Lock Screen</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
+
 

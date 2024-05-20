@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Xiaomi 13T to New Android? | Dr.fone
-date: 2024-04-30T02:20:25.359Z
-updated: 2024-05-01T02:20:25.359Z
+date: 2024-05-19T18:55:12.912Z
+updated: 2024-05-20T18:55:12.912Z
 tags: 
   - transfer
 categories:
@@ -470,4 +470,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-7-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 7 Properly | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-splitting-a-video-in-vsdc-step-by-step/"><u>Updated Splitting a Video in VSDC Step by Step</u></a></li>
 </ul></div>
+
 

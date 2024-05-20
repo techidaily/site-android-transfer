@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from OnePlus 11R to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:54.272Z
-updated: 2024-05-01T02:26:54.272Z
+date: 2024-05-19T18:55:17.506Z
+updated: 2024-05-20T18:55:17.506Z
 tags: 
   - transfer
 categories:
@@ -474,4 +474,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y78t Phone?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia G42 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

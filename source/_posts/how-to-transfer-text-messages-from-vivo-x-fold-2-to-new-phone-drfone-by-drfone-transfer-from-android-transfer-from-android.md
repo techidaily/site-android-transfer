@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo X Fold 2 to New Phone | Dr.fone
-date: 2024-04-30T02:21:40.251Z
-updated: 2024-05-01T02:21:40.251Z
+date: 2024-05-19T18:55:13.764Z
+updated: 2024-05-20T18:55:13.764Z
 tags: 
   - transfer
 categories:
@@ -371,4 +371,5 @@ How to Transfer Data from Vivo X Fold 2 to BlackBerry With 1-Click
 <li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-se-2022-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone SE (2022) When Its Locked Within Seconds | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-split-your-videos-with-ease-top-5-free-software/"><u>New Split Your Videos with Ease Top 5 Free Software</u></a></li>
 </ul></div>
+
 

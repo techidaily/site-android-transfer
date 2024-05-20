@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Realme 11 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:28.767Z
-updated: 2024-05-01T02:22:28.767Z
+date: 2024-05-19T18:55:14.605Z
+updated: 2024-05-20T18:55:14.605Z
 tags: 
   - transfer
 categories:
@@ -362,4 +362,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-12-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus 12 FRP Bypass</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

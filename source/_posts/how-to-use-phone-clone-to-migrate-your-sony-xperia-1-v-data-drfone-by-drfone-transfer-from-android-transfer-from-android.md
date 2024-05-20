@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Sony Xperia 1 V Data? | Dr.fone
-date: 2024-04-30T02:23:49.743Z
-updated: 2024-05-01T02:23:49.743Z
+date: 2024-05-19T18:55:15.485Z
+updated: 2024-05-20T18:55:15.485Z
 tags: 
   - transfer
 categories:
@@ -555,4 +555,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 4G Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme 12+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo V30 Lite 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:15:15.188Z
-updated: 2024-05-01T02:15:15.188Z
+date: 2024-05-19T18:55:08.745Z
+updated: 2024-05-20T18:55:08.745Z
 tags: 
   - transfer
 categories:
@@ -287,4 +287,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-se-2022-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone SE (2022)? How to Fix</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

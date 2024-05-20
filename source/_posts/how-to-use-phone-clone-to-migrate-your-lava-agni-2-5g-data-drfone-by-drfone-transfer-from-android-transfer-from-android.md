@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Lava Agni 2 5G Data? | Dr.fone
-date: 2024-04-30T02:23:15.783Z
-updated: 2024-05-01T02:23:15.783Z
+date: 2024-05-19T18:55:15.153Z
+updated: 2024-05-20T18:55:15.153Z
 tags: 
   - transfer
 categories:
@@ -412,4 +412,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-integrated-ai-cartoon-video-generators-to-use/"><u>Updated Top 5 AI-Integrated AI Cartoon Video Generators to Use</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

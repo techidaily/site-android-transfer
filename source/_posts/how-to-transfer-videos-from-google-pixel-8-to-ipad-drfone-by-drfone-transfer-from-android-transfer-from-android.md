@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Google Pixel 8 to iPad | Dr.fone
-date: 2024-04-30T02:21:53.185Z
-updated: 2024-05-01T02:21:53.185Z
+date: 2024-05-19T18:55:13.918Z
+updated: 2024-05-20T18:55:13.918Z
 tags: 
   - transfer
 categories:
@@ -395,4 +395,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-14-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 14 Ultra by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
+
 

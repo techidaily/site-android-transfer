@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia C12 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:22.851Z
-updated: 2024-05-01T02:18:22.851Z
+date: 2024-05-19T18:55:11.105Z
+updated: 2024-05-20T18:55:11.105Z
 tags: 
   - transfer
 categories:
@@ -456,4 +456,5 @@ When you know how to move music from Nokia C12 to iPhone, you can easily make th
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo G2 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-6s-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 6s Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
+
 

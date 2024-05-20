@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Samsung Galaxy A14 4G to iPad | Dr.fone
-date: 2024-04-30T02:22:34.514Z
-updated: 2024-05-01T02:22:34.514Z
+date: 2024-05-19T18:55:14.651Z
+updated: 2024-05-20T18:55:14.651Z
 tags: 
   - transfer
 categories:
@@ -529,4 +529,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 4G Location by Number | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-itel-a70-to-mac-drfone-by-drfone-android/"><u>How to Mirror Itel A70 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

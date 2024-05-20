@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.725Z
-updated: 2024-05-01T02:13:26.725Z
+date: 2024-05-19T18:55:06.450Z
+updated: 2024-05-20T18:55:06.450Z
 tags: 
   - transfer
 categories:
@@ -424,4 +424,5 @@ When you know how to move music from Honor X50 to iPhone, you can easily make th
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-defy-2-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Defy 2</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6s</u></a></li>
 </ul></div>
+
 

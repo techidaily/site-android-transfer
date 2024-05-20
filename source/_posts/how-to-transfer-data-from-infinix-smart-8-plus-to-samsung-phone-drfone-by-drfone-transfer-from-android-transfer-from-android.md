@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 Plus to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.931Z
-updated: 2024-05-01T02:13:26.931Z
+date: 2024-05-19T18:55:06.675Z
+updated: 2024-05-20T18:55:06.675Z
 tags: 
   - transfer
 categories:
@@ -428,4 +428,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://unlock-android.techidaily.com/lock-your-infinix-hot-30i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Hot 30i Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 

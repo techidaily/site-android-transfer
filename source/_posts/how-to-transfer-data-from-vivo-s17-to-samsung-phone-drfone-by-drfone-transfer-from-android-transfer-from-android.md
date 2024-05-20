@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo S17 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:03.782Z
-updated: 2024-05-01T02:15:03.782Z
+date: 2024-05-19T18:55:08.575Z
+updated: 2024-05-20T18:55:08.575Z
 tags: 
   - transfer
 categories:
@@ -525,4 +525,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a2-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A2 Android SIM Unlock APK</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 14 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

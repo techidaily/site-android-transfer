@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from ZTE Blade A73 5G to iPad | Dr.fone
-date: 2024-04-30T02:23:00.388Z
-updated: 2024-05-01T02:23:00.388Z
+date: 2024-05-19T18:55:14.927Z
+updated: 2024-05-20T18:55:14.927Z
 tags: 
   - transfer
 categories:
@@ -716,4 +716,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-zero-30-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Zero 30 5G in Minutes | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-8-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

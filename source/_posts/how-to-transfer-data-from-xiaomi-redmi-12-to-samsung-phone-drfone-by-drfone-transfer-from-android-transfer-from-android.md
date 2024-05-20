@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Xiaomi Redmi 12 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:48.122Z
-updated: 2024-05-01T02:15:48.122Z
+date: 2024-05-19T18:55:09.401Z
+updated: 2024-05-20T18:55:09.401Z
 tags: 
   - transfer
 categories:
@@ -481,4 +481,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://bypass-frp.techidaily.com/about-vivo-y100-5g-frp-bypass-by-drfone-android/"><u>About Vivo Y100 5G FRP Bypass</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-no-copyright-worries-10-top-public-domain-image-sites-for-2024/"><u>Updated No Copyright Worries 10 Top Public Domain Image Sites for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 HD to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:26.923Z
-updated: 2024-05-01T02:13:26.923Z
+date: 2024-05-19T18:55:06.625Z
+updated: 2024-05-20T18:55:06.625Z
 tags: 
   - transfer
 categories:
@@ -465,4 +465,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 6s? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-15-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 15 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
 </ul></div>
+
 

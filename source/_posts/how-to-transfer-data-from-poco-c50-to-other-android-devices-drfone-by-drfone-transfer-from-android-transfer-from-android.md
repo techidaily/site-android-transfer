@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Poco C50 to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:46.004Z
-updated: 2024-05-01T02:13:46.004Z
+date: 2024-05-19T18:55:07.603Z
+updated: 2024-05-20T18:55:07.603Z
 tags: 
   - transfer
 categories:
@@ -420,4 +420,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco M6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

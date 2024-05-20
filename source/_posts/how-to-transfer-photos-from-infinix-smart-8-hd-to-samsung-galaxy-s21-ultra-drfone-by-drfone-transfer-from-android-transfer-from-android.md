@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Smart 8 HD to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:48.674Z
-updated: 2024-05-01T02:17:48.674Z
+date: 2024-05-19T18:55:10.691Z
+updated: 2024-05-20T18:55:10.691Z
 tags: 
   - transfer
 categories:
@@ -441,4 +441,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-c22-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia C22 Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/is-your-iphone-11-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 11 in Security Lockout? Proper Ways To Unlock</u></a></li>
 </ul></div>
+
 

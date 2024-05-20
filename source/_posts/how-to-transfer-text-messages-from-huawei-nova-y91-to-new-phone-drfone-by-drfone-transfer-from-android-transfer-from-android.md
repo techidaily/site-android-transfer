@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Huawei Nova Y91 to New Phone | Dr.fone
-date: 2024-04-30T02:20:50.870Z
-updated: 2024-05-01T02:20:50.870Z
+date: 2024-05-19T18:55:13.200Z
+updated: 2024-05-20T18:55:13.200Z
 tags: 
   - transfer
 categories:
@@ -461,4 +461,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 11</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-14-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 14 Beyond Scope of Recovery? | Stellar</u></a></li>
 </ul></div>
+
 

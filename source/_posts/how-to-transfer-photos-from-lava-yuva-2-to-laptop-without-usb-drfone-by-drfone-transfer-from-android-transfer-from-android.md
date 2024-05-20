@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Yuva 2 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:03.943Z
-updated: 2024-05-01T02:18:03.943Z
+date: 2024-05-19T18:55:10.877Z
+updated: 2024-05-20T18:55:10.877Z
 tags: 
   - transfer
 categories:
@@ -504,4 +504,5 @@ In conclusion, there are various methods to transfer videos from Lava Yuva 2 to 
 <li><a href="https://ai-voice-clone.techidaily.com/everything-you-want-to-know-about-kapwing-video-translation-for-2024/"><u>Everything You Want To Know About Kapwing Video Translation for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme V30T | Dr.fone</u></a></li>
 </ul></div>
+
 

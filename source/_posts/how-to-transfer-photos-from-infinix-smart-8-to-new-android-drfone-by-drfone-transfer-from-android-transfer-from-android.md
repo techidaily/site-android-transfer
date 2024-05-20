@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 to New Android? | Dr.fone
-date: 2024-04-30T02:17:50.346Z
-updated: 2024-05-01T02:17:50.346Z
+date: 2024-05-19T18:55:10.706Z
+updated: 2024-05-20T18:55:10.706Z
 tags: 
   - transfer
 categories:
@@ -522,4 +522,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo V30 Lite 5G</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 90 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

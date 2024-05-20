@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Xiaomi 13T Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:54.800Z
-updated: 2024-05-01T02:22:54.800Z
+date: 2024-05-19T18:55:14.883Z
+updated: 2024-05-20T18:55:14.883Z
 tags: 
   - transfer
 categories:
@@ -522,4 +522,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-m6-pro-4g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco M6 Pro 4G Easily?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-s17-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo S17 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

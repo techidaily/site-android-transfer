@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto G73 5G to New Android? | Dr.fone
-date: 2024-04-30T02:18:16.509Z
-updated: 2024-05-01T02:18:16.509Z
+date: 2024-05-19T18:55:11.058Z
+updated: 2024-05-20T18:55:11.058Z
 tags: 
   - transfer
 categories:
@@ -565,4 +565,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-9a-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 9A for Parents | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone SE</u></a></li>
 </ul></div>
+
 

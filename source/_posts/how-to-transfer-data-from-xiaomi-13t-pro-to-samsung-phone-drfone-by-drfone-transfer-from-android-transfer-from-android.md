@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Xiaomi 13T Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:41.098Z
-updated: 2024-05-01T02:15:41.098Z
+date: 2024-05-19T18:55:09.348Z
+updated: 2024-05-20T18:55:09.348Z
 tags: 
   - transfer
 categories:
@@ -428,4 +428,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-razr-40-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Razr 40 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

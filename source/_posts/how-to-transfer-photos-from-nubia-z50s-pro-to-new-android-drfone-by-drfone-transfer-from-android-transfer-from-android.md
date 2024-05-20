@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nubia Z50S Pro to New Android? | Dr.fone
-date: 2024-04-30T02:18:31.325Z
-updated: 2024-05-01T02:18:31.325Z
+date: 2024-05-19T18:55:11.219Z
+updated: 2024-05-20T18:55:11.219Z
 tags: 
   - transfer
 categories:
@@ -545,4 +545,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-poco-m6-pro-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Poco M6 Pro 5G</u></a></li>
 </ul></div>
+
 

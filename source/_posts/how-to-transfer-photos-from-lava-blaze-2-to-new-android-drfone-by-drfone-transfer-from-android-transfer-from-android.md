@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Blaze 2 to New Android? | Dr.fone
-date: 2024-04-30T02:18:01.075Z
-updated: 2024-05-01T02:18:01.075Z
+date: 2024-05-19T18:55:10.854Z
+updated: 2024-05-20T18:55:10.854Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-magic-5-lite-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor Magic 5 Lite password or pattern lock</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X50i+? | Dr.fone</u></a></li>
 </ul></div>
+
 

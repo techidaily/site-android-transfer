@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Samsung Galaxy F15 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:36.678Z
-updated: 2024-05-01T02:22:36.678Z
+date: 2024-05-19T18:55:14.668Z
+updated: 2024-05-20T18:55:14.668Z
 tags: 
   - transfer
 categories:
@@ -520,4 +520,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lenovo-thinkphone-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lenovo ThinkPhone Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus 12 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

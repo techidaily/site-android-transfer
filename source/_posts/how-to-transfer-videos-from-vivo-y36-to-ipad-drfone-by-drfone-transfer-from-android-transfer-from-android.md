@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y36 to iPad | Dr.fone
-date: 2024-04-30T02:22:52.853Z
-updated: 2024-05-01T02:22:52.853Z
+date: 2024-05-19T18:55:14.868Z
+updated: 2024-05-20T18:55:14.868Z
 tags: 
   - transfer
 categories:
@@ -449,4 +449,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-13-pro-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 13 Pro to TV or PC? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-ace-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus Ace 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

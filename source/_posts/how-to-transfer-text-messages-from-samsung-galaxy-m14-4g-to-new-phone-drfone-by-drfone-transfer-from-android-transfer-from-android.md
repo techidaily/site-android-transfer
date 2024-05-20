@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy M14 4G to New Phone | Dr.fone
-date: 2024-04-30T02:21:28.249Z
-updated: 2024-05-01T02:21:28.249Z
+date: 2024-05-19T18:55:13.655Z
+updated: 2024-05-20T18:55:13.655Z
 tags: 
   - transfer
 categories:
@@ -445,4 +445,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://techidaily.com/tecno-data-retrieval-tool-restore-lost-data-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-data/"><u>Tecno Data Retrieval tool – restore lost data from Tecno Camon 20 Premier 5G</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-x100-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo X100 FRP Without Computer</u></a></li>
 </ul></div>
+
 

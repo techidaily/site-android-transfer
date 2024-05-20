@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor Magic V2 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:28.523Z
-updated: 2024-05-01T02:17:28.523Z
+date: 2024-05-19T18:55:10.405Z
+updated: 2024-05-20T18:55:10.405Z
 tags: 
   - transfer
 categories:
@@ -261,4 +261,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-samsung-galaxy-m14-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Samsung Galaxy M14 5G?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-asus-rog-phone-7-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Asus ROG Phone 7 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

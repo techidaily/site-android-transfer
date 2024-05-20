@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 1 V to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:43.765Z
-updated: 2024-05-01T02:14:43.765Z
+date: 2024-05-19T18:55:08.325Z
+updated: 2024-05-20T18:55:08.325Z
 tags: 
   - transfer
 categories:
@@ -428,4 +428,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-se-2022-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone SE (2022) Passcode Easily Video Inside</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-c12-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia C12 Device</u></a></li>
 </ul></div>
+
 

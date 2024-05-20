@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Edge 2023 to New Phone | Dr.fone
-date: 2024-04-30T02:21:00.519Z
-updated: 2024-05-01T02:21:00.519Z
+date: 2024-05-19T18:55:13.306Z
+updated: 2024-05-20T18:55:13.306Z
 tags: 
   - transfer
 categories:
@@ -351,4 +351,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-lava-agni-2-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Lava Agni 2 5G Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-oneplus-ace-2v-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Ace 2V Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

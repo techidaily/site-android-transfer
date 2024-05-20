@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Oppo A18 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:40.574Z
-updated: 2024-05-01T02:18:40.574Z
+date: 2024-05-19T18:55:11.331Z
+updated: 2024-05-20T18:55:11.331Z
 tags: 
   - transfer
 categories:
@@ -591,4 +591,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro Max to Android | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-hot-40-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Hot 40</u></a></li>
 </ul></div>
+
 

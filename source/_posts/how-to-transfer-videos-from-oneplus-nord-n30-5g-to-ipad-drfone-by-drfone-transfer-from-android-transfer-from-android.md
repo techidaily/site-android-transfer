@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus Nord N30 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:19.539Z
-updated: 2024-05-01T02:22:19.539Z
+date: 2024-05-19T18:55:14.530Z
+updated: 2024-05-20T18:55:14.530Z
 tags: 
   - transfer
 categories:
@@ -560,4 +560,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-smart-8-hd-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Smart 8 HD Screen | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-honor-magic-5-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Magic 5 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola G54 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:11.449Z
-updated: 2024-05-01T02:18:11.449Z
+date: 2024-05-19T18:55:11.002Z
+updated: 2024-05-20T18:55:11.002Z
 tags: 
   - transfer
 categories:
@@ -467,4 +467,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oneplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from OnePlus</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 

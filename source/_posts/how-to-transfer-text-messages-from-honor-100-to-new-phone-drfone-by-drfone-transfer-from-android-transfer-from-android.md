@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor 100 to New Phone | Dr.fone
-date: 2024-04-30T02:20:44.838Z
-updated: 2024-05-01T02:20:44.838Z
+date: 2024-05-19T18:55:13.121Z
+updated: 2024-05-20T18:55:13.121Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ Regardless of the fact that many free solutions are there that can help you **tr
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus Open | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

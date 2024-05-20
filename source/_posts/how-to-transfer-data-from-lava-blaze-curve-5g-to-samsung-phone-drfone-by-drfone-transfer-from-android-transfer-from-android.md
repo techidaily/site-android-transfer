@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze Curve 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.087Z
-updated: 2024-05-01T02:13:27.087Z
+date: 2024-05-19T18:55:06.840Z
+updated: 2024-05-20T18:55:06.840Z
 tags: 
   - transfer
 categories:
@@ -442,4 +442,5 @@ In conclusion, there are various methods to transfer videos from Lava Blaze Curv
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-xr-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone XR</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-14-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi 14 Pro Phone Screen?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Hot 30 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:00.433Z
-updated: 2024-05-01T02:22:00.433Z
+date: 2024-05-19T18:55:14.330Z
+updated: 2024-05-20T18:55:14.330Z
 tags: 
   - transfer
 categories:
@@ -395,4 +395,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

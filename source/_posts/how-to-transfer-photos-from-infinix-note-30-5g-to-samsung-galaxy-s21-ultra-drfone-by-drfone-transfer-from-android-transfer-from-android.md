@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Note 30 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:43.972Z
-updated: 2024-05-01T02:17:43.972Z
+date: 2024-05-19T18:55:10.583Z
+updated: 2024-05-20T18:55:10.583Z
 tags: 
   - transfer
 categories:
@@ -469,4 +469,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-zero-30-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Zero 30 5G System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y100i to iPad | Dr.fone
-date: 2024-04-30T02:22:51.043Z
-updated: 2024-05-01T02:22:51.043Z
+date: 2024-05-19T18:55:14.855Z
+updated: 2024-05-20T18:55:14.855Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y78plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y78+ without App | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

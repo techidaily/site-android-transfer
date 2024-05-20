@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C22 to iPad | Dr.fone
-date: 2024-04-30T02:22:14.742Z
-updated: 2024-05-01T02:22:14.742Z
+date: 2024-05-19T18:55:14.480Z
+updated: 2024-05-20T18:55:14.480Z
 tags: 
   - transfer
 categories:
@@ -421,4 +421,5 @@ How to Transfer Data from Nokia C22 to BlackBerry With 1-Click
 <li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-14-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 14 Activity | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-mastering-gopro-quik-on-mac-effortless-video-editing-for-2024/"><u>Updated Mastering GoPro Quik on Mac Effortless Video Editing for 2024</u></a></li>
 </ul></div>
+
 

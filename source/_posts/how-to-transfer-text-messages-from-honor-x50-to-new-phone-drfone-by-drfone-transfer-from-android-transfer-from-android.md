@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor X50 to New Phone | Dr.fone
-date: 2024-04-30T02:20:48.898Z
-updated: 2024-05-01T02:20:48.898Z
+date: 2024-05-19T18:55:13.184Z
+updated: 2024-05-20T18:55:13.184Z
 tags: 
   - transfer
 categories:
@@ -421,4 +421,5 @@ Truly, it’s now very easy to move contacts from Honor X50 to iPhone (13/14/15)
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-12-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme 12 5G Activity | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
 </ul></div>
+
 

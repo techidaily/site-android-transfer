@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Huawei Nova Y91 to New Android? | Dr.fone
-date: 2024-04-30T02:17:39.080Z
-updated: 2024-05-01T02:17:39.080Z
+date: 2024-05-19T18:55:10.500Z
+updated: 2024-05-20T18:55:10.500Z
 tags: 
   - transfer
 categories:
@@ -435,4 +435,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-a25-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy A25 5G IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c210-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C210 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

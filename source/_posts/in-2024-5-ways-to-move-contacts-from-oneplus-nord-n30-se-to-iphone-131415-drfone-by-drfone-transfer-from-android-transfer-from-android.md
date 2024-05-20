@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From OnePlus Nord N30 SE to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:14.847Z
-updated: 2024-05-01T02:29:14.847Z
+date: 2024-05-19T18:55:19.596Z
+updated: 2024-05-20T18:55:19.596Z
 tags: 
   - transfer
 categories:
@@ -445,4 +445,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-12-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 12 and iPad</u></a></li>
 <li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

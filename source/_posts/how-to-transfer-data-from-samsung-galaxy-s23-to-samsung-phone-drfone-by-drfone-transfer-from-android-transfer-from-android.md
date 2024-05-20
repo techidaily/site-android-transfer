@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Samsung Galaxy S23 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:36.419Z
-updated: 2024-05-01T02:14:36.419Z
+date: 2024-05-19T18:55:08.247Z
+updated: 2024-05-20T18:55:08.247Z
 tags: 
   - transfer
 categories:
@@ -460,4 +460,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://ai-video-editing.techidaily.com/updated-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-same-p/"><u>Updated Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

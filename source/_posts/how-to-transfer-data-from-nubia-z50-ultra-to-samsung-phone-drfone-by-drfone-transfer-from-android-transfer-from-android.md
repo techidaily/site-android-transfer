@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nubia Z50 Ultra to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.701Z
-updated: 2024-05-01T02:13:27.701Z
+date: 2024-05-19T18:55:07.221Z
+updated: 2024-05-20T18:55:07.221Z
 tags: 
   - transfer
 categories:
@@ -455,4 +455,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-moto-g14-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Moto G14 to Mac? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-meizu-21-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Meizu 21 Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

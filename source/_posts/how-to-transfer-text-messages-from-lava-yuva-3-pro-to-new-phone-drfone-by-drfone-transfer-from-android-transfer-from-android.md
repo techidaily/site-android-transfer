@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Yuva 3 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:59.337Z
-updated: 2024-05-01T02:20:59.337Z
+date: 2024-05-19T18:55:13.292Z
+updated: 2024-05-20T18:55:13.292Z
 tags: 
   - transfer
 categories:
@@ -347,4 +347,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme Narzo 60 Pro 5G Phone with Broken Screen</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

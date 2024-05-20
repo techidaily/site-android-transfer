@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto E13 to New Android? | Dr.fone
-date: 2024-04-30T02:18:11.833Z
-updated: 2024-05-01T02:18:11.833Z
+date: 2024-05-19T18:55:11.005Z
+updated: 2024-05-20T18:55:11.005Z
 tags: 
   - transfer
 categories:
@@ -391,4 +391,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y100A | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix GT 10 Pro</u></a></li>
 </ul></div>
+
 

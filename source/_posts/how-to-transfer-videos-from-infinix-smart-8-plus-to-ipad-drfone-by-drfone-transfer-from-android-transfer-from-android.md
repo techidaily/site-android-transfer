@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Smart 8 Plus to iPad | Dr.fone
-date: 2024-04-30T02:22:03.171Z
-updated: 2024-05-01T02:22:03.171Z
+date: 2024-05-19T18:55:14.352Z
+updated: 2024-05-20T18:55:14.352Z
 tags: 
   - transfer
 categories:
@@ -501,4 +501,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://howto.techidaily.com/why-is-my-xiaomi-14-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi 14 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-10-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 10 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -367,3 +367,4 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-sony-xperia-5-v-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Sony Xperia 5 V to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor X9b to iPad | Dr.fone
-date: 2024-04-30T02:21:59.048Z
-updated: 2024-05-01T02:21:59.048Z
+date: 2024-05-19T18:55:14.319Z
+updated: 2024-05-20T18:55:14.319Z
 tags: 
   - transfer
 categories:
@@ -574,4 +574,5 @@ To summarize, while it may seem troublesome to ****transfer files from Honor X9b
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-p55-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from P55.</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-7-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 7 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

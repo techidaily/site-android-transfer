@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Poco C65 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:59.949Z
-updated: 2024-05-01T02:18:59.949Z
+date: 2024-05-19T18:55:11.616Z
+updated: 2024-05-20T18:55:11.616Z
 tags: 
   - transfer
 categories:
@@ -453,4 +453,5 @@ When you know how to move music from Poco C65 to iPhone, you can easily make thi
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 12T Pro?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 14 | Stellar</u></a></li>
 </ul></div>
+
 

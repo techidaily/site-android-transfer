@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Blaze Pro 5G to New Phone | Dr.fone
-date: 2024-04-30T02:20:58.529Z
-updated: 2024-05-01T02:20:58.529Z
+date: 2024-05-19T18:55:13.288Z
+updated: 2024-05-20T18:55:13.288Z
 tags: 
   - transfer
 categories:
@@ -326,4 +326,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-15-plus-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 15 Plus?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
+
 

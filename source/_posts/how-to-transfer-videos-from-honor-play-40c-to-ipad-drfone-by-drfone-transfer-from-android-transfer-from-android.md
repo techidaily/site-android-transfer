@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor Play 40C to iPad | Dr.fone
-date: 2024-04-30T02:21:56.908Z
-updated: 2024-05-01T02:21:56.908Z
+date: 2024-05-19T18:55:13.979Z
+updated: 2024-05-20T18:55:13.979Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y100i? | Dr.fone</u></a></li>
 </ul></div>
+
 

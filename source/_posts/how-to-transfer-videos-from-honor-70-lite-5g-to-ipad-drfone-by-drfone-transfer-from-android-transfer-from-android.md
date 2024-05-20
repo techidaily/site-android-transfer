@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor 70 Lite 5G to iPad | Dr.fone
-date: 2024-04-30T02:21:53.961Z
-updated: 2024-05-01T02:21:53.961Z
+date: 2024-05-19T18:55:13.926Z
+updated: 2024-05-20T18:55:13.926Z
 tags: 
   - transfer
 categories:
@@ -414,4 +414,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone XS Max</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-11-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 11 Pro Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+
 

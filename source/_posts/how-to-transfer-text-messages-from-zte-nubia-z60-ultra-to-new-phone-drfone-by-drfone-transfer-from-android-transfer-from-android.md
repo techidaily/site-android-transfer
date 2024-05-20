@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from ZTE Nubia Z60 Ultra to New Phone | Dr.fone
-date: 2024-04-30T02:21:51.633Z
-updated: 2024-05-01T02:21:51.633Z
+date: 2024-05-19T18:55:13.856Z
+updated: 2024-05-20T18:55:13.856Z
 tags: 
   - transfer
 categories:
@@ -374,4 +374,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-3-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme GT 3 Phone with Broken Screen</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-x-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone X</u></a></li>
 </ul></div>
+
 

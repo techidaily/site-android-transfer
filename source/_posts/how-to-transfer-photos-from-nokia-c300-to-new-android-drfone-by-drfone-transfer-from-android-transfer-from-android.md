@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia C300 to New Android? | Dr.fone
-date: 2024-04-30T02:18:24.792Z
-updated: 2024-05-01T02:18:24.792Z
+date: 2024-05-19T18:55:11.139Z
+updated: 2024-05-20T18:55:11.139Z
 tags: 
   - transfer
 categories:
@@ -521,4 +521,5 @@ Truly, it’s now very easy to move contacts from Nokia C300 to iPhone (13/14/15
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-c55-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme C55 System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-cinematic-style-videos-easy-guide-for-beginners-for-2024/"><u>New How to Create Cinematic Style Videos? Easy Guide for Beginners for 2024</u></a></li>
 </ul></div>
+
 

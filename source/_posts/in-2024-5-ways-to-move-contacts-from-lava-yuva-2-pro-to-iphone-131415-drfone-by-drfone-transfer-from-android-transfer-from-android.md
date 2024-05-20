@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Lava Yuva 2 Pro to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:03.018Z
-updated: 2024-05-01T02:29:03.018Z
+date: 2024-05-19T18:55:19.470Z
+updated: 2024-05-20T18:55:19.470Z
 tags: 
   - transfer
 categories:
@@ -559,4 +559,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Edge 40? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-create-ai-avatar-video-with-ai-script-wondershare-virbo/"><u>Updated In 2024, Create AI Avatar Video with AI Script | Wondershare Virbo</u></a></li>
 </ul></div>
+
 

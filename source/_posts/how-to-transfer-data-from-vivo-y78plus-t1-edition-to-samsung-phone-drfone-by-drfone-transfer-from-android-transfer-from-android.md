@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y78+ (T1) Edition to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:37.871Z
-updated: 2024-05-01T02:15:37.871Z
+date: 2024-05-19T18:55:09.324Z
+updated: 2024-05-20T18:55:09.324Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-moto-g14-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola Moto G14 IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24plus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
+
 

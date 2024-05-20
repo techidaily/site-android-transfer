@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Poco C50 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:21.300Z
-updated: 2024-05-01T02:29:21.300Z
+date: 2024-05-19T18:55:19.643Z
+updated: 2024-05-20T18:55:19.643Z
 tags: 
   - transfer
 categories:
@@ -736,4 +736,5 @@ Truly, it’s now very easy to move contacts from Poco C50 to iPhone (13/14/15).
 <li><a href="https://ai-editing-video.techidaily.com/new-useful-tips-for-tiktok-video-aspect-ratio-included/"><u>New Useful Tips for Tiktok Video Aspect Ratio Included</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Red Magic 8S Pro Phone</u></a></li>
 </ul></div>
+
 

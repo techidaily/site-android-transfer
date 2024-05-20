@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Sony Xperia 1 V to iPad | Dr.fone
-date: 2024-04-30T02:22:40.539Z
-updated: 2024-05-01T02:22:40.539Z
+date: 2024-05-19T18:55:14.727Z
+updated: 2024-05-20T18:55:14.727Z
 tags: 
   - transfer
 categories:
@@ -671,4 +671,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y02t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y02T Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo V30 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

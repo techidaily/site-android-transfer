@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Asus ROG Phone 8 to New Android? | Dr.fone
-date: 2024-04-30T02:17:16.444Z
-updated: 2024-05-01T02:17:16.444Z
+date: 2024-05-19T18:55:10.261Z
+updated: 2024-05-20T18:55:10.261Z
 tags: 
   - transfer
 categories:
@@ -539,4 +539,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-vivo-y78plus-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Vivo Y78+</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Sony Xperia 10 V Data? | Dr.fone
-date: 2024-04-30T02:23:49.937Z
-updated: 2024-05-01T02:23:49.937Z
+date: 2024-05-19T18:55:15.486Z
+updated: 2024-05-20T18:55:15.486Z
 tags: 
   - transfer
 categories:
@@ -479,4 +479,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y100t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y100t Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lava-blaze-2-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lava Blaze 2 Pro to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

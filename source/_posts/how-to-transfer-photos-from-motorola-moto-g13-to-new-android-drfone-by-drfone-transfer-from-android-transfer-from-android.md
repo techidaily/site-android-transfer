@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto G13 to New Android? | Dr.fone
-date: 2024-04-30T02:18:13.595Z
-updated: 2024-05-01T02:18:13.595Z
+date: 2024-05-19T18:55:11.027Z
+updated: 2024-05-20T18:55:11.027Z
 tags: 
   - transfer
 categories:
@@ -667,4 +667,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-huawei-nova-y91-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Huawei Nova Y91 Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-15-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 15 Pro Max You Should Try Out</u></a></li>
 </ul></div>
+
 

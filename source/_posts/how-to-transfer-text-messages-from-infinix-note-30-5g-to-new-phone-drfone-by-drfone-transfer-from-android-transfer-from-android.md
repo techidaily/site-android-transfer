@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Note 30 5G to New Phone | Dr.fone
-date: 2024-04-30T02:20:52.419Z
-updated: 2024-05-01T02:20:52.419Z
+date: 2024-05-19T18:55:13.223Z
+updated: 2024-05-20T18:55:13.223Z
 tags: 
   - transfer
 categories:
@@ -348,4 +348,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Lava Blaze 2 | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-can-i-do-animated-logo-design-without-design-skills/"><u>In 2024, Can I Do Animated Logo Design Without Design Skills?</u></a></li>
 </ul></div>
+
 

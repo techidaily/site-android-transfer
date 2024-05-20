@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo V30 Lite 5G to New Android? | Dr.fone
-date: 2024-04-30T02:20:05.934Z
-updated: 2024-05-01T02:20:05.934Z
+date: 2024-05-19T18:55:12.613Z
+updated: 2024-05-20T18:55:12.613Z
 tags: 
   - transfer
 categories:
@@ -503,4 +503,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-xr-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone XR? How to Fix it?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications?</u></a></li>
 </ul></div>
+
 

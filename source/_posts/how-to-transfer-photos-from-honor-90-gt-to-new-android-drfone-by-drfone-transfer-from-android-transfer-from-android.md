@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor 90 GT to New Android? | Dr.fone
-date: 2024-04-30T02:17:22.270Z
-updated: 2024-05-01T02:17:22.270Z
+date: 2024-05-19T18:55:10.335Z
+updated: 2024-05-20T18:55:10.335Z
 tags: 
   - transfer
 categories:
@@ -502,4 +502,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://techidaily.com/will-mov-files-play-on-14-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on 14 ?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-on-the-go-best-mobile-video-editing-apps-for-iphone-and-android-devices/"><u>Updated Edit on the Go Best Mobile Video Editing Apps for iPhone and Android Devices</u></a></li>
 </ul></div>
+
 

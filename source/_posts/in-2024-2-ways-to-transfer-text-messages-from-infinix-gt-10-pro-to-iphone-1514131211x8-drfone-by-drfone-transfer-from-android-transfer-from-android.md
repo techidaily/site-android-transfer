@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Infinix GT 10 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:18.584Z
-updated: 2024-05-01T02:24:18.584Z
+date: 2024-05-19T18:55:15.705Z
+updated: 2024-05-20T18:55:15.705Z
 tags: 
   - transfer
 categories:
@@ -529,4 +529,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-sony-xperia-1-v-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Sony Xperia 1 V Screen | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-11-pro-max-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 11 Pro Max to other iPhone All iOS Versions | Dr.fone</u></a></li>
 </ul></div>
+
 

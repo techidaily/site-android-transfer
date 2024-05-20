@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor V Purse to New Android? | Dr.fone
-date: 2024-04-30T02:17:31.864Z
-updated: 2024-05-01T02:17:31.864Z
+date: 2024-05-19T18:55:10.428Z
+updated: 2024-05-20T18:55:10.428Z
 tags: 
   - transfer
 categories:
@@ -565,4 +565,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oneplus-nord-n30-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked OnePlus Nord N30 5G Phone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
 </ul></div>
+
 

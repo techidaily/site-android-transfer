@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Hot 30 5G to New Phone | Dr.fone
-date: 2024-04-30T02:20:51.449Z
-updated: 2024-05-01T02:20:51.449Z
+date: 2024-05-19T18:55:13.205Z
+updated: 2024-05-20T18:55:13.205Z
 tags: 
   - transfer
 categories:
@@ -426,4 +426,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-7-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 7 Keeps Asking for Outlook Password</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713962411809-updated-do-you-want-to-apply-professional-looking-color-grading-on-your-iphones-photos-and-videos-you-can-use-different-iphone-luts-for-your-pictures-and-vi/"><u>Updated Do You Want to Apply Professional-Looking Color Grading on Your iPhones Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos for 2024</u></a></li>
 </ul></div>
+
 

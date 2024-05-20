@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y100i Power 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:25.317Z
-updated: 2024-05-01T02:15:25.317Z
+date: 2024-05-19T18:55:08.866Z
+updated: 2024-05-20T18:55:08.866Z
 tags: 
   - transfer
 categories:
@@ -541,4 +541,5 @@ At last, we hope that you now know how to transfer music from Vivo Y100i Power 5
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-zero-30-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Zero 30 5G to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-jaycut-guide-free-online-video-editing-for-beginners-and-pros/"><u>2024 Approved The Ultimate Jaycut Guide Free Online Video Editing for Beginners and Pros</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Sony Xperia 5 V to New Android? | Dr.fone
-date: 2024-04-30T02:19:43.321Z
-updated: 2024-05-01T02:19:43.321Z
+date: 2024-05-19T18:55:12.293Z
+updated: 2024-05-20T18:55:12.293Z
 tags: 
   - transfer
 categories:
@@ -524,4 +524,5 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 <li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-15-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 15 Plus</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 15 Pro Max How to Bypass?</u></a></li>
 </ul></div>
+
 

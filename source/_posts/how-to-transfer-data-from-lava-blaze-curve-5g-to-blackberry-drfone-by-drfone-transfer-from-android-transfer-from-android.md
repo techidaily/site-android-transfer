@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze Curve 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.083Z
-updated: 2024-05-01T02:13:27.083Z
+date: 2024-05-19T18:55:06.837Z
+updated: 2024-05-20T18:55:06.837Z
 tags: 
   - transfer
 categories:
@@ -543,4 +543,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-honor-x9b-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Honor X9b.</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-htc-u23-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from HTC U23 Pro.</u></a></li>
 </ul></div>
+
 

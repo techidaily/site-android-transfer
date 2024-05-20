@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Note 30 VIP to iPad | Dr.fone
-date: 2024-04-30T02:22:02.200Z
-updated: 2024-05-01T02:22:02.200Z
+date: 2024-05-19T18:55:14.344Z
+updated: 2024-05-20T18:55:14.344Z
 tags: 
   - transfer
 categories:
@@ -532,4 +532,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Poco M6 5G Bootloader Easily</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic5-ultimate-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic5 Ultimate</u></a></li>
 </ul></div>
+
 

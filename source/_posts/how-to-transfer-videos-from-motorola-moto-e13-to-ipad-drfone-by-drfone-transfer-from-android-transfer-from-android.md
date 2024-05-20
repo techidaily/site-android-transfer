@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Motorola Moto E13 to iPad | Dr.fone
-date: 2024-04-30T02:22:10.687Z
-updated: 2024-05-01T02:22:10.687Z
+date: 2024-05-19T18:55:14.450Z
+updated: 2024-05-20T18:55:14.450Z
 tags: 
   - transfer
 categories:
@@ -491,4 +491,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-create-ai-powered-videos-using-synthesia-avatar-and-voices-for-2024/"><u>Updated How To Create AI-Powered Videos Using Synthesia Avatar and Voices for 2024</u></a></li>
 </ul></div>
+
 

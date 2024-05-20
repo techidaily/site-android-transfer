@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Motorola Moto G13 to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:48.030Z
-updated: 2024-05-01T02:26:48.030Z
+date: 2024-05-19T18:55:17.422Z
+updated: 2024-05-20T18:55:17.422Z
 tags: 
   - transfer
 categories:
@@ -577,4 +577,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://techidaily.com/hard-resetting-an-honor-magic-6-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 6 Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

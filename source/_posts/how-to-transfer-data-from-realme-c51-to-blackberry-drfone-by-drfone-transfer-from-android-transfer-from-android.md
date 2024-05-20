@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme C51 to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:03.780Z
-updated: 2024-05-01T02:14:03.780Z
+date: 2024-05-19T18:55:07.855Z
+updated: 2024-05-20T18:55:07.855Z
 tags: 
   - transfer
 categories:
@@ -508,4 +508,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-smart-7-hd-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Smart 7 HD Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-ways-to-make-sure-you-get-the-most-up-to-date-cartoon-character-design-tips/"><u>Updated Ways to Make Sure You Get the Most up to Date Cartoon Character Design Tips</u></a></li>
 </ul></div>
+
 

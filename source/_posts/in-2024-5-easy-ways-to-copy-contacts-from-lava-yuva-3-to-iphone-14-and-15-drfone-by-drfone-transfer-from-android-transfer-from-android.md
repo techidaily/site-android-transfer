@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Lava Yuva 3 to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:45.302Z
-updated: 2024-05-01T02:26:45.302Z
+date: 2024-05-19T18:55:17.393Z
+updated: 2024-05-20T18:55:17.393Z
 tags: 
   - transfer
 categories:
@@ -485,4 +485,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-11-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 When We Dont Have Apple ID or Password?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
+
 

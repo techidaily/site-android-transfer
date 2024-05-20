@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Xiaomi Redmi 13C to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:49.667Z
-updated: 2024-05-01T02:15:49.667Z
+date: 2024-05-19T18:55:09.413Z
+updated: 2024-05-20T18:55:09.413Z
 tags: 
   - transfer
 categories:
@@ -447,4 +447,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-spark-10c-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Tecno Spark 10C</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
+
 

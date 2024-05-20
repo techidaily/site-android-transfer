@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme 12 Pro 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:20.705Z
-updated: 2024-05-01T02:21:20.705Z
+date: 2024-05-19T18:55:13.540Z
+updated: 2024-05-20T18:55:13.540Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-6-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 6 Plus has bad ESN or blacklisted IMEI?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Pro Max Without a Home Button</u></a></li>
 </ul></div>
+
 

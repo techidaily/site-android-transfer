@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo S18 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:06.926Z
-updated: 2024-05-01T02:15:06.926Z
+date: 2024-05-19T18:55:08.619Z
+updated: 2024-05-20T18:55:08.619Z
 tags: 
   - transfer
 categories:
@@ -501,4 +501,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nova-y71-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nova Y71</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

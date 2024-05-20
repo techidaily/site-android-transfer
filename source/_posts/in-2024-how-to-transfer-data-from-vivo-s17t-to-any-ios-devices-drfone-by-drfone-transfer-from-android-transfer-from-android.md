@@ -548,3 +548,4 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

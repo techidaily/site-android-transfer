@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C12 to iPad | Dr.fone
-date: 2024-04-30T02:22:14.357Z
-updated: 2024-05-01T02:22:14.357Z
+date: 2024-05-19T18:55:14.477Z
+updated: 2024-05-20T18:55:14.477Z
 tags: 
   - transfer
 categories:
@@ -476,4 +476,5 @@ Truly, it’s now very easy to move contacts from Nokia C12 to iPhone (13/14/15)
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

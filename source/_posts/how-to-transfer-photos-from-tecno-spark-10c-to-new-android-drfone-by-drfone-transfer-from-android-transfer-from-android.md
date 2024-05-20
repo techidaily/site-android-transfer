@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Tecno Spark 10C to New Android? | Dr.fone
-date: 2024-04-30T02:19:52.246Z
-updated: 2024-05-01T02:19:52.246Z
+date: 2024-05-19T18:55:12.414Z
+updated: 2024-05-20T18:55:12.414Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ We hope that you learned some of the phone clone methods and applications that y
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-10t-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme 10T 5G PC | Dr.fone</u></a></li>
 </ul></div>
+
 

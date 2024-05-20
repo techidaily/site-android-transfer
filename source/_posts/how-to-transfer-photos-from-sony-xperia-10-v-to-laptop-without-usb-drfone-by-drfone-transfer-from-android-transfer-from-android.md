@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Sony Xperia 10 V to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:19:42.487Z
-updated: 2024-05-01T02:19:42.487Z
+date: 2024-05-19T18:55:12.269Z
+updated: 2024-05-20T18:55:12.269Z
 tags: 
   - transfer
 categories:
@@ -558,4 +558,5 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-a38-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo A38 Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-hot-40-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Hot 40 Pro FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

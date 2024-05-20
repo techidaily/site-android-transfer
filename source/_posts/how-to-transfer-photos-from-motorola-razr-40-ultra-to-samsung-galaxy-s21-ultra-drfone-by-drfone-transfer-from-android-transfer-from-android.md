@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Razr 40 Ultra to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:18.554Z
-updated: 2024-05-01T02:18:18.554Z
+date: 2024-05-19T18:55:11.072Z
+updated: 2024-05-20T18:55:11.072Z
 tags: 
   - transfer
 categories:
@@ -486,4 +486,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y27 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

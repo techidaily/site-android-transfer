@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y100t to New Phone | Dr.fone
-date: 2024-04-30T02:21:42.190Z
-updated: 2024-05-01T02:21:42.190Z
+date: 2024-05-19T18:55:13.779Z
+updated: 2024-05-20T18:55:13.779Z
 tags: 
   - transfer
 categories:
@@ -387,4 +387,5 @@ Regardless of the fact that many free solutions are there that can help you **tr
 <li><a href="https://techidaily.com/how-to-factory-reset-honor-x50iplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i+ without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-moto-g73-5g-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Moto G73 5G has native MKV support?</u></a></li>
 </ul></div>
+
 

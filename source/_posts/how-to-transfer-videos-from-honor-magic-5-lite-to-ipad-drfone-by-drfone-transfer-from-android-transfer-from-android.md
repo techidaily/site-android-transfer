@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor Magic 5 Lite to iPad | Dr.fone
-date: 2024-04-30T02:21:55.145Z
-updated: 2024-05-01T02:21:55.145Z
+date: 2024-05-19T18:55:13.936Z
+updated: 2024-05-20T18:55:13.936Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 <li><a href="https://fix-guide.techidaily.com/infinix-hot-40-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-8-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 8 Plus</u></a></li>
 </ul></div>
+
 

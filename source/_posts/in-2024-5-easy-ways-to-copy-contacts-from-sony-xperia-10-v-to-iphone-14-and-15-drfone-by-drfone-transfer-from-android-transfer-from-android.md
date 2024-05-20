@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Sony Xperia 10 V to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:27:17.603Z
-updated: 2024-05-01T02:27:17.603Z
+date: 2024-05-19T18:55:17.809Z
+updated: 2024-05-20T18:55:17.809Z
 tags: 
   - transfer
 categories:
@@ -580,4 +580,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nubia-red-magic-9-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nubia Red Magic 9 Pro Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

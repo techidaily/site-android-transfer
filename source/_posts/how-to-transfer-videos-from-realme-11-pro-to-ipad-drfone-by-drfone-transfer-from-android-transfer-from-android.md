@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Realme 11 Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:28.962Z
-updated: 2024-05-01T02:22:28.962Z
+date: 2024-05-19T18:55:14.607Z
+updated: 2024-05-20T18:55:14.607Z
 tags: 
   - transfer
 categories:
@@ -436,4 +436,5 @@ How to Transfer Data from Realme 11 Pro to BlackBerry With 1-Click
 <li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-poco-m6-pro-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Poco M6 Pro 5G</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-tecno-spark-20-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Tecno Spark 20</u></a></li>
 </ul></div>
+
 

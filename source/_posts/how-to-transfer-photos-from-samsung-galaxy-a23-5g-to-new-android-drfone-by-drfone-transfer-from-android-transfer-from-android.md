@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy A23 5G to New Android? | Dr.fone
-date: 2024-04-30T02:19:26.059Z
-updated: 2024-05-01T02:19:26.059Z
+date: 2024-05-19T18:55:12.021Z
+updated: 2024-05-20T18:55:12.021Z
 tags: 
   - transfer
 categories:
@@ -470,4 +470,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-motorola-moto-g14-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Motorola Moto G14 password or pattern lock</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v30-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V30 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

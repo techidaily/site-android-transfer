@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Razr 40 Ultra to New Phone | Dr.fone
-date: 2024-04-30T02:21:03.806Z
-updated: 2024-05-01T02:21:03.806Z
+date: 2024-05-19T18:55:13.333Z
+updated: 2024-05-20T18:55:13.333Z
 tags: 
   - transfer
 categories:
@@ -422,4 +422,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-s23-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel S23 Phone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 15 Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus 11 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:17.406Z
-updated: 2024-05-01T02:22:17.406Z
+date: 2024-05-19T18:55:14.513Z
+updated: 2024-05-20T18:55:14.513Z
 tags: 
   - transfer
 categories:
@@ -424,4 +424,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-best-10-3d-text-animation-templates/"><u>Updated In 2024, Best 10 3D Text Animation Templates</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-oppo-f25-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo F25 Pro 5G Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

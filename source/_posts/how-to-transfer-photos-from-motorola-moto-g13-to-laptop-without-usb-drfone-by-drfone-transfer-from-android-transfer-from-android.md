@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto G13 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:13.402Z
-updated: 2024-05-01T02:18:13.402Z
+date: 2024-05-19T18:55:11.025Z
+updated: 2024-05-20T18:55:11.025Z
 tags: 
   - transfer
 categories:
@@ -521,4 +521,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://ai-video-apps.techidaily.com/updated-blur-video-online-without-spending-a-dime-a-tutorial-for-2024/"><u>Updated Blur Video Online Without Spending a Dime A Tutorial for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi 13T Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

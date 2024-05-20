@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C12 Plus to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.509Z
-updated: 2024-05-01T02:13:27.509Z
+date: 2024-05-19T18:55:07.117Z
+updated: 2024-05-20T18:55:07.117Z
 tags: 
   - transfer
 categories:
@@ -449,4 +449,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-ace-2-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Ace 2</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

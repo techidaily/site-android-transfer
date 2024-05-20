@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50i to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.744Z
-updated: 2024-05-01T02:13:26.744Z
+date: 2024-05-19T18:55:06.460Z
+updated: 2024-05-20T18:55:06.460Z
 tags: 
   - transfer
 categories:
@@ -401,4 +401,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On HTC U23 Pro | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-7-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 7</u></a></li>
 </ul></div>
+
 

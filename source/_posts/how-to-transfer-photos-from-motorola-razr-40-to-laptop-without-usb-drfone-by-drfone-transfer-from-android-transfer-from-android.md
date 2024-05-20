@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Razr 40 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:17.587Z
-updated: 2024-05-01T02:18:17.587Z
+date: 2024-05-19T18:55:11.066Z
+updated: 2024-05-20T18:55:11.066Z
 tags: 
   - transfer
 categories:
@@ -501,4 +501,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-hot-30-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix Hot 30 5G Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 11</u></a></li>
 </ul></div>
+
 

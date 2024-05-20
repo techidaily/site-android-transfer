@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor X50i+ to iPad | Dr.fone
-date: 2024-04-30T02:21:58.271Z
-updated: 2024-05-01T02:21:58.271Z
+date: 2024-05-19T18:55:13.991Z
+updated: 2024-05-20T18:55:13.991Z
 tags: 
   - transfer
 categories:
@@ -586,4 +586,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your ZTE Blade A73 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme GT 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

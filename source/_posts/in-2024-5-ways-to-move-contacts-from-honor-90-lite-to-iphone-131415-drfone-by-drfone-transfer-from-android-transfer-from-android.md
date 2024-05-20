@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Honor 90 Lite to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:49.635Z
-updated: 2024-05-01T02:28:49.635Z
+date: 2024-05-19T18:55:19.367Z
+updated: 2024-05-20T18:55:19.367Z
 tags: 
   - transfer
 categories:
@@ -480,4 +480,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

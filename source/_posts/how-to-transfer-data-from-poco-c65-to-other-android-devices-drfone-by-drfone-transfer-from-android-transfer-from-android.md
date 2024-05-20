@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Poco C65 to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:48.319Z
-updated: 2024-05-01T02:13:48.319Z
+date: 2024-05-19T18:55:07.632Z
+updated: 2024-05-20T18:55:07.632Z
 tags: 
   - transfer
 categories:
@@ -558,4 +558,5 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A25 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nubia-z50s-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Z50S Pro Device</u></a></li>
 </ul></div>
+
 

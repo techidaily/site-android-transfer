@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y200 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:28.458Z
-updated: 2024-05-01T02:15:28.458Z
+date: 2024-05-19T18:55:08.907Z
+updated: 2024-05-20T18:55:08.907Z
 tags: 
   - transfer
 categories:
@@ -436,4 +436,5 @@ In conclusion, there are various methods to transfer videos from Vivo Y200 to iP
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-se-2022-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone SE (2022) Passcode not Working? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-magic-5-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor Magic 5 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

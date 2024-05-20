@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Huawei Nova Y91 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.802Z
-updated: 2024-05-01T02:13:26.802Z
+date: 2024-05-19T18:55:06.519Z
+updated: 2024-05-20T18:55:06.519Z
 tags: 
   - transfer
 categories:
@@ -429,4 +429,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-m34-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy M34 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-note-12t-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi Note 12T Pro Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
+
 

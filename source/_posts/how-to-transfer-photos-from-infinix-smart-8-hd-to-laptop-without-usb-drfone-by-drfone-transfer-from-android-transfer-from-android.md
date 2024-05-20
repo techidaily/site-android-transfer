@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 HD to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:48.283Z
-updated: 2024-05-01T02:17:48.283Z
+date: 2024-05-19T18:55:10.687Z
+updated: 2024-05-20T18:55:10.687Z
 tags: 
   - transfer
 categories:
@@ -534,4 +534,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-civi-3-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Civi 3? 8 Solutions Inside | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for OnePlus Ace 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

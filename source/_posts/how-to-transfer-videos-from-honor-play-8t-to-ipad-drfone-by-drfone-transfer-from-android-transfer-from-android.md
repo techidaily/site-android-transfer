@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor Play 8T to iPad | Dr.fone
-date: 2024-04-30T02:21:57.297Z
-updated: 2024-05-01T02:21:57.297Z
+date: 2024-05-19T18:55:13.982Z
+updated: 2024-05-20T18:55:13.983Z
 tags: 
   - transfer
 categories:
@@ -440,4 +440,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo K11x | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy A14 5G FRP</u></a></li>
 </ul></div>
+
 

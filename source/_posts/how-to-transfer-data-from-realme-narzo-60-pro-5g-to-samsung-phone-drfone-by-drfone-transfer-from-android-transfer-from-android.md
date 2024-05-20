@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme Narzo 60 Pro 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:12.882Z
-updated: 2024-05-01T02:14:12.882Z
+date: 2024-05-19T18:55:07.990Z
+updated: 2024-05-20T18:55:07.990Z
 tags: 
   - transfer
 categories:
@@ -493,4 +493,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-note-30-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Note 30 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

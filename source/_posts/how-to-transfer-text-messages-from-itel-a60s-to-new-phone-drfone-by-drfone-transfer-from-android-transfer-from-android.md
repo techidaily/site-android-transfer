@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Itel A60s to New Phone | Dr.fone
-date: 2024-04-30T02:20:55.531Z
-updated: 2024-05-01T02:20:55.531Z
+date: 2024-05-19T18:55:13.258Z
+updated: 2024-05-20T18:55:13.258Z
 tags: 
   - transfer
 categories:
@@ -362,4 +362,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-8-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 8 Plus Data From iOS iTunes Backup? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-honor-magic-6-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Magic 6 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

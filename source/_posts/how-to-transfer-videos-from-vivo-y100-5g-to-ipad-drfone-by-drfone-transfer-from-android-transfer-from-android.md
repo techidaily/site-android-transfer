@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y100 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:50.267Z
-updated: 2024-05-01T02:22:50.267Z
+date: 2024-05-19T18:55:14.849Z
+updated: 2024-05-20T18:55:14.849Z
 tags: 
   - transfer
 categories:
@@ -417,4 +417,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-speed-up-video-with-canva-online-tool/"><u>New In 2024, How to Speed Up Video with Canva Online Tool?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

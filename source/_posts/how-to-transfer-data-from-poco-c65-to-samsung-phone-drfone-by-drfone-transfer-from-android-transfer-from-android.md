@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Poco C65 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:48.512Z
-updated: 2024-05-01T02:13:48.512Z
+date: 2024-05-19T18:55:07.634Z
+updated: 2024-05-20T18:55:07.634Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 15</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

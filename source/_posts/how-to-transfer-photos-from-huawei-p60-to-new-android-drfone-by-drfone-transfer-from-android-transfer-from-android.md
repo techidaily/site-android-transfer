@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Huawei P60 to New Android? | Dr.fone
-date: 2024-04-30T02:17:39.668Z
-updated: 2024-05-01T02:17:39.668Z
+date: 2024-05-19T18:55:10.539Z
+updated: 2024-05-20T18:55:10.539Z
 tags: 
   - transfer
 categories:
@@ -491,4 +491,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-g-stylus-2023-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto G Stylus (2023) Location | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-motorola-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Motorola .</u></a></li>
 </ul></div>
+
 

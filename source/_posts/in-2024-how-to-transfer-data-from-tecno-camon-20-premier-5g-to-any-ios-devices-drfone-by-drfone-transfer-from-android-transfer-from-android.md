@@ -552,3 +552,4 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-xcover-7-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy XCover 7 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

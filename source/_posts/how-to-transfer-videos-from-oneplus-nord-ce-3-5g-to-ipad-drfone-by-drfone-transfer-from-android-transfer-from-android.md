@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus Nord CE 3 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:19.153Z
-updated: 2024-05-01T02:22:19.153Z
+date: 2024-05-19T18:55:14.527Z
+updated: 2024-05-20T18:55:14.527Z
 tags: 
   - transfer
 categories:
@@ -548,4 +548,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-zte-nubia-flip-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with ZTE Nubia Flip 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Ultra Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Motorola Moto G73 5G to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:48.998Z
-updated: 2024-05-01T02:26:48.999Z
+date: 2024-05-19T18:55:17.458Z
+updated: 2024-05-20T18:55:17.458Z
 tags: 
   - transfer
 categories:
@@ -439,4 +439,5 @@ To summarize, while it may seem troublesome to ****transfer files from Motorola 
 <li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 14</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-tecno-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Tecno</u></a></li>
 </ul></div>
+
 

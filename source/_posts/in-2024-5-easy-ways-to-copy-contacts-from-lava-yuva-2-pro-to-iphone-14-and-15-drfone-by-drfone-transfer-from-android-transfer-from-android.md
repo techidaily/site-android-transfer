@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Lava Yuva 2 Pro to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:44.703Z
-updated: 2024-05-01T02:26:44.703Z
+date: 2024-05-19T18:55:17.348Z
+updated: 2024-05-20T18:55:17.348Z
 tags: 
   - transfer
 categories:
@@ -677,4 +677,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-c50-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco C50 and Browser | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c300-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C300.</u></a></li>
 </ul></div>
+
 

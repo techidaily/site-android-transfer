@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus 12R to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:33.515Z
-updated: 2024-05-01T02:18:33.515Z
+date: 2024-05-19T18:55:11.258Z
+updated: 2024-05-20T18:55:11.258Z
 tags: 
   - transfer
 categories:
@@ -573,4 +573,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-2023-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Edge 2023 has native MOV support?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy S23 Tactical Edition to New Phone | Dr.fone
-date: 2024-04-30T02:21:29.406Z
-updated: 2024-05-01T02:21:29.406Z
+date: 2024-05-19T18:55:13.664Z
+updated: 2024-05-20T18:55:13.664Z
 tags: 
   - transfer
 categories:
@@ -444,4 +444,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y100a-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y100A | Dr.fone</u></a></li>
 </ul></div>
+
 

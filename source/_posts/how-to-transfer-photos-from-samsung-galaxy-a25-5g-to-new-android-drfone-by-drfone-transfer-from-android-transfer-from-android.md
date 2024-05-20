@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy A25 5G to New Android? | Dr.fone
-date: 2024-04-30T02:19:27.245Z
-updated: 2024-05-01T02:19:27.245Z
+date: 2024-05-19T18:55:12.031Z
+updated: 2024-05-20T18:55:12.031Z
 tags: 
   - transfer
 categories:
@@ -551,4 +551,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2016-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2016</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-red-magic-8s-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Red Magic 8S Pro without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

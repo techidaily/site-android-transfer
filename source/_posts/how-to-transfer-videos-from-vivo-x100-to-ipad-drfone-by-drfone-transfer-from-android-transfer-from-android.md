@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo X100 to iPad | Dr.fone
-date: 2024-04-30T02:22:49.683Z
-updated: 2024-05-01T02:22:49.683Z
+date: 2024-05-19T18:55:14.844Z
+updated: 2024-05-20T18:55:14.844Z
 tags: 
   - transfer
 categories:
@@ -567,4 +567,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sony-xperia-1-v-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sony Xperia 1 V Phones with/without a PC</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-gt-neo-5-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme GT Neo 5 with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

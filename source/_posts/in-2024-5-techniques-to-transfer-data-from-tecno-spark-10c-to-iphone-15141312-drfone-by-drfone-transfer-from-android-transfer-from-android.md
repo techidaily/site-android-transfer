@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Tecno Spark 10C to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T02:28:29.799Z
-updated: 2024-05-01T02:28:29.799Z
+date: 2024-05-19T18:55:18.950Z
+updated: 2024-05-20T18:55:18.950Z
 tags: 
   - transfer
 categories:
@@ -567,4 +567,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-smart-8-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Smart 8 and Browser | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/sim-unlock-lava-blaze-2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Lava Blaze 2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

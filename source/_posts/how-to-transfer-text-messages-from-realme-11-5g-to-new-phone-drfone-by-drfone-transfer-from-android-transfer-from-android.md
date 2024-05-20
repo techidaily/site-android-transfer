@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme 11 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:19.727Z
-updated: 2024-05-01T02:21:19.727Z
+date: 2024-05-19T18:55:13.532Z
+updated: 2024-05-20T18:55:13.532Z
 tags: 
   - transfer
 categories:
@@ -330,4 +330,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-a78-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo A78 with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone XS Max</u></a></li>
 </ul></div>
+
 

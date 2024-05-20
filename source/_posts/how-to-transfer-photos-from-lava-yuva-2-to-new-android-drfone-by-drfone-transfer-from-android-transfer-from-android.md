@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Yuva 2 to New Android? | Dr.fone
-date: 2024-04-30T02:18:04.137Z
-updated: 2024-05-01T02:18:04.137Z
+date: 2024-05-19T18:55:10.878Z
+updated: 2024-05-20T18:55:10.878Z
 tags: 
   - transfer
 categories:
@@ -443,4 +443,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-9-best-sparkle-effects-photo-and-video-editors-you-should-know/"><u>In 2024, 9 Best Sparkle Effects Photo and Video Editors You Should Know</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-s18-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo S18 Pro</u></a></li>
 </ul></div>
+
 

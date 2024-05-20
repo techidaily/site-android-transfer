@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C12 Plus to iPad | Dr.fone
-date: 2024-04-30T02:22:13.971Z
-updated: 2024-05-01T02:22:13.971Z
+date: 2024-05-19T18:55:14.475Z
+updated: 2024-05-20T18:55:14.475Z
 tags: 
   - transfer
 categories:
@@ -350,4 +350,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A38 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-nokia-g22-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia G22 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

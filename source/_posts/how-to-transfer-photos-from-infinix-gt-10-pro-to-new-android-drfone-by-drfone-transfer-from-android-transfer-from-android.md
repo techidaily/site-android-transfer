@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix GT 10 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:40.255Z
-updated: 2024-05-01T02:17:40.255Z
+date: 2024-05-19T18:55:10.546Z
+updated: 2024-05-20T18:55:10.546Z
 tags: 
   - transfer
 categories:
@@ -542,4 +542,5 @@ In conclusion, there are various methods to transfer videos from Infinix GT 10 P
 <li><a href="https://techidaily.com/complete-tutorial-for-tecno-camon-30-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Camon 30 Pro 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-essential-tips-for-shooting-talking-head-videos-for-2024/"><u>New Essential Tips for Shooting Talking Head Videos for 2024</u></a></li>
 </ul></div>
+
 

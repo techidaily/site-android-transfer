@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Honor X50 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:15.896Z
-updated: 2024-05-01T02:24:15.896Z
+date: 2024-05-19T18:55:15.686Z
+updated: 2024-05-20T18:55:15.686Z
 tags: 
   - transfer
 categories:
@@ -413,4 +413,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/disabling-iphone-xr-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone XR Parental Restrictions With/Without Password</u></a></li>
 </ul></div>
+
 

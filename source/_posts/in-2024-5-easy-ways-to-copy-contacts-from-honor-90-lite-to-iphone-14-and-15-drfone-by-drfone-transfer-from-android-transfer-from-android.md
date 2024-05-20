@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Honor 90 Lite to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:31.333Z
-updated: 2024-05-01T02:26:31.333Z
+date: 2024-05-19T18:55:17.246Z
+updated: 2024-05-20T18:55:17.246Z
 tags: 
   - transfer
 categories:
@@ -526,4 +526,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-g2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo G2?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo Find N3 | Dr.fone</u></a></li>
 </ul></div>
+
 

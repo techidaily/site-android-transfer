@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Poco C50 to iPad | Dr.fone
-date: 2024-04-30T02:22:26.039Z
-updated: 2024-05-01T02:22:26.039Z
+date: 2024-05-19T18:55:14.584Z
+updated: 2024-05-20T18:55:14.584Z
 tags: 
   - transfer
 categories:
@@ -419,4 +419,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 7? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 15 Pro</u></a></li>
 </ul></div>
+
 

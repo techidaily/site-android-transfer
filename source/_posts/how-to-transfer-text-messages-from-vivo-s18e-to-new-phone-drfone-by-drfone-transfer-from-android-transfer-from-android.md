@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo S18e to New Phone | Dr.fone
-date: 2024-04-30T02:21:37.515Z
-updated: 2024-05-01T02:21:37.515Z
+date: 2024-05-19T18:55:13.742Z
+updated: 2024-05-20T18:55:13.742Z
 tags: 
   - transfer
 categories:
@@ -393,4 +393,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://techidaily.com/top-8-iphone-15-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 15 SMS/Message/Text Recovery Software | Stellar</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-poco-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Poco ?</u></a></li>
 </ul></div>
+
 

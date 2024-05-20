@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 40 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:42.397Z
-updated: 2024-05-01T02:17:42.397Z
+date: 2024-05-19T18:55:10.566Z
+updated: 2024-05-20T18:55:10.566Z
 tags: 
   - transfer
 categories:
@@ -460,4 +460,5 @@ How to Transfer Data from Infinix Hot 40 to BlackBerry With 1-Click
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo Y100A | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

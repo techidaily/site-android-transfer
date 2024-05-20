@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 40i to New Android? | Dr.fone
-date: 2024-04-30T02:17:43.190Z
-updated: 2024-05-01T02:17:43.190Z
+date: 2024-05-19T18:55:10.572Z
+updated: 2024-05-20T18:55:10.572Z
 tags: 
   - transfer
 categories:
@@ -513,4 +513,5 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic 6 Pro?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy S23+ FRP</u></a></li>
 </ul></div>
+
 

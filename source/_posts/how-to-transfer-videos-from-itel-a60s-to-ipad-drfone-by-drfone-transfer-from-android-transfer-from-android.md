@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Itel A60s to iPad | Dr.fone
-date: 2024-04-30T02:22:04.627Z
-updated: 2024-05-01T02:22:04.627Z
+date: 2024-05-19T18:55:14.362Z
+updated: 2024-05-20T18:55:14.362Z
 tags: 
   - transfer
 categories:
@@ -408,4 +408,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-x9b-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor X9b Phone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

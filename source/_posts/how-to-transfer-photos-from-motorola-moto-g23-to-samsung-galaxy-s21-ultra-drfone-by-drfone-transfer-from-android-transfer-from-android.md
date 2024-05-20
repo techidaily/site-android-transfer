@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Moto G23 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:14.958Z
-updated: 2024-05-01T02:18:14.958Z
+date: 2024-05-19T18:55:11.047Z
+updated: 2024-05-20T18:55:11.047Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a78-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A78 5G Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

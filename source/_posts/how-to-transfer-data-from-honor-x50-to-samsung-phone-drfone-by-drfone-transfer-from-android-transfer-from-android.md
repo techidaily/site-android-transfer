@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.737Z
-updated: 2024-05-01T02:13:26.737Z
+date: 2024-05-19T18:55:06.453Z
+updated: 2024-05-20T18:55:06.453Z
 tags: 
   - transfer
 categories:
@@ -431,4 +431,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-10t-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme 10T 5G?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-itel-a60-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Itel A60 FRP Without Computer</u></a></li>
 </ul></div>
+
 

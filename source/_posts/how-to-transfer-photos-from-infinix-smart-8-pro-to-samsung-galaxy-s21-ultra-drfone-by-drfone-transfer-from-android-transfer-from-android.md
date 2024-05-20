@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Smart 8 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:49.848Z
-updated: 2024-05-01T02:17:49.848Z
+date: 2024-05-19T18:55:10.703Z
+updated: 2024-05-20T18:55:10.703Z
 tags: 
   - transfer
 categories:
@@ -410,4 +410,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 15 Pro</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 13 Pro Max/iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

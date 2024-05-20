@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor X50i to iPad | Dr.fone
-date: 2024-04-30T02:21:58.077Z
-updated: 2024-05-01T02:21:58.077Z
+date: 2024-05-19T18:55:13.989Z
+updated: 2024-05-20T18:55:13.989Z
 tags: 
   - transfer
 categories:
@@ -522,4 +522,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nokia C02? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Smart 8 Plus to New Phone | Dr.fone
-date: 2024-04-30T02:20:54.172Z
-updated: 2024-05-01T02:20:54.172Z
+date: 2024-05-19T18:55:13.238Z
+updated: 2024-05-20T18:55:13.238Z
 tags: 
   - transfer
 categories:
@@ -419,4 +419,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://ai-vdieo-software.techidaily.com/cutting-edge-video-editing-top-4k-software-solutions-for-2024/"><u>Cutting-Edge Video Editing Top 4K Software Solutions for 2024</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 6s Plus to Android | Dr.fone</u></a></li>
 </ul></div>
+
 

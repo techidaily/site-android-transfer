@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Tecno Spark 10C to New Phone | Dr.fone
-date: 2024-04-30T02:21:34.873Z
-updated: 2024-05-01T02:21:34.873Z
+date: 2024-05-19T18:55:13.722Z
+updated: 2024-05-20T18:55:13.722Z
 tags: 
   - transfer
 categories:
@@ -481,4 +481,5 @@ To summarize, while it may seem troublesome to ****transfer files from Tecno Spa
 <li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-13-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 13 to Use USB Accessories Without Passcode</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-reno-11-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Reno 11 5G Location | Dr.fone</u></a></li>
 </ul></div>
+
 

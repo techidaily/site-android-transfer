@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Infinix GT 10 Pro to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:37.000Z
-updated: 2024-05-01T02:26:37.000Z
+date: 2024-05-19T18:55:17.289Z
+updated: 2024-05-20T18:55:17.289Z
 tags: 
   - transfer
 categories:
@@ -680,4 +680,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s23-tactical-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S23 Tactical Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-are-you-looking-for-the-best-way-to-add-subtitles-to-your-video-the-top-srt-file-creators-can-help-you-do-that/"><u>In 2024, Are You Looking for the Best Way to Add Subtitles to Your Video? The Top SRT File Creators Can Help You Do That</u></a></li>
 </ul></div>
+
 

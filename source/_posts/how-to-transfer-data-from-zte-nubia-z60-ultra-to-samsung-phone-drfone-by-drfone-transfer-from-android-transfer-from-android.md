@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from ZTE Nubia Z60 Ultra to Samsung Phone | Dr.fone
-date: 2024-04-30T02:16:04.898Z
-updated: 2024-05-01T02:16:04.898Z
+date: 2024-05-19T18:55:09.562Z
+updated: 2024-05-20T18:55:09.562Z
 tags: 
   - transfer
 categories:
@@ -452,4 +452,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo X90S | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

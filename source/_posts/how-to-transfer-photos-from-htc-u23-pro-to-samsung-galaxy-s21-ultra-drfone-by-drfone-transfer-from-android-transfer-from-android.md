@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From HTC U23 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:37.466Z
-updated: 2024-05-01T02:17:37.466Z
+date: 2024-05-19T18:55:10.491Z
+updated: 2024-05-20T18:55:10.491Z
 tags: 
   - transfer
 categories:
@@ -581,4 +581,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://ai-video-translation.techidaily.com/srt-subtitle-translation-tools-and-techniques-for-2024/"><u>SRT Subtitle Translation Tools and Techniques for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-a14-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy A14 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

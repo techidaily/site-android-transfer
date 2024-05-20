@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Hot 40i to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:43.385Z
-updated: 2024-05-01T02:17:43.385Z
+date: 2024-05-19T18:55:10.574Z
+updated: 2024-05-20T18:55:10.574Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-reno-8t-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo Reno 8T 5G and Browser | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/what-is-motion-graphics/"><u>What Is Motion Graphics</u></a></li>
 </ul></div>
+
 

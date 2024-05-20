@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Honor X50i+ to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:53.356Z
-updated: 2024-05-01T02:28:53.356Z
+date: 2024-05-19T18:55:19.396Z
+updated: 2024-05-20T18:55:19.396Z
 tags: 
   - transfer
 categories:
@@ -546,4 +546,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://phone-solutions.techidaily.com/does-13t-pro-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does 13T Pro has native HEVC support?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-narzo-60-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme Narzo 60 5G</u></a></li>
 </ul></div>
+
 

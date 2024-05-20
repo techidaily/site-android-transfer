@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android? | Dr.fone
-date: 2024-04-30T02:20:42.407Z
-updated: 2024-05-01T02:20:42.407Z
+date: 2024-05-19T18:55:13.102Z
+updated: 2024-05-20T18:55:13.102Z
 tags: 
   - transfer
 categories:
@@ -549,4 +549,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-xr21-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia XR21 Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme C51 Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

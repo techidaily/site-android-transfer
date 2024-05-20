@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from HTC U23 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:37.268Z
-updated: 2024-05-01T02:17:37.268Z
+date: 2024-05-19T18:55:10.489Z
+updated: 2024-05-20T18:55:10.489Z
 tags: 
   - transfer
 categories:
@@ -480,4 +480,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s24plus-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S24+ Pattern Lock Screen</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-f5-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco F5 Pro 5G Phone that is Locked?</u></a></li>
 </ul></div>
+
 

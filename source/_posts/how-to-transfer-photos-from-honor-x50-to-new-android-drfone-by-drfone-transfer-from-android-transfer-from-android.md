@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X50 to New Android? | Dr.fone
-date: 2024-04-30T02:17:33.058Z
-updated: 2024-05-01T02:17:33.058Z
+date: 2024-05-19T18:55:10.453Z
+updated: 2024-05-20T18:55:10.453Z
 tags: 
   - transfer
 categories:
@@ -533,4 +533,5 @@ How to Transfer Data from Honor X50 to BlackBerry With 1-Click
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-hot-40i-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Hot 40i by Name | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-divide-and-conquer-how-to-split-videos-in-windows-live-movie-maker/"><u>New In 2024, Divide and Conquer How to Split Videos in Windows Live Movie Maker</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Vivo Y02T Data? | Dr.fone
-date: 2024-04-30T02:23:59.081Z
-updated: 2024-05-01T02:23:59.081Z
+date: 2024-05-19T18:55:15.557Z
+updated: 2024-05-20T18:55:15.557Z
 tags: 
   - transfer
 categories:
@@ -469,4 +469,5 @@ At last, we hope that you now know how to transfer music from Vivo Y02T to Other
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-mix-fold-3-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Mix Fold 3 Bootloader Easily</u></a></li>
 <li><a href="https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/"><u>iOS & Android WhatsApp Transfer </u></a></li>
 </ul></div>
+
 

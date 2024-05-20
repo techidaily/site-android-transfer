@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from HTC U23 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.788Z
-updated: 2024-05-01T02:13:26.788Z
+date: 2024-05-19T18:55:06.505Z
+updated: 2024-05-20T18:55:06.505Z
 tags: 
   - transfer
 categories:
@@ -352,4 +352,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-smart-8-hd-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix Smart 8 HD</u></a></li>
 </ul></div>
+
 

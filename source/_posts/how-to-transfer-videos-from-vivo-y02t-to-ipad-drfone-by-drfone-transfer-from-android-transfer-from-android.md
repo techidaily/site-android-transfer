@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y02T to iPad | Dr.fone
-date: 2024-04-30T02:22:50.073Z
-updated: 2024-05-01T02:22:50.073Z
+date: 2024-05-19T18:55:14.847Z
+updated: 2024-05-20T18:55:14.847Z
 tags: 
   - transfer
 categories:
@@ -473,4 +473,5 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 <li><a href="https://howto.techidaily.com/how-to-fix-it-poco-m6-pro-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco M6 Pro 4G Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

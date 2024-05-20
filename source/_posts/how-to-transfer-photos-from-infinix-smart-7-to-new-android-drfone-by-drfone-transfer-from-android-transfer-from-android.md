@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 7 to New Android? | Dr.fone
-date: 2024-04-30T02:17:47.892Z
-updated: 2024-05-01T02:17:47.892Z
+date: 2024-05-19T18:55:10.683Z
+updated: 2024-05-20T18:55:10.683Z
 tags: 
   - transfer
 categories:
@@ -502,4 +502,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-12-mini-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 mini Activation Lock</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-launching-your-live-room-for-2024/"><u>Updated Launching Your Live Room for 2024</u></a></li>
 </ul></div>
+
 

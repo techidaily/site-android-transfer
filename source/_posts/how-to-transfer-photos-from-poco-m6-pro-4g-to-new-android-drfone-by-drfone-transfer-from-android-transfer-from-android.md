@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco M6 Pro 4G to New Android? | Dr.fone
-date: 2024-04-30T02:19:02.103Z
-updated: 2024-05-01T02:19:02.103Z
+date: 2024-05-19T18:55:11.647Z
+updated: 2024-05-20T18:55:11.647Z
 tags: 
   - transfer
 categories:
@@ -445,4 +445,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-x-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone X</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-svd-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .svd file electronically</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y100 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:22.794Z
-updated: 2024-05-01T02:15:22.794Z
+date: 2024-05-19T18:55:08.846Z
+updated: 2024-05-20T18:55:08.846Z
 tags: 
   - transfer
 categories:
@@ -534,4 +534,5 @@ To summarize, while it may seem troublesome to ****transfer files from Vivo Y100
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus 11R | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-se-2022-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone SE (2022) Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

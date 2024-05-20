@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Samsung Galaxy S23 Ultra to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:37.187Z
-updated: 2024-05-01T02:14:37.187Z
+date: 2024-05-19T18:55:08.254Z
+updated: 2024-05-20T18:55:08.254Z
 tags: 
   - transfer
 categories:
@@ -460,4 +460,5 @@ How to Transfer Data from Samsung Galaxy S23 Ultra to BlackBerry With 1-Click
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-download-and-use-windows-movie-maker-10-for-2024/"><u>Updated How to Download and Use Windows Movie Maker 10 for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Lava Storm 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Lenovo ThinkPhone to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:06.079Z
-updated: 2024-05-01T02:18:06.079Z
+date: 2024-05-19T18:55:10.894Z
+updated: 2024-05-20T18:55:10.894Z
 tags: 
   - transfer
 categories:
@@ -427,4 +427,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://techidaily.com/how-to-reset-vivo-y78plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78+ Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-google-pixel-8-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Google Pixel 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 Lite to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.614Z
-updated: 2024-05-01T02:13:26.614Z
+date: 2024-05-19T18:55:06.343Z
+updated: 2024-05-20T18:55:06.343Z
 tags: 
   - transfer
 categories:
@@ -416,4 +416,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-11-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 11 Pro? How to Fix it?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
+
 

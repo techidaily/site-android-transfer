@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10C to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:14:56.887Z
-updated: 2024-05-01T02:14:56.887Z
+date: 2024-05-19T18:55:08.504Z
+updated: 2024-05-20T18:55:08.504Z
 tags: 
   - transfer
 categories:
@@ -586,4 +586,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-path-blur-in-photoshop-to-create-motion-effect/"><u>New In 2024, Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-convert-video-voice-to-text-online-for-free/"><u>2024 Approved How To Convert Video Voice to Text Online for Free?</u></a></li>
 </ul></div>
+
 

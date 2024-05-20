@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Google Pixel 8 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:44.064Z
-updated: 2024-05-01T02:20:44.064Z
+date: 2024-05-19T18:55:13.115Z
+updated: 2024-05-20T18:55:13.115Z
 tags: 
   - transfer
 categories:
@@ -478,4 +478,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://phone-solutions.techidaily.com/fixed-excel-2003-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2003 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel P40+? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor Magic 5 Lite to New Phone | Dr.fone
-date: 2024-04-30T02:20:46.187Z
-updated: 2024-05-01T02:20:46.187Z
+date: 2024-05-19T18:55:13.131Z
+updated: 2024-05-20T18:55:13.131Z
 tags: 
   - transfer
 categories:
@@ -292,4 +292,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-motorola-razr-40-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Motorola Razr 40 Ultra without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-sony-xperia-10-v-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Sony Xperia 10 V to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

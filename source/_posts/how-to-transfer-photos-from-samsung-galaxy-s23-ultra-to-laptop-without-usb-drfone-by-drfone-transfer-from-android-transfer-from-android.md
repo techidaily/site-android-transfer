@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy S23 Ultra to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:19:36.573Z
-updated: 2024-05-01T02:19:36.573Z
+date: 2024-05-19T18:55:12.204Z
+updated: 2024-05-20T18:55:12.204Z
 tags: 
   - transfer
 categories:
@@ -508,4 +508,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-ace-2-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus Ace 2 Pro Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-motorola-edge-2023-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Edge 2023 Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

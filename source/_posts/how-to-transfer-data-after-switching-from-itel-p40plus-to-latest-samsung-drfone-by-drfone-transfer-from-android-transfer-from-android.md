@@ -489,3 +489,4 @@ In conclusion, there are various methods to transfer videos from Itel P40+ to iP
      data-full-width-responsive="true"></ins>
 
 
+

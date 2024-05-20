@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Nokia C02 to New Phone | Dr.fone
-date: 2024-04-30T02:21:04.594Z
-updated: 2024-05-01T02:21:04.594Z
+date: 2024-05-19T18:55:13.339Z
+updated: 2024-05-20T18:55:13.339Z
 tags: 
   - transfer
 categories:
@@ -365,4 +365,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-phantom-v-flip-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Phantom V Flip to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone XS Max</u></a></li>
 </ul></div>
+
 

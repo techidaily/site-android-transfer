@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Poco C50 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:46.198Z
-updated: 2024-05-01T02:13:46.198Z
+date: 2024-05-19T18:55:07.605Z
+updated: 2024-05-20T18:55:07.605Z
 tags: 
   - transfer
 categories:
@@ -410,4 +410,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-14-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on 14</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-lava-yuva-3-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Lava Yuva 3 Pro Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

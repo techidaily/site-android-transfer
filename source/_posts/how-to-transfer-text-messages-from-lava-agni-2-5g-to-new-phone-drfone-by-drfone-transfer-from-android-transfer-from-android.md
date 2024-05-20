@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Agni 2 5G to New Phone | Dr.fone
-date: 2024-04-30T02:20:57.566Z
-updated: 2024-05-01T02:20:57.566Z
+date: 2024-05-19T18:55:13.274Z
+updated: 2024-05-20T18:55:13.274Z
 tags: 
   - transfer
 categories:
@@ -405,4 +405,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor 90 to iPad | Dr.fone
-date: 2024-04-30T02:21:54.924Z
-updated: 2024-05-01T02:21:54.924Z
+date: 2024-05-19T18:55:13.935Z
+updated: 2024-05-20T18:55:13.935Z
 tags: 
   - transfer
 categories:
@@ -481,4 +481,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://ai-vdieo-software.techidaily.com/tiktok-video-reversal-the-complete-guide-for-creators-updated-2023/"><u>TikTok Video Reversal The Complete Guide for Creators Updated 2023</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Note 30 VIP Racing Edition</u></a></li>
 </ul></div>
+
 

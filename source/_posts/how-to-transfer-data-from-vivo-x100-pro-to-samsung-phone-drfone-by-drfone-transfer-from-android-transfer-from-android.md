@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo X100 Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:19.491Z
-updated: 2024-05-01T02:15:19.491Z
+date: 2024-05-19T18:55:08.819Z
+updated: 2024-05-20T18:55:08.819Z
 tags: 
   - transfer
 categories:
@@ -571,4 +571,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-a70-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel A70 to Protect Your Individual Information</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

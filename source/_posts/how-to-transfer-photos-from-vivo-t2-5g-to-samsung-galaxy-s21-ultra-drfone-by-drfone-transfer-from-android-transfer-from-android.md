@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo T2 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:20:00.628Z
-updated: 2024-05-01T02:20:00.628Z
+date: 2024-05-19T18:55:12.557Z
+updated: 2024-05-20T18:55:12.557Z
 tags: 
   - transfer
 categories:
@@ -418,4 +418,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 with a Broken Screen?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
 </ul></div>
+
 

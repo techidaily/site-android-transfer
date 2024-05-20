@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from HTC U23 to New Android? | Dr.fone
-date: 2024-04-30T02:17:37.901Z
-updated: 2024-05-01T02:17:37.901Z
+date: 2024-05-19T18:55:10.493Z
+updated: 2024-05-20T18:55:10.493Z
 tags: 
   - transfer
 categories:
@@ -527,4 +527,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-samsung-galaxy-a24-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Samsung Galaxy A24.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-x100-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from X100?</u></a></li>
 </ul></div>
+
 

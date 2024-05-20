@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Blaze 2 5G to New Android? | Dr.fone
-date: 2024-04-30T02:17:59.806Z
-updated: 2024-05-01T02:17:59.806Z
+date: 2024-05-19T18:55:10.844Z
+updated: 2024-05-20T18:55:10.844Z
 tags: 
   - transfer
 categories:
@@ -473,4 +473,5 @@ In conclusion, there are various methods to transfer videos from Lava Blaze 2 5G
 <li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-12-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 12 Apple ID on MacBook</u></a></li>
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-14-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

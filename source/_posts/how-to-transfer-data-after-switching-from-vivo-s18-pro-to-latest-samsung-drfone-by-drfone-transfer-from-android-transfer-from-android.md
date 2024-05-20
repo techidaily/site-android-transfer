@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo S18 Pro to Latest Samsung | Dr.fone
-date: 2024-04-30T02:13:26.350Z
-updated: 2024-05-01T02:13:26.350Z
+date: 2024-05-19T18:55:06.087Z
+updated: 2024-05-20T18:55:06.087Z
 tags: 
   - transfer
 categories:
@@ -518,4 +518,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-c67-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, 5 Easy Ways to Copy Contacts from Realme C67 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-a2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Xiaomi Redmi A2 to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

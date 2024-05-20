@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Sony Xperia 1 V to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T02:28:26.498Z
-updated: 2024-05-01T02:28:26.498Z
+date: 2024-05-19T18:55:18.851Z
+updated: 2024-05-20T18:55:18.851Z
 tags: 
   - transfer
 categories:
@@ -327,4 +327,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-editing-mastery-top-picks-for-apple-users/"><u>New In 2024, Video Editing Mastery Top Picks for Apple Users</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-tecno-spark-20-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Tecno Spark 20 FRP Locks</u></a></li>
 </ul></div>
+
 

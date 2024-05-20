@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord CE 3 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.778Z
-updated: 2024-05-01T02:13:27.778Z
+date: 2024-05-19T18:55:07.302Z
+updated: 2024-05-20T18:55:07.302Z
 tags: 
   - transfer
 categories:
@@ -476,4 +476,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-a59-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo A59 5G FRP In 3 Different Ways</u></a></li>
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-13t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi 13T Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

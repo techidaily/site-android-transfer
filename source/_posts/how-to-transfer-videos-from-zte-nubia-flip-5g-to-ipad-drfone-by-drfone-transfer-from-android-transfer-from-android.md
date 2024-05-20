@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from ZTE Nubia Flip 5G to iPad | Dr.fone
-date: 2024-04-30T02:23:00.584Z
-updated: 2024-05-01T02:23:00.584Z
+date: 2024-05-19T18:55:14.948Z
+updated: 2024-05-20T18:55:14.948Z
 tags: 
   - transfer
 categories:
@@ -295,4 +295,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-calculate-aspect-ratios-with-ease-top-5-online-tools/"><u>2024 Approved Calculate Aspect Ratios with Ease Top 5 Online Tools</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-13-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 13 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus 12R to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.732Z
-updated: 2024-05-01T02:13:27.732Z
+date: 2024-05-19T18:55:07.260Z
+updated: 2024-05-20T18:55:07.260Z
 tags: 
   - transfer
 categories:
@@ -354,4 +354,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-m6-pro-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco M6 Pro 4G Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-p55-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel P55</u></a></li>
 </ul></div>
+
 

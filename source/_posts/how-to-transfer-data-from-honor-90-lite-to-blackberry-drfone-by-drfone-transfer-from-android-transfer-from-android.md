@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 Lite to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.612Z
-updated: 2024-05-01T02:13:26.612Z
+date: 2024-05-19T18:55:06.340Z
+updated: 2024-05-20T18:55:06.340Z
 tags: 
   - transfer
 categories:
@@ -379,4 +379,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://phone-solutions.techidaily.com/gionee-f3-pro-music-recovery-recover-deleted-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>Gionee F3 Pro Music Recovery - Recover Deleted Music from Gionee F3 Pro</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

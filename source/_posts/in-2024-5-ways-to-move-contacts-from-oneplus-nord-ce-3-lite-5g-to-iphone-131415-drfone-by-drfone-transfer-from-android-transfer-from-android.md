@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From OnePlus Nord CE 3 Lite 5G to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:14.461Z
-updated: 2024-05-01T02:29:14.461Z
+date: 2024-05-19T18:55:19.593Z
+updated: 2024-05-20T18:55:19.593Z
 tags: 
   - transfer
 categories:
@@ -504,4 +504,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 10 4G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-11x-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme 11X 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y56 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:44.309Z
-updated: 2024-05-01T02:21:44.309Z
+date: 2024-05-19T18:55:13.796Z
+updated: 2024-05-20T18:55:13.796Z
 tags: 
   - transfer
 categories:
@@ -328,4 +328,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://techidaily.com/how-to-hard-reset-sony-xperia-1-v-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Sony Xperia 1 V Without Password | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-nokia-105-classic-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia 105 Classic If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y02T to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:20:10.443Z
-updated: 2024-05-01T02:20:10.443Z
+date: 2024-05-19T18:55:12.696Z
+updated: 2024-05-20T18:55:12.696Z
 tags: 
   - transfer
 categories:
@@ -442,4 +442,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://techidaily.com/things-you-dont-know-about-honor-90-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 90 Pro Reset Code | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Itel P55 | Dr.fone</u></a></li>
 </ul></div>
+
 

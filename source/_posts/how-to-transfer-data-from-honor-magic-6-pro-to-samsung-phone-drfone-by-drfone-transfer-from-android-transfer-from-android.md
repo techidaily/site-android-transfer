@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor Magic 6 Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.670Z
-updated: 2024-05-01T02:13:26.670Z
+date: 2024-05-19T18:55:06.385Z
+updated: 2024-05-20T18:55:06.385Z
 tags: 
   - transfer
 categories:
@@ -402,4 +402,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco F5 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

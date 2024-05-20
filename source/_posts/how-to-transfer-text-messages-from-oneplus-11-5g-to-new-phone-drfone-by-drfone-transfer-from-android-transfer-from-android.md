@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from OnePlus 11 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:08.263Z
-updated: 2024-05-01T02:21:08.263Z
+date: 2024-05-19T18:55:13.404Z
+updated: 2024-05-20T18:55:13.404Z
 tags: 
   - transfer
 categories:
@@ -620,4 +620,5 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-reno-10-proplus-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Reno 10 Pro+ 5G</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-civi-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Civi 3?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 7 to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:26.916Z
-updated: 2024-05-01T02:13:26.916Z
+date: 2024-05-19T18:55:06.619Z
+updated: 2024-05-20T18:55:06.619Z
 tags: 
   - transfer
 categories:
@@ -388,4 +388,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-c67-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme C67 4G to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Xiaomi Redmi Note 13 5G?</u></a></li>
 </ul></div>
+
 

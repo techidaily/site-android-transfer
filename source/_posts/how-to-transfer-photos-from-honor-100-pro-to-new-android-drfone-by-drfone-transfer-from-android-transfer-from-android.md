@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor 100 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:19.948Z
-updated: 2024-05-01T02:17:19.948Z
+date: 2024-05-19T18:55:10.318Z
+updated: 2024-05-20T18:55:10.318Z
 tags: 
   - transfer
 categories:
@@ -461,4 +461,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://techidaily.com/how-to-reset-realme-narzo-60-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo 60 Pro 5G Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-poco-c50-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Poco C50 FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

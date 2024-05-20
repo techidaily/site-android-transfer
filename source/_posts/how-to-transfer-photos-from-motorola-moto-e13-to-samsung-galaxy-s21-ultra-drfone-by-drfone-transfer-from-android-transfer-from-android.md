@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Moto E13 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:12.025Z
-updated: 2024-05-01T02:18:12.025Z
+date: 2024-05-19T18:55:11.007Z
+updated: 2024-05-20T18:55:11.007Z
 tags: 
   - transfer
 categories:
@@ -424,4 +424,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-m34-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy M34? | Dr.fone</u></a></li>
 </ul></div>
+
 

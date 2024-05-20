@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus 11R to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:32.337Z
-updated: 2024-05-01T02:18:32.337Z
+date: 2024-05-19T18:55:11.247Z
+updated: 2024-05-20T18:55:11.247Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a34-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A34 5G</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-a2-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi A2 Lock Screen Password?</u></a></li>
 </ul></div>
+
 

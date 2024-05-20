@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze 2 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.080Z
-updated: 2024-05-01T02:13:27.080Z
+date: 2024-05-19T18:55:06.834Z
+updated: 2024-05-20T18:55:06.834Z
 tags: 
   - transfer
 categories:
@@ -418,4 +418,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 6 to ZTE Phones | Dr.fone</u></a></li>
 </ul></div>
+
 

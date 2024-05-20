@@ -474,3 +474,4 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 7 HD? | Dr.fone</u></a></li>
 </ul></div>
 
+

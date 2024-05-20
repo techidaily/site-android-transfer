@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor X9b to New Phone | Dr.fone
-date: 2024-04-30T02:20:50.097Z
-updated: 2024-05-01T02:20:50.097Z
+date: 2024-05-19T18:55:13.193Z
+updated: 2024-05-20T18:55:13.193Z
 tags: 
   - transfer
 categories:
@@ -361,4 +361,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-g42-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia G42 5Gwith/without a PC</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-trim-and-share-best-free-video-editors-for-chromebook/"><u>Updated Cut, Trim, and Share Best Free Video Editors for Chromebook</u></a></li>
 </ul></div>
+
 

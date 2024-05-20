@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Sony Xperia 5 V to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:27:17.797Z
-updated: 2024-05-01T02:27:17.797Z
+date: 2024-05-19T18:55:17.811Z
+updated: 2024-05-20T18:55:17.811Z
 tags: 
   - transfer
 categories:
@@ -465,4 +465,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-smart-8-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Smart 8 Quickly? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-z-fold-5-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy Z Fold 5 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

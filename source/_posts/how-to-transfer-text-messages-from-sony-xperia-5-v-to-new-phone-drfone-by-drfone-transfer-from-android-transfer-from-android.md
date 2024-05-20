@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Sony Xperia 5 V to New Phone | Dr.fone
-date: 2024-04-30T02:21:31.962Z
-updated: 2024-05-01T02:21:31.962Z
+date: 2024-05-19T18:55:13.699Z
+updated: 2024-05-20T18:55:13.699Z
 tags: 
   - transfer
 categories:
@@ -377,4 +377,5 @@ In conclusion, there are various methods to transfer videos from Sony Xperia 5 V
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme 11 Pro+? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-fix-it-poco-m6-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco M6 5G Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

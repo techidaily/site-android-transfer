@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Lava Blaze Curve 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:25.567Z
-updated: 2024-05-01T02:24:25.567Z
+date: 2024-05-19T18:55:15.800Z
+updated: 2024-05-20T18:55:15.800Z
 tags: 
   - transfer
 categories:
@@ -506,4 +506,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-x-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone X Without Apple Password? | Stellar</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .doc file</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor X9b to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:36.777Z
-updated: 2024-05-01T02:17:36.777Z
+date: 2024-05-19T18:55:10.487Z
+updated: 2024-05-20T18:55:10.487Z
 tags: 
   - transfer
 categories:
@@ -386,4 +386,5 @@ How to Transfer Data from Honor X9b to BlackBerry With 1-Click
 <li><a href="https://easy-unlock-android.techidaily.com/best-realme-c67-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme C67 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-generated-text/"><u>In 2024, What Is AI Generated Text?</u></a></li>
 </ul></div>
+
 

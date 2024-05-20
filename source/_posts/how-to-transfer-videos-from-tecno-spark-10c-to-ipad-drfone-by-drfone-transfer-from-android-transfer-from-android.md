@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Tecno Spark 10C to iPad | Dr.fone
-date: 2024-04-30T02:22:43.998Z
-updated: 2024-05-01T02:22:43.998Z
+date: 2024-05-19T18:55:14.750Z
+updated: 2024-05-20T18:55:14.750Z
 tags: 
   - transfer
 categories:
@@ -573,4 +573,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://ai-voice-clone.techidaily.com/review-of-lazlive-live-selling-platform-with-guide/"><u>Review of LazLive Live Selling Platform With Guide</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
+
 

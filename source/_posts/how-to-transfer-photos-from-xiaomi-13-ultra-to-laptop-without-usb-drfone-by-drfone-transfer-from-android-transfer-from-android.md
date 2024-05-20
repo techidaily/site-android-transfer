@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Xiaomi 13 Ultra to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:20:24.005Z
-updated: 2024-05-01T02:20:24.005Z
+date: 2024-05-19T18:55:12.903Z
+updated: 2024-05-20T18:55:12.903Z
 tags: 
   - transfer
 categories:
@@ -392,4 +392,5 @@ How to Transfer Data from Xiaomi 13 Ultra to BlackBerry With 1-Click
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-find-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Find X6 Pro Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-reno-11-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Reno 11 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

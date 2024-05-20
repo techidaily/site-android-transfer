@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Infinix Smart 8 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:58.734Z
-updated: 2024-05-01T02:28:58.734Z
+date: 2024-05-19T18:55:19.438Z
+updated: 2024-05-20T18:55:19.438Z
 tags: 
   - transfer
 categories:
@@ -408,4 +408,5 @@ How to Transfer Data from Infinix Smart 8 to BlackBerry With 1-Click
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-70-lite-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Honor 70 Lite 5G</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 12</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:20:19.141Z
-updated: 2024-05-01T02:20:19.141Z
+date: 2024-05-19T18:55:12.831Z
+updated: 2024-05-20T18:55:12.831Z
 tags: 
   - transfer
 categories:
@@ -391,4 +391,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-8-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 8 Plus with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-huawei-p60-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Huawei P60 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

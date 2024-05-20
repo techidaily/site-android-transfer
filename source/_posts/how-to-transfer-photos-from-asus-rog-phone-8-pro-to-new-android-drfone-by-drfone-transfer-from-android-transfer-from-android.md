@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Asus ROG Phone 8 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:15.858Z
-updated: 2024-05-01T02:17:15.858Z
+date: 2024-05-19T18:55:10.255Z
+updated: 2024-05-20T18:55:10.255Z
 tags: 
   - transfer
 categories:
@@ -547,4 +547,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-xiaomi-redmi-note-12-4g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Xiaomi Redmi Note 12 4G on Mac?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-a-slideshow-with-movavi-slideshow-maker/"><u>In 2024, How to Make a Slideshow with Movavi Slideshow Maker</u></a></li>
 </ul></div>
+
 

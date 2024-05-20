@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y36i to New Android? | Dr.fone
-date: 2024-04-30T02:20:19.527Z
-updated: 2024-05-01T02:20:19.527Z
+date: 2024-05-19T18:55:12.834Z
+updated: 2024-05-20T18:55:12.834Z
 tags: 
   - transfer
 categories:
@@ -522,4 +522,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-6-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 6 i Do? Get Answers here | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/best-3-realme-narzo-n53-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme Narzo N53 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

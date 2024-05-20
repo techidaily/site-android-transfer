@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Samsung Galaxy A14 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:34.708Z
-updated: 2024-05-01T02:22:34.708Z
+date: 2024-05-19T18:55:14.652Z
+updated: 2024-05-20T18:55:14.652Z
 tags: 
   - transfer
 categories:
@@ -530,4 +530,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone devices? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-oppo-reno-11f-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 11F 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

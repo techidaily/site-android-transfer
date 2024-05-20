@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor 80 Pro Straight Screen Edition to New Phone | Dr.fone
-date: 2024-04-30T02:20:45.225Z
-updated: 2024-05-01T02:20:45.225Z
+date: 2024-05-19T18:55:13.125Z
+updated: 2024-05-20T18:55:13.125Z
 tags: 
   - transfer
 categories:
@@ -388,4 +388,5 @@ We hope that you learned some of the phone clone methods and applications that y
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-7-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 7 Plus</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

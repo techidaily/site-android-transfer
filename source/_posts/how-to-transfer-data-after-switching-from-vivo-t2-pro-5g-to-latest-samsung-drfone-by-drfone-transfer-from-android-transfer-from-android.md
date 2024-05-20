@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo T2 Pro 5G to Latest Samsung | Dr.fone
-date: 2024-04-30T02:13:26.355Z
-updated: 2024-05-01T02:13:26.355Z
+date: 2024-05-19T18:55:06.093Z
+updated: 2024-05-20T18:55:06.093Z
 tags: 
   - transfer
 categories:
@@ -513,4 +513,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-f34-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Videos from Samsung Galaxy F34 5G to iPad | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-poco-c50-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, 5 Easy Ways to Copy Contacts from Poco C50 to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Lava Yuva 3 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:04.915Z
-updated: 2024-05-01T02:18:04.915Z
+date: 2024-05-19T18:55:10.884Z
+updated: 2024-05-20T18:55:10.884Z
 tags: 
   - transfer
 categories:
@@ -454,4 +454,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-asus-rog-phone-8-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Asus ROG Phone 8 Pro FRP</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 Pro 5G Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

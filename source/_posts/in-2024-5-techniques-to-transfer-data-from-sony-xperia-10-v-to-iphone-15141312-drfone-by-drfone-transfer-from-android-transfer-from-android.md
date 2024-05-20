@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Sony Xperia 10 V to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T02:28:26.694Z
-updated: 2024-05-01T02:28:26.694Z
+date: 2024-05-19T18:55:18.853Z
+updated: 2024-05-20T18:55:18.853Z
 tags: 
   - transfer
 categories:
@@ -476,4 +476,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y36i-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y36i</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-zte-nubia-z60-ultra-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from ZTE Nubia Z60 Ultra</u></a></li>
 </ul></div>
+
 

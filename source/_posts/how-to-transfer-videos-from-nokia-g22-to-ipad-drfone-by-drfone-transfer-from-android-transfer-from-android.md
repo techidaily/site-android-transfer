@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia G22 to iPad | Dr.fone
-date: 2024-04-30T02:22:15.319Z
-updated: 2024-05-01T02:22:15.319Z
+date: 2024-05-19T18:55:14.496Z
+updated: 2024-05-20T18:55:14.496Z
 tags: 
   - transfer
 categories:
@@ -459,4 +459,5 @@ In conclusion, there are various methods to transfer videos from Nokia G22 to iP
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo V29 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-hot-40-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Infinix Hot 40 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

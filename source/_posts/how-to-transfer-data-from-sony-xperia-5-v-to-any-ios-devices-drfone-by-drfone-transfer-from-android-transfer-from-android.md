@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 5 V to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:14:45.111Z
-updated: 2024-05-01T02:14:45.111Z
+date: 2024-05-19T18:55:08.351Z
+updated: 2024-05-20T18:55:08.351Z
 tags: 
   - transfer
 categories:
@@ -494,4 +494,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Moto G13? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-spark-20-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Spark 20 Pro Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

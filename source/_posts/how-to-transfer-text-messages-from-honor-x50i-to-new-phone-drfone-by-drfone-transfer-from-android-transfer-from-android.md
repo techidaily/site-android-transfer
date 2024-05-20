@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor X50i to New Phone | Dr.fone
-date: 2024-04-30T02:20:49.126Z
-updated: 2024-05-01T02:20:49.126Z
+date: 2024-05-19T18:55:13.185Z
+updated: 2024-05-20T18:55:13.185Z
 tags: 
   - transfer
 categories:
@@ -448,4 +448,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 15</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-know-how-to-make-a-video-background-transparent-export-transparent-background-video-after-adding-effects-steps-to-remove-white-background-fr/"><u>Updated In 2024, Know How to Make a Video Background Transparent? Export Transparent Background Video After Adding Effects. Steps to Remove White Background From Video</u></a></li>
 </ul></div>
+
 

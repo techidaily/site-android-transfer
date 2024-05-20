@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Lava Agni 2 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:24.796Z
-updated: 2024-05-01T02:24:24.796Z
+date: 2024-05-19T18:55:15.794Z
+updated: 2024-05-20T18:55:15.794Z
 tags: 
   - transfer
 categories:
@@ -451,4 +451,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X50? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo S18 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

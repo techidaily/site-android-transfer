@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia C12 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:18:22.462Z
-updated: 2024-05-01T02:18:22.462Z
+date: 2024-05-19T18:55:11.103Z
+updated: 2024-05-20T18:55:11.103Z
 tags: 
   - transfer
 categories:
@@ -469,4 +469,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-6-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 6 Plus with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 

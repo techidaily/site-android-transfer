@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Lava Yuva 3 Data? | Dr.fone
-date: 2024-04-30T02:23:17.573Z
-updated: 2024-05-01T02:23:17.573Z
+date: 2024-05-19T18:55:15.164Z
+updated: 2024-05-20T18:55:15.164Z
 tags: 
   - transfer
 categories:
@@ -517,4 +517,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Realme C67 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:14.227Z
-updated: 2024-05-01T02:19:14.227Z
+date: 2024-05-19T18:55:11.872Z
+updated: 2024-05-20T18:55:11.872Z
 tags: 
   - transfer
 categories:
@@ -349,4 +349,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo A2? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-oppo-a18-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo A18 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

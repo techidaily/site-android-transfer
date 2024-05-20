@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 10 V to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:44.918Z
-updated: 2024-05-01T02:14:44.918Z
+date: 2024-05-19T18:55:08.332Z
+updated: 2024-05-20T18:55:08.332Z
 tags: 
   - transfer
 categories:
@@ -459,4 +459,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Edge+ (2023) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/recover-apple-iphone-xr-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XR Data From iOS iCloud | Dr.fone</u></a></li>
 </ul></div>
+
 

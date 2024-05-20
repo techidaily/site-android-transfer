@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia 150 (2023) to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.483Z
-updated: 2024-05-01T02:13:27.483Z
+date: 2024-05-19T18:55:07.097Z
+updated: 2024-05-20T18:55:07.097Z
 tags: 
   - transfer
 categories:
@@ -457,4 +457,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-asus-rog-phone-8-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Asus ROG Phone 8 Pro</u></a></li>
 </ul></div>
+
 

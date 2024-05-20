@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Smart 8 HD to iPad | Dr.fone
-date: 2024-04-30T02:22:02.978Z
-updated: 2024-05-01T02:22:02.978Z
+date: 2024-05-19T18:55:14.350Z
+updated: 2024-05-20T18:55:14.350Z
 tags: 
   - transfer
 categories:
@@ -388,4 +388,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-zte-nubia-z60-ultra-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

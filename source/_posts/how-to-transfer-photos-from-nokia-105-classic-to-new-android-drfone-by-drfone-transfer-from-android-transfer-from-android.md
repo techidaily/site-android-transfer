@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia 105 Classic to New Android? | Dr.fone
-date: 2024-04-30T02:18:18.942Z
-updated: 2024-05-01T02:18:18.942Z
+date: 2024-05-19T18:55:11.075Z
+updated: 2024-05-20T18:55:11.075Z
 tags: 
   - transfer
 categories:
@@ -474,4 +474,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-c22-phone-by-drfone-android/"><u>How to Reset a Locked Nokia C22 Phone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola G54 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

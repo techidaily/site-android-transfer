@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30 5G to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:43.581Z
-updated: 2024-05-01T02:17:43.581Z
+date: 2024-05-19T18:55:10.580Z
+updated: 2024-05-20T18:55:10.580Z
 tags: 
   - transfer
 categories:
@@ -471,4 +471,5 @@ In conclusion, there are various methods to transfer videos from Infinix Note 30
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-the-night-to-day-effect-video-for-2024/"><u>New How to Create the Night-to-Day Effect Video for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-reno-11-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Reno 11 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

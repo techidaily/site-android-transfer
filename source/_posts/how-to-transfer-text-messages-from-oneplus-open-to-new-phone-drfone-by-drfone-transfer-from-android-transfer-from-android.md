@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from OnePlus Open to New Phone | Dr.fone
-date: 2024-04-30T02:21:10.928Z
-updated: 2024-05-01T02:21:10.928Z
+date: 2024-05-19T18:55:13.458Z
+updated: 2024-05-20T18:55:13.458Z
 tags: 
   - transfer
 categories:
@@ -423,4 +423,5 @@ To summarize, while it may seem troublesome to ****transfer files from OnePlus O
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-m14-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy M14 4G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G Bootloader Easily</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10C to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:57.080Z
-updated: 2024-05-01T02:14:57.080Z
+date: 2024-05-19T18:55:08.505Z
+updated: 2024-05-20T18:55:08.505Z
 tags: 
   - transfer
 categories:
@@ -509,4 +509,5 @@ Truly, it’s now very easy to move contacts from Tecno Spark 10C to iPhone (13/
 <li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-14-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 14 Plus</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-iphone-14-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Plus Data From iOS iCloud | Dr.fone</u></a></li>
 </ul></div>
+
 

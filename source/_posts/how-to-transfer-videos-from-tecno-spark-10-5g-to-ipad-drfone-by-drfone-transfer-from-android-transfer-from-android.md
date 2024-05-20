@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Tecno Spark 10 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:43.611Z
-updated: 2024-05-01T02:22:43.611Z
+date: 2024-05-19T18:55:14.746Z
+updated: 2024-05-20T18:55:14.746Z
 tags: 
   - transfer
 categories:
@@ -487,4 +487,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-x5-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco X5?</u></a></li>
 </ul></div>
+
 

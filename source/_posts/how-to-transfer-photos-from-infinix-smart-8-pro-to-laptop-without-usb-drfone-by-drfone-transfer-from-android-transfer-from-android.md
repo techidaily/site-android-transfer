@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 Pro to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:49.457Z
-updated: 2024-05-01T02:17:49.457Z
+date: 2024-05-19T18:55:10.699Z
+updated: 2024-05-20T18:55:10.699Z
 tags: 
   - transfer
 categories:
@@ -527,4 +527,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-macs-answer-to-windows-movie-maker-the-top-5-options/"><u>In 2024, Macs Answer to Windows Movie Maker The Top 5 Options</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo K11 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

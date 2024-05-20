@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 Pro to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:13:26.933Z
-updated: 2024-05-01T02:13:26.933Z
+date: 2024-05-19T18:55:06.676Z
+updated: 2024-05-20T18:55:06.676Z
 tags: 
   - transfer
 categories:
@@ -579,4 +579,5 @@ In conclusion, there are various methods to transfer videos from Infinix Smart 8
 <li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-12r-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus 12R FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-8-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 8 or iPad?</u></a></li>
 </ul></div>
+
 

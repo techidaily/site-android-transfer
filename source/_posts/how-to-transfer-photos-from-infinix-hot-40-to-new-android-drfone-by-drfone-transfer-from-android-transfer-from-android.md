@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 40 to New Android? | Dr.fone
-date: 2024-04-30T02:17:42.592Z
-updated: 2024-05-01T02:17:42.592Z
+date: 2024-05-19T18:55:10.567Z
+updated: 2024-05-20T18:55:10.567Z
 tags: 
   - transfer
 categories:
@@ -475,4 +475,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-gt-10-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix GT 10 Pro Phones with/without a PC</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-oppo-a2-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo A2 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

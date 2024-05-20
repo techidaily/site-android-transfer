@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo G2 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:02.243Z
-updated: 2024-05-01T02:15:02.243Z
+date: 2024-05-19T18:55:08.553Z
+updated: 2024-05-20T18:55:08.553Z
 tags: 
   - transfer
 categories:
@@ -441,4 +441,5 @@ When you know how to move music from Vivo G2 to iPhone, you can easily make this
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y200 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-z-flip-5-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Samsung Galaxy S23 Ultra to iPad | Dr.fone
-date: 2024-04-30T02:22:38.796Z
-updated: 2024-05-01T02:22:38.796Z
+date: 2024-05-19T18:55:14.715Z
+updated: 2024-05-20T18:55:14.715Z
 tags: 
   - transfer
 categories:
@@ -408,4 +408,5 @@ How to Transfer Data from Samsung Galaxy S23 Ultra to BlackBerry With 1-Click
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-v30-lite-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo V30 Lite 5G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100i-power-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y100i Power 5G Phone without Google Account?</u></a></li>
 </ul></div>
+
 

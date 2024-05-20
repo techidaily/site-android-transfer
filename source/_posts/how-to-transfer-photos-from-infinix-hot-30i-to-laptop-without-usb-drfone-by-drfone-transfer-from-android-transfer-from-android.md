@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 30i to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:41.228Z
-updated: 2024-05-01T02:17:41.228Z
+date: 2024-05-19T18:55:10.555Z
+updated: 2024-05-20T18:55:10.555Z
 tags: 
   - transfer
 categories:
@@ -535,4 +535,5 @@ Truly, it’s now very easy to move contacts from Infinix Hot 30i to iPhone (13/
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-11-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 11 Pro Properly | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

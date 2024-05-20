@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Note 30 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:45.142Z
-updated: 2024-05-01T02:17:45.142Z
+date: 2024-05-19T18:55:10.624Z
+updated: 2024-05-20T18:55:10.624Z
 tags: 
   - transfer
 categories:
@@ -430,4 +430,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme GT Neo 5 SE | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

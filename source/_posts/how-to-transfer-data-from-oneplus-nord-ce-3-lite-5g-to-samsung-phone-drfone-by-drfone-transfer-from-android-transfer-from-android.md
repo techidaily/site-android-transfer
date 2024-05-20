@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord CE 3 Lite 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.783Z
-updated: 2024-05-01T02:13:27.783Z
+date: 2024-05-19T18:55:07.308Z
+updated: 2024-05-20T18:55:07.308Z
 tags: 
   - transfer
 categories:
@@ -511,4 +511,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Spark 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-multiple-excel-files-stellar-by-stellar-guide/"><u>How to Repair Multiple Excel Files | Stellar</u></a></li>
 </ul></div>
+
 

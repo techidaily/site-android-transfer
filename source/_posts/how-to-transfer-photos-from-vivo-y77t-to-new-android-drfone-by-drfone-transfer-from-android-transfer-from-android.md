@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y77t to New Android? | Dr.fone
-date: 2024-04-30T02:20:21.280Z
-updated: 2024-05-01T02:20:21.280Z
+date: 2024-05-19T18:55:12.845Z
+updated: 2024-05-20T18:55:12.845Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-8-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 8 has bad ESN or blacklisted IMEI?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-oppo-a18-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo A18 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

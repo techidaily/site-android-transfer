@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Xiaomi 13 Ultra to New Phone | Dr.fone
-date: 2024-04-30T02:21:45.497Z
-updated: 2024-05-01T02:21:45.497Z
+date: 2024-05-19T18:55:13.806Z
+updated: 2024-05-20T18:55:13.806Z
 tags: 
   - transfer
 categories:
@@ -299,4 +299,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://howto.techidaily.com/best-methods-for-realme-c67-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme C67 5G Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-f34-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy F34 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

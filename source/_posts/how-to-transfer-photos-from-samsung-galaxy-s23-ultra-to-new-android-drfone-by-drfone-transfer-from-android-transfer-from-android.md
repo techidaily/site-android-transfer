@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy S23 Ultra to New Android? | Dr.fone
-date: 2024-04-30T02:19:36.770Z
-updated: 2024-05-01T02:19:36.770Z
+date: 2024-05-19T18:55:12.207Z
+updated: 2024-05-20T18:55:12.207Z
 tags: 
   - transfer
 categories:
@@ -503,4 +503,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo A38? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

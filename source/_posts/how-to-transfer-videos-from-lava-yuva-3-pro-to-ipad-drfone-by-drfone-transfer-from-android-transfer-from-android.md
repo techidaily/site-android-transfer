@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Lava Yuva 3 Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:08.348Z
-updated: 2024-05-01T02:22:08.348Z
+date: 2024-05-19T18:55:14.435Z
+updated: 2024-05-20T18:55:14.435Z
 tags: 
   - transfer
 categories:
@@ -515,4 +515,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-live-selling-a-comprehensive-starters-guide/"><u>Updated 2024 Approved Live Selling A Comprehensive Starters Guide</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-xs-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone XS Without iTunes in 5 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

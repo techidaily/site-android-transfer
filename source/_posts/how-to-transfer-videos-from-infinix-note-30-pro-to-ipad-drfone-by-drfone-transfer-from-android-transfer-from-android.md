@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Note 30 Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:01.616Z
-updated: 2024-05-01T02:22:01.616Z
+date: 2024-05-19T18:55:14.340Z
+updated: 2024-05-20T18:55:14.340Z
 tags: 
   - transfer
 categories:
@@ -548,4 +548,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-make-a-gif-in-photoshop/"><u>Updated 2024 Approved How to Make a GIF in Photoshop</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/best-3-realme-gt-neo-5-se-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme GT Neo 5 SE Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

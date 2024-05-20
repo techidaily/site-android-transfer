@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Moto G13 to New Phone | Dr.fone
-date: 2024-04-30T02:21:02.267Z
-updated: 2024-05-01T02:21:02.267Z
+date: 2024-05-19T18:55:13.321Z
+updated: 2024-05-20T18:55:13.321Z
 tags: 
   - transfer
 categories:
@@ -308,4 +308,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-filmora-without-the-risks-a-step-by-step-guide/"><u>2024 Approved Free Filmora Without the Risks A Step-by-Step Guide</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

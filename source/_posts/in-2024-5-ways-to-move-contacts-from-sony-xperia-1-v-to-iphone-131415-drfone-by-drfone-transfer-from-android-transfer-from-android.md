@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Sony Xperia 1 V to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:36.324Z
-updated: 2024-05-01T02:29:36.324Z
+date: 2024-05-19T18:55:19.743Z
+updated: 2024-05-20T18:55:19.743Z
 tags: 
   - transfer
 categories:
@@ -693,4 +693,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-20c-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark 20C Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-t2-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo T2 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

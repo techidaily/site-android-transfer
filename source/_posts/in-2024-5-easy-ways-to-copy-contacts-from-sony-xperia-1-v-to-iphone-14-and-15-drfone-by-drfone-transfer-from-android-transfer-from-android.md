@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Sony Xperia 1 V to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:27:17.411Z
-updated: 2024-05-01T02:27:17.411Z
+date: 2024-05-19T18:55:17.808Z
+updated: 2024-05-20T18:55:17.808Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy S23 Ultra Phone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-11r-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus 11R Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 

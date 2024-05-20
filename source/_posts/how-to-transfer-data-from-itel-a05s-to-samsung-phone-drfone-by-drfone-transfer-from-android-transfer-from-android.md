@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Itel A05s to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.968Z
-updated: 2024-05-01T02:13:26.968Z
+date: 2024-05-19T18:55:06.712Z
+updated: 2024-05-20T18:55:06.712Z
 tags: 
   - transfer
 categories:
@@ -547,4 +547,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-note-50-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme Note 50 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-itel-s23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel S23 Find My Friends No Location Found? | Dr.fone</u></a></li>
 </ul></div>
+
 

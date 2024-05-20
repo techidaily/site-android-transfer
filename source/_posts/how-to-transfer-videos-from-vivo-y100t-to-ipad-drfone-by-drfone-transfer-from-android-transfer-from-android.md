@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y100t to iPad | Dr.fone
-date: 2024-04-30T02:22:51.273Z
-updated: 2024-05-01T02:22:51.273Z
+date: 2024-05-19T18:55:14.856Z
+updated: 2024-05-20T18:55:14.856Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ In conclusion, there are various methods to transfer videos from Vivo Y100t to i
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-loop-videos-with-imovie/"><u>New 2024 Approved How to Loop Videos with iMovie</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y100i-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y100i FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

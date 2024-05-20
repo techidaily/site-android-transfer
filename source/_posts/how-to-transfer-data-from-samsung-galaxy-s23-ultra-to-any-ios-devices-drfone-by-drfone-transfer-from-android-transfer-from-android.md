@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Samsung Galaxy S23 Ultra to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:14:36.611Z
-updated: 2024-05-01T02:14:36.611Z
+date: 2024-05-19T18:55:08.249Z
+updated: 2024-05-20T18:55:08.249Z
 tags: 
   - transfer
 categories:
@@ -563,4 +563,5 @@ When you know how to move music from Samsung Galaxy S23 Ultra to iPhone, you can
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi 13T | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-poco-c51-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco C51 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

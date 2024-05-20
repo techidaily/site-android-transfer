@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30 5G to New Android? | Dr.fone
-date: 2024-04-30T02:17:43.776Z
-updated: 2024-05-01T02:17:43.776Z
+date: 2024-05-19T18:55:10.582Z
+updated: 2024-05-20T18:55:10.582Z
 tags: 
   - transfer
 categories:
@@ -400,4 +400,5 @@ When you know how to move music from Infinix Note 30 5G to iPhone, you can easil
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-eliminate-shakes-best-video-stabilization-apps/"><u>Updated In 2024, Eliminate Shakes Best Video Stabilization Apps</u></a></li>
 <li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

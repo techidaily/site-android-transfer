@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.860Z
-updated: 2024-05-01T02:13:26.860Z
+date: 2024-05-19T18:55:06.578Z
+updated: 2024-05-20T18:55:06.578Z
 tags: 
   - transfer
 categories:
@@ -629,4 +629,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c02-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C02? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone X</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Honor X50i+ to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:35.046Z
-updated: 2024-05-01T02:26:35.046Z
+date: 2024-05-19T18:55:17.274Z
+updated: 2024-05-20T18:55:17.274Z
 tags: 
   - transfer
 categories:
@@ -485,4 +485,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo G2? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

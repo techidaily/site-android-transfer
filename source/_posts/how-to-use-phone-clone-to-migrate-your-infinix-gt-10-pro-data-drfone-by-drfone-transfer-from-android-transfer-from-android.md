@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Infinix GT 10 Pro Data? | Dr.fone
-date: 2024-04-30T02:23:09.375Z
-updated: 2024-05-01T02:23:09.375Z
+date: 2024-05-19T18:55:15.055Z
+updated: 2024-05-20T18:55:15.055Z
 tags: 
   - transfer
 categories:
@@ -549,4 +549,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-mix-fold-3-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi Mix Fold 3 Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

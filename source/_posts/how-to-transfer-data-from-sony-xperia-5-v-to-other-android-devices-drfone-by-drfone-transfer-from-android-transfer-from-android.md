@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 5 V to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:14:45.642Z
-updated: 2024-05-01T02:14:45.642Z
+date: 2024-05-19T18:55:08.356Z
+updated: 2024-05-20T18:55:08.356Z
 tags: 
   - transfer
 categories:
@@ -435,4 +435,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor FRP</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-12-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 12 Pro Passcode Easily Video Inside</u></a></li>
 </ul></div>
+
 

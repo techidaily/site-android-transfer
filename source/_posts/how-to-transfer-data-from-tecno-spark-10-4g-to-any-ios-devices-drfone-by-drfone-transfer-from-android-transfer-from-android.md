@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10 4G to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:14:54.533Z
-updated: 2024-05-01T02:14:54.533Z
+date: 2024-05-19T18:55:08.484Z
+updated: 2024-05-20T18:55:08.484Z
 tags: 
   - transfer
 categories:
@@ -505,4 +505,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-open-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus Open Is Unlocked</u></a></li>
 </ul></div>
+
 

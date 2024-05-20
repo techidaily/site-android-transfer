@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C32 to iPad | Dr.fone
-date: 2024-04-30T02:22:15.127Z
-updated: 2024-05-01T02:22:15.127Z
+date: 2024-05-19T18:55:14.494Z
+updated: 2024-05-20T18:55:14.494Z
 tags: 
   - transfer
 categories:
@@ -538,4 +538,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone XS with IMEI Code?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y27s to New Phone | Dr.fone
-date: 2024-04-30T02:21:43.347Z
-updated: 2024-05-01T02:21:43.347Z
+date: 2024-05-19T18:55:13.789Z
+updated: 2024-05-20T18:55:13.789Z
 tags: 
   - transfer
 categories:
@@ -344,4 +344,5 @@ How to Transfer Data from Vivo Y27s to BlackBerry With 1-Click
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 to Windows 10? | Dr.fone</u></a></li>
 </ul></div>
+
 

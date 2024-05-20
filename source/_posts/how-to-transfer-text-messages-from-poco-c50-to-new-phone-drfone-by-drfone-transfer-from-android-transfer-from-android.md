@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Poco C50 to New Phone | Dr.fone
-date: 2024-04-30T02:21:16.968Z
-updated: 2024-05-01T02:21:16.968Z
+date: 2024-05-19T18:55:13.510Z
+updated: 2024-05-20T18:55:13.510Z
 tags: 
   - transfer
 categories:
@@ -479,4 +479,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-xr21-by-drfone-android/"><u>How to Bypass FRP on Nokia XR21?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus Nord N30 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

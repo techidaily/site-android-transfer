@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme V30T to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:17.133Z
-updated: 2024-05-01T02:14:17.133Z
+date: 2024-05-19T18:55:08.032Z
+updated: 2024-05-20T18:55:08.032Z
 tags: 
   - transfer
 categories:
@@ -289,4 +289,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-note-50-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme Note 50 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix</u></a></li>
 </ul></div>
+
 

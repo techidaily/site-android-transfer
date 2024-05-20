@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo T2 Pro 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:09.243Z
-updated: 2024-05-01T02:15:09.243Z
+date: 2024-05-19T18:55:08.662Z
+updated: 2024-05-20T18:55:08.662Z
 tags: 
   - transfer
 categories:
@@ -439,4 +439,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y02t-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y02T</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y200e-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y200e 5G Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

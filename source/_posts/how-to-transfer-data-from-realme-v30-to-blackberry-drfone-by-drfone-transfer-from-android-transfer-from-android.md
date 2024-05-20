@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme V30 to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:16.367Z
-updated: 2024-05-01T02:14:16.367Z
+date: 2024-05-19T18:55:08.026Z
+updated: 2024-05-20T18:55:08.026Z
 tags: 
   - transfer
 categories:
@@ -286,4 +286,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-zte-axon-40-lite-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror ZTE Axon 40 Lite to Mac? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

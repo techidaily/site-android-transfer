@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 80 Pro Straight Screen Edition to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.601Z
-updated: 2024-05-01T02:13:26.601Z
+date: 2024-05-19T18:55:06.329Z
+updated: 2024-05-20T18:55:06.329Z
 tags: 
   - transfer
 categories:
@@ -456,4 +456,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-x-drfone-by-drfone-ios/" ><u>In 2024, How Do You Remove Restricted Mode on iPhone X | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/" ><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi A2? | Dr.fone</u></a></li>
 </ul></div>
+
 

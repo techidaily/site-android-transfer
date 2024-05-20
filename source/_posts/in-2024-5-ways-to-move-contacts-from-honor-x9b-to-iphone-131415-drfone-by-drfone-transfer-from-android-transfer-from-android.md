@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Honor X9b to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:54.129Z
-updated: 2024-05-01T02:28:54.129Z
+date: 2024-05-19T18:55:19.402Z
+updated: 2024-05-20T18:55:19.402Z
 tags: 
   - transfer
 categories:
@@ -486,4 +486,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-e13-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto E13 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-11r-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus 11R to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

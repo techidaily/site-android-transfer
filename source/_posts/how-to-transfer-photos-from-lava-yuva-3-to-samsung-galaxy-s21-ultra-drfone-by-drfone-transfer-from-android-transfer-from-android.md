@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Lava Yuva 3 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:05.497Z
-updated: 2024-05-01T02:18:05.497Z
+date: 2024-05-19T18:55:10.889Z
+updated: 2024-05-20T18:55:10.889Z
 tags: 
   - transfer
 categories:
@@ -445,4 +445,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y200e-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y200e 5G online without jailbreak</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy A23 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:26.314Z
-updated: 2024-05-01T02:21:26.314Z
+date: 2024-05-19T18:55:13.639Z
+updated: 2024-05-20T18:55:13.639Z
 tags: 
   - transfer
 categories:
@@ -422,4 +422,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-14-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 14 Pro without Password?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/demystifying-hd-video-pixel-size-a-simple-explanation-for-2024/"><u>Demystifying HD Video Pixel Size A Simple Explanation for 2024</u></a></li>
 </ul></div>
+
 

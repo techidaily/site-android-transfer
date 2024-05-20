@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Nokia C02 to iPad | Dr.fone
-date: 2024-04-30T02:22:13.582Z
-updated: 2024-05-01T02:22:13.582Z
+date: 2024-05-19T18:55:14.472Z
+updated: 2024-05-20T18:55:14.472Z
 tags: 
   - transfer
 categories:
@@ -502,4 +502,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Itel S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 

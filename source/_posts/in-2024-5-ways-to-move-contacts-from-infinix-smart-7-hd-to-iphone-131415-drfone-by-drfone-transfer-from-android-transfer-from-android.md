@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Infinix Smart 7 HD to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:57.762Z
-updated: 2024-05-01T02:28:57.762Z
+date: 2024-05-19T18:55:19.430Z
+updated: 2024-05-20T18:55:19.430Z
 tags: 
   - transfer
 categories:
@@ -440,4 +440,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus Nord 3 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:18.960Z
-updated: 2024-05-01T02:22:18.960Z
+date: 2024-05-19T18:55:14.525Z
+updated: 2024-05-20T18:55:14.525Z
 tags: 
   - transfer
 categories:
@@ -429,4 +429,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-13c-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi 13C FRP</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-marketing-wondershare-virbo-glossary/"><u>What Is AI Marketing? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 40 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:42.007Z
-updated: 2024-05-01T02:17:42.007Z
+date: 2024-05-19T18:55:10.562Z
+updated: 2024-05-20T18:55:10.562Z
 tags: 
   - transfer
 categories:
@@ -471,4 +471,5 @@ At last, we hope that you now know how to transfer music from Infinix Hot 40 Pro
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C02? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-11-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 11 Passcode not Working? | Dr.fone</u></a></li>
 </ul></div>
+
 

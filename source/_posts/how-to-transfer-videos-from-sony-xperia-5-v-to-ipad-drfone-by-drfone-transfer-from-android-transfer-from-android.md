@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Sony Xperia 5 V to iPad | Dr.fone
-date: 2024-04-30T02:22:40.924Z
-updated: 2024-05-01T02:22:40.924Z
+date: 2024-05-19T18:55:14.729Z
+updated: 2024-05-20T18:55:14.729Z
 tags: 
   - transfer
 categories:
@@ -498,4 +498,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-top-10-banned-anime-around-the-world-and-why-for-2024/"><u>New Top 10 Banned Anime Around the World and Why for 2024</u></a></li>
 </ul></div>
+
 

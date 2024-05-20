@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X50 GT to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:26.721Z
-updated: 2024-05-01T02:13:26.721Z
+date: 2024-05-19T18:55:06.445Z
+updated: 2024-05-20T18:55:06.445Z
 tags: 
   - transfer
 categories:
@@ -361,4 +361,5 @@ How to Transfer Data from Honor X50 GT to BlackBerry With 1-Click
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-15-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 15 Pro Max</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-magic-5-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Magic 5 Pro Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

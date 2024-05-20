@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G13 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.339Z
-updated: 2024-05-01T02:13:27.339Z
+date: 2024-05-19T18:55:06.999Z
+updated: 2024-05-20T18:55:06.999Z
 tags: 
   - transfer
 categories:
@@ -358,4 +358,5 @@ We hope that you learned some of the phone clone methods and applications that y
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-15-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 15 Pro SIM Lock 4 Easy Methods</u></a></li>
 </ul></div>
+
 

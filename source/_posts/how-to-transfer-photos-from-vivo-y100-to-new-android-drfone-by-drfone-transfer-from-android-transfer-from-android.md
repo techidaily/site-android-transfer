@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y100 to New Android? | Dr.fone
-date: 2024-04-30T02:20:11.808Z
-updated: 2024-05-01T02:20:11.808Z
+date: 2024-05-19T18:55:12.707Z
+updated: 2024-05-20T18:55:12.707Z
 tags: 
   - transfer
 categories:
@@ -420,4 +420,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://ai-voice-clone.techidaily.com/new-downloadinstallregisteruninstall-wondershare-virbo-for-2024/"><u>New Download/Install/Register/Uninstall | Wondershare Virbo for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/top-rated-vegas-pro-alternatives-for-mac-a-comprehensive-list/"><u>Top-Rated Vegas Pro Alternatives for Mac A Comprehensive List</u></a></li>
 </ul></div>
+
 

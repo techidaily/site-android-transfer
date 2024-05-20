@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Smart 8 Plus to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:49.262Z
-updated: 2024-05-01T02:17:49.262Z
+date: 2024-05-19T18:55:10.698Z
+updated: 2024-05-20T18:55:10.698Z
 tags: 
   - transfer
 categories:
@@ -454,4 +454,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus, Apples New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 1 V to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:14:43.957Z
-updated: 2024-05-01T02:14:43.957Z
+date: 2024-05-19T18:55:08.326Z
+updated: 2024-05-20T18:55:08.326Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-7-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 7 Plus</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-sony-xperia-10-v-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Sony Xperia 10 V Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

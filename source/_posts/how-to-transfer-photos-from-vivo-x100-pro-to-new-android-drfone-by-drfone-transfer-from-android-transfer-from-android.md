@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo X100 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:20:08.883Z
-updated: 2024-05-01T02:20:08.883Z
+date: 2024-05-19T18:55:12.683Z
+updated: 2024-05-20T18:55:12.683Z
 tags: 
   - transfer
 categories:
@@ -468,4 +468,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from V29 Pro?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-ace-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Ace 2 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

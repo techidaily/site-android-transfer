@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Lava Yuva 2 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:04.332Z
-updated: 2024-05-01T02:18:04.332Z
+date: 2024-05-19T18:55:10.880Z
+updated: 2024-05-20T18:55:10.880Z
 tags: 
   - transfer
 categories:
@@ -388,4 +388,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://techidaily.com/hard-reset-huawei-p60-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Huawei P60 in 3 Efficient Ways | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-8-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 8</u></a></li>
 </ul></div>
+
 

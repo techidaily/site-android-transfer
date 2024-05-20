@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia 130 Music to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.477Z
-updated: 2024-05-01T02:13:27.477Z
+date: 2024-05-19T18:55:07.091Z
+updated: 2024-05-20T18:55:07.091Z
 tags: 
   - transfer
 categories:
@@ -451,4 +451,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y100a-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y100A Device</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c210-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C210 – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

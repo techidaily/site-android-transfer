@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Tecno Phantom V Flip to iPad | Dr.fone
-date: 2024-04-30T02:22:41.923Z
-updated: 2024-05-01T02:22:41.923Z
+date: 2024-05-19T18:55:14.737Z
+updated: 2024-05-20T18:55:14.737Z
 tags: 
   - transfer
 categories:
@@ -386,4 +386,5 @@ How to Transfer Data from Tecno Phantom V Flip to BlackBerry With 1-Click
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-12-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 12 Pro Screen | Stellar</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone SE | Dr.fone</u></a></li>
 </ul></div>
+
 

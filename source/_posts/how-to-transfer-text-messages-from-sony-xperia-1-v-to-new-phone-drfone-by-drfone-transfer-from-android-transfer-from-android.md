@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Sony Xperia 1 V to New Phone | Dr.fone
-date: 2024-04-30T02:21:31.577Z
-updated: 2024-05-01T02:21:31.577Z
+date: 2024-05-19T18:55:13.696Z
+updated: 2024-05-20T18:55:13.696Z
 tags: 
   - transfer
 categories:
@@ -435,4 +435,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/video-editing-on-android-here-are-the-top-10-imovie-alternatives/"><u>Video Editing on Android? Here Are the Top 10 iMovie Alternatives</u></a></li>
 </ul></div>
+
 

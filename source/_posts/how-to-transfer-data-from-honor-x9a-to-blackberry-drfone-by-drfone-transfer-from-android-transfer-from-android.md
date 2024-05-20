@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor X9a to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.764Z
-updated: 2024-05-01T02:13:26.764Z
+date: 2024-05-19T18:55:06.481Z
+updated: 2024-05-20T18:55:06.481Z
 tags: 
   - transfer
 categories:
@@ -419,4 +419,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-11-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 11 Pro Space | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

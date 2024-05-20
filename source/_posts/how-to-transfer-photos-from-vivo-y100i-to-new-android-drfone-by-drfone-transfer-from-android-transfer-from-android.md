@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y100i to New Android? | Dr.fone
-date: 2024-04-30T02:20:13.579Z
-updated: 2024-05-01T02:20:13.579Z
+date: 2024-05-19T18:55:12.724Z
+updated: 2024-05-20T18:55:12.724Z
 tags: 
   - transfer
 categories:
@@ -396,4 +396,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-m34-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy M34 Easily?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-motorola-defy-2-screen-sharing-drfone-by-drfone-android/"><u>How To Do Motorola Defy 2 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

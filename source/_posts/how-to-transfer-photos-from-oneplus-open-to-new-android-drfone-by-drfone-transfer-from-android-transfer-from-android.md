@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus Open to New Android? | Dr.fone
-date: 2024-04-30T02:18:39.597Z
-updated: 2024-05-01T02:18:39.597Z
+date: 2024-05-19T18:55:11.310Z
+updated: 2024-05-20T18:55:11.310Z
 tags: 
   - transfer
 categories:
@@ -463,4 +463,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-10-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 10 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s23-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S23 Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

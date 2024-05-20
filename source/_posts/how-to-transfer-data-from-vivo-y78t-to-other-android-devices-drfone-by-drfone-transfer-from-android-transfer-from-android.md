@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y78t to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:15:39.338Z
-updated: 2024-05-01T02:15:39.338Z
+date: 2024-05-19T18:55:09.335Z
+updated: 2024-05-20T18:55:09.335Z
 tags: 
   - transfer
 categories:
@@ -344,4 +344,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-s17t-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo S17t password or pattern lock</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-motorola-moto-g14-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Motorola Moto G14</u></a></li>
 </ul></div>
+
 

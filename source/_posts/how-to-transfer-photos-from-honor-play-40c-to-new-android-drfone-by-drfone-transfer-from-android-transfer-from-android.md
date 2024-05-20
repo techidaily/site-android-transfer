@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor Play 40C to New Android? | Dr.fone
-date: 2024-04-30T02:17:30.109Z
-updated: 2024-05-01T02:17:30.109Z
+date: 2024-05-19T18:55:10.416Z
+updated: 2024-05-20T18:55:10.416Z
 tags: 
   - transfer
 categories:
@@ -417,4 +417,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-13-ultra-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi 13 Ultra Phone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 13 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

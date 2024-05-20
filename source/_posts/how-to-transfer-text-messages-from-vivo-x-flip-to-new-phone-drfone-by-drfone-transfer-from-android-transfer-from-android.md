@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo X Flip to New Phone | Dr.fone
-date: 2024-04-30T02:21:40.055Z
-updated: 2024-05-01T02:21:40.055Z
+date: 2024-05-19T18:55:13.763Z
+updated: 2024-05-20T18:55:13.763Z
 tags: 
   - transfer
 categories:
@@ -402,4 +402,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y78 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+
 

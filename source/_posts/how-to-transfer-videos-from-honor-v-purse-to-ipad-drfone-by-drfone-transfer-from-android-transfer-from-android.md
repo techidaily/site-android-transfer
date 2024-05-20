@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor V Purse to iPad | Dr.fone
-date: 2024-04-30T02:21:57.491Z
-updated: 2024-05-01T02:21:57.491Z
+date: 2024-05-19T18:55:13.984Z
+updated: 2024-05-20T18:55:13.984Z
 tags: 
   - transfer
 categories:
@@ -492,4 +492,5 @@ Truly, it’s now very easy to move contacts from Honor V Purse to iPhone (13/14
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-v30-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo V30? Fixed | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A2? | Dr.fone</u></a></li>
 </ul></div>
+
 

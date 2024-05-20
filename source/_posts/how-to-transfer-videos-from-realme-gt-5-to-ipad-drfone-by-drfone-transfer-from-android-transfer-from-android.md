@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Realme GT 5 to iPad | Dr.fone
-date: 2024-04-30T02:22:31.996Z
-updated: 2024-05-01T02:22:31.996Z
+date: 2024-05-19T18:55:14.630Z
+updated: 2024-05-20T18:55:14.630Z
 tags: 
   - transfer
 categories:
@@ -512,4 +512,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-k11-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo K11 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme 11 Pro+ to New Phone | Dr.fone
-date: 2024-04-30T02:21:20.119Z
-updated: 2024-05-01T02:21:20.119Z
+date: 2024-05-19T18:55:13.535Z
+updated: 2024-05-20T18:55:13.535Z
 tags: 
   - transfer
 categories:
@@ -564,4 +564,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-15-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 15 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y100i? | Dr.fone</u></a></li>
 </ul></div>
+
 

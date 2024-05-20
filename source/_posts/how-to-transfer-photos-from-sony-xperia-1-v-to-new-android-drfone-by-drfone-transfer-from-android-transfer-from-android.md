@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Sony Xperia 1 V to New Android? | Dr.fone
-date: 2024-04-30T02:19:42.097Z
-updated: 2024-05-01T02:19:42.097Z
+date: 2024-05-19T18:55:12.266Z
+updated: 2024-05-20T18:55:12.266Z
 tags: 
   - transfer
 categories:
@@ -407,4 +407,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-blade-a73-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Blade A73 5G Phone FRP Lock</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

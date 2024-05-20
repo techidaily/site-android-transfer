@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme 11 Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:57.995Z
-updated: 2024-05-01T02:13:57.995Z
+date: 2024-05-19T18:55:07.750Z
+updated: 2024-05-20T18:55:07.750Z
 tags: 
   - transfer
 categories:
@@ -481,4 +481,5 @@ How to Transfer Data from Realme 11 Pro to BlackBerry With 1-Click
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-p55-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel P55 5G Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 to Windows 10? | Dr.fone</u></a></li>
 </ul></div>
+
 

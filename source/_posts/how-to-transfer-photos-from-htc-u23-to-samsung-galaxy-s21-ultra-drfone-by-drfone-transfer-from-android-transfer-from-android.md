@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From HTC U23 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:38.097Z
-updated: 2024-05-01T02:17:38.097Z
+date: 2024-05-19T18:55:10.494Z
+updated: 2024-05-20T18:55:10.494Z
 tags: 
   - transfer
 categories:
@@ -366,4 +366,5 @@ How to Transfer Data from HTC U23 to BlackBerry With 1-Click
 <li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-surveillance-software-for-home-security-2023-update/"><u>Top 10 Free Surveillance Software for Home Security 2023 Update</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme 11 Pro+ Phone</u></a></li>
 </ul></div>
+
 

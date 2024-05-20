@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Itel A60 to New Phone | Dr.fone
-date: 2024-04-30T02:20:55.339Z
-updated: 2024-05-01T02:20:55.339Z
+date: 2024-05-19T18:55:13.257Z
+updated: 2024-05-20T18:55:13.257Z
 tags: 
   - transfer
 categories:
@@ -427,4 +427,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-f04-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy F04 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713949608795-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional-looking-content/"><u>Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X50i to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:33.452Z
-updated: 2024-05-01T02:17:33.452Z
+date: 2024-05-19T18:55:10.457Z
+updated: 2024-05-20T18:55:10.457Z
 tags: 
   - transfer
 categories:
@@ -567,4 +567,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-google-pixel-7a-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Google Pixel 7a Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Samsung Galaxy A34 5G</u></a></li>
 </ul></div>
+
 

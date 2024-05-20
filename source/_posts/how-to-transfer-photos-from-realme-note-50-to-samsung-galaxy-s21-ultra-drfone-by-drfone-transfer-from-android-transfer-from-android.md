@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Realme Note 50 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:20.691Z
-updated: 2024-05-01T02:19:20.691Z
+date: 2024-05-19T18:55:11.962Z
+updated: 2024-05-20T18:55:11.962Z
 tags: 
   - transfer
 categories:
@@ -420,4 +420,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y78-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y78 5G to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Lava Agni 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

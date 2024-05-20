@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y100t to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:20:13.970Z
-updated: 2024-05-01T02:20:13.970Z
+date: 2024-05-19T18:55:12.727Z
+updated: 2024-05-20T18:55:12.727Z
 tags: 
   - transfer
 categories:
@@ -555,4 +555,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-13-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 13?</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g84-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G84 5G Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

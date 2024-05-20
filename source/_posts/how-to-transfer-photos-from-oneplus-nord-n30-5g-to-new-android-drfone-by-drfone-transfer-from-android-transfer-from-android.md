@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus Nord N30 5G to New Android? | Dr.fone
-date: 2024-04-30T02:18:38.430Z
-updated: 2024-05-01T02:18:38.430Z
+date: 2024-05-19T18:55:11.299Z
+updated: 2024-05-20T18:55:11.299Z
 tags: 
   - transfer
 categories:
@@ -484,4 +484,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Meizu 21 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone-for-2024/"><u>Updated Easy Tutorial How to Record and Send Talking Emoji for iPhone for 2024</u></a></li>
 </ul></div>
+
 

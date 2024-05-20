@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y36i to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:33.954Z
-updated: 2024-05-01T02:15:33.954Z
+date: 2024-05-19T18:55:08.972Z
+updated: 2024-05-20T18:55:08.972Z
 tags: 
   - transfer
 categories:
@@ -356,4 +356,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-ranking-the-best-ipad-video-editors-for-a-buyers-guide/"><u>2024 Approved Ranking the Best iPad Video Editors for A Buyers Guide</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Blaze 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

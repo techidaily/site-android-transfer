@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from OnePlus Nord CE 3 Lite 5G to New Android? | Dr.fone
-date: 2024-04-30T02:18:37.842Z
-updated: 2024-05-01T02:18:37.842Z
+date: 2024-05-19T18:55:11.295Z
+updated: 2024-05-20T18:55:11.295Z
 tags: 
   - transfer
 categories:
@@ -599,4 +599,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-ef/"><u>In 2024, How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
 </ul></div>
+
 

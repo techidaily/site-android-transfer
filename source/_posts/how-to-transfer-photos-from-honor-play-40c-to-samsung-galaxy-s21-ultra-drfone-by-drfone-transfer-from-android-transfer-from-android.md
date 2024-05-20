@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor Play 40C to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:30.304Z
-updated: 2024-05-01T02:17:30.304Z
+date: 2024-05-19T18:55:10.417Z
+updated: 2024-05-20T18:55:10.417Z
 tags: 
   - transfer
 categories:
@@ -471,4 +471,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Play 40C | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-sony-xperia-10-v-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Sony Xperia 10 V Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

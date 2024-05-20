@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10C to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:57.467Z
-updated: 2024-05-01T02:14:57.467Z
+date: 2024-05-19T18:55:08.508Z
+updated: 2024-05-20T18:55:08.508Z
 tags: 
   - transfer
 categories:
@@ -383,4 +383,5 @@ In conclusion, there are various methods to transfer videos from Tecno Spark 10C
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Lava Yuva 3 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-dont-lose-your-work-a-quick-guide-to-saving-fcp-projects/"><u>2024 Approved Dont Lose Your Work! A Quick Guide to Saving FCP Projects</u></a></li>
 </ul></div>
+
 

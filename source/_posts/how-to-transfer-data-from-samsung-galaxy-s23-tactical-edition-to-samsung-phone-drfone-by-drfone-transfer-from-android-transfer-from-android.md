@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Samsung Galaxy S23 Tactical Edition to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:35.652Z
-updated: 2024-05-01T02:14:35.652Z
+date: 2024-05-19T18:55:08.241Z
+updated: 2024-05-20T18:55:08.241Z
 tags: 
   - transfer
 categories:
@@ -444,4 +444,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor Magic 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y100i-power-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y100i Power 5G</u></a></li>
 </ul></div>
+
 

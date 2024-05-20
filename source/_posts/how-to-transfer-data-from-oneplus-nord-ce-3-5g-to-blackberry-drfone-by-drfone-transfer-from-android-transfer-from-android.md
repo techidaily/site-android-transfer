@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord CE 3 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.775Z
-updated: 2024-05-01T02:13:27.775Z
+date: 2024-05-19T18:55:07.298Z
+updated: 2024-05-20T18:55:07.298Z
 tags: 
   - transfer
 categories:
@@ -524,4 +524,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y02T? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-a34-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy A34 5G Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

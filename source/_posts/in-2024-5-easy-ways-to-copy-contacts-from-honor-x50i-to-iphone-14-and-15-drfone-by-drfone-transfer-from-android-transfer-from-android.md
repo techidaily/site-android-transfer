@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Honor X50i to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:34.848Z
-updated: 2024-05-01T02:26:34.848Z
+date: 2024-05-19T18:55:17.273Z
+updated: 2024-05-20T18:55:17.273Z
 tags: 
   - transfer
 categories:
@@ -525,4 +525,5 @@ When you know how to move music from Honor X50i to iPhone, you can easily make t
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco M6 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-y100i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo Y100i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

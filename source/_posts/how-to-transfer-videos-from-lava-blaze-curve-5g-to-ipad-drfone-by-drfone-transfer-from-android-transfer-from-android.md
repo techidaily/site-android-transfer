@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Lava Blaze Curve 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:07.381Z
-updated: 2024-05-01T02:22:07.381Z
+date: 2024-05-19T18:55:14.406Z
+updated: 2024-05-20T18:55:14.406Z
 tags: 
   - transfer
 categories:
@@ -517,4 +517,5 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Android devices? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-nokia-c210-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Nokia C210 using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
+
 

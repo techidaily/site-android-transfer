@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Infinix Smart 8 to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T02:27:49.537Z
-updated: 2024-05-01T02:27:49.537Z
+date: 2024-05-19T18:55:18.366Z
+updated: 2024-05-20T18:55:18.366Z
 tags: 
   - transfer
 categories:
@@ -562,4 +562,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-spark-10-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Spark 10 Pro?</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-oppo-a38-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A38 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

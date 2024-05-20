@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Honor 100 Data? | Dr.fone
-date: 2024-04-30T02:23:02.749Z
-updated: 2024-05-01T02:23:02.749Z
+date: 2024-05-19T18:55:14.977Z
+updated: 2024-05-20T18:55:14.977Z
 tags: 
   - transfer
 categories:
@@ -392,4 +392,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-ace-2-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus Ace 2 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-g2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo G2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Hot 30i to iPad | Dr.fone
-date: 2024-04-30T02:22:00.635Z
-updated: 2024-05-01T02:22:00.635Z
+date: 2024-05-19T18:55:14.332Z
+updated: 2024-05-20T18:55:14.332Z
 tags: 
   - transfer
 categories:
@@ -530,4 +530,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Lava Blaze Curve 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v27-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V27 Pro Phone Screen?</u></a></li>
 </ul></div>
+
 

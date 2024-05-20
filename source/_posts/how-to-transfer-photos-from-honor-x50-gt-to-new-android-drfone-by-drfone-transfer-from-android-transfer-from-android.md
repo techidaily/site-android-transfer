@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X50 GT to New Android? | Dr.fone
-date: 2024-04-30T02:17:32.448Z
-updated: 2024-05-01T02:17:32.448Z
+date: 2024-05-19T18:55:10.448Z
+updated: 2024-05-20T18:55:10.448Z
 tags: 
   - transfer
 categories:
@@ -597,4 +597,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-c12-plus-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia C12 Plus</u></a></li>
 </ul></div>
+
 

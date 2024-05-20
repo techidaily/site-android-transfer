@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Nubia Z50 Ultra to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:30.939Z
-updated: 2024-05-01T02:18:30.939Z
+date: 2024-05-19T18:55:11.216Z
+updated: 2024-05-20T18:55:11.216Z
 tags: 
   - transfer
 categories:
@@ -336,4 +336,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-xr21-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia XR21 Photos  An Easy Method Explained.</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-mini-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 mini Properly</u></a></li>
 </ul></div>
+
 

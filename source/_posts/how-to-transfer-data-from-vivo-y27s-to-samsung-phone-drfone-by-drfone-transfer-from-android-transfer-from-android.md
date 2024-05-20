@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y27s to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:31.618Z
-updated: 2024-05-01T02:15:31.618Z
+date: 2024-05-19T18:55:08.944Z
+updated: 2024-05-20T18:55:08.944Z
 tags: 
   - transfer
 categories:
@@ -509,4 +509,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia C110 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Edge 40 has native MKV support?</u></a></li>
 </ul></div>
+
 

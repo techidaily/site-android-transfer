@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Poco C50 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:45.811Z
-updated: 2024-05-01T02:13:45.811Z
+date: 2024-05-19T18:55:07.602Z
+updated: 2024-05-20T18:55:07.602Z
 tags: 
   - transfer
 categories:
@@ -449,4 +449,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-itel-p40-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Itel P40 password or pattern lock</u></a></li>
 </ul></div>
+
 

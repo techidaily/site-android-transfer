@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Huawei Nova Y91 to iPad | Dr.fone
-date: 2024-04-30T02:21:59.825Z
-updated: 2024-05-01T02:21:59.825Z
+date: 2024-05-19T18:55:14.326Z
+updated: 2024-05-20T18:55:14.326Z
 tags: 
   - transfer
 categories:
@@ -455,4 +455,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nokia-c12-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nokia C12 Pro</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+
 

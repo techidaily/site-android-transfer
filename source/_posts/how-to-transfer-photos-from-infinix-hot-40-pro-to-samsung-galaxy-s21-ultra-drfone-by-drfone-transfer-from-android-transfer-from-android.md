@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Hot 40 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:42.203Z
-updated: 2024-05-01T02:17:42.203Z
+date: 2024-05-19T18:55:10.564Z
+updated: 2024-05-20T18:55:10.564Z
 tags: 
   - transfer
 categories:
@@ -527,4 +527,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-google-pixel-8-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Google Pixel 8? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

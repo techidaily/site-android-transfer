@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Samsung Galaxy S23+ to iPad | Dr.fone
-date: 2024-04-30T02:22:38.991Z
-updated: 2024-05-01T02:22:38.991Z
+date: 2024-05-19T18:55:14.716Z
+updated: 2024-05-20T18:55:14.716Z
 tags: 
   - transfer
 categories:
@@ -488,4 +488,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-60x-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme Narzo 60x 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-5-tips-for-faster-editing-in-filmora-video-editor/"><u>In 2024, 5 Tips for Faster Editing in Filmora Video Editor</u></a></li>
 </ul></div>
+
 

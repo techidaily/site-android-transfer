@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G23 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.354Z
-updated: 2024-05-01T02:13:27.354Z
+date: 2024-05-19T18:55:07.013Z
+updated: 2024-05-20T18:55:07.013Z
 tags: 
   - transfer
 categories:
@@ -451,4 +451,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G24? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-gionee-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Gionee Devices</u></a></li>
 </ul></div>
+
 

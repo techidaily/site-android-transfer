@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Lava Yuva 3 to New Android? | Dr.fone
-date: 2024-04-30T02:18:05.304Z
-updated: 2024-05-01T02:18:05.304Z
+date: 2024-05-19T18:55:10.888Z
+updated: 2024-05-20T18:55:10.888Z
 tags: 
   - transfer
 categories:
@@ -445,4 +445,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-13-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 13 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-13-pro-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 13 Pro Lock Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

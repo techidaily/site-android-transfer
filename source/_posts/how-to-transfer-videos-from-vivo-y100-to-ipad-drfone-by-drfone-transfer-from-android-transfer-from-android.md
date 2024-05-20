@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y100 to iPad | Dr.fone
-date: 2024-04-30T02:22:50.461Z
-updated: 2024-05-01T02:22:50.461Z
+date: 2024-05-19T18:55:14.850Z
+updated: 2024-05-20T18:55:14.850Z
 tags: 
   - transfer
 categories:
@@ -479,4 +479,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-13t-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi 13T Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Meizu 21 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

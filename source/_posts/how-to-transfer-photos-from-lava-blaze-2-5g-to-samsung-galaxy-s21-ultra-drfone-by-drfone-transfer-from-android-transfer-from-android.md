@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Lava Blaze 2 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:00.001Z
-updated: 2024-05-01T02:18:00.001Z
+date: 2024-05-19T18:55:10.846Z
+updated: 2024-05-20T18:55:10.846Z
 tags: 
   - transfer
 categories:
@@ -460,4 +460,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme 12 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

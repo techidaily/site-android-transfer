@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Hot 40i to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.851Z
-updated: 2024-05-01T02:13:26.851Z
+date: 2024-05-19T18:55:06.563Z
+updated: 2024-05-20T18:55:06.563Z
 tags: 
   - transfer
 categories:
@@ -527,4 +527,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 11 Without Passcode? 4 Easy Methods</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v29e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V29e without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

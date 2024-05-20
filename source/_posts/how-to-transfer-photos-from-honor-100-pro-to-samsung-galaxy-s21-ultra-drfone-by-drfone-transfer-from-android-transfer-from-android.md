@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor 100 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:20.141Z
-updated: 2024-05-01T02:17:20.141Z
+date: 2024-05-19T18:55:10.320Z
+updated: 2024-05-20T18:55:10.320Z
 tags: 
   - transfer
 categories:
@@ -364,4 +364,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://animation-videos.techidaily.com/new-guide-on-how-to-create-gif-in-whatsapp-iphone-for-2024/"><u>New Guide on How to Create GIF in WhatsApp iPhone for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
 </ul></div>
+
 

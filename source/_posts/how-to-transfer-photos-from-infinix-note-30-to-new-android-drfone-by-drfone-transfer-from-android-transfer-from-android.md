@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30 to New Android? | Dr.fone
-date: 2024-04-30T02:17:44.947Z
-updated: 2024-05-01T02:17:44.947Z
+date: 2024-05-19T18:55:10.622Z
+updated: 2024-05-20T18:55:10.622Z
 tags: 
   - transfer
 categories:
@@ -424,4 +424,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-y27s-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Y27s</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Gionee F3 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 5 V to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:45.840Z
-updated: 2024-05-01T02:14:45.840Z
+date: 2024-05-19T18:55:08.358Z
+updated: 2024-05-20T18:55:08.358Z
 tags: 
   - transfer
 categories:
@@ -442,4 +442,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-7-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 7 Storage Not Loading/Showing | Stellar</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 

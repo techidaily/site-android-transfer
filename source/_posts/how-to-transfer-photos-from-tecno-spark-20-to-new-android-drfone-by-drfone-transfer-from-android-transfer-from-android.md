@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Tecno Spark 20 to New Android? | Dr.fone
-date: 2024-04-30T02:19:54.005Z
-updated: 2024-05-01T02:19:54.005Z
+date: 2024-05-19T18:55:12.429Z
+updated: 2024-05-20T18:55:12.429Z
 tags: 
   - transfer
 categories:
@@ -491,4 +491,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78plus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y78+ PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-11-5g-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of 11 5G with Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

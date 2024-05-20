@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:50.044Z
-updated: 2024-05-01T02:17:50.044Z
+date: 2024-05-19T18:55:10.704Z
+updated: 2024-05-20T18:55:10.704Z
 tags: 
   - transfer
 categories:
@@ -556,4 +556,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y78t | Dr.fone</u></a></li>
 </ul></div>
+
 

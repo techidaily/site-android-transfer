@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Xiaomi Redmi Note 12T Pro to New Android? | Dr.fone
-date: 2024-04-30T02:20:38.297Z
-updated: 2024-05-01T02:20:38.297Z
+date: 2024-05-19T18:55:13.067Z
+updated: 2024-05-20T18:55:13.067Z
 tags: 
   - transfer
 categories:
@@ -567,4 +567,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 14 Pro/iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

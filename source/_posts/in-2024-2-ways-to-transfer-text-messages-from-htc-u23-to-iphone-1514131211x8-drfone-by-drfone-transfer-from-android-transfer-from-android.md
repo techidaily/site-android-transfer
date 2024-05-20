@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from HTC U23 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:17.808Z
-updated: 2024-05-01T02:24:17.808Z
+date: 2024-05-19T18:55:15.698Z
+updated: 2024-05-20T18:55:15.698Z
 tags: 
   - transfer
 categories:
@@ -467,4 +467,5 @@ To summarize, while it may seem troublesome to ****transfer files from HTC U23 t
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X8b | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

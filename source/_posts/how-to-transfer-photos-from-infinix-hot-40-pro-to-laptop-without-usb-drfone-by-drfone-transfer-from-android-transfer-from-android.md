@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Hot 40 Pro to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:41.812Z
-updated: 2024-05-01T02:17:41.812Z
+date: 2024-05-19T18:55:10.560Z
+updated: 2024-05-20T18:55:10.560Z
 tags: 
   - transfer
 categories:
@@ -739,4 +739,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-f54-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy F54 5G Without PUK Codes</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-11-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 </ul></div>
+
 

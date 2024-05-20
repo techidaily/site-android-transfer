@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Sony Xperia 10 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:59.257Z
-updated: 2024-05-01T02:24:59.257Z
+date: 2024-05-19T18:55:16.178Z
+updated: 2024-05-20T18:55:16.178Z
 tags: 
   - transfer
 categories:
@@ -408,4 +408,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-se-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone SE? Heres the Best Fixes</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-slowing-it-down-the-best-video-editing-software-for-dramatic-effects/"><u>New In 2024, Slowing It Down The Best Video Editing Software for Dramatic Effects</u></a></li>
 </ul></div>
+
 

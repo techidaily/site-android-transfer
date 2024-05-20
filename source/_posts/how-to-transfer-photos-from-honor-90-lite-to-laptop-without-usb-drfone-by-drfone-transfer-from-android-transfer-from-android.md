@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor 90 Lite to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:22.674Z
-updated: 2024-05-01T02:17:22.674Z
+date: 2024-05-19T18:55:10.338Z
+updated: 2024-05-20T18:55:10.338Z
 tags: 
   - transfer
 categories:
@@ -427,4 +427,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 7 without Password?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f54-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy F54 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

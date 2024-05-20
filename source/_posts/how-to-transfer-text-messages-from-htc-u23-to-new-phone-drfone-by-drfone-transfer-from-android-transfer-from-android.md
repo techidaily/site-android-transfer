@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from HTC U23 to New Phone | Dr.fone
-date: 2024-04-30T02:20:50.483Z
-updated: 2024-05-01T02:20:50.483Z
+date: 2024-05-19T18:55:13.196Z
+updated: 2024-05-20T18:55:13.196Z
 tags: 
   - transfer
 categories:
@@ -538,4 +538,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-15-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 15 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
 </ul></div>
+
 

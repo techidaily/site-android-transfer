@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Agni 2 5G to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:27.061Z
-updated: 2024-05-01T02:13:27.061Z
+date: 2024-05-19T18:55:06.813Z
+updated: 2024-05-20T18:55:06.814Z
 tags: 
   - transfer
 categories:
@@ -469,4 +469,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a18-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo A18 Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-zte-nubia-z60-ultra-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass ZTE Nubia Z60 Ultra FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

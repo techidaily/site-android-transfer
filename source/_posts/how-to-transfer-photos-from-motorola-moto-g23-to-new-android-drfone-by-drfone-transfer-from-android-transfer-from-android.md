@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto G23 to New Android? | Dr.fone
-date: 2024-04-30T02:18:14.764Z
-updated: 2024-05-01T02:18:14.764Z
+date: 2024-05-19T18:55:11.045Z
+updated: 2024-05-20T18:55:11.045Z
 tags: 
   - transfer
 categories:
@@ -744,4 +744,5 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-narzo-60-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme Narzo 60 Pro 5G to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-a15-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy A15 4G Devices</u></a></li>
 </ul></div>
+
 

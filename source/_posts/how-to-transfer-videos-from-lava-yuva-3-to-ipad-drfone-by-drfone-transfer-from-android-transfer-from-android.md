@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Lava Yuva 3 to iPad | Dr.fone
-date: 2024-04-30T02:22:08.541Z
-updated: 2024-05-01T02:22:08.541Z
+date: 2024-05-19T18:55:14.436Z
+updated: 2024-05-20T18:55:14.436Z
 tags: 
   - transfer
 categories:
@@ -341,4 +341,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 Bootloader Easily</u></a></li>
 </ul></div>
+
 

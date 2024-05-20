@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Moto G73 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:03.227Z
-updated: 2024-05-01T02:21:03.227Z
+date: 2024-05-19T18:55:13.329Z
+updated: 2024-05-20T18:55:13.329Z
 tags: 
   - transfer
 categories:
@@ -428,4 +428,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-actionable-ways-to-extract-subtitles-from-mkv-videos-without-quality-loss/"><u>New 2024 Approved 2 Actionable Ways to Extract Subtitles From MKV Videos without Quality Loss</u></a></li>
 </ul></div>
+
 

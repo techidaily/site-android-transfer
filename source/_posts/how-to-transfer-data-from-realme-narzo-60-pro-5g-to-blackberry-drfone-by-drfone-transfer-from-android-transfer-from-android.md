@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme Narzo 60 Pro 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:12.496Z
-updated: 2024-05-01T02:14:12.496Z
+date: 2024-05-19T18:55:07.987Z
+updated: 2024-05-20T18:55:07.987Z
 tags: 
   - transfer
 categories:
@@ -437,4 +437,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme GT Neo 5 SE | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Passcode Screen?</u></a></li>
 </ul></div>
+
 

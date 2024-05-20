@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X50i to New Android? | Dr.fone
-date: 2024-04-30T02:17:33.648Z
-updated: 2024-05-01T02:17:33.648Z
+date: 2024-05-19T18:55:10.458Z
+updated: 2024-05-20T18:55:10.458Z
 tags: 
   - transfer
 categories:
@@ -545,4 +545,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://ai-editing-video.techidaily.com/updated-applying-the-effect-of-camera-shake-in-video-creation-for-2024/"><u>Updated Applying the Effect of Camera Shake in Video Creation for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/6-instant-ways-to-create-windows-10-slideshow-for-2024/"><u>6 Instant Ways to Create Windows 10 Slideshow for 2024</u></a></li>
 </ul></div>
+
 

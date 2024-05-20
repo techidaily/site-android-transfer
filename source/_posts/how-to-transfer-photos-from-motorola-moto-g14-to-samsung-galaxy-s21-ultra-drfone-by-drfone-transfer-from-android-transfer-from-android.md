@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Motorola Moto G14 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:14.375Z
-updated: 2024-05-01T02:18:14.375Z
+date: 2024-05-19T18:55:11.035Z
+updated: 2024-05-20T18:55:11.035Z
 tags: 
   - transfer
 categories:
@@ -421,4 +421,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 5G PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nokia XR21? | Dr.fone</u></a></li>
 </ul></div>
+
 

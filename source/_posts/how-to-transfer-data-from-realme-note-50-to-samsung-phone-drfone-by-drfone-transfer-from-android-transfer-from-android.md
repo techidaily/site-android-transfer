@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme Note 50 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:15.982Z
-updated: 2024-05-01T02:14:15.982Z
+date: 2024-05-19T18:55:08.016Z
+updated: 2024-05-20T18:55:08.016Z
 tags: 
   - transfer
 categories:
@@ -399,4 +399,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Plus Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

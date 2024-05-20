@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y100 5G to New Android? | Dr.fone
-date: 2024-04-30T02:20:11.224Z
-updated: 2024-05-01T02:20:11.224Z
+date: 2024-05-19T18:55:12.702Z
+updated: 2024-05-20T18:55:12.702Z
 tags: 
   - transfer
 categories:
@@ -461,4 +461,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Android? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-top-picks-slow-motion-video-editing-tools-for-creators/"><u>2024 Approved Top Picks Slow Motion Video Editing Tools for Creators</u></a></li>
 </ul></div>
+
 

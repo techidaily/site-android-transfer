@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 HD to New Android? | Dr.fone
-date: 2024-04-30T02:17:48.478Z
-updated: 2024-05-01T02:17:48.478Z
+date: 2024-05-19T18:55:10.689Z
+updated: 2024-05-20T18:55:10.690Z
 tags: 
   - transfer
 categories:
@@ -561,4 +561,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-zero-30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Zero 30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-note-30-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Note 30 Through Google Earth?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Sony Xperia 10 V to iPad | Dr.fone
-date: 2024-04-30T02:22:40.732Z
-updated: 2024-05-01T02:22:40.732Z
+date: 2024-05-19T18:55:14.728Z
+updated: 2024-05-20T18:55:14.728Z
 tags: 
   - transfer
 categories:
@@ -472,4 +472,5 @@ In conclusion, there are various methods to transfer videos from Sony Xperia 10 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-spark-10-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Spark 10 Pro? Fixed | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-x-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone X In Different Conditionsin | Dr.fone</u></a></li>
 </ul></div>
+
 

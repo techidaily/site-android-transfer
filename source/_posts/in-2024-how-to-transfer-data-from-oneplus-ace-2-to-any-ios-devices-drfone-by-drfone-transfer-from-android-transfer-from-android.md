@@ -513,3 +513,4 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-12-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Videos from OnePlus 12 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

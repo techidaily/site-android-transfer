@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo G2 to New Android? | Dr.fone
-date: 2024-04-30T02:19:55.756Z
-updated: 2024-05-01T02:19:55.756Z
+date: 2024-05-19T18:55:12.482Z
+updated: 2024-05-20T18:55:12.482Z
 tags: 
   - transfer
 categories:
@@ -452,4 +452,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-a60-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel A60 Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-lava-blaze-2mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Lava Blaze 2Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

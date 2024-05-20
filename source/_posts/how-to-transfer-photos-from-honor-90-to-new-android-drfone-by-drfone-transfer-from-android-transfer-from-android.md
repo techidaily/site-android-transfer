@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor 90 to New Android? | Dr.fone
-date: 2024-04-30T02:17:24.125Z
-updated: 2024-05-01T02:17:24.125Z
+date: 2024-05-19T18:55:10.347Z
+updated: 2024-05-20T18:55:10.347Z
 tags: 
   - transfer
 categories:
@@ -440,4 +440,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://ai-video.techidaily.com/updated-how-to-auto-translate-youtube-videos-into-different-languages/"><u>updated How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

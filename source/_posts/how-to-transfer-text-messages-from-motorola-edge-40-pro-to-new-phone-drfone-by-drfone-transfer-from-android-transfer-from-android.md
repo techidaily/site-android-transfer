@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Edge 40 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:21:00.910Z
-updated: 2024-05-01T02:21:00.910Z
+date: 2024-05-19T18:55:13.310Z
+updated: 2024-05-20T18:55:13.310Z
 tags: 
   - transfer
 categories:
@@ -396,4 +396,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-note-30-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Note 30 5G Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-a14-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy A14 5G Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

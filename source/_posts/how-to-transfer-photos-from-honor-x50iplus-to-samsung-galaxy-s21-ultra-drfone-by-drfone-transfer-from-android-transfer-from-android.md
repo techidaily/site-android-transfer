@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor X50i+ to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:34.430Z
-updated: 2024-05-01T02:17:34.430Z
+date: 2024-05-19T18:55:10.465Z
+updated: 2024-05-20T18:55:10.465Z
 tags: 
   - transfer
 categories:
@@ -388,4 +388,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-google-pixel-7a-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Google Pixel 7a | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29e-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29e Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

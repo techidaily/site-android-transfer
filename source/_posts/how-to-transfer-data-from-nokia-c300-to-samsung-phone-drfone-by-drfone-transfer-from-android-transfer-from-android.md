@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C300 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.583Z
-updated: 2024-05-01T02:13:27.583Z
+date: 2024-05-19T18:55:07.147Z
+updated: 2024-05-20T18:55:07.147Z
 tags: 
   - transfer
 categories:
@@ -395,4 +395,5 @@ How to Transfer Data from Nokia C300 to BlackBerry With 1-Click
 <li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia G42 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-x-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone X Everything You Need to Know | Dr.fone</u></a></li>
 </ul></div>
+
 

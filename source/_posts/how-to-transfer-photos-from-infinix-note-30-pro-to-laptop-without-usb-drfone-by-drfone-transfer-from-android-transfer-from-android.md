@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Note 30 Pro to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:44.167Z
-updated: 2024-05-01T02:17:44.167Z
+date: 2024-05-19T18:55:10.584Z
+updated: 2024-05-20T18:55:10.584Z
 tags: 
   - transfer
 categories:
@@ -470,4 +470,5 @@ How to Transfer Data from Infinix Note 30 Pro to BlackBerry With 1-Click
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-6-instant-mp4-to-gif-online-tools-for-you/"><u>New 2024 Approved 6 Instant Mp4 to GIF Online Tools for You</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>New In 2024, How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
 </ul></div>
+
 

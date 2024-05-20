@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y100 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:20:11.613Z
-updated: 2024-05-01T02:20:11.613Z
+date: 2024-05-19T18:55:12.706Z
+updated: 2024-05-20T18:55:12.706Z
 tags: 
   - transfer
 categories:
@@ -518,4 +518,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://review-topics.techidaily.com/infinix-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f15-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F15 5G PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

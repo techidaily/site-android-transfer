@@ -345,3 +345,4 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a60-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Itel A60 to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
 
+

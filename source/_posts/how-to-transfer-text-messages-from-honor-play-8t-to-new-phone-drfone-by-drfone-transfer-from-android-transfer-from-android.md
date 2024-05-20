@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor Play 8T to New Phone | Dr.fone
-date: 2024-04-30T02:20:48.320Z
-updated: 2024-05-01T02:20:48.320Z
+date: 2024-05-19T18:55:13.179Z
+updated: 2024-05-20T18:55:13.179Z
 tags: 
   - transfer
 categories:
@@ -369,4 +369,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-a59-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from A59 5G.</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Lava Yuva 3 Pro to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:45.107Z
-updated: 2024-05-01T02:26:45.107Z
+date: 2024-05-19T18:55:17.391Z
+updated: 2024-05-20T18:55:17.391Z
 tags: 
   - transfer
 categories:
@@ -550,4 +550,5 @@ When you know how to move music from Lava Yuva 3 Pro to iPhone, you can easily m
 <li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-6-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 6</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-p40plus-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Itel P40+ Phone Forgot Password</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Yuva 2 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:58.914Z
-updated: 2024-05-01T02:20:58.914Z
+date: 2024-05-19T18:55:13.290Z
+updated: 2024-05-20T18:55:13.290Z
 tags: 
   - transfer
 categories:
@@ -586,4 +586,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-11-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 11? Heres the Best Fixes</u></a></li>
 <li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-motorola-edgeplus-2023-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Motorola Edge+ (2023)</u></a></li>
 </ul></div>
+
 

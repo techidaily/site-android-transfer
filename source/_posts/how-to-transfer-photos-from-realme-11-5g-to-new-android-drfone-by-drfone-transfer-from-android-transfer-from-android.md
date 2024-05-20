@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Realme 11 5G to New Android? | Dr.fone
-date: 2024-04-30T02:19:06.215Z
-updated: 2024-05-01T02:19:06.215Z
+date: 2024-05-19T18:55:11.739Z
+updated: 2024-05-20T18:55:11.739Z
 tags: 
   - transfer
 categories:
@@ -579,4 +579,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone XS Max? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Sony Xperia 5 V to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:19:43.127Z
-updated: 2024-05-01T02:19:43.127Z
+date: 2024-05-19T18:55:12.289Z
+updated: 2024-05-20T18:55:12.289Z
 tags: 
   - transfer
 categories:
@@ -442,4 +442,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-hot-40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Hot 40 FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

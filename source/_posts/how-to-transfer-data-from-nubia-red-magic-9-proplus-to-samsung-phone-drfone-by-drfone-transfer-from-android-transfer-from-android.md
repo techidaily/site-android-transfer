@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nubia Red Magic 9 Pro+ to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.690Z
-updated: 2024-05-01T02:13:27.690Z
+date: 2024-05-19T18:55:07.215Z
+updated: 2024-05-20T18:55:07.215Z
 tags: 
   - transfer
 categories:
@@ -539,4 +539,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-p55plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel P55+ to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-blaze-curve-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Blaze Curve 5G Without PUK Codes</u></a></li>
 </ul></div>
+
 

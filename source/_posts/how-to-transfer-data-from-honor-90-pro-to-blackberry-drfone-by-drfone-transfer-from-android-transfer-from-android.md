@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 Pro to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:26.617Z
-updated: 2024-05-01T02:13:26.617Z
+date: 2024-05-19T18:55:06.346Z
+updated: 2024-05-20T18:55:06.346Z
 tags: 
   - transfer
 categories:
@@ -439,4 +439,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Lava Blaze 2 5G? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-v30t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme V30T Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

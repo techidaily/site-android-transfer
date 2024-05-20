@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Lava Yuva 3 Pro to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T02:27:54.302Z
-updated: 2024-05-01T02:27:54.302Z
+date: 2024-05-19T18:55:18.403Z
+updated: 2024-05-20T18:55:18.403Z
 tags: 
   - transfer
 categories:
@@ -543,4 +543,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-of-free-video-editing-software-for-newcomers/"><u>Updated The Ultimate List of Free Video Editing Software for Newcomers</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-top-video-enhancement-apps-for-android-and-ios/"><u>Updated Top Video Enhancement Apps for Android and iOS</u></a></li>
 </ul></div>
+
 

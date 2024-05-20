@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Honor X9a to New Phone | Dr.fone
-date: 2024-04-30T02:20:49.904Z
-updated: 2024-05-01T02:20:49.904Z
+date: 2024-05-19T18:55:13.192Z
+updated: 2024-05-20T18:55:13.192Z
 tags: 
   - transfer
 categories:
@@ -468,4 +468,5 @@ Regardless of the fact that many free solutions are there that can help you **tr
 <li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-12-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 12 mini? How to Fix</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

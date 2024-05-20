@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Lava Yuva 2 Pro to iPad | Dr.fone
-date: 2024-04-30T02:22:07.961Z
-updated: 2024-05-01T02:22:07.961Z
+date: 2024-05-19T18:55:14.432Z
+updated: 2024-05-20T18:55:14.432Z
 tags: 
   - transfer
 categories:
@@ -499,4 +499,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-7-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 7 Plus (4 Methods) | Stellar</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100i-power-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100i Power 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

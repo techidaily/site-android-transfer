@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Realme Narzo 60 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:11.724Z
-updated: 2024-05-01T02:14:11.724Z
+date: 2024-05-19T18:55:07.979Z
+updated: 2024-05-20T18:55:07.979Z
 tags: 
   - transfer
 categories:
@@ -503,4 +503,5 @@ Navigating the digital landscape of photo organization and transfer has become i
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-se-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone SE How to Bypass?</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-15-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 15 or iPad?</u></a></li>
 </ul></div>
+
 

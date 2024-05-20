@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor 100 to New Android? | Dr.fone
-date: 2024-04-30T02:17:20.530Z
-updated: 2024-05-01T02:17:20.530Z
+date: 2024-05-19T18:55:10.322Z
+updated: 2024-05-20T18:55:10.322Z
 tags: 
   - transfer
 categories:
@@ -506,4 +506,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Meizu 21 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-9-best-french-video-translators-online-and-download-options/"><u>Updated 9 Best French Video Translators Online and Download Options</u></a></li>
 </ul></div>
+
 

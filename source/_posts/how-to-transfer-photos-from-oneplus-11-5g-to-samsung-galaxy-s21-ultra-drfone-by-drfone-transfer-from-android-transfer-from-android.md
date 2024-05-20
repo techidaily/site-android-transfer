@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From OnePlus 11 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:32.143Z
-updated: 2024-05-01T02:18:32.143Z
+date: 2024-05-19T18:55:11.245Z
+updated: 2024-05-20T18:55:11.245Z
 tags: 
   - transfer
 categories:
@@ -388,4 +388,5 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 <li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-12t-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 12T Pro Phone Now with These Tips</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Sony Xperia 10 V to New Android? | Dr.fone
-date: 2024-04-30T02:19:42.681Z
-updated: 2024-05-01T02:19:42.681Z
+date: 2024-05-19T18:55:12.281Z
+updated: 2024-05-20T18:55:12.281Z
 tags: 
   - transfer
 categories:
@@ -719,4 +719,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://techidaily.com/undelete-lost-call-logs-from-infinix-zero-30-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Infinix Zero 30 5G</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme GT 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

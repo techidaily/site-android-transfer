@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy S23 FE to New Phone | Dr.fone
-date: 2024-04-30T02:21:29.214Z
-updated: 2024-05-01T02:21:29.214Z
+date: 2024-05-19T18:55:13.663Z
+updated: 2024-05-20T18:55:13.663Z
 tags: 
   - transfer
 categories:
@@ -450,4 +450,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V27 Pro? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-spark-20-proplus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Spark 20 Pro+ Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo G2 to New Phone | Dr.fone
-date: 2024-04-30T02:21:36.041Z
-updated: 2024-05-01T02:21:36.041Z
+date: 2024-05-19T18:55:13.731Z
+updated: 2024-05-20T18:55:13.731Z
 tags: 
   - transfer
 categories:
@@ -372,4 +372,5 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 <li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-edge-40-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Edge 40 Location | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-vivo-y200e-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y200e 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

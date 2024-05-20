@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G 5G (2023) to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.308Z
-updated: 2024-05-01T02:13:27.308Z
+date: 2024-05-19T18:55:06.987Z
+updated: 2024-05-20T18:55:06.987Z
 tags: 
   - transfer
 categories:
@@ -413,4 +413,5 @@ When you know how to move music from Motorola Moto G 5G (2023) to iPhone, you ca
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y100i-power-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y100i Power 5G without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

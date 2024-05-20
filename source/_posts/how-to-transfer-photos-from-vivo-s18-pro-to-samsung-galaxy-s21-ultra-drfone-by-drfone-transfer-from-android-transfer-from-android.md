@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo S18 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:58.875Z
-updated: 2024-05-01T02:19:58.875Z
+date: 2024-05-19T18:55:12.515Z
+updated: 2024-05-20T18:55:12.515Z
 tags: 
   - transfer
 categories:
@@ -325,4 +325,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-x7b-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor X7b?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-aiff-converter-selection-handbook/"><u>Updated In 2024, The Ultimate Aiff Converter Selection Handbook</u></a></li>
 </ul></div>
+
 

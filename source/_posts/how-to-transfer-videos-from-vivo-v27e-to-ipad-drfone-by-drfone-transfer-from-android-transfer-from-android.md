@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo V27e to iPad | Dr.fone
-date: 2024-04-30T02:22:47.733Z
-updated: 2024-05-01T02:22:47.733Z
+date: 2024-05-19T18:55:14.828Z
+updated: 2024-05-20T18:55:14.828Z
 tags: 
   - transfer
 categories:
@@ -419,4 +419,5 @@ How to Transfer Data from Vivo V27e to BlackBerry With 1-Click
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-a05s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel A05s</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-edge-2023-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Edge 2023 Bootloader Easily</u></a></li>
 </ul></div>
+
 

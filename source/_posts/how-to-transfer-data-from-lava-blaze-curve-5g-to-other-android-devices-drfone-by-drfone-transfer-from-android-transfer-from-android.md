@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze Curve 5G to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:27.085Z
-updated: 2024-05-01T02:13:27.085Z
+date: 2024-05-19T18:55:06.838Z
+updated: 2024-05-20T18:55:06.838Z
 tags: 
   - transfer
 categories:
@@ -493,4 +493,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Pro Max Without Passcode Now | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-nubia-z50-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Nubia Z50 Ultra Devices</u></a></li>
 </ul></div>
+
 

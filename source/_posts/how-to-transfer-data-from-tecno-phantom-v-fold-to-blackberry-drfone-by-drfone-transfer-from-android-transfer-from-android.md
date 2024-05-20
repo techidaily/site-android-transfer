@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Phantom V Fold to BlackBerry | Dr.fone
-date: 2024-04-30T02:14:50.073Z
-updated: 2024-05-01T02:14:50.073Z
+date: 2024-05-19T18:55:08.393Z
+updated: 2024-05-20T18:55:08.393Z
 tags: 
   - transfer
 categories:
@@ -350,4 +350,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y78t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y78t Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-reno-11-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Reno 11 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

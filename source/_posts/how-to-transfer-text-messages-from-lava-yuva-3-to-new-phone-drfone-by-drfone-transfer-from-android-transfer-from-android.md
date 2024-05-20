@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Yuva 3 to New Phone | Dr.fone
-date: 2024-04-30T02:20:59.541Z
-updated: 2024-05-01T02:20:59.541Z
+date: 2024-05-19T18:55:13.294Z
+updated: 2024-05-20T18:55:13.294Z
 tags: 
   - transfer
 categories:
@@ -400,4 +400,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-eager-to-discover-all-about-dynamic-videos-you-are-in-the-right-place-because-this-article-provides-insight-into-dynamic-video-collage/"><u>2024 Approved Are You Eager to Discover All About Dynamic Videos? You Are in the Right Place because This Article Provides Insight Into Dynamic Video Collages</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-chromebook-video-editing-software-top-10-online-options/"><u>New In 2024, Chromebook Video Editing Software Top 10 Online Options</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Motorola Moto G13 to iPad | Dr.fone
-date: 2024-04-30T02:22:11.265Z
-updated: 2024-05-01T02:22:11.265Z
+date: 2024-05-19T18:55:14.455Z
+updated: 2024-05-20T18:55:14.455Z
 tags: 
   - transfer
 categories:
@@ -460,4 +460,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://ai-vdieo-software.techidaily.com/edit-freely-10-best-android-video-editing-apps-with-no-watermark/"><u>Edit Freely 10 Best Android Video Editing Apps with No Watermark</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-download-lumafusion-for-mac-top-alternatives-included/"><u>2024 Approved Download Lumafusion for Mac Top Alternatives Included</u></a></li>
 </ul></div>
+
 

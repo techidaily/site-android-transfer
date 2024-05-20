@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 Pro to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:13:26.569Z
-updated: 2024-05-01T02:13:26.569Z
+date: 2024-05-19T18:55:06.295Z
+updated: 2024-05-20T18:55:06.295Z
 tags: 
   - transfer
 categories:
@@ -342,4 +342,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/" ><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone SE (2022) | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/" ><u>How to share/fake gps on Uber for Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

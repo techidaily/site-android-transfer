@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Poco M6 5G to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:27:03.965Z
-updated: 2024-05-01T02:27:03.965Z
+date: 2024-05-19T18:55:17.668Z
+updated: 2024-05-20T18:55:17.668Z
 tags: 
   - transfer
 categories:
@@ -434,4 +434,5 @@ When you know how to move music from Poco M6 5G to iPhone, you can easily make t
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Zero 30 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Realme V30 to iPad | Dr.fone
-date: 2024-04-30T02:22:33.739Z
-updated: 2024-05-01T02:22:33.739Z
+date: 2024-05-19T18:55:14.644Z
+updated: 2024-05-20T18:55:14.644Z
 tags: 
   - transfer
 categories:
@@ -412,4 +412,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-6-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 6</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X9b | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Razr 40 Ultra to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.432Z
-updated: 2024-05-01T02:13:27.432Z
+date: 2024-05-19T18:55:07.076Z
+updated: 2024-05-20T18:55:07.076Z
 tags: 
   - transfer
 categories:
@@ -449,4 +449,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Pova 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-15-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 15 Pro Max</u></a></li>
 </ul></div>
+
 

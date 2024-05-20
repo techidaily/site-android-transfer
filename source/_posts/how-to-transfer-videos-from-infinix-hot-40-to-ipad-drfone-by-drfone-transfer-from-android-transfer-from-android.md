@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Infinix Hot 40 to iPad | Dr.fone
-date: 2024-04-30T02:22:01.034Z
-updated: 2024-05-01T02:22:01.034Z
+date: 2024-05-19T18:55:14.335Z
+updated: 2024-05-20T18:55:14.335Z
 tags: 
   - transfer
 categories:
@@ -432,4 +432,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nubia-red-magic-8s-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nubia Red Magic 8S Pro to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-zte-nubia-z60-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your ZTE Nubia Z60 Ultra Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

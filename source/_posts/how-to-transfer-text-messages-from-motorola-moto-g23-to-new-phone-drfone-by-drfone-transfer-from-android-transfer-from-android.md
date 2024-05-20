@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Moto G23 to New Phone | Dr.fone
-date: 2024-04-30T02:21:02.651Z
-updated: 2024-05-01T02:21:02.651Z
+date: 2024-05-19T18:55:13.324Z
+updated: 2024-05-20T18:55:13.324Z
 tags: 
   - transfer
 categories:
@@ -353,4 +353,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-c210-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia C210 Devices</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-note-13-proplus-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi Note 13 Pro+ 5G Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

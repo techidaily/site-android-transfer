@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G14 to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.345Z
-updated: 2024-05-01T02:13:27.345Z
+date: 2024-05-19T18:55:07.004Z
+updated: 2024-05-20T18:55:07.004Z
 tags: 
   - transfer
 categories:
@@ -519,4 +519,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-razr-40-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Razr 40 Ultra</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-x5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco X5</u></a></li>
 </ul></div>
+
 

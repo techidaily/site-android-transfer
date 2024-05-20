@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo S18 to iPad | Dr.fone
-date: 2024-04-30T02:22:46.362Z
-updated: 2024-05-01T02:22:46.362Z
+date: 2024-05-19T18:55:14.816Z
+updated: 2024-05-20T18:55:14.816Z
 tags: 
   - transfer
 categories:
@@ -449,4 +449,5 @@ The disadvantage that this method has is that you can’t transfer messages from
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Poco C50? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-7-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 7 with/without SIM Card</u></a></li>
 </ul></div>
+
 

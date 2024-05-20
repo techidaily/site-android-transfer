@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y36 to New Phone | Dr.fone
-date: 2024-04-30T02:21:43.731Z
-updated: 2024-05-01T02:21:43.731Z
+date: 2024-05-19T18:55:13.792Z
+updated: 2024-05-20T18:55:13.792Z
 tags: 
   - transfer
 categories:
@@ -303,4 +303,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://meme-emoji.techidaily.com/how-to-make-a-photo-collage-on-maciphone-using-iphoto-in-2024/"><u>How to Make a Photo Collage on Mac/iPhone Using iPhoto, In 2024</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 13 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

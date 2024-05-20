@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y17s to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:27.685Z
-updated: 2024-05-01T02:15:27.685Z
+date: 2024-05-19T18:55:08.885Z
+updated: 2024-05-20T18:55:08.885Z
 tags: 
   - transfer
 categories:
@@ -445,4 +445,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78+ | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a14-5g-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy A14 5G Lock Screen Password?</u></a></li>
 </ul></div>
+
 

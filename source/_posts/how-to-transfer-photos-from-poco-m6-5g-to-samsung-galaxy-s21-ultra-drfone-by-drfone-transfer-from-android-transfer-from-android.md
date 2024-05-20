@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Poco M6 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:01.686Z
-updated: 2024-05-01T02:19:01.686Z
+date: 2024-05-19T18:55:11.632Z
+updated: 2024-05-20T18:55:11.632Z
 tags: 
   - transfer
 categories:
@@ -638,4 +638,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-reno-11-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Reno 11 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

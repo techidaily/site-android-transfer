@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Edge 2023 to New Android? | Dr.fone
-date: 2024-04-30T02:18:08.347Z
-updated: 2024-05-01T02:18:08.347Z
+date: 2024-05-19T18:55:10.976Z
+updated: 2024-05-20T18:55:10.976Z
 tags: 
   - transfer
 categories:
@@ -421,4 +421,5 @@ Truly, it’s now very easy to move contacts from Motorola Edge 2023 to iPhone (
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-a2-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo A2 Through Google Earth?</u></a></li>
 </ul></div>
+
 

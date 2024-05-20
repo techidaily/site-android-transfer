@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Itel P55T to New Phone | Dr.fone
-date: 2024-04-30T02:20:56.984Z
-updated: 2024-05-01T02:20:56.984Z
+date: 2024-05-19T18:55:13.270Z
+updated: 2024-05-20T18:55:13.270Z
 tags: 
   - transfer
 categories:
@@ -381,4 +381,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S17? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-c51-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco C51</u></a></li>
 </ul></div>
+
 

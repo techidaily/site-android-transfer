@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Smart 7 HD to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:47.474Z
-updated: 2024-05-01T02:17:47.474Z
+date: 2024-05-19T18:55:10.659Z
+updated: 2024-05-20T18:55:10.659Z
 tags: 
   - transfer
 categories:
@@ -699,4 +699,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Gionee F3 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-c12-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia C12 Pro FRP</u></a></li>
 </ul></div>
+
 

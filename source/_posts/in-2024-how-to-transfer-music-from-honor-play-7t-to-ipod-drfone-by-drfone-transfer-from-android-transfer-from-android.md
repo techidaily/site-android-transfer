@@ -452,3 +452,4 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-smart-8-hd-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Smart 8 HD Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
 
+

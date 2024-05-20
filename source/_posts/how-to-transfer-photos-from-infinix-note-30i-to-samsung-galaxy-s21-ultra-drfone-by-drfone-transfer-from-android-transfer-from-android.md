@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Note 30i to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:46.891Z
-updated: 2024-05-01T02:17:46.891Z
+date: 2024-05-19T18:55:10.639Z
+updated: 2024-05-20T18:55:10.639Z
 tags: 
   - transfer
 categories:
@@ -459,4 +459,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-agni-2-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Agni 2 5G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-master-lip-syncing-with-these-5-amazing-apps/"><u>Updated From Zero to Hero Master Lip Syncing with These 5 Amazing Apps</u></a></li>
 </ul></div>
+
 

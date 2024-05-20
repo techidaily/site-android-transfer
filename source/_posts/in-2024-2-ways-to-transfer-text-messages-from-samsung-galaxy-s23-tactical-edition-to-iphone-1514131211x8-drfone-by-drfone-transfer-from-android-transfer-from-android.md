@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S23 Tactical Edition to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:56.748Z
-updated: 2024-05-01T02:24:56.748Z
+date: 2024-05-19T18:55:16.154Z
+updated: 2024-05-20T18:55:16.154Z
 tags: 
   - transfer
 categories:
@@ -477,4 +477,5 @@ In conclusion, there are various methods to transfer videos from Samsung Galaxy 
 <li><a href="https://ai-video-editing.techidaily.com/1713939546012-change-speed-of-a-video-on-iphone/"><u>Change Speed of a Video on iPhone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia 105 Classic | Dr.fone</u></a></li>
 </ul></div>
+
 

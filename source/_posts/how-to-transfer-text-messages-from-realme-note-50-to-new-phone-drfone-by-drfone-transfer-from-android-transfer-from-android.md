@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme Note 50 to New Phone | Dr.fone
-date: 2024-04-30T02:21:24.538Z
-updated: 2024-05-01T02:21:24.538Z
+date: 2024-05-19T18:55:13.579Z
+updated: 2024-05-20T18:55:13.579Z
 tags: 
   - transfer
 categories:
@@ -418,4 +418,5 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 <li><a href="https://howto.techidaily.com/calls-on-oppo-f25-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo F25 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-12-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme 12 5G? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

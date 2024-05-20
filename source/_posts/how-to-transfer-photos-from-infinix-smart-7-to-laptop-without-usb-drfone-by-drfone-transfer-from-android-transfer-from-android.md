@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 7 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:47.669Z
-updated: 2024-05-01T02:17:47.669Z
+date: 2024-05-19T18:55:10.681Z
+updated: 2024-05-20T18:55:10.681Z
 tags: 
   - transfer
 categories:
@@ -558,4 +558,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme C33 2023? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
 </ul></div>
+
 

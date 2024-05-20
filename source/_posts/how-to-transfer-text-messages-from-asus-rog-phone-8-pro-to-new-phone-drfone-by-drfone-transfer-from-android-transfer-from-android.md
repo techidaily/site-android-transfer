@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Asus ROG Phone 8 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:20:43.178Z
-updated: 2024-05-01T02:20:43.178Z
+date: 2024-05-19T18:55:13.109Z
+updated: 2024-05-20T18:55:13.109Z
 tags: 
   - transfer
 categories:
@@ -403,4 +403,5 @@ Transferring data from android to iOS device has been made easier with the Move 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on OnePlus Ace 2? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 13 mini</u></a></li>
 </ul></div>
+
 

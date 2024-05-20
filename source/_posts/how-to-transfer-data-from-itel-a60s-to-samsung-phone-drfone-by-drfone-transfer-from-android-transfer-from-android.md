@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Itel A60s to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.988Z
-updated: 2024-05-01T02:13:26.988Z
+date: 2024-05-19T18:55:06.747Z
+updated: 2024-05-20T18:55:06.747Z
 tags: 
   - transfer
 categories:
@@ -455,4 +455,5 @@ How to Transfer Data from Itel A60s to BlackBerry With 1-Click
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 7 to Android | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-itel-a60-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Itel A60 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

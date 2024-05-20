@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Agni 2 5G to BlackBerry | Dr.fone
-date: 2024-04-30T02:13:27.059Z
-updated: 2024-05-01T02:13:27.059Z
+date: 2024-05-19T18:55:06.812Z
+updated: 2024-05-20T18:55:06.812Z
 tags: 
   - transfer
 categories:
@@ -398,4 +398,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-k70-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi K70 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager on Windows 7</u></a></li>
 </ul></div>
+
 

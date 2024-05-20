@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Sony Xperia 5 V to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:36.714Z
-updated: 2024-05-01T02:29:36.714Z
+date: 2024-05-19T18:55:19.746Z
+updated: 2024-05-20T18:55:19.746Z
 tags: 
   - transfer
 categories:
@@ -571,4 +571,5 @@ Data migration is the least of your concerns when switching to a new smartphone.
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-xr-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone XR Backup Password? Heres What to Do</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-14-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 14 Plus when Phone is Broken? | Dr.fone</u></a></li>
 </ul></div>
+
 

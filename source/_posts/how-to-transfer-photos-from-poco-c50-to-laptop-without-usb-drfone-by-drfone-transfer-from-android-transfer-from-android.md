@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco C50 to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:18:57.818Z
-updated: 2024-05-01T02:18:57.818Z
+date: 2024-05-19T18:55:11.597Z
+updated: 2024-05-20T18:55:11.597Z
 tags: 
   - transfer
 categories:
@@ -521,4 +521,5 @@ When you know how to move music from Poco C50 to iPhone, you can easily make thi
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-90-gt-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor 90 GT to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 15 Pro How to Bypass?</u></a></li>
 </ul></div>
+
 

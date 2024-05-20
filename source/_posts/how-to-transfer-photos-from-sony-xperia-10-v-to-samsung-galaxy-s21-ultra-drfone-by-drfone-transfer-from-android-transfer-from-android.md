@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Sony Xperia 10 V to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:19:42.918Z
-updated: 2024-05-01T02:19:42.918Z
+date: 2024-05-19T18:55:12.288Z
+updated: 2024-05-20T18:55:12.288Z
 tags: 
   - transfer
 categories:
@@ -453,4 +453,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-rotate-iphone-videos-for-free-top-app-choices/"><u>Updated In 2024, How to Rotate iPhone Videos for Free Top App Choices</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

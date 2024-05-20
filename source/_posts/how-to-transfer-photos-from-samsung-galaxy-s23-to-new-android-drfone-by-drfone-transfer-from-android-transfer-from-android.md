@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy S23 to New Android? | Dr.fone
-date: 2024-04-30T02:19:36.075Z
-updated: 2024-05-01T02:19:36.075Z
+date: 2024-05-19T18:55:12.178Z
+updated: 2024-05-20T18:55:12.178Z
 tags: 
   - transfer
 categories:
@@ -463,4 +463,5 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus to an Older iOS Version? | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/in-2024-translate-any-hindi-video-into-english-with-ai/"><u>In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
 </ul></div>
+
 

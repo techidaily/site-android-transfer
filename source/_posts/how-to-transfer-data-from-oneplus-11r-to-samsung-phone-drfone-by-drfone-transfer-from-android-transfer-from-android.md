@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus 11R to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:27.723Z
-updated: 2024-05-01T02:13:27.723Z
+date: 2024-05-19T18:55:07.239Z
+updated: 2024-05-20T18:55:07.239Z
 tags: 
   - transfer
 categories:
@@ -596,4 +596,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On ZTE Blade A73 5G? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/iphone-7-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 7 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
 </ul></div>
+
 

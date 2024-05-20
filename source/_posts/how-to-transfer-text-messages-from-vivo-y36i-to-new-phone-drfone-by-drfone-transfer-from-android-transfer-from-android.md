@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y36i to New Phone | Dr.fone
-date: 2024-04-30T02:21:43.923Z
-updated: 2024-05-01T02:21:43.923Z
+date: 2024-05-19T18:55:13.794Z
+updated: 2024-05-20T18:55:13.794Z
 tags: 
   - transfer
 categories:
@@ -312,4 +312,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-magic-vs-2-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor Magic Vs 2</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

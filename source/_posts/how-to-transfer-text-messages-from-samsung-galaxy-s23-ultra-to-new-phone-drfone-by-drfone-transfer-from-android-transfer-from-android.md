@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy S23 Ultra to New Phone | Dr.fone
-date: 2024-04-30T02:21:29.826Z
-updated: 2024-05-01T02:21:29.826Z
+date: 2024-05-19T18:55:13.667Z
+updated: 2024-05-20T18:55:13.667Z
 tags: 
   - transfer
 categories:
@@ -400,4 +400,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 <li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y77t? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-mix-fold-3-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Mix Fold 3 without App | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Note 30i to New Phone | Dr.fone
-date: 2024-04-30T02:20:53.388Z
-updated: 2024-05-01T02:20:53.388Z
+date: 2024-05-19T18:55:13.231Z
+updated: 2024-05-20T18:55:13.231Z
 tags: 
   - transfer
 categories:
@@ -513,4 +513,5 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 <li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-14-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 14 Pro Max iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-from-beginner-to-pro-the-best-vlog-video-editing-software-for-every-level-for-2024/"><u>Updated From Beginner to Pro The Best Vlog Video Editing Software for Every Level for 2024</u></a></li>
 </ul></div>
+
 

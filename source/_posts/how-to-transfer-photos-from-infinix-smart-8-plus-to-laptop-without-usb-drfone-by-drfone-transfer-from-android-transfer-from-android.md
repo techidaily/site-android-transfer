@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 Plus to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:48.870Z
-updated: 2024-05-01T02:17:48.870Z
+date: 2024-05-19T18:55:10.693Z
+updated: 2024-05-20T18:55:10.693Z
 tags: 
   - transfer
 categories:
@@ -566,4 +566,5 @@ Transferring contacts from one Android to another Android can be done in two bro
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c300-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C300 is off? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

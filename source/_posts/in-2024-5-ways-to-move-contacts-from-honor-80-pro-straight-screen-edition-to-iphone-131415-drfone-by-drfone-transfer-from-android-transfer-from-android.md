@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Honor 80 Pro Straight Screen Edition to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:28:49.248Z
-updated: 2024-05-01T02:28:49.248Z
+date: 2024-05-19T18:55:19.365Z
+updated: 2024-05-20T18:55:19.365Z
 tags: 
   - transfer
 categories:
@@ -461,4 +461,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-slow-down-the-action-free-video-editing-with-filmora/"><u>New 2024 Approved Slow Down the Action Free Video Editing with Filmora</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

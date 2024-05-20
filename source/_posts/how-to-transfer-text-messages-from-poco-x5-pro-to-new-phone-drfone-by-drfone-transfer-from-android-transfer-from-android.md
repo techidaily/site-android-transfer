@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Poco X5 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:21:18.717Z
-updated: 2024-05-01T02:21:18.717Z
+date: 2024-05-19T18:55:13.524Z
+updated: 2024-05-20T18:55:13.524Z
 tags: 
   - transfer
 categories:
@@ -317,4 +317,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-htc-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your HTC</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y78plus-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y78+</u></a></li>
 </ul></div>
+
 

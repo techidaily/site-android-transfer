@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Infinix Smart 8 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:21.863Z
-updated: 2024-05-01T02:24:21.863Z
+date: 2024-05-19T18:55:15.770Z
+updated: 2024-05-20T18:55:15.770Z
 tags: 
   - transfer
 categories:
@@ -459,4 +459,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 5 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-15-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 without Passcode or Face ID | Dr.fone</u></a></li>
 </ul></div>
+
 

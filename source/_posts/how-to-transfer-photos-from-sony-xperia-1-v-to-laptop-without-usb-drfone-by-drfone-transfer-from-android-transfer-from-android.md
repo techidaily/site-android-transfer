@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Sony Xperia 1 V to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:19:41.902Z
-updated: 2024-05-01T02:19:41.902Z
+date: 2024-05-19T18:55:12.265Z
+updated: 2024-05-20T18:55:12.265Z
 tags: 
   - transfer
 categories:
@@ -474,4 +474,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-best-image-jpgpng-to-gif-converters/"><u>In 2024, Best Image (JPG/PNG) to GIF Converters</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-10-cartoon-character-makers-to-create-animated-characters/"><u>Updated 10 Cartoon Character Makers to Create Animated Characters</u></a></li>
 </ul></div>
+
 

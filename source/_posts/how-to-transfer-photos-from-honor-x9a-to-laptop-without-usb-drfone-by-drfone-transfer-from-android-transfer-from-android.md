@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor X9a to Laptop Without USB | Dr.fone
-date: 2024-04-30T02:17:35.801Z
-updated: 2024-05-01T02:17:35.801Z
+date: 2024-05-19T18:55:10.481Z
+updated: 2024-05-20T18:55:10.481Z
 tags: 
   - transfer
 categories:
@@ -458,4 +458,5 @@ Although they work in different operating systems, transferring photos between A
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nubia Z50S Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-12plus-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme 12+ 5G</u></a></li>
 </ul></div>
+
 

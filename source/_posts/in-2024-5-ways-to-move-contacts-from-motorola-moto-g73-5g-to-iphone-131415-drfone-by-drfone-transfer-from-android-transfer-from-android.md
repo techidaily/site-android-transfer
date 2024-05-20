@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Motorola Moto G73 5G to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:07.314Z
-updated: 2024-05-01T02:29:07.314Z
+date: 2024-05-19T18:55:19.510Z
+updated: 2024-05-20T18:55:19.510Z
 tags: 
   - transfer
 categories:
@@ -447,4 +447,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://review-topics.techidaily.com/redmi-note-13-proplus-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Redmi Note 13 Pro+ 5G support - Forgotten screen lock.</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-poco-c65-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Poco C65 Find My Friends No Location Found? | Dr.fone</u></a></li>
 </ul></div>
+
 

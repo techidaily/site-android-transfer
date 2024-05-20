@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Motorola Moto E13 to New Phone | Dr.fone
-date: 2024-04-30T02:21:01.685Z
-updated: 2024-05-01T02:21:01.685Z
+date: 2024-05-19T18:55:13.317Z
+updated: 2024-05-20T18:55:13.317Z
 tags: 
   - transfer
 categories:
@@ -362,4 +362,5 @@ We hope that you learned some of the phone clone methods and applications that y
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-ways-to-make-gif-from-videos-on-mac/"><u>2024 Approved 7 Ways to Make GIF From Videos on Mac</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-poco-c55-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Poco C55 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

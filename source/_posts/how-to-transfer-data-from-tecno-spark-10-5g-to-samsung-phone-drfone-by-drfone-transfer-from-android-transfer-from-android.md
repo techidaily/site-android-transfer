@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:14:55.914Z
-updated: 2024-05-01T02:14:55.914Z
+date: 2024-05-19T18:55:08.496Z
+updated: 2024-05-20T18:55:08.496Z
 tags: 
   - transfer
 categories:
@@ -537,4 +537,5 @@ To summarize, while it may seem troublesome to ****transfer files from Tecno Spa
 <li><a href="https://techidaily.com/hard-resetting-an-htc-u23-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an HTC U23 Pro Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-subtitles-to-mkv-videos-on-all-platforms/"><u>How to Add Subtitles to MKV Videos on All Platforms</u></a></li>
 </ul></div>
+
 

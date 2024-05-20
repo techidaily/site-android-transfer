@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Note 30i to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.906Z
-updated: 2024-05-01T02:13:26.906Z
+date: 2024-05-19T18:55:06.609Z
+updated: 2024-05-20T18:55:06.609Z
 tags: 
   - transfer
 categories:
@@ -558,4 +558,5 @@ To summarize, while it may seem troublesome to ****transfer files from Infinix N
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

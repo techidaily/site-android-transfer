@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus 12 to iPad | Dr.fone
-date: 2024-04-30T02:22:17.798Z
-updated: 2024-05-01T02:22:17.798Z
+date: 2024-05-19T18:55:14.516Z
+updated: 2024-05-20T18:55:14.516Z
 tags: 
   - transfer
 categories:
@@ -489,4 +489,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-mini-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-a23-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy A23 5G Phone that is Locked?</u></a></li>
 </ul></div>
+
 

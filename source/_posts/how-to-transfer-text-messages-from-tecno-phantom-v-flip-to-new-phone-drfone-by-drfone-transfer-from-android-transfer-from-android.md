@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Tecno Phantom V Flip to New Phone | Dr.fone
-date: 2024-04-30T02:21:32.923Z
-updated: 2024-05-01T02:21:32.923Z
+date: 2024-05-19T18:55:13.706Z
+updated: 2024-05-20T18:55:13.706Z
 tags: 
   - transfer
 categories:
@@ -332,4 +332,5 @@ We hope that you learned some of the phone clone methods and applications that y
 <li><a href="https://animation-videos.techidaily.com/new-top-3-ways-to-create-gif-with-great-3d-gif-maker-for-2024/"><u>New Top 3 Ways to Create Gif with Great 3D Gif Maker for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-hot-30i-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Hot 30i Phone</u></a></li>
 </ul></div>
+
 

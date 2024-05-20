@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus Nord N30 SE to iPad | Dr.fone
-date: 2024-04-30T02:22:19.733Z
-updated: 2024-05-01T02:22:19.733Z
+date: 2024-05-19T18:55:14.532Z
+updated: 2024-05-20T18:55:14.532Z
 tags: 
   - transfer
 categories:
@@ -649,4 +649,5 @@ I hope, this article brought you answers to your messages and data transfer quer
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-itel-p55-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel P55 5G Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

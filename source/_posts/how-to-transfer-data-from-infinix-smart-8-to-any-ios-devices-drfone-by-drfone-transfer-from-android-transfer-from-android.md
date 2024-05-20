@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:13:26.938Z
-updated: 2024-05-01T02:13:26.938Z
+date: 2024-05-19T18:55:06.682Z
+updated: 2024-05-20T18:55:06.682Z
 tags: 
   - transfer
 categories:
@@ -536,4 +536,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-edge-40-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Edge 40 to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Smart 7 HD to New Phone | Dr.fone
-date: 2024-04-30T02:20:53.582Z
-updated: 2024-05-01T02:20:53.582Z
+date: 2024-05-19T18:55:13.233Z
+updated: 2024-05-20T18:55:13.233Z
 tags: 
   - transfer
 categories:
@@ -467,4 +467,5 @@ To summarize, while it may seem troublesome to ****transfer files from Infinix S
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On OnePlus 12 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Magic 6 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

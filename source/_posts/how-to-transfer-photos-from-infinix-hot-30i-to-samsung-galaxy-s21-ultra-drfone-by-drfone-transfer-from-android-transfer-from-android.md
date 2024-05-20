@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Hot 30i to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:41.617Z
-updated: 2024-05-01T02:17:41.617Z
+date: 2024-05-19T18:55:10.559Z
+updated: 2024-05-20T18:55:10.559Z
 tags: 
   - transfer
 categories:
@@ -425,4 +425,5 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 <li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 7 Plus Apps to New iPhone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-xs-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone XS Max to Factory Settings? | Dr.fone</u></a></li>
 </ul></div>
+
 

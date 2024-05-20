@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Realme Narzo 60 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:23.547Z
-updated: 2024-05-01T02:21:23.547Z
+date: 2024-05-19T18:55:13.563Z
+updated: 2024-05-20T18:55:13.563Z
 tags: 
   - transfer
 categories:
@@ -472,4 +472,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-gt-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 GT Unlock Without Password</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-13-mini-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 13 mini?</u></a></li>
 </ul></div>
+
 

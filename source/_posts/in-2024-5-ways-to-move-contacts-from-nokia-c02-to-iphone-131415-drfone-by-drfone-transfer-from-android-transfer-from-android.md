@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Nokia C02 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:08.672Z
-updated: 2024-05-01T02:29:08.672Z
+date: 2024-05-19T18:55:19.521Z
+updated: 2024-05-20T18:55:19.521Z
 tags: 
   - transfer
 categories:
@@ -553,4 +553,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-unlimited-access-90-day-free-trial-of-final-cut-pro-inside/"><u>New Unlimited Access 90-Day Free Trial of Final Cut Pro Inside</u></a></li>
 </ul></div>
+
 

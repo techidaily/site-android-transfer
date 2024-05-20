@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo V30 Lite 5G to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:15.574Z
-updated: 2024-05-01T02:15:15.574Z
+date: 2024-05-19T18:55:08.749Z
+updated: 2024-05-20T18:55:08.749Z
 tags: 
   - transfer
 categories:
@@ -486,4 +486,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y78-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y78 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y100-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y100 Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 

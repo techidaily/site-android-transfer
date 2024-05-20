@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Nokia C300 to New Phone | Dr.fone
-date: 2024-04-30T02:21:05.943Z
-updated: 2024-05-01T02:21:05.943Z
+date: 2024-05-19T18:55:13.388Z
+updated: 2024-05-20T18:55:13.388Z
 tags: 
   - transfer
 categories:
@@ -471,4 +471,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A05 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-12-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 12 5G Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

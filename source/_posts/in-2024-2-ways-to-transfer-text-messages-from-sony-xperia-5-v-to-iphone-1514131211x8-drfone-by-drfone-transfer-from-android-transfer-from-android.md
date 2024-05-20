@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Sony Xperia 5 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:59.451Z
-updated: 2024-05-01T02:24:59.451Z
+date: 2024-05-19T18:55:16.198Z
+updated: 2024-05-20T18:55:16.198Z
 tags: 
   - transfer
 categories:
@@ -438,4 +438,5 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 8 Plus Without Passcode Easily</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-13-mini-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 13 mini? 5 Tips You Must Know</u></a></li>
 </ul></div>
+
 

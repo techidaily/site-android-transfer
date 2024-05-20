@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Oppo K11x to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:38.388Z
-updated: 2024-05-01T02:13:38.388Z
+date: 2024-05-19T18:55:07.541Z
+updated: 2024-05-20T18:55:07.541Z
 tags: 
   - transfer
 categories:
@@ -492,4 +492,5 @@ How to Transfer Data from Oppo K11x to BlackBerry With 1-Click
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone X</u></a></li>
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-x50i-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor X50i on Mac</u></a></li>
 </ul></div>
+
 

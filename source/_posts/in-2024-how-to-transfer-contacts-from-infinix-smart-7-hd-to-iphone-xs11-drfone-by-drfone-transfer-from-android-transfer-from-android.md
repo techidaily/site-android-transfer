@@ -411,3 +411,4 @@ Truly, it’s now very easy to move contacts from Infinix Smart 7 HD to iPhone (
      data-full-width-responsive="true"></ins>
 
 
+

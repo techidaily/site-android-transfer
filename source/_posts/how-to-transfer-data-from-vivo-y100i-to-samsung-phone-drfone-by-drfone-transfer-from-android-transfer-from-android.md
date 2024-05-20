@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y100i to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:26.075Z
-updated: 2024-05-01T02:15:26.075Z
+date: 2024-05-19T18:55:08.872Z
+updated: 2024-05-20T18:55:08.872Z
 tags: 
   - transfer
 categories:
@@ -497,4 +497,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-k11x-by-fonelab-android-recover-video/"><u>How to recover old videos from your K11x</u></a></li>
 </ul></div>
+
 

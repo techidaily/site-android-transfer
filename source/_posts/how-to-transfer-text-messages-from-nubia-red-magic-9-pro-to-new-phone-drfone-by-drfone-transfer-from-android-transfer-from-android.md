@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Nubia Red Magic 9 Pro to New Phone | Dr.fone
-date: 2024-04-30T02:21:07.490Z
-updated: 2024-05-01T02:21:07.490Z
+date: 2024-05-19T18:55:13.398Z
+updated: 2024-05-20T18:55:13.398Z
 tags: 
   - transfer
 categories:
@@ -268,4 +268,5 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nokia-c12-plus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Nokia C12 Plus.</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-10-creative-wallpaper-collage-ideas-and-photos-for-2024/"><u>Updated 10 Creative Wallpaper Collage Ideas and Photos for 2024</u></a></li>
 </ul></div>
+
 

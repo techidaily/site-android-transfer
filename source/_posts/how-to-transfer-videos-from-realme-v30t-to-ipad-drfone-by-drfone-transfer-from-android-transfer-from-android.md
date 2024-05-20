@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Realme V30T to iPad | Dr.fone
-date: 2024-04-30T02:22:33.933Z
-updated: 2024-05-01T02:22:33.933Z
+date: 2024-05-19T18:55:14.646Z
+updated: 2024-05-20T18:55:14.646Z
 tags: 
   - transfer
 categories:
@@ -565,4 +565,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme 11X 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-6s-plus-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 6s Plus to Chromecast? | Dr.fone</u></a></li>
 </ul></div>
+
 

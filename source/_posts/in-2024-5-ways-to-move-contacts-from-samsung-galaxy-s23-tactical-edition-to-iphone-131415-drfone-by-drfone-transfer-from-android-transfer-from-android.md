@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Samsung Galaxy S23 Tactical Edition to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:34.000Z
-updated: 2024-05-01T02:29:34.000Z
+date: 2024-05-19T18:55:19.729Z
+updated: 2024-05-20T18:55:19.729Z
 tags: 
   - transfer
 categories:
@@ -554,4 +554,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-htc-u23-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From HTC U23 Pro to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-merge-flv-files-windows-macandroid-iphone-and-online/"><u>New In 2024, How to Merge FLV Files Windows, Mac，Android, iPhone & Online</u></a></li>
 </ul></div>
+
 

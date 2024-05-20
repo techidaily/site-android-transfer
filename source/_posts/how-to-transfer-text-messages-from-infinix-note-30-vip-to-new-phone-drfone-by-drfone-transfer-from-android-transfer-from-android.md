@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Note 30 VIP to New Phone | Dr.fone
-date: 2024-04-30T02:20:53.196Z
-updated: 2024-05-01T02:20:53.196Z
+date: 2024-05-19T18:55:13.230Z
+updated: 2024-05-20T18:55:13.230Z
 tags: 
   - transfer
 categories:
@@ -438,4 +438,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-mpeg-video-union-top-5-recommended-tools/"><u>New Free MPEG Video Union Top 5 Recommended Tools</u></a></li>
 </ul></div>
+
 

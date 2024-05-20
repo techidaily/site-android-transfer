@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo V30 Lite 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:39.440Z
-updated: 2024-05-01T02:21:39.440Z
+date: 2024-05-19T18:55:13.758Z
+updated: 2024-05-20T18:55:13.758Z
 tags: 
   - transfer
 categories:
@@ -379,4 +379,5 @@ How to Transfer Data from Vivo V30 Lite 5G to BlackBerry With 1-Click
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-infinix-smart-8-by-fonelab-android-recover-video/"><u>How to recover old videos from your Infinix Smart 8</u></a></li>
 </ul></div>
+
 

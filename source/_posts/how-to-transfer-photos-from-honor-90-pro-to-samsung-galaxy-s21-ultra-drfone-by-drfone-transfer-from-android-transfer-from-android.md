@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Honor 90 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:23.640Z
-updated: 2024-05-01T02:17:23.640Z
+date: 2024-05-19T18:55:10.344Z
+updated: 2024-05-20T18:55:10.344Z
 tags: 
   - transfer
 categories:
@@ -368,4 +368,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia G42 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-pro-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro 5G Bootloader Easily</u></a></li>
 </ul></div>
+
 

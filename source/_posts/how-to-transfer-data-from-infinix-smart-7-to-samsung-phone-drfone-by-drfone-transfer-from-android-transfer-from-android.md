@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 7 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.917Z
-updated: 2024-05-01T02:13:26.918Z
+date: 2024-05-19T18:55:06.621Z
+updated: 2024-05-20T18:55:06.621Z
 tags: 
   - transfer
 categories:
@@ -468,4 +468,5 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-oneplus-nord-3-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your OnePlus Nord 3 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

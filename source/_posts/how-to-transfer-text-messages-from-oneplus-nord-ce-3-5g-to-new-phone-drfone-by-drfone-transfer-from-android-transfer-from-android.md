@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from OnePlus Nord CE 3 5G to New Phone | Dr.fone
-date: 2024-04-30T02:21:10.150Z
-updated: 2024-05-01T02:21:10.150Z
+date: 2024-05-19T18:55:13.453Z
+updated: 2024-05-20T18:55:13.453Z
 tags: 
   - transfer
 categories:
@@ -440,4 +440,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://howto.techidaily.com/best-methods-for-vivo-x100-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo X100 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-10-options-beyond-movie-maker/"><u>Free Video Editing Software 10 Options Beyond Movie Maker</u></a></li>
 </ul></div>
+
 

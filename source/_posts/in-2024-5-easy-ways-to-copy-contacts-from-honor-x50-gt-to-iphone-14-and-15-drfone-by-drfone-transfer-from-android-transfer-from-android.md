@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Honor X50 GT to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:26:34.430Z
-updated: 2024-05-01T02:26:34.430Z
+date: 2024-05-19T18:55:17.270Z
+updated: 2024-05-20T18:55:17.270Z
 tags: 
   - transfer
 categories:
@@ -514,4 +514,5 @@ At last, we hope that you now know how to transfer music from Honor X50 GT to Ot
 <li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-10t-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme 10T 5G Phone Now with These Tips</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

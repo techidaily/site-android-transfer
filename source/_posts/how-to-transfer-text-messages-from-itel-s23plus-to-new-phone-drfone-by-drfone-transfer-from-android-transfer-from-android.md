@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Itel S23+ to New Phone | Dr.fone
-date: 2024-04-30T02:20:57.373Z
-updated: 2024-05-01T02:20:57.373Z
+date: 2024-05-19T18:55:13.273Z
+updated: 2024-05-20T18:55:13.273Z
 tags: 
   - transfer
 categories:
@@ -492,4 +492,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Fingerprint Lock</u></a></li>
 </ul></div>
+
 

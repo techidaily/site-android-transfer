@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y100 to Samsung Phone | Dr.fone
-date: 2024-04-30T02:15:23.594Z
-updated: 2024-05-01T02:15:23.594Z
+date: 2024-05-19T18:55:08.853Z
+updated: 2024-05-20T18:55:08.853Z
 tags: 
   - transfer
 categories:
@@ -375,4 +375,5 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-m6-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco M6 5G Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Tecno Spark 10C to Latest Samsung | Dr.fone
-date: 2024-04-30T02:13:26.335Z
-updated: 2024-05-01T02:13:26.335Z
+date: 2024-05-19T18:55:06.072Z
+updated: 2024-05-20T18:55:06.072Z
 tags: 
   - transfer
 categories:
@@ -450,4 +450,5 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-11x-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, 5 Techniques to Transfer Data from Realme 11X 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-s23-fe-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy S23 FE to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

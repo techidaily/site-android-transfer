@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo Y100i Power 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:20:13.166Z
-updated: 2024-05-01T02:20:13.166Z
+date: 2024-05-19T18:55:12.720Z
+updated: 2024-05-20T18:55:12.720Z
 tags: 
   - transfer
 categories:
@@ -452,4 +452,5 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 <li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Lenovo ThinkPhone | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia C210? | Dr.fone</u></a></li>
 </ul></div>
+
 

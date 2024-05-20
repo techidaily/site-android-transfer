@@ -475,3 +475,4 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lava-yuva-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lava Yuva 2 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

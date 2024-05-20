@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Lava Blaze 2 to New Phone | Dr.fone
-date: 2024-04-30T02:20:58.144Z
-updated: 2024-05-01T02:20:58.144Z
+date: 2024-05-19T18:55:13.285Z
+updated: 2024-05-20T18:55:13.285Z
 tags: 
   - transfer
 categories:
@@ -343,4 +343,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Android/iOS? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-ultimate-guide-to-b2b-video-marketing/"><u>New 2024 Approved The Ultimate Guide to B2B Video Marketing</u></a></li>
 </ul></div>
+
 

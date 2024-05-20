@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia C12 to New Android? | Dr.fone
-date: 2024-04-30T02:18:23.045Z
-updated: 2024-05-01T02:18:23.045Z
+date: 2024-05-19T18:55:11.107Z
+updated: 2024-05-20T18:55:11.107Z
 tags: 
   - transfer
 categories:
@@ -384,4 +384,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-hot-40-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Hot 40</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-vlc-media-player-how-to-merge-audio-and-video-like-a-pro/"><u>Updated In 2024, VLC Media Player How to Merge Audio and Video Like a Pro</u></a></li>
 </ul></div>
+
 

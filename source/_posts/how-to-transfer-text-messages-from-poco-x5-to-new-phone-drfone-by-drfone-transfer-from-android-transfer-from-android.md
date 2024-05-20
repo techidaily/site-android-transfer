@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Poco X5 to New Phone | Dr.fone
-date: 2024-04-30T02:21:18.910Z
-updated: 2024-05-01T02:21:18.910Z
+date: 2024-05-19T18:55:13.525Z
+updated: 2024-05-20T18:55:13.525Z
 tags: 
   - transfer
 categories:
@@ -333,4 +333,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://screen-mirror.techidaily.com/how-honor-x50-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X50 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

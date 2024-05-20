@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Infinix Note 30 Data? | Dr.fone
-date: 2024-04-30T02:23:10.843Z
-updated: 2024-05-01T02:23:10.843Z
+date: 2024-05-19T18:55:15.064Z
+updated: 2024-05-20T18:55:15.064Z
 tags: 
   - transfer
 categories:
@@ -425,4 +425,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-6s-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 6s Plus has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
+
 

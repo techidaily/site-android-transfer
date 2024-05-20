@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Nokia 150 (2023) to New Phone | Dr.fone
-date: 2024-04-30T02:21:04.400Z
-updated: 2024-05-01T02:21:04.400Z
+date: 2024-05-19T18:55:13.338Z
+updated: 2024-05-20T18:55:13.338Z
 tags: 
   - transfer
 categories:
@@ -315,4 +315,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-c51-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme C51 Screen Not Working | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-from-novice-to-pro-finding-the-ideal-flac-converter-for-you-for-2024/"><u>Updated From Novice to Pro Finding the Ideal FLAC Converter for You for 2024</u></a></li>
 </ul></div>
+
 

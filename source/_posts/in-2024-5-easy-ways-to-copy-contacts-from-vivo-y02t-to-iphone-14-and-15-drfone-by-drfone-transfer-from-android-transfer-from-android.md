@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Vivo Y02T to iPhone 14 and 15 | Dr.fone
-date: 2024-04-30T02:27:26.905Z
-updated: 2024-05-01T02:27:26.905Z
+date: 2024-05-19T18:55:18.000Z
+updated: 2024-05-20T18:55:18.000Z
 tags: 
   - transfer
 categories:
@@ -537,4 +537,5 @@ In conclusion, there are various methods to transfer videos from Vivo Y02T to iP
 <li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-c50-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco C50 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 12 mini? | Dr.fone</u></a></li>
 </ul></div>
+
 

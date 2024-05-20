@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Realme Narzo 60x 5G to iPad | Dr.fone
-date: 2024-04-30T02:22:32.965Z
-updated: 2024-05-01T02:22:32.965Z
+date: 2024-05-19T18:55:14.638Z
+updated: 2024-05-20T18:55:14.638Z
 tags: 
   - transfer
 categories:
@@ -563,4 +563,5 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-s23-ultra-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy S23 Ultra is off? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-a58-4g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo A58 4G Is Unlocked</u></a></li>
 </ul></div>
+
 

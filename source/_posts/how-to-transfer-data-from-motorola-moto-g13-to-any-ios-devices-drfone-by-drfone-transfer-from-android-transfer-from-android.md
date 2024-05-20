@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G13 to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:13:27.337Z
-updated: 2024-05-01T02:13:27.337Z
+date: 2024-05-19T18:55:06.998Z
+updated: 2024-05-20T18:55:06.998Z
 tags: 
   - transfer
 categories:
@@ -604,4 +604,5 @@ Thus, after going through the article, we are sure that you have a wide range of
 <li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-11-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 11 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-xcover-6-pro-tactical-edition-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy XCover 6 Pro Tactical Edition for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

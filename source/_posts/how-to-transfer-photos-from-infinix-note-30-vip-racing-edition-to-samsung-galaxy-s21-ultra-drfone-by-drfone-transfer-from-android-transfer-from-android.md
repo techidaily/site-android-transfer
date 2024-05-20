@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Note 30 VIP Racing Edition to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:17:45.722Z
-updated: 2024-05-01T02:17:45.722Z
+date: 2024-05-19T18:55:10.630Z
+updated: 2024-05-20T18:55:10.630Z
 tags: 
   - transfer
 categories:
@@ -389,4 +389,5 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 <li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
 </ul></div>
+
 

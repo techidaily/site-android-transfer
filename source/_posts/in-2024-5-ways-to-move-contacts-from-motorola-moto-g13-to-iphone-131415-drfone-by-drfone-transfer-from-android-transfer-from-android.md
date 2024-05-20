@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Motorola Moto G13 to iPhone (13/14/15) | Dr.fone
-date: 2024-04-30T02:29:06.319Z
-updated: 2024-05-01T02:29:06.319Z
+date: 2024-05-19T18:55:19.505Z
+updated: 2024-05-20T18:55:19.505Z
 tags: 
   - transfer
 categories:
@@ -515,4 +515,5 @@ When you know how to move music from Motorola Moto G13 to iPhone, you can easily
 <li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-moto-g34-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola Moto G34 5G Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo Y200 to iPad | Dr.fone
-date: 2024-04-30T02:22:51.676Z
-updated: 2024-05-01T02:22:51.676Z
+date: 2024-05-19T18:55:14.859Z
+updated: 2024-05-20T18:55:14.859Z
 tags: 
   - transfer
 categories:
@@ -483,4 +483,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-8-plus-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 8 Plus to your Windows PC | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 Pro Max to Use USB Accessories Without Passcode</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco C65 to New Android? | Dr.fone
-date: 2024-04-30T02:18:59.755Z
-updated: 2024-05-01T02:18:59.755Z
+date: 2024-05-19T18:55:11.614Z
+updated: 2024-05-20T18:55:11.614Z
 tags: 
   - transfer
 categories:
@@ -484,4 +484,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nubia Z50S Pro? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-a2-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo A2 Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

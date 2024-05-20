@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Agni 2 5G to Any iOS Devices | Dr.fone
-date: 2024-04-30T02:13:27.058Z
-updated: 2024-05-01T02:13:27.058Z
+date: 2024-05-19T18:55:06.810Z
+updated: 2024-05-20T18:55:06.810Z
 tags: 
   - transfer
 categories:
@@ -582,4 +582,5 @@ Truly, it’s now very easy to move contacts from Lava Agni 2 5G to iPhone (13/1
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-6s-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 6s Plus without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-huawei-nova-y91-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Huawei Nova Y91 Device</u></a></li>
 </ul></div>
+
 

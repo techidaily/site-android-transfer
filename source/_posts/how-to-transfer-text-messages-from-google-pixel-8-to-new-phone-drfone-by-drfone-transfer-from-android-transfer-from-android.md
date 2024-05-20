@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Google Pixel 8 to New Phone | Dr.fone
-date: 2024-04-30T02:20:44.256Z
-updated: 2024-05-01T02:20:44.256Z
+date: 2024-05-19T18:55:13.116Z
+updated: 2024-05-20T18:55:13.116Z
 tags: 
   - transfer
 categories:
@@ -412,4 +412,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-civi-3-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Civi 3 Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo V27 Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

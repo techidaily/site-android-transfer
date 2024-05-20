@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo Y77t to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:20:21.472Z
-updated: 2024-05-01T02:20:21.472Z
+date: 2024-05-19T18:55:12.867Z
+updated: 2024-05-20T18:55:12.867Z
 tags: 
   - transfer
 categories:
@@ -678,4 +678,5 @@ After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the mo
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Huawei Nova Y91? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-gt-5-pro-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme GT 5 Pro</u></a></li>
 </ul></div>
+
 

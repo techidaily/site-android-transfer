@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S23+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-30T02:24:57.327Z
-updated: 2024-05-01T02:24:57.327Z
+date: 2024-05-19T18:55:16.158Z
+updated: 2024-05-20T18:55:16.158Z
 tags: 
   - transfer
 categories:
@@ -480,4 +480,5 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone SE (2022) | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-10-cartoon-photo-converters/"><u>Updated 2024 Approved 10 Cartoon Photo Converters</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Poco C50 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-04-30T02:18:58.206Z
-updated: 2024-05-01T02:18:58.206Z
+date: 2024-05-19T18:55:11.601Z
+updated: 2024-05-20T18:55:11.601Z
 tags: 
   - transfer
 categories:
@@ -477,4 +477,5 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 <li><a href="https://animation-videos.techidaily.com/new-why-these-10-top-text-motion-templates-are-worth-your-attention-for-2024/"><u>New Why These 10 Top Text Motion Templates Are Worth Your Attention for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6? | Dr.fone</u></a></li>
 </ul></div>
+
 

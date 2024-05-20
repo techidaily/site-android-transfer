@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco C50 to New Android? | Dr.fone
-date: 2024-04-30T02:18:58.011Z
-updated: 2024-05-01T02:18:58.011Z
+date: 2024-05-19T18:55:11.599Z
+updated: 2024-05-20T18:55:11.599Z
 tags: 
   - transfer
 categories:
@@ -486,4 +486,5 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s23-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S23 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-pop-7-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Pop 7 Pro PC | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix Smart 8 Pro to Samsung Phone | Dr.fone
-date: 2024-04-30T02:13:26.936Z
-updated: 2024-05-01T02:13:26.936Z
+date: 2024-05-19T18:55:06.680Z
+updated: 2024-05-20T18:55:06.680Z
 tags: 
   - transfer
 categories:
@@ -402,4 +402,5 @@ As you can see, the manual phone migration method will consume a lot of time and
 <li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Lava Blaze 2 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-11-proplus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme 11 Pro+ Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

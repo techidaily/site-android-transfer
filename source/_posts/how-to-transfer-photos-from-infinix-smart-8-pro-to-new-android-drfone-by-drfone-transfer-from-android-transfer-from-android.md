@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 Pro to New Android? | Dr.fone
-date: 2024-04-30T02:17:49.653Z
-updated: 2024-05-01T02:17:49.653Z
+date: 2024-05-19T18:55:10.701Z
+updated: 2024-05-20T18:55:10.701Z
 tags: 
   - transfer
 categories:
@@ -437,4 +437,5 @@ In a nutshell, you can transfer the applications from your old Android device to
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Asus ROG Phone 8 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y36i to Other Android Devices? | Dr.fone
-date: 2024-04-30T02:15:33.761Z
-updated: 2024-05-01T02:15:33.761Z
+date: 2024-05-19T18:55:08.961Z
+updated: 2024-05-20T18:55:08.961Z
 tags: 
   - transfer
 categories:
@@ -460,4 +460,5 @@ Thus, these were the four best options that you can use to transfer contacts fro
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to others devices? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/motorola-razr-40-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
+
 
