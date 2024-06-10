@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Itel A60s to New Android? | Dr.fone
-date: 2024-05-19T18:55:10.790Z
-updated: 2024-05-20T18:55:10.790Z
+date: 2024-06-09T02:19:51.543Z
+updated: 2024-06-10T02:19:51.543Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Itel A60s to New Android?
 excerpt: This article describes How to Transfer Photos from Itel A60s to New Android?
 keywords: transfer from Itel A60s to iphone,transfer from Itel A60s to mac,transfer from Itel A60s to pc,transfer from android to iphone,transfer from Itel A60s to ipad,transfer from Itel A60s to android,transfer from android to pc,transfer from android to mac,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## How to Transfer Photos from Itel A60s to New Android?

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy A23 5G to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:55:12.020Z
-updated: 2024-05-20T18:55:12.020Z
+date: 2024-06-09T02:22:03.960Z
+updated: 2024-06-10T02:22:03.960Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Samsung Galaxy A23 5G to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Samsung Galaxy A23 5G to Laptop Without USB
 keywords: transfer from android to ipad,transfer from Samsung Galaxy A23 5G to mac,transfer from Samsung Galaxy A23 5G to android,transfer from android to pc,transfer from android to mac,transfer from Samsung Galaxy A23 5G to iphone,transfer from Samsung Galaxy A23 5G to pc,transfer from Samsung Galaxy A23 5G to ipad,transfer from android to iphone,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## How to Transfer Photos from Samsung Galaxy A23 5G to Laptop Without USB

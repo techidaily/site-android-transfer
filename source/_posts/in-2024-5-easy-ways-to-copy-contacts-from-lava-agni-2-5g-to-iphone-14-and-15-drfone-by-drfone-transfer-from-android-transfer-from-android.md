@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Lava Agni 2 5G to iPhone 14 and 15 | Dr.fone
-date: 2024-05-19T18:55:17.338Z
-updated: 2024-05-20T18:55:17.338Z
+date: 2024-06-09T02:19:49.565Z
+updated: 2024-06-10T02:19:49.565Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Lava Agni 2 5G to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Lava Agni 2 5G to iPhone 14 and 15
 keywords: transfer from android to mac,transfer from Lava Agni 2 5G to android,transfer from Lava Agni 2 5G to ipad,transfer from Lava Agni 2 5G to mac,transfer from android to iphone,transfer from android to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## 5 Easy Ways to Copy Contacts from Lava Agni 2 5G to iPhone 14 and 15

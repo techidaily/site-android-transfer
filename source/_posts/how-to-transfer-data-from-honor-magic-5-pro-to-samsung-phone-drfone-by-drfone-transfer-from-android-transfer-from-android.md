@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor Magic 5 Pro to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:06.367Z
-updated: 2024-05-20T18:55:06.367Z
+date: 2024-06-09T02:20:28.893Z
+updated: 2024-06-10T02:20:28.893Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Honor Magic 5 Pro to Samsung Phone
 excerpt: This article describes How to Transfer Data from Honor Magic 5 Pro to Samsung Phone
 keywords: transfer from android to ipad,transfer from android to pc,transfer from android to mac,transfer from android to android,transfer from android to iphone,transfer from Honor Magic 5 Pro to mac,transfer from Honor Magic 5 Pro to android,transfer from Honor Magic 5 Pro to pc,transfer from Honor Magic 5 Pro to iphone
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## How to Transfer Data from Honor Magic 5 Pro to Samsung Phone

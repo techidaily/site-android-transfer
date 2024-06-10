@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Honor X7b to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:56.126Z
-updated: 2024-05-20T18:55:56.126Z
+date: 2024-06-09T02:19:28.978Z
+updated: 2024-06-10T02:19:28.978Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Honor X7b to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Honor X7b to Samsung Galaxy S21 Ultra
 keywords: transfer from Honor X7b to mac,transfer from android to android,transfer from android to iphone,transfer from Honor X7b to android,transfer from android to mac,transfer from Honor X7b to ipad,transfer from Honor X7b to pc
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## How to Transfer Photos From Honor X7b to Samsung Galaxy S21 Ultra

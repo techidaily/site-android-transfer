@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Infinix Smart 7 HD to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-05-19T18:55:15.722Z
-updated: 2024-05-20T18:55:15.722Z
+date: 2024-06-09T02:21:03.735Z
+updated: 2024-06-10T02:21:03.735Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 2 Ways to Transfer Text Messages from Infinix Smart 7 HD to iPhone 15/14/13/12/11/X/8/
 excerpt: This article describes 2 Ways to Transfer Text Messages from Infinix Smart 7 HD to iPhone 15/14/13/12/11/X/8/
 keywords: transfer from android to android,transfer from Infinix Smart 7 HD to android,transfer from Infinix Smart 7 HD to iphone,transfer from android to iphone,transfer from Infinix Smart 7 HD to ipad,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## 2 Ways to Transfer Text Messages from Infinix Smart 7 HD to iPhone 15/14/13/12/11/X/8/

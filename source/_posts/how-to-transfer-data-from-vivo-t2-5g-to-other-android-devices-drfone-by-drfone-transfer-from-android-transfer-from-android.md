@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo T2 5G to Other Android Devices? | Dr.fone
-date: 2024-05-19T18:55:08.655Z
-updated: 2024-05-20T18:55:08.655Z
+date: 2024-06-09T02:20:17.541Z
+updated: 2024-06-10T02:20:17.541Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo T2 5G to Other Android Devices?
 excerpt: This article describes How to Transfer Data from Vivo T2 5G to Other Android Devices?
 keywords: transfer from android to mac,transfer from Vivo T2 5G to ipad,transfer from Vivo T2 5G to android,transfer from android to iphone,transfer from Vivo T2 5G to pc,transfer from Vivo T2 5G to mac,transfer from android to ipad,transfer from android to android,transfer from android to pc,transfer from Vivo T2 5G to iphone
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## How to Transfer Data from Vivo T2 5G to Other Android Devices?

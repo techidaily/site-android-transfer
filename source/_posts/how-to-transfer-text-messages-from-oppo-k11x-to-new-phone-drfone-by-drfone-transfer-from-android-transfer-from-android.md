@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Oppo K11x to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.495Z
-updated: 2024-05-20T18:55:13.495Z
+date: 2024-06-09T02:21:33.994Z
+updated: 2024-06-10T02:21:33.994Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Oppo K11x to New Phone
 excerpt: This article describes How to Transfer Text Messages from Oppo K11x to New Phone
 keywords: transfer from Oppo K11x to mac,transfer from Oppo K11x to iphone,transfer from Oppo K11x to pc,transfer from Oppo K11x to android,transfer from android to pc,transfer from android to mac,transfer from Oppo K11x to ipad,transfer from android to ipad,transfer from android to iphone,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## How to Transfer Text Messages from Oppo K11x to New Phone

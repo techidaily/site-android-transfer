@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y27 5G to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:08.934Z
-updated: 2024-05-20T18:55:08.934Z
+date: 2024-06-09T02:19:50.573Z
+updated: 2024-06-10T02:19:50.573Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo Y27 5G to BlackBerry
 excerpt: This article describes How to Transfer Data from Vivo Y27 5G to BlackBerry
 keywords: transfer from android to mac,transfer from android to android,transfer from android to ipad,transfer from Vivo Y27 5G to ipad,transfer from Vivo Y27 5G to iphone,transfer from Vivo Y27 5G to android,transfer from android to iphone,transfer from android to pc,transfer from Vivo Y27 5G to pc
-thumbnail: https://www.lifewire.com/thmb/dUcMAT1_0DCxV5hsu63as34-gjs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coverjointwitter-6f13b51d1be04d8bb3f5221ef5a057c7.jpg
+thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b157cf1a2528e89d05cbc2979.jpg
 ---
 
 ## How to Transfer Data from Vivo Y27 5G to BlackBerry

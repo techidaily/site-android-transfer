@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y27 5G to Other Android Devices? | Dr.fone
-date: 2024-05-19T18:55:08.935Z
-updated: 2024-05-20T18:55:08.935Z
+date: 2024-06-09T02:19:29.005Z
+updated: 2024-06-10T02:19:29.005Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo Y27 5G to Other Android Devices?
 excerpt: This article describes How to Transfer Data from Vivo Y27 5G to Other Android Devices?
 keywords: transfer from android to pc,transfer from android to iphone,transfer from Vivo Y27 5G to android,transfer from android to android,transfer from Vivo Y27 5G to mac,transfer from Vivo Y27 5G to ipad,transfer from Vivo Y27 5G to pc,transfer from android to mac,transfer from android to ipad,transfer from Vivo Y27 5G to iphone
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## How to Transfer Data from Vivo Y27 5G to Other Android Devices?

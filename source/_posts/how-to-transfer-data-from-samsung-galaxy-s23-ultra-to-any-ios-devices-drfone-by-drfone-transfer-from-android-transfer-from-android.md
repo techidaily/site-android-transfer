@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Samsung Galaxy S23 Ultra to Any iOS Devices | Dr.fone
-date: 2024-05-19T18:55:08.249Z
-updated: 2024-05-20T18:55:08.249Z
+date: 2024-06-09T02:20:29.923Z
+updated: 2024-06-10T02:20:29.923Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Samsung Galaxy S23 Ultra to Any iOS Devices
 excerpt: This article describes How to Transfer Data from Samsung Galaxy S23 Ultra to Any iOS Devices
 keywords: transfer from Samsung Galaxy S23 Ultra to android,transfer from android to ipad,transfer from android to iphone,transfer from android to android,transfer from Samsung Galaxy S23 Ultra to ipad,transfer from android to mac,transfer from Samsung Galaxy S23 Ultra to mac,transfer from Samsung Galaxy S23 Ultra to iphone,transfer from android to pc,transfer from Samsung Galaxy S23 Ultra to pc
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## How to Transfer Data from Samsung Galaxy S23 Ultra to Any iOS Devices

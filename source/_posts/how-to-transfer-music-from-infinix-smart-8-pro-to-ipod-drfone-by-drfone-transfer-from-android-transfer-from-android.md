@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Music from Infinix Smart 8 Pro to iPod | Dr.fone
-date: 2024-05-19T18:55:09.691Z
-updated: 2024-05-20T18:55:09.691Z
+date: 2024-06-09T02:22:05.904Z
+updated: 2024-06-10T02:22:05.904Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Music from Infinix Smart 8 Pro to iPod
 excerpt: This article describes How to Transfer Music from Infinix Smart 8 Pro to iPod
 keywords: transfer from android to pc,transfer from Infinix Smart 8 Pro to iphone,transfer from Infinix Smart 8 Pro to ipad,transfer from Infinix Smart 8 Pro to pc,transfer from android to mac,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## How to Transfer Music from Infinix Smart 8 Pro to iPod

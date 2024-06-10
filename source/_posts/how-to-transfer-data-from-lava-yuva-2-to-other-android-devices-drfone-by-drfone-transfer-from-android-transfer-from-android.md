@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 2 to Other Android Devices? | Dr.fone
-date: 2024-05-19T18:55:06.863Z
-updated: 2024-05-20T18:55:06.863Z
+date: 2024-06-09T02:22:07.329Z
+updated: 2024-06-10T02:22:07.329Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Lava Yuva 2 to Other Android Devices?
 excerpt: This article describes How to Transfer Data from Lava Yuva 2 to Other Android Devices?
 keywords: transfer from android to android,transfer from android to pc,transfer from Lava Yuva 2 to ipad,transfer from Lava Yuva 2 to pc,transfer from Lava Yuva 2 to mac,transfer from android to iphone,transfer from android to ipad,transfer from Lava Yuva 2 to android,transfer from android to mac,transfer from Lava Yuva 2 to iphone
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## How to Transfer Data from Lava Yuva 2 to Other Android Devices?

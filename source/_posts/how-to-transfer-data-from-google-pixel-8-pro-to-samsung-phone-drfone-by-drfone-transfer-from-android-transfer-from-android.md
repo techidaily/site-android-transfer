@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 Pro to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:06.296Z
-updated: 2024-05-20T18:55:06.296Z
+date: 2024-06-09T02:19:41.731Z
+updated: 2024-06-10T02:19:41.731Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Google Pixel 8 Pro to Samsung Phone
 excerpt: This article describes How to Transfer Data from Google Pixel 8 Pro to Samsung Phone
 keywords: transfer from Google Pixel 8 Pro to android,transfer from Google Pixel 8 Pro to mac,transfer from android to mac,transfer from Google Pixel 8 Pro to pc,transfer from android to pc,transfer from android to iphone,transfer from Google Pixel 8 Pro to iphone,transfer from Google Pixel 8 Pro to ipad
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## How to Transfer Data from Google Pixel 8 Pro to Samsung Phone

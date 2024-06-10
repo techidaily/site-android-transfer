@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo S18 Pro to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:08.613Z
-updated: 2024-05-20T18:55:08.613Z
+date: 2024-06-09T02:20:26.813Z
+updated: 2024-06-10T02:20:26.813Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo S18 Pro to Samsung Phone
 excerpt: This article describes How to Transfer Data from Vivo S18 Pro to Samsung Phone
 keywords: transfer from android to android,transfer from android to mac,transfer from Vivo S18 Pro to android,transfer from Vivo S18 Pro to pc,transfer from android to ipad,transfer from Vivo S18 Pro to iphone,transfer from Vivo S18 Pro to ipad
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## How to Transfer Data from Vivo S18 Pro to Samsung Phone

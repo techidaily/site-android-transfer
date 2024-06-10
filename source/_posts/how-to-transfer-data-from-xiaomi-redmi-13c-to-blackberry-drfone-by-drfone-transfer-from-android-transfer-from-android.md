@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Xiaomi Redmi 13C to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:09.410Z
-updated: 2024-05-20T18:55:09.410Z
+date: 2024-06-09T02:19:49.492Z
+updated: 2024-06-10T02:19:49.492Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Xiaomi Redmi 13C to BlackBerry
 excerpt: This article describes How to Transfer Data from Xiaomi Redmi 13C to BlackBerry
 keywords: transfer from Xiaomi Redmi 13C to pc,transfer from Xiaomi Redmi 13C to iphone,transfer from Xiaomi Redmi 13C to ipad,transfer from android to android,transfer from android to ipad,transfer from android to mac,transfer from Xiaomi Redmi 13C to mac,transfer from android to pc,transfer from Xiaomi Redmi 13C to android
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## How to Transfer Data from Xiaomi Redmi 13C to BlackBerry

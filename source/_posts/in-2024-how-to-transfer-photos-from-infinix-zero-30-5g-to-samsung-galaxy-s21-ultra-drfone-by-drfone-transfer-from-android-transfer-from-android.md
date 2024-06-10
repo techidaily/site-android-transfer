@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Infinix Zero 30 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:56:18.285Z
-updated: 2024-05-20T18:56:18.285Z
+date: 2024-06-09T02:21:00.106Z
+updated: 2024-06-10T02:21:00.106Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Infinix Zero 30 5G to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Infinix Zero 30 5G to Samsung Galaxy S21 Ultra
 keywords: transfer from android to pc,transfer from Infinix Zero 30 5G to iphone,transfer from Infinix Zero 30 5G to android,transfer from Infinix Zero 30 5G to mac,transfer from android to iphone,transfer from android to mac,transfer from android to ipad,transfer from Infinix Zero 30 5G to pc,transfer from Infinix Zero 30 5G to ipad
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## How to Transfer Photos From Infinix Zero 30 5G to Samsung Galaxy S21 Ultra

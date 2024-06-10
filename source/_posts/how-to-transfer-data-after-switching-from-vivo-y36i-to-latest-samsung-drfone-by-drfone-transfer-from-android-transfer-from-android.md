@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Vivo Y36i to Latest Samsung | Dr.fone
-date: 2024-05-19T18:55:06.144Z
-updated: 2024-05-20T18:55:06.144Z
+date: 2024-06-09T02:21:36.778Z
+updated: 2024-06-10T02:21:36.778Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data After Switching From Vivo Y36i to Latest Samsung
 excerpt: This article describes How to Transfer Data After Switching From Vivo Y36i to Latest Samsung
 keywords: transfer from android to iphone,transfer from android to mac,transfer from Vivo Y36i to mac,transfer from Vivo Y36i to pc,transfer from android to android,transfer from Vivo Y36i to ipad,transfer from android to ipad,transfer from android to pc,transfer from Vivo Y36i to android,transfer from Vivo Y36i to iphone
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## How to Transfer Data After Switching From Vivo Y36i to Latest Samsung

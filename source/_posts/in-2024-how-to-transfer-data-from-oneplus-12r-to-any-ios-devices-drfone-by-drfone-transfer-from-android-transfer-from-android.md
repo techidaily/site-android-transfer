@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from OnePlus 12R to Any iOS Devices | Dr.fone
-date: 2024-04-07T02:09:05.326Z
-updated: 2024-04-08T02:09:05.326Z
+date: 2024-06-09T02:20:01.663Z
+updated: 2024-06-10T02:20:01.663Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from OnePlus 12R to Any iOS Devices
 excerpt: This article describes How to Transfer Data from OnePlus 12R to Any iOS Devices
 keywords: transfer from OnePlus 12R to android,transfer from OnePlus 12R to mac,transfer from android to pc,transfer from OnePlus 12R to pc,transfer from android to ipad,transfer from android to iphone,transfer from android to mac,transfer from OnePlus 12R to ipad,transfer from android to android,transfer from OnePlus 12R to iphone
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## How to Transfer Data from OnePlus 12R to Any iOS Devices

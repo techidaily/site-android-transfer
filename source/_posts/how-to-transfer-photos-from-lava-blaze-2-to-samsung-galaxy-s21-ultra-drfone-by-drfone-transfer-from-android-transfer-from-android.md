@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Lava Blaze 2 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:10.855Z
-updated: 2024-05-20T18:55:10.855Z
+date: 2024-06-09T02:20:42.636Z
+updated: 2024-06-10T02:20:42.636Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Lava Blaze 2 to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Lava Blaze 2 to Samsung Galaxy S21 Ultra
 keywords: transfer from android to android,transfer from Lava Blaze 2 to pc,transfer from android to iphone,transfer from Lava Blaze 2 to mac,transfer from Lava Blaze 2 to iphone,transfer from Lava Blaze 2 to android,transfer from android to pc,transfer from android to mac,transfer from android to ipad,transfer from Lava Blaze 2 to ipad
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## How to Transfer Photos From Lava Blaze 2 to Samsung Galaxy S21 Ultra

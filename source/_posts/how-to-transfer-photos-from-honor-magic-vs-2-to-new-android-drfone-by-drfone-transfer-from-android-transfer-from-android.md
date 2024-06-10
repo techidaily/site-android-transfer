@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Honor Magic Vs 2 to New Android? | Dr.fone
-date: 2024-05-19T18:55:10.408Z
-updated: 2024-05-20T18:55:10.408Z
+date: 2024-06-09T02:21:56.421Z
+updated: 2024-06-10T02:21:56.421Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Honor Magic Vs 2 to New Android?
 excerpt: This article describes How to Transfer Photos from Honor Magic Vs 2 to New Android?
 keywords: transfer from android to pc,transfer from Honor Magic Vs 2 to ipad,transfer from Honor Magic Vs 2 to pc,transfer from Honor Magic Vs 2 to mac,transfer from Honor Magic Vs 2 to android,transfer from android to ipad,transfer from android to mac,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## How to Transfer Photos from Honor Magic Vs 2 to New Android?

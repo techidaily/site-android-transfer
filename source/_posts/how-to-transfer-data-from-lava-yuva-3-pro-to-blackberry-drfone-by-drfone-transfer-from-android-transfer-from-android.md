@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Yuva 3 Pro to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:06.868Z
-updated: 2024-05-20T18:55:06.868Z
+date: 2024-06-09T02:20:39.250Z
+updated: 2024-06-10T02:20:39.250Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Lava Yuva 3 Pro to BlackBerry
 excerpt: This article describes How to Transfer Data from Lava Yuva 3 Pro to BlackBerry
 keywords: transfer from Lava Yuva 3 Pro to ipad,transfer from Lava Yuva 3 Pro to pc,transfer from android to iphone,transfer from Lava Yuva 3 Pro to mac,transfer from android to pc,transfer from android to android,transfer from android to mac,transfer from Lava Yuva 3 Pro to iphone,transfer from Lava Yuva 3 Pro to android,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## How to Transfer Data from Lava Yuva 3 Pro to BlackBerry

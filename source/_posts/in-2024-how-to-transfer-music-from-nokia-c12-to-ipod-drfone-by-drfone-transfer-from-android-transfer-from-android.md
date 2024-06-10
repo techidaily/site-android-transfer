@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Music from Nokia C12 to iPod | Dr.fone
-date: 2024-04-30T02:31:32.317Z
-updated: 2024-05-01T02:31:32.317Z
+date: 2024-06-09T02:21:15.567Z
+updated: 2024-06-10T02:21:15.567Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Music from Nokia C12 to iPod
 excerpt: This article describes How to Transfer Music from Nokia C12 to iPod
 keywords: transfer from android to mac,transfer from Nokia C12 to pc,transfer from Nokia C12 to ipad,transfer from Nokia C12 to iphone,transfer from Nokia C12 to mac,transfer from android to ipad,transfer from Nokia C12 to android
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## How to Transfer Music from Nokia C12 to iPod

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Realme C67 4G to iPad | Dr.fone
-date: 2024-05-19T18:55:14.625Z
-updated: 2024-05-20T18:55:14.625Z
+date: 2024-06-09T02:22:03.898Z
+updated: 2024-06-10T02:22:03.898Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Videos from Realme C67 4G to iPad
 excerpt: This article describes How to Transfer Videos from Realme C67 4G to iPad
 keywords: transfer from android to pc,transfer from Realme C67 4G to android,transfer from android to android,transfer from Realme C67 4G to ipad,transfer from android to ipad,transfer from android to mac,transfer from Realme C67 4G to pc,transfer from Realme C67 4G to mac,transfer from android to iphone,transfer from Realme C67 4G to iphone
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## How to Transfer Videos from Realme C67 4G to iPad

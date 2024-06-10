@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola G24 Power to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:06.975Z
-updated: 2024-05-20T18:55:06.975Z
+date: 2024-06-09T02:22:14.519Z
+updated: 2024-06-10T02:22:14.519Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Motorola G24 Power to Samsung Phone
 excerpt: This article describes How to Transfer Data from Motorola G24 Power to Samsung Phone
 keywords: transfer from android to android,transfer from Motorola G24 Power to ipad,transfer from Motorola G24 Power to pc,transfer from Motorola G24 Power to iphone,transfer from Motorola G24 Power to android,transfer from android to ipad,transfer from android to iphone,transfer from Motorola G24 Power to mac,transfer from android to pc,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How to Transfer Data from Motorola G24 Power to Samsung Phone

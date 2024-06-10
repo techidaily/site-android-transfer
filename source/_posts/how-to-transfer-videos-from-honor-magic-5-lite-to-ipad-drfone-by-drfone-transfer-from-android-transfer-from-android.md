@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Honor Magic 5 Lite to iPad | Dr.fone
-date: 2024-05-19T18:55:13.936Z
-updated: 2024-05-20T18:55:13.936Z
+date: 2024-06-09T02:22:04.910Z
+updated: 2024-06-10T02:22:04.910Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Videos from Honor Magic 5 Lite to iPad
 excerpt: This article describes How to Transfer Videos from Honor Magic 5 Lite to iPad
 keywords: transfer from Honor Magic 5 Lite to mac,transfer from android to mac,transfer from android to android,transfer from Honor Magic 5 Lite to ipad,transfer from Honor Magic 5 Lite to iphone,transfer from Honor Magic 5 Lite to android
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## How to Transfer Videos from Honor Magic 5 Lite to iPad

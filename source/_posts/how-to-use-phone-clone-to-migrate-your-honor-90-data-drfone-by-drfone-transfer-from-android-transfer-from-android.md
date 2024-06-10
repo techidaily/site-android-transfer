@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Honor 90 Data? | Dr.fone
-date: 2024-05-19T18:55:14.984Z
-updated: 2024-05-20T18:55:14.984Z
+date: 2024-06-09T02:20:44.453Z
+updated: 2024-06-10T02:20:44.453Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Use Phone Clone to Migrate Your Honor 90 Data?
 excerpt: This article describes How to Use Phone Clone to Migrate Your Honor 90 Data?
 keywords: transfer from android to iphone,transfer from Honor 90 to ipad,transfer from Honor 90 to iphone,transfer from Honor 90 to pc,transfer from android to mac,transfer from android to pc,transfer from android to ipad,transfer from android to android,transfer from Honor 90 to mac
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## How to Use Phone Clone to Migrate Your Honor 90 Data?

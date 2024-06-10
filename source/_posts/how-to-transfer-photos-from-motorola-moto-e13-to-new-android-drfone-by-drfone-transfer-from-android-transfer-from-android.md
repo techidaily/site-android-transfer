@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto E13 to New Android? | Dr.fone
-date: 2024-05-19T18:55:11.005Z
-updated: 2024-05-20T18:55:11.005Z
+date: 2024-06-09T02:19:24.946Z
+updated: 2024-06-10T02:19:24.946Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Motorola Moto E13 to New Android?
 excerpt: This article describes How to Transfer Photos from Motorola Moto E13 to New Android?
 keywords: transfer from android to mac,transfer from Motorola Moto E13 to mac,transfer from android to ipad,transfer from Motorola Moto E13 to pc,transfer from Motorola Moto E13 to android,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## How to Transfer Photos from Motorola Moto E13 to New Android?

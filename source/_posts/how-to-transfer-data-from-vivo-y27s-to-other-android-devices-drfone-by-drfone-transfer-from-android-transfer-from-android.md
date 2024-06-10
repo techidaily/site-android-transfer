@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y27s to Other Android Devices? | Dr.fone
-date: 2024-05-19T18:55:08.942Z
-updated: 2024-05-20T18:55:08.942Z
+date: 2024-06-09T02:19:28.929Z
+updated: 2024-06-10T02:19:28.929Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo Y27s to Other Android Devices?
 excerpt: This article describes How to Transfer Data from Vivo Y27s to Other Android Devices?
 keywords: transfer from android to ipad,transfer from android to android,transfer from Vivo Y27s to pc,transfer from Vivo Y27s to mac,transfer from android to pc,transfer from Vivo Y27s to android,transfer from android to mac,transfer from Vivo Y27s to iphone,transfer from android to iphone,transfer from Vivo Y27s to ipad
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## How to Transfer Data from Vivo Y27s to Other Android Devices?

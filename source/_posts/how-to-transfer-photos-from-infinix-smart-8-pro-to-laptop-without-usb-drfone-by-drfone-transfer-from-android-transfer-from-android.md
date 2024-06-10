@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Infinix Smart 8 Pro to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:55:10.699Z
-updated: 2024-05-20T18:55:10.699Z
+date: 2024-06-09T02:20:18.569Z
+updated: 2024-06-10T02:20:18.569Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Infinix Smart 8 Pro to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Infinix Smart 8 Pro to Laptop Without USB
 keywords: transfer from Infinix Smart 8 Pro to android,transfer from Infinix Smart 8 Pro to mac,transfer from android to iphone,transfer from Infinix Smart 8 Pro to pc,transfer from android to pc,transfer from android to android,transfer from android to ipad,transfer from Infinix Smart 8 Pro to iphone,transfer from Infinix Smart 8 Pro to ipad,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## How to Transfer Photos from Infinix Smart 8 Pro to Laptop Without USB

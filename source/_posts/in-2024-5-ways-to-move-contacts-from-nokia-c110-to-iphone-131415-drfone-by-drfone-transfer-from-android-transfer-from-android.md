@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Nokia C110 to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:55:19.522Z
-updated: 2024-05-20T18:55:19.522Z
+date: 2024-06-09T02:20:28.932Z
+updated: 2024-06-10T02:20:28.932Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Nokia C110 to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Nokia C110 to iPhone (13/14/15)
 keywords: transfer from android to ipad,transfer from android to pc,transfer from android to mac,transfer from android to iphone,transfer from Nokia C110 to ipad,transfer from android to android,transfer from Nokia C110 to mac
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## 5 Ways to Move Contacts From Nokia C110 to iPhone (13/14/15)

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Realme V30 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:11.968Z
-updated: 2024-05-20T18:55:11.968Z
+date: 2024-06-09T02:21:06.545Z
+updated: 2024-06-10T02:21:06.545Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Realme V30 to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Realme V30 to Samsung Galaxy S21 Ultra
 keywords: transfer from android to ipad,transfer from Realme V30 to ipad,transfer from Realme V30 to iphone,transfer from android to pc,transfer from android to android,transfer from Realme V30 to mac,transfer from Realme V30 to pc,transfer from Realme V30 to android,transfer from android to iphone,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## How to Transfer Photos From Realme V30 to Samsung Galaxy S21 Ultra

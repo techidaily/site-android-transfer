@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto E13 to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:06.982Z
-updated: 2024-05-20T18:55:06.982Z
+date: 2024-06-09T02:20:50.972Z
+updated: 2024-06-10T02:20:50.972Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Motorola Moto E13 to BlackBerry
 excerpt: This article describes How to Transfer Data from Motorola Moto E13 to BlackBerry
 keywords: transfer from Motorola Moto E13 to mac,transfer from Motorola Moto E13 to pc,transfer from android to mac,transfer from Motorola Moto E13 to ipad,transfer from android to android,transfer from Motorola Moto E13 to iphone,transfer from android to pc,transfer from Motorola Moto E13 to android,transfer from android to iphone,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## How to Transfer Data from Motorola Moto E13 to BlackBerry

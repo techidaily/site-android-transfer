@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from Nokia XR21 to BlackBerry | Dr.fone
-date: 2024-04-07T02:09:05.258Z
-updated: 2024-04-08T02:09:05.258Z
+date: 2024-06-09T02:19:37.844Z
+updated: 2024-06-10T02:19:37.844Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Nokia XR21 to BlackBerry
 excerpt: This article describes How to Transfer Data from Nokia XR21 to BlackBerry
 keywords: transfer from Nokia XR21 to android,transfer from Nokia XR21 to iphone,transfer from android to iphone,transfer from android to ipad,transfer from Nokia XR21 to ipad,transfer from Nokia XR21 to mac
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## How to Transfer Data from Nokia XR21 to BlackBerry

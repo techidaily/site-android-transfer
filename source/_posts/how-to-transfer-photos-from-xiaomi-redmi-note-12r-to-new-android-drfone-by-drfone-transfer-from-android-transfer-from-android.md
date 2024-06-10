@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Xiaomi Redmi Note 12R to New Android? | Dr.fone
-date: 2024-05-19T18:55:13.062Z
-updated: 2024-05-20T18:55:13.062Z
+date: 2024-06-09T02:19:30.960Z
+updated: 2024-06-10T02:19:30.960Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Xiaomi Redmi Note 12R to New Android?
 excerpt: This article describes How to Transfer Photos from Xiaomi Redmi Note 12R to New Android?
 keywords: transfer from Xiaomi Redmi Note 12R to ipad,transfer from Xiaomi Redmi Note 12R to iphone,transfer from android to mac,transfer from Xiaomi Redmi Note 12R to mac,transfer from android to android,transfer from android to pc,transfer from Xiaomi Redmi Note 12R to pc,transfer from android to iphone,transfer from Xiaomi Redmi Note 12R to android,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## How to Transfer Photos from Xiaomi Redmi Note 12R to New Android?

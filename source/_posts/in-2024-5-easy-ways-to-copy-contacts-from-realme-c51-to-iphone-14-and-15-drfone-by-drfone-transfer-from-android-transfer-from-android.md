@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Realme C51 to iPhone 14 and 15 | Dr.fone
-date: 2024-05-19T18:55:17.695Z
-updated: 2024-05-20T18:55:17.695Z
+date: 2024-06-09T02:19:36.815Z
+updated: 2024-06-10T02:19:36.815Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Realme C51 to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Realme C51 to iPhone 14 and 15
 keywords: transfer from Realme C51 to android,transfer from android to android,transfer from android to ipad,transfer from Realme C51 to pc,transfer from Realme C51 to ipad,transfer from Realme C51 to mac,transfer from Realme C51 to iphone,transfer from android to pc,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## 5 Easy Ways to Copy Contacts from Realme C51 to iPhone 14 and 15

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Tecno Spark Go (2023) to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.730Z
-updated: 2024-05-20T18:55:13.730Z
+date: 2024-06-09T02:20:25.872Z
+updated: 2024-06-10T02:20:25.872Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Tecno Spark Go (2023) to New Phone
 excerpt: This article describes How to Transfer Text Messages from Tecno Spark Go (2023) to New Phone
 keywords: transfer from android to iphone,transfer from android to android,transfer from android to pc,transfer from Tecno Spark Go (2023) to pc,transfer from Tecno Spark Go (2023) to ipad,transfer from Tecno Spark Go (2023) to android
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## How to Transfer Text Messages from Tecno Spark Go (2023) to New Phone

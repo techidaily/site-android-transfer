@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from Vivo T2x 5G to iPad | Dr.fone
-date: 2024-05-19T18:55:14.823Z
-updated: 2024-05-20T18:55:14.823Z
+date: 2024-06-09T02:21:58.306Z
+updated: 2024-06-10T02:21:58.306Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Videos from Vivo T2x 5G to iPad
 excerpt: This article describes How to Transfer Videos from Vivo T2x 5G to iPad
 keywords: transfer from android to iphone,transfer from android to android,transfer from Vivo T2x 5G to iphone,transfer from android to ipad,transfer from Vivo T2x 5G to pc,transfer from Vivo T2x 5G to ipad,transfer from android to mac,transfer from Vivo T2x 5G to android,transfer from android to pc,transfer from Vivo T2x 5G to mac
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## How to Transfer Videos from Vivo T2x 5G to iPad

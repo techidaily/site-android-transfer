@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from Vivo V30 Lite 5G to Samsung Phone | Dr.fone
-date: 2024-04-12T02:14:46.241Z
-updated: 2024-04-13T02:14:46.241Z
+date: 2024-06-09T02:19:39.798Z
+updated: 2024-06-10T02:19:39.798Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo V30 Lite 5G to Samsung Phone
 excerpt: This article describes How to Transfer Data from Vivo V30 Lite 5G to Samsung Phone
 keywords: transfer from Vivo V30 Lite 5G to iphone,transfer from android to ipad,transfer from android to iphone,transfer from android to pc,transfer from android to mac,transfer from Vivo V30 Lite 5G to android,transfer from Vivo V30 Lite 5G to mac
-thumbnail: https://www.lifewire.com/thmb/CewnPdEDUshSU0PnqqyQxiaIaFw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-language-exchange-websites-1357059-d87c92dbdba3429dbf17d51ba313b1ff.png
+thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b827af6bb095b68b19082ca48f.png
 ---
 
 ## How to Transfer Data from Vivo V30 Lite 5G to Samsung Phone

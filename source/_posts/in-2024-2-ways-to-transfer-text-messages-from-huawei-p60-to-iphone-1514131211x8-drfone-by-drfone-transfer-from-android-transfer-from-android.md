@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Huawei P60 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-05-19T18:55:15.703Z
-updated: 2024-05-20T18:55:15.703Z
+date: 2024-06-09T02:19:39.749Z
+updated: 2024-06-10T02:19:39.749Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 2 Ways to Transfer Text Messages from Huawei P60 to iPhone 15/14/13/12/11/X/8/
 excerpt: This article describes 2 Ways to Transfer Text Messages from Huawei P60 to iPhone 15/14/13/12/11/X/8/
 keywords: transfer from Huawei P60 to mac,transfer from android to mac,transfer from android to android,transfer from android to ipad,transfer from android to pc,transfer from Huawei P60 to ipad,transfer from Huawei P60 to pc,transfer from Huawei P60 to android,transfer from android to iphone,transfer from Huawei P60 to iphone
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## 2 Ways to Transfer Text Messages from Huawei P60 to iPhone 15/14/13/12/11/X/8/

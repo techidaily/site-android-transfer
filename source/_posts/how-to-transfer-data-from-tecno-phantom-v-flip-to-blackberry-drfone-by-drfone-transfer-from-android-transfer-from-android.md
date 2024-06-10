@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Phantom V Flip to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:08.386Z
-updated: 2024-05-20T18:55:08.386Z
+date: 2024-06-09T02:20:17.577Z
+updated: 2024-06-10T02:20:17.577Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Tecno Phantom V Flip to BlackBerry
 excerpt: This article describes How to Transfer Data from Tecno Phantom V Flip to BlackBerry
 keywords: transfer from Tecno Phantom V Flip to mac,transfer from Tecno Phantom V Flip to iphone,transfer from Tecno Phantom V Flip to android,transfer from Tecno Phantom V Flip to ipad,transfer from android to mac,transfer from Tecno Phantom V Flip to pc,transfer from android to android,transfer from android to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## How to Transfer Data from Tecno Phantom V Flip to BlackBerry

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from Poco C50 to BlackBerry | Dr.fone
-date: 2024-04-07T17:22:31.884Z
-updated: 2024-04-08T17:22:31.884Z
+date: 2024-06-09T02:21:41.806Z
+updated: 2024-06-10T02:21:41.806Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Poco C50 to BlackBerry
 excerpt: This article describes How to Transfer Data from Poco C50 to BlackBerry
 keywords: transfer from Poco C50 to ipad,transfer from Poco C50 to iphone,transfer from android to ipad,transfer from android to android,transfer from Poco C50 to android,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## How to Transfer Data from Poco C50 to BlackBerry

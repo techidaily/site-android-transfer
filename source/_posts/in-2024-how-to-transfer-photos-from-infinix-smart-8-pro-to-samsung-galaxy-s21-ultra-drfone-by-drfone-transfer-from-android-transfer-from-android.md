@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Infinix Smart 8 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:56:16.664Z
-updated: 2024-05-20T18:56:16.664Z
+date: 2024-06-09T02:19:46.700Z
+updated: 2024-06-10T02:19:46.700Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Infinix Smart 8 Pro to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Infinix Smart 8 Pro to Samsung Galaxy S21 Ultra
 keywords: transfer from Infinix Smart 8 Pro to ipad,transfer from android to android,transfer from Infinix Smart 8 Pro to mac,transfer from Infinix Smart 8 Pro to android,transfer from android to pc,transfer from Infinix Smart 8 Pro to iphone,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## How to Transfer Photos From Infinix Smart 8 Pro to Samsung Galaxy S21 Ultra

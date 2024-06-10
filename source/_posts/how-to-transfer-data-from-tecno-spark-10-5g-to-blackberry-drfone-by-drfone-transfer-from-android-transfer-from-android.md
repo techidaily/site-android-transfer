@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10 5G to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:08.493Z
-updated: 2024-05-20T18:55:08.493Z
+date: 2024-06-09T02:19:31.025Z
+updated: 2024-06-10T02:19:31.025Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Tecno Spark 10 5G to BlackBerry
 excerpt: This article describes How to Transfer Data from Tecno Spark 10 5G to BlackBerry
 keywords: transfer from Tecno Spark 10 5G to mac,transfer from Tecno Spark 10 5G to pc,transfer from android to ipad,transfer from android to iphone,transfer from android to android,transfer from android to pc,transfer from Tecno Spark 10 5G to iphone
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## How to Transfer Data from Tecno Spark 10 5G to BlackBerry

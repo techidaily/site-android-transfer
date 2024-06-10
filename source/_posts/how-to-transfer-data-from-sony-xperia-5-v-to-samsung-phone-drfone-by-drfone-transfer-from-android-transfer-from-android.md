@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Sony Xperia 5 V to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:08.358Z
-updated: 2024-05-20T18:55:08.358Z
+date: 2024-06-09T02:19:19.402Z
+updated: 2024-06-10T02:19:19.402Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Sony Xperia 5 V to Samsung Phone
 excerpt: This article describes How to Transfer Data from Sony Xperia 5 V to Samsung Phone
 keywords: transfer from android to android,transfer from android to iphone,transfer from Sony Xperia 5 V to android,transfer from Sony Xperia 5 V to ipad,transfer from Sony Xperia 5 V to pc,transfer from Sony Xperia 5 V to iphone,transfer from android to mac,transfer from android to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## How to Transfer Data from Sony Xperia 5 V to Samsung Phone

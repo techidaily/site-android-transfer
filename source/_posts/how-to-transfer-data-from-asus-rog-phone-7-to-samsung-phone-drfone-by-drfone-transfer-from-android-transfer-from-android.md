@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Asus ROG Phone 7 to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:06.221Z
-updated: 2024-05-20T18:55:06.221Z
+date: 2024-06-09T02:20:33.703Z
+updated: 2024-06-10T02:20:33.703Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Asus ROG Phone 7 to Samsung Phone
 excerpt: This article describes How to Transfer Data from Asus ROG Phone 7 to Samsung Phone
 keywords: transfer from Asus ROG Phone 7 to ipad,transfer from Asus ROG Phone 7 to iphone,transfer from android to iphone,transfer from android to pc,transfer from android to ipad,transfer from Asus ROG Phone 7 to mac,transfer from android to android,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## How to Transfer Data from Asus ROG Phone 7 to Samsung Phone

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 10 4G to iPhone 14 and 15 | Dr.fone
-date: 2024-05-19T18:55:17.903Z
-updated: 2024-05-20T18:55:17.903Z
+date: 2024-06-09T02:21:27.508Z
+updated: 2024-06-10T02:21:27.508Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Easy Ways to Copy Contacts from Tecno Spark 10 4G to iPhone 14 and 15
 excerpt: This article describes 5 Easy Ways to Copy Contacts from Tecno Spark 10 4G to iPhone 14 and 15
 keywords: transfer from android to android,transfer from Tecno Spark 10 4G to android,transfer from Tecno Spark 10 4G to pc,transfer from android to mac,transfer from Tecno Spark 10 4G to mac,transfer from Tecno Spark 10 4G to iphone,transfer from Tecno Spark 10 4G to ipad,transfer from android to ipad,transfer from android to iphone,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## 5 Easy Ways to Copy Contacts from Tecno Spark 10 4G to iPhone 14 and 15

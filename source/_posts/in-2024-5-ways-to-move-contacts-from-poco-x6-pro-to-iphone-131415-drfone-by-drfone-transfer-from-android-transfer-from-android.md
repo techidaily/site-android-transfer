@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Poco X6 Pro to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:55:19.659Z
-updated: 2024-05-20T18:55:19.659Z
+date: 2024-06-09T02:19:32.910Z
+updated: 2024-06-10T02:19:32.910Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Poco X6 Pro to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Poco X6 Pro to iPhone (13/14/15)
 keywords: transfer from Poco X6 Pro to mac,transfer from android to iphone,transfer from android to pc,transfer from android to android,transfer from android to ipad,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## 5 Ways to Move Contacts From Poco X6 Pro to iPhone (13/14/15)

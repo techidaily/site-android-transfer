@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze Pro 5G to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:06.847Z
-updated: 2024-05-20T18:55:06.847Z
+date: 2024-06-09T02:21:09.960Z
+updated: 2024-06-10T02:21:09.960Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Lava Blaze Pro 5G to Samsung Phone
 excerpt: This article describes How to Transfer Data from Lava Blaze Pro 5G to Samsung Phone
 keywords: transfer from Lava Blaze Pro 5G to mac,transfer from Lava Blaze Pro 5G to pc,transfer from Lava Blaze Pro 5G to ipad,transfer from android to ipad,transfer from Lava Blaze Pro 5G to iphone,transfer from android to iphone,transfer from android to mac,transfer from Lava Blaze Pro 5G to android
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## How to Transfer Data from Lava Blaze Pro 5G to Samsung Phone

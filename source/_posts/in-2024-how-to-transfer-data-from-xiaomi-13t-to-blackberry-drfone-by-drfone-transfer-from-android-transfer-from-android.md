@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from Xiaomi 13T to BlackBerry | Dr.fone
-date: 2024-04-12T02:15:05.362Z
-updated: 2024-04-13T02:15:05.362Z
+date: 2024-06-09T02:20:29.890Z
+updated: 2024-06-10T02:20:29.890Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Xiaomi 13T to BlackBerry
 excerpt: This article describes How to Transfer Data from Xiaomi 13T to BlackBerry
 keywords: transfer from Xiaomi 13T to pc,transfer from android to mac,transfer from android to ipad,transfer from android to pc,transfer from android to android,transfer from Xiaomi 13T to android,transfer from Xiaomi 13T to ipad
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## How to Transfer Data from Xiaomi 13T to BlackBerry

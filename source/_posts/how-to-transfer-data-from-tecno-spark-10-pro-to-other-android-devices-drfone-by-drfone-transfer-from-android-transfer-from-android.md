@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Tecno Spark 10 Pro to Other Android Devices? | Dr.fone
-date: 2024-05-19T18:55:08.501Z
-updated: 2024-05-20T18:55:08.501Z
+date: 2024-06-09T02:19:32.930Z
+updated: 2024-06-10T02:19:32.930Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Tecno Spark 10 Pro to Other Android Devices?
 excerpt: This article describes How to Transfer Data from Tecno Spark 10 Pro to Other Android Devices?
 keywords: transfer from android to android,transfer from Tecno Spark 10 Pro to android,transfer from android to iphone,transfer from android to pc,transfer from Tecno Spark 10 Pro to iphone,transfer from android to ipad,transfer from Tecno Spark 10 Pro to mac,transfer from Tecno Spark 10 Pro to ipad,transfer from android to mac,transfer from Tecno Spark 10 Pro to pc
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## How to Transfer Data from Tecno Spark 10 Pro to Other Android Devices?

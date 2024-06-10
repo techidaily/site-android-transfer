@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Oppo K11x to Other Android Devices? | Dr.fone
-date: 2024-05-19T18:55:07.539Z
-updated: 2024-05-20T18:55:07.539Z
+date: 2024-06-09T02:21:36.688Z
+updated: 2024-06-10T02:21:36.688Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Oppo K11x to Other Android Devices?
 excerpt: This article describes How to Transfer Data from Oppo K11x to Other Android Devices?
 keywords: transfer from Oppo K11x to mac,transfer from android to iphone,transfer from Oppo K11x to iphone,transfer from Oppo K11x to pc,transfer from android to android,transfer from android to mac,transfer from Oppo K11x to ipad,transfer from Oppo K11x to android,transfer from android to ipad,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## How to Transfer Data from Oppo K11x to Other Android Devices?

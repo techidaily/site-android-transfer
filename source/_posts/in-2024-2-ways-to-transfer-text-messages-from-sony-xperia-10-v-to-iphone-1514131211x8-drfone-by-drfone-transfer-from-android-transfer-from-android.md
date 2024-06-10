@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Sony Xperia 10 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-05-19T18:55:16.178Z
-updated: 2024-05-20T18:55:16.178Z
+date: 2024-06-09T02:21:30.269Z
+updated: 2024-06-10T02:21:30.269Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 2 Ways to Transfer Text Messages from Sony Xperia 10 V to iPhone 15/14/13/12/11/X/8/
 excerpt: This article describes 2 Ways to Transfer Text Messages from Sony Xperia 10 V to iPhone 15/14/13/12/11/X/8/
 keywords: transfer from android to android,transfer from android to iphone,transfer from Sony Xperia 10 V to mac,transfer from Sony Xperia 10 V to pc,transfer from Sony Xperia 10 V to android,transfer from android to mac,transfer from Sony Xperia 10 V to ipad,transfer from android to pc,transfer from Sony Xperia 10 V to iphone,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## 2 Ways to Transfer Text Messages from Sony Xperia 10 V to iPhone 15/14/13/12/11/X/8/

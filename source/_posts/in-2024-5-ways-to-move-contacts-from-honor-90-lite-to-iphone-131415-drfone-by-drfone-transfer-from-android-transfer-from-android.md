@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Honor 90 Lite to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:55:19.367Z
-updated: 2024-05-20T18:55:19.367Z
+date: 2024-06-09T02:21:17.399Z
+updated: 2024-06-10T02:21:17.399Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Honor 90 Lite to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Honor 90 Lite to iPhone (13/14/15)
 keywords: transfer from Honor 90 Lite to pc,transfer from Honor 90 Lite to mac,transfer from android to pc,transfer from Honor 90 Lite to ipad,transfer from Honor 90 Lite to android,transfer from android to ipad,transfer from android to mac,transfer from Honor 90 Lite to iphone,transfer from android to iphone,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## 5 Ways to Move Contacts From Honor 90 Lite to iPhone (13/14/15)

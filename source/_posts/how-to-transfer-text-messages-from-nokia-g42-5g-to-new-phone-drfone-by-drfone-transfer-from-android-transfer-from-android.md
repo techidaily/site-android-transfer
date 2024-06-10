@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Nokia G42 5G to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.394Z
-updated: 2024-05-20T18:55:13.394Z
+date: 2024-06-09T02:19:50.610Z
+updated: 2024-06-10T02:19:50.610Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Nokia G42 5G to New Phone
 excerpt: This article describes How to Transfer Text Messages from Nokia G42 5G to New Phone
 keywords: transfer from Nokia G42 5G to iphone,transfer from Nokia G42 5G to pc,transfer from android to ipad,transfer from Nokia G42 5G to ipad,transfer from android to mac,transfer from android to pc,transfer from Nokia G42 5G to mac
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## How to Transfer Text Messages from Nokia G42 5G to New Phone

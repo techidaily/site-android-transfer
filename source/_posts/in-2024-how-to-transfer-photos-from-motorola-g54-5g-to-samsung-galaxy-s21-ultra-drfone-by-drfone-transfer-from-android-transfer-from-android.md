@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Motorola G54 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:56:45.849Z
-updated: 2024-05-20T18:56:45.849Z
+date: 2024-06-09T02:21:56.439Z
+updated: 2024-06-10T02:21:56.439Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Motorola G54 5G to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Motorola G54 5G to Samsung Galaxy S21 Ultra
 keywords: transfer from Motorola G54 5G to android,transfer from android to mac,transfer from android to pc,transfer from android to ipad,transfer from Motorola G54 5G to pc,transfer from Motorola G54 5G to ipad,transfer from Motorola G54 5G to iphone,transfer from android to android,transfer from Motorola G54 5G to mac,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## How to Transfer Photos From Motorola G54 5G to Samsung Galaxy S21 Ultra

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Infinix GT 10 Pro to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:06.529Z
-updated: 2024-05-20T18:55:06.529Z
+date: 2024-06-09T02:20:18.530Z
+updated: 2024-06-10T02:20:18.530Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Infinix GT 10 Pro to BlackBerry
 excerpt: This article describes How to Transfer Data from Infinix GT 10 Pro to BlackBerry
 keywords: transfer from android to ipad,transfer from Infinix GT 10 Pro to android,transfer from android to iphone,transfer from Infinix GT 10 Pro to mac,transfer from Infinix GT 10 Pro to ipad,transfer from Infinix GT 10 Pro to iphone
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## How to Transfer Data from Infinix GT 10 Pro to BlackBerry

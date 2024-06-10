@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Poco M6 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:11.632Z
-updated: 2024-05-20T18:55:11.632Z
+date: 2024-06-09T02:19:26.916Z
+updated: 2024-06-10T02:19:26.916Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Poco M6 5G to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Poco M6 5G to Samsung Galaxy S21 Ultra
 keywords: transfer from android to ipad,transfer from android to iphone,transfer from Poco M6 5G to pc,transfer from android to pc,transfer from Poco M6 5G to iphone,transfer from Poco M6 5G to mac,transfer from Poco M6 5G to ipad,transfer from android to android,transfer from Poco M6 5G to android
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## How to Transfer Photos From Poco M6 5G to Samsung Galaxy S21 Ultra

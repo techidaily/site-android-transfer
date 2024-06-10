@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Music from Nokia C22 to iPod | Dr.fone
-date: 2024-05-19T18:55:09.776Z
-updated: 2024-05-20T18:55:09.776Z
+date: 2024-06-09T02:20:24.841Z
+updated: 2024-06-10T02:20:24.841Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Music from Nokia C22 to iPod
 excerpt: This article describes How to Transfer Music from Nokia C22 to iPod
 keywords: transfer from Nokia C22 to mac,transfer from android to mac,transfer from android to pc,transfer from Nokia C22 to iphone,transfer from android to android,transfer from Nokia C22 to android,transfer from Nokia C22 to pc
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## How to Transfer Music from Nokia C22 to iPod

@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Lava Blaze 2 Pro Data? | Dr.fone
-date: 2024-05-19T18:55:15.157Z
-updated: 2024-05-20T18:55:15.157Z
+date: 2024-06-09T02:21:33.033Z
+updated: 2024-06-10T02:21:33.033Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Use Phone Clone to Migrate Your Lava Blaze 2 Pro Data?
 excerpt: This article describes How to Use Phone Clone to Migrate Your Lava Blaze 2 Pro Data?
 keywords: transfer from Lava Blaze 2 Pro to android,transfer from Lava Blaze 2 Pro to pc,transfer from Lava Blaze 2 Pro to ipad,transfer from android to android,transfer from android to mac,transfer from android to pc,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## How to Use Phone Clone to Migrate Your Lava Blaze 2 Pro Data?

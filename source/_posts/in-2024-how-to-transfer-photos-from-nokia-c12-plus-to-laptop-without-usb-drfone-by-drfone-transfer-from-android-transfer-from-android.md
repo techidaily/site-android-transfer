@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Nokia C12 Plus to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:56:59.939Z
-updated: 2024-05-20T18:56:59.939Z
+date: 2024-06-09T02:22:03.982Z
+updated: 2024-06-10T02:22:03.982Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Nokia C12 Plus to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Nokia C12 Plus to Laptop Without USB
 keywords: transfer from Nokia C12 Plus to mac,transfer from Nokia C12 Plus to pc,transfer from Nokia C12 Plus to android,transfer from android to iphone,transfer from android to ipad,transfer from Nokia C12 Plus to iphone,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## How to Transfer Photos from Nokia C12 Plus to Laptop Without USB

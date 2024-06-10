@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Infinix Smart 8 Pro to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:55:19.436Z
-updated: 2024-05-20T18:55:19.436Z
+date: 2024-06-09T02:20:56.346Z
+updated: 2024-06-10T02:20:56.346Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Infinix Smart 8 Pro to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Infinix Smart 8 Pro to iPhone (13/14/15)
 keywords: transfer from Infinix Smart 8 Pro to iphone,transfer from Infinix Smart 8 Pro to mac,transfer from android to pc,transfer from Infinix Smart 8 Pro to ipad,transfer from Infinix Smart 8 Pro to pc,transfer from Infinix Smart 8 Pro to android,transfer from android to android,transfer from android to mac,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## 5 Ways to Move Contacts From Infinix Smart 8 Pro to iPhone (13/14/15)

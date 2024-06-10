@@ -1,7 +1,7 @@
 ---
 title: How to Use Phone Clone to Migrate Your Vivo X90S Data? | Dr.fone
-date: 2024-05-19T18:55:15.556Z
-updated: 2024-05-20T18:55:15.556Z
+date: 2024-06-09T02:20:44.522Z
+updated: 2024-06-10T02:20:44.522Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Use Phone Clone to Migrate Your Vivo X90S Data?
 excerpt: This article describes How to Use Phone Clone to Migrate Your Vivo X90S Data?
 keywords: transfer from Vivo X90S to mac,transfer from android to mac,transfer from Vivo X90S to iphone,transfer from Vivo X90S to android,transfer from android to ipad,transfer from Vivo X90S to pc,transfer from android to android,transfer from android to iphone,transfer from Vivo X90S to ipad,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## How to Use Phone Clone to Migrate Your Vivo X90S Data?

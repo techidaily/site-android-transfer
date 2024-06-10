@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Transfer Text Messages from Poco C50 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-05-19T18:55:16.023Z
-updated: 2024-05-20T18:55:16.023Z
+date: 2024-06-09T02:20:25.769Z
+updated: 2024-06-10T02:20:25.769Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 2 Ways to Transfer Text Messages from Poco C50 to iPhone 15/14/13/12/11/X/8/
 excerpt: This article describes 2 Ways to Transfer Text Messages from Poco C50 to iPhone 15/14/13/12/11/X/8/
 keywords: transfer from Poco C50 to ipad,transfer from android to pc,transfer from Poco C50 to android,transfer from android to iphone,transfer from android to mac,transfer from Poco C50 to iphone,transfer from Poco C50 to mac
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## 2 Ways to Transfer Text Messages from Poco C50 to iPhone 15/14/13/12/11/X/8/

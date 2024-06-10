@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Videos from OnePlus Ace 2V to iPad | Dr.fone
-date: 2024-05-19T18:55:14.522Z
-updated: 2024-05-20T18:55:14.522Z
+date: 2024-06-09T02:19:30.931Z
+updated: 2024-06-10T02:19:30.931Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Videos from OnePlus Ace 2V to iPad
 excerpt: This article describes How to Transfer Videos from OnePlus Ace 2V to iPad
 keywords: transfer from OnePlus Ace 2V to iphone,transfer from android to mac,transfer from android to iphone,transfer from OnePlus Ace 2V to android,transfer from android to pc,transfer from OnePlus Ace 2V to pc,transfer from OnePlus Ace 2V to ipad,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## How to Transfer Videos from OnePlus Ace 2V to iPad
