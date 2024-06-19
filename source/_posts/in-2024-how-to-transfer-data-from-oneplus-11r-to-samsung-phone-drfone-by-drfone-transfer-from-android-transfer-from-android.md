@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from OnePlus 11R to Samsung Phone | Dr.fone
-date: 2024-04-07T02:09:05.313Z
-updated: 2024-04-08T02:09:05.313Z
+date: 2024-06-18T02:01:17.181Z
+updated: 2024-06-19T02:01:17.181Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from OnePlus 11R to Samsung Phone
 excerpt: This article describes How to Transfer Data from OnePlus 11R to Samsung Phone
 keywords: transfer from android to mac,transfer from android to pc,transfer from OnePlus 11R to android,transfer from OnePlus 11R to mac,transfer from android to android,transfer from OnePlus 11R to ipad,transfer from android to ipad,transfer from OnePlus 11R to iphone,transfer from OnePlus 11R to pc
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## How to Transfer Data from OnePlus 11R to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from OnePlus 11R to iPhone
 
@@ -250,7 +250,7 @@ Move to iOS is a mobile application that automates data migration between Androi
 
 - **Step 8:** Choose the files you want to transfer. After that, initiate the process. Wait until all the files have been transferred to your new iPhone 15.
 
-### Method 5: Transfer data from OnePlus 11R to iPhone 15 using [<u>Wondershare Dr.Fone.</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Method 5: Transfer data from OnePlus 11R to iPhone 15 using <u>Wondershare Dr.Fone.</u>
 
 There’s no denying that the first four methods are all effective in this regard. But if you wish to opt for a more convenient option, Wondershare Dr.Fone can absolutely help you with that. It has a powerful data migration feature that can help you transfer data from OnePlus 11R to iPhone 15. Here’s a short guide to get you started.
 
@@ -467,7 +467,7 @@ The archived data is auto-deleted from the PhoneCopy server after one month when
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Data between Android and iPhone in One Click.
 

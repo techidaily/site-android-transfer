@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo G2 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:12.484Z
-updated: 2024-05-20T18:55:12.484Z
+date: 2024-06-18T02:01:09.663Z
+updated: 2024-06-19T02:01:09.663Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Vivo G2 to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Vivo G2 to Samsung Galaxy S21 Ultra
 keywords: transfer from Vivo G2 to android,transfer from android to pc,transfer from android to android,transfer from Vivo G2 to pc,transfer from android to mac,transfer from android to ipad,transfer from Vivo G2 to iphone,transfer from Vivo G2 to mac,transfer from Vivo G2 to ipad,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## How to Transfer Photos From Vivo G2 to Samsung Galaxy S21 Ultra
@@ -268,7 +268,7 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 

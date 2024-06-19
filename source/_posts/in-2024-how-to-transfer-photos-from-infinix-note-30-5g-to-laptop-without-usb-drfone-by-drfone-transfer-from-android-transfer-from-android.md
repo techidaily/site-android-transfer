@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Infinix Note 30 5G to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:56:07.898Z
-updated: 2024-05-20T18:56:07.898Z
+date: 2024-06-18T02:01:26.252Z
+updated: 2024-06-19T02:01:26.252Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Infinix Note 30 5G to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Infinix Note 30 5G to Laptop Without USB
 keywords: transfer from android to android,transfer from Infinix Note 30 5G to android,transfer from Infinix Note 30 5G to ipad,transfer from android to iphone,transfer from Infinix Note 30 5G to iphone,transfer from android to ipad,transfer from android to pc,transfer from Infinix Note 30 5G to mac,transfer from Infinix Note 30 5G to pc
-thumbnail: https://www.lifewire.com/thmb/MgXYGqoMMbFkRcMCb9oaCyNjJGE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6g-4717cafbb03b4d0eb3dae878b5ad134e.png
+thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
 ---
 
 ## How to Transfer Photos from Infinix Note 30 5G to Laptop Without USB
@@ -226,7 +226,7 @@ The Device Switch app is very reliable. But, there is one downside. You cannot t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 How to Transfer Data from Infinix Note 30 5G to BlackBerry With 1-Click
 

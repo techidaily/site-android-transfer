@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Music from Honor X50 GT to iPod | Dr.fone
-date: 2024-05-19T18:55:09.648Z
-updated: 2024-05-20T18:55:09.648Z
+date: 2024-06-18T02:02:16.293Z
+updated: 2024-06-19T02:02:16.293Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Music from Honor X50 GT to iPod
 excerpt: This article describes How to Transfer Music from Honor X50 GT to iPod
 keywords: transfer from Honor X50 GT to pc,transfer from Honor X50 GT to android,transfer from Honor X50 GT to ipad,transfer from android to ipad,transfer from android to iphone,transfer from android to mac,transfer from android to android
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## How to Transfer Music from Honor X50 GT to iPod
@@ -100,7 +100,7 @@ The software is designed with a user-friendly interface, ensuring that even thos
 
 
 
-### [Dr.Fone Basic](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone Basic
 
 Backup & Restore iOS Data Turns Flexible.
 

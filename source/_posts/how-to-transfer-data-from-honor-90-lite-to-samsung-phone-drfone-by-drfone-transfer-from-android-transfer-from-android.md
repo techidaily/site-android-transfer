@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Honor 90 Lite to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:06.343Z
-updated: 2024-05-20T18:55:06.343Z
+date: 2024-06-18T02:01:06.746Z
+updated: 2024-06-19T02:01:06.746Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Honor 90 Lite to Samsung Phone
 excerpt: This article describes How to Transfer Data from Honor 90 Lite to Samsung Phone
 keywords: transfer from Honor 90 Lite to iphone,transfer from Honor 90 Lite to pc,transfer from android to ipad,transfer from Honor 90 Lite to ipad,transfer from Honor 90 Lite to android,transfer from android to iphone,transfer from Honor 90 Lite to mac,transfer from android to mac,transfer from android to android,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## How to Transfer Data from Honor 90 Lite to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from Honor 90 Lite to iPhone
 
@@ -146,7 +146,7 @@ One of the most popular toolkit to transfer contacts from Honor 90 Lite to Other
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
@@ -304,7 +304,7 @@ To sync Android to Outlook, I highly recommend an Android manager: [Dr.Fone - Ph
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (Android)
 
 One Stop Solution to Transfer Contacts from Honor 90 Lite to Outlook
 

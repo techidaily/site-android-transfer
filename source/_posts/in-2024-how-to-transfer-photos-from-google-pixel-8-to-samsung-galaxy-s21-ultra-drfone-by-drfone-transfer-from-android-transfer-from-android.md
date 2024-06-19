@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Google Pixel 8 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:34.011Z
-updated: 2024-05-20T18:55:34.011Z
+date: 2024-06-18T02:00:26.771Z
+updated: 2024-06-19T02:00:26.771Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Google Pixel 8 to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Google Pixel 8 to Samsung Galaxy S21 Ultra
 keywords: transfer from Google Pixel 8 to android,transfer from android to pc,transfer from android to iphone,transfer from Google Pixel 8 to pc,transfer from Google Pixel 8 to iphone,transfer from android to android,transfer from android to mac,transfer from Google Pixel 8 to ipad,transfer from Google Pixel 8 to mac,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## How to Transfer Photos From Google Pixel 8 to Samsung Galaxy S21 Ultra

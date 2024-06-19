@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo Y100 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:12.704Z
-updated: 2024-05-20T18:55:12.704Z
+date: 2024-06-18T01:59:45.730Z
+updated: 2024-06-19T01:59:45.730Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Vivo Y100 5G to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Vivo Y100 5G to Samsung Galaxy S21 Ultra
 keywords: transfer from Vivo Y100 5G to android,transfer from Vivo Y100 5G to pc,transfer from Vivo Y100 5G to mac,transfer from android to iphone,transfer from Vivo Y100 5G to iphone,transfer from android to android,transfer from android to mac,transfer from android to ipad,transfer from Vivo Y100 5G to ipad,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## How to Transfer Photos From Vivo Y100 5G to Samsung Galaxy S21 Ultra
@@ -290,7 +290,7 @@ This method is particularly well-suited for streamlined bulk photo transfers, ma
 
 
 
-### [Dr.Fone Basic](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone Basic
 
 Backup & Restore iOS Data Turns Flexible.
 

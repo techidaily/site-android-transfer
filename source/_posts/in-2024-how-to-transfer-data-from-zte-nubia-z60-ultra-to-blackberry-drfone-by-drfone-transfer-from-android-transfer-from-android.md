@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry | Dr.fone
-date: 2024-04-30T02:31:08.892Z
-updated: 2024-05-01T02:31:08.892Z
+date: 2024-06-18T02:02:05.938Z
+updated: 2024-06-19T02:02:05.938Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry
 excerpt: This article describes How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry
 keywords: transfer from ZTE Nubia Z60 Ultra to pc,transfer from android to iphone,transfer from ZTE Nubia Z60 Ultra to android,transfer from android to ipad,transfer from ZTE Nubia Z60 Ultra to iphone,transfer from android to android,transfer from ZTE Nubia Z60 Ultra to mac,transfer from ZTE Nubia Z60 Ultra to ipad,transfer from android to pc,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/Qyfd5yWYmuBE75uyOeLeSQxzUMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-movies-on-hulu-right-now-5025149-3c80b5664f6541b4a0698333fc447251.jpg
+thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
 ## How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry
@@ -70,7 +70,7 @@ The Device Switch app is very reliable. But, there is one downside. You cannot t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry With 1-Click
 
@@ -111,7 +111,7 @@ One of the best ways to synchronize contacts from the phone to Gmail is to use a
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Dr.Fone - Phone Manager (Android)
 
 One-Stop Solution to Sync Contacts from ZTE Nubia Z60 Ultra to Gmail
 
@@ -311,7 +311,7 @@ Some of the pros of Dr.Fone - Phone Transfer are as follows:
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 1-Click Phone-to-Phone Transfer
 

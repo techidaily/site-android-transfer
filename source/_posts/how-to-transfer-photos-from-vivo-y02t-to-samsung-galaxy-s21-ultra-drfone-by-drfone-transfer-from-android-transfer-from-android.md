@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo Y02T to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:12.699Z
-updated: 2024-05-20T18:55:12.699Z
+date: 2024-06-18T02:00:44.666Z
+updated: 2024-06-19T02:00:44.666Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Vivo Y02T to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Vivo Y02T to Samsung Galaxy S21 Ultra
 keywords: transfer from android to pc,transfer from android to iphone,transfer from android to android,transfer from android to mac,transfer from Vivo Y02T to mac,transfer from Vivo Y02T to iphone,transfer from android to ipad,transfer from Vivo Y02T to pc,transfer from Vivo Y02T to ipad,transfer from Vivo Y02T to android
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## How to Transfer Photos From Vivo Y02T to Samsung Galaxy S21 Ultra
@@ -114,7 +114,7 @@ One of the best ways to synchronize contacts from the phone to Gmail is to use a
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Dr.Fone - Phone Manager (Android)
 
 One-Stop Solution to Sync Contacts from Vivo Y02T to Gmail
 

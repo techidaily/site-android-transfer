@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Nokia C12 to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:55:11.105Z
-updated: 2024-05-20T18:55:11.105Z
+date: 2024-06-18T02:01:54.422Z
+updated: 2024-06-19T02:01:54.422Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Nokia C12 to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Nokia C12 to Laptop Without USB
 keywords: transfer from android to mac,transfer from Nokia C12 to android,transfer from android to ipad,transfer from android to pc,transfer from Nokia C12 to iphone,transfer from Nokia C12 to pc,transfer from Nokia C12 to ipad,transfer from android to android,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## How to Transfer Photos from Nokia C12 to Laptop Without USB
@@ -270,7 +270,7 @@ Yes – you have read it right. You can learn how to send music from Nokia C12 t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer music from Nokia C12 to iPhone in 1 Click!
 
@@ -309,7 +309,7 @@ Another user-friendly way to learn how to send music from Nokia C12 to iPhone is
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (Android)
 
 Transfer Media from Nokia C12 to iPhone/iTunes
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Hot 30i to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:10.559Z
-updated: 2024-05-20T18:55:10.559Z
+date: 2024-06-18T02:01:16.074Z
+updated: 2024-06-19T02:01:16.074Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Infinix Hot 30i to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Infinix Hot 30i to Samsung Galaxy S21 Ultra
 keywords: transfer from android to android,transfer from android to mac,transfer from Infinix Hot 30i to ipad,transfer from Infinix Hot 30i to pc,transfer from android to ipad,transfer from Infinix Hot 30i to android,transfer from android to pc,transfer from android to iphone,transfer from Infinix Hot 30i to iphone,transfer from Infinix Hot 30i to mac
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## How to Transfer Photos From Infinix Hot 30i to Samsung Galaxy S21 Ultra
@@ -188,7 +188,7 @@ The software is designed with a user-friendly interface, ensuring that even thos
 
 
 
-### [Dr.Fone Basic](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone Basic
 
 Backup & Restore iOS Data Turns Flexible.
 

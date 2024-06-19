@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Infinix Note 30 5G to New Android? | Dr.fone
-date: 2024-05-19T18:56:08.167Z
-updated: 2024-05-20T18:56:08.167Z
+date: 2024-06-18T02:00:17.052Z
+updated: 2024-06-19T02:00:17.052Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Infinix Note 30 5G to New Android?
 excerpt: This article describes How to Transfer Photos from Infinix Note 30 5G to New Android?
 keywords: transfer from android to pc,transfer from android to android,transfer from Infinix Note 30 5G to mac,transfer from android to mac,transfer from android to iphone,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## How to Transfer Photos from Infinix Note 30 5G to New Android?
@@ -28,7 +28,7 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
@@ -382,7 +382,7 @@ Some of the pros of Dr.Fone - Phone Transfer are as follows:
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 1-Click Phone-to-Phone Transfer
 

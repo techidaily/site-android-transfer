@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus Nord 3 5G to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:07.295Z
-updated: 2024-05-20T18:55:07.295Z
+date: 2024-06-18T02:02:15.136Z
+updated: 2024-06-19T02:02:15.136Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from OnePlus Nord 3 5G to Samsung Phone
 excerpt: This article describes How to Transfer Data from OnePlus Nord 3 5G to Samsung Phone
 keywords: transfer from android to ipad,transfer from android to pc,transfer from OnePlus Nord 3 5G to iphone,transfer from android to mac,transfer from android to android,transfer from OnePlus Nord 3 5G to ipad,transfer from OnePlus Nord 3 5G to mac,transfer from OnePlus Nord 3 5G to android
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## How to Transfer Data from OnePlus Nord 3 5G to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from OnePlus Nord 3 5G to iPhone
 
@@ -146,7 +146,7 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Easily transfer contacts from OnePlus Nord 3 5G to iPhone XS/11
 
@@ -253,7 +253,7 @@ To clone an Android phone in a fast and secure manner, simply take the assistanc
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Photo from OnePlus Nord 3 5G to iPhone in 1 Click Directly!
 

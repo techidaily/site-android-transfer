@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Infinix Note 30 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:10.587Z
-updated: 2024-05-20T18:55:10.587Z
+date: 2024-06-18T02:00:47.699Z
+updated: 2024-06-19T02:00:47.699Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Infinix Note 30 Pro to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Infinix Note 30 Pro to Samsung Galaxy S21 Ultra
 keywords: transfer from Infinix Note 30 Pro to ipad,transfer from android to mac,transfer from android to iphone,transfer from Infinix Note 30 Pro to mac,transfer from Infinix Note 30 Pro to iphone,transfer from android to ipad,transfer from Infinix Note 30 Pro to pc
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## How to Transfer Photos From Infinix Note 30 Pro to Samsung Galaxy S21 Ultra
@@ -192,7 +192,7 @@ Here are the steps on how you can transfer text messages from Infinix Note 30 Pr
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 

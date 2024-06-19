@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Samsung Galaxy S23 Ultra to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:55:19.732Z
-updated: 2024-05-20T18:55:19.732Z
+date: 2024-06-18T01:59:51.866Z
+updated: 2024-06-19T01:59:51.866Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Samsung Galaxy S23 Ultra to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Samsung Galaxy S23 Ultra to iPhone (13/14/15)
 keywords: transfer from Samsung Galaxy S23 Ultra to android,transfer from android to pc,transfer from android to android,transfer from android to mac,transfer from Samsung Galaxy S23 Ultra to mac,transfer from Samsung Galaxy S23 Ultra to ipad,transfer from Samsung Galaxy S23 Ultra to pc,transfer from android to iphone,transfer from Samsung Galaxy S23 Ultra to iphone,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## 5 Ways to Move Contacts From Samsung Galaxy S23 Ultra to iPhone (13/14/15)

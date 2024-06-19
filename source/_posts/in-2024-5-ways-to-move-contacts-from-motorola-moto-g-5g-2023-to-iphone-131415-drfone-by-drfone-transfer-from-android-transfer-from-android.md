@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Move Contacts From Motorola Moto G 5G (2023) to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:55:19.502Z
-updated: 2024-05-20T18:55:19.502Z
+date: 2024-06-18T02:02:00.866Z
+updated: 2024-06-19T02:02:00.866Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Motorola Moto G 5G (2023) to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Motorola Moto G 5G (2023) to iPhone (13/14/15)
 keywords: transfer from Motorola Moto G 5G (2023) to ipad,transfer from android to iphone,transfer from android to pc,transfer from android to ipad,transfer from Motorola Moto G 5G (2023) to android,transfer from android to android,transfer from Motorola Moto G 5G (2023) to iphone
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## 5 Ways to Move Contacts From Motorola Moto G 5G (2023) to iPhone (13/14/15)

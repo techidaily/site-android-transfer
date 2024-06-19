@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y77t to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:55:12.844Z
-updated: 2024-05-20T18:55:12.844Z
+date: 2024-06-18T02:01:38.485Z
+updated: 2024-06-19T02:01:38.485Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Vivo Y77t to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Vivo Y77t to Laptop Without USB
 keywords: transfer from android to iphone,transfer from android to mac,transfer from Vivo Y77t to android,transfer from android to android,transfer from Vivo Y77t to ipad,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/MgXYGqoMMbFkRcMCb9oaCyNjJGE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6g-4717cafbb03b4d0eb3dae878b5ad134e.png
+thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
 ---
 
 ## How to Transfer Photos from Vivo Y77t to Laptop Without USB

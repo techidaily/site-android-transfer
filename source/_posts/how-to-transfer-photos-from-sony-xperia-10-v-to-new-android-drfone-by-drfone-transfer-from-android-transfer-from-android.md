@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Sony Xperia 10 V to New Android? | Dr.fone
-date: 2024-05-19T18:55:12.281Z
-updated: 2024-05-20T18:55:12.281Z
+date: 2024-06-18T02:01:44.563Z
+updated: 2024-06-19T02:01:44.563Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Sony Xperia 10 V to New Android?
 excerpt: This article describes How to Transfer Photos from Sony Xperia 10 V to New Android?
 keywords: transfer from android to android,transfer from Sony Xperia 10 V to android,transfer from Sony Xperia 10 V to pc,transfer from Sony Xperia 10 V to ipad,transfer from android to mac,transfer from Sony Xperia 10 V to iphone,transfer from android to pc,transfer from Sony Xperia 10 V to mac,transfer from android to iphone,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## How to Transfer Photos from Sony Xperia 10 V to New Android?
@@ -28,7 +28,7 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
@@ -170,7 +170,7 @@ One of the most popular toolkit to transfer contacts from Sony Xperia 10 V to Ot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 

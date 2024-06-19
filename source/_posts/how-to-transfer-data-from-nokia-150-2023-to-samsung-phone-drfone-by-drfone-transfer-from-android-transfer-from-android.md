@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia 150 (2023) to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:07.097Z
-updated: 2024-05-20T18:55:07.097Z
+date: 2024-06-18T02:00:30.817Z
+updated: 2024-06-19T02:00:30.817Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Nokia 150 (2023) to Samsung Phone
 excerpt: This article describes How to Transfer Data from Nokia 150 (2023) to Samsung Phone
 keywords: transfer from android to pc,transfer from android to mac,transfer from Nokia 150 (2023) to mac,transfer from android to ipad,transfer from android to android,transfer from Nokia 150 (2023) to iphone,transfer from Nokia 150 (2023) to android,transfer from Nokia 150 (2023) to pc
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## How to Transfer Data from Nokia 150 (2023) to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from Nokia 150 (2023) to iPhone
 
@@ -146,7 +146,7 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages from Nokia 150 (2023) to iPhone like iPhone 15/14/14 Pro (Max)
 

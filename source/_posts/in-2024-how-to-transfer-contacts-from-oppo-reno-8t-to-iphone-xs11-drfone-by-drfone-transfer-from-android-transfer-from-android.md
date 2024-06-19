@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Contacts from Oppo Reno 8T to iPhone XS/11 | Dr.fone
-date: 2024-06-09T02:20:23.868Z
-updated: 2024-06-10T02:20:23.868Z
+date: 2024-06-18T02:00:08.738Z
+updated: 2024-06-19T02:00:08.738Z
 tags: 
   - transfer
 categories:
@@ -26,7 +26,7 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Easily transfer contacts from Oppo Reno 8T to iPhone XS/11
 
