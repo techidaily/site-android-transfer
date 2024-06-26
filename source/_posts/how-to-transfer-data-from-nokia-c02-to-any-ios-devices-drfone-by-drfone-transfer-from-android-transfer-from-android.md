@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C02 to Any iOS Devices | Dr.fone
-date: 2024-05-19T18:55:07.099Z
-updated: 2024-05-20T18:55:07.099Z
+date: 2024-06-25T04:55:17.760Z
+updated: 2024-06-26T04:55:17.760Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Nokia C02 to Any iOS Devices
 excerpt: This article describes How to Transfer Data from Nokia C02 to Any iOS Devices
 keywords: transfer from Nokia C02 to ipad,transfer from android to ipad,transfer from android to android,transfer from android to pc,transfer from android to iphone,transfer from Nokia C02 to android,transfer from Nokia C02 to pc,transfer from Nokia C02 to mac,transfer from Nokia C02 to iphone
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## How to Transfer Data from Nokia C02 to Any iOS Devices
@@ -174,7 +174,7 @@ The archived data is auto-deleted from the PhoneCopy server after one month when
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Data between Android and iPhone in One Click.
 
@@ -504,7 +504,7 @@ Dr.Fone's phone transfer feature makes **switching data from Nokia C02 to iPhone
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 1 Click to Transfer Data From Nokia C02 To iPhone
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Samsung Galaxy A23 5G to Laptop Without USB | Dr.fone
-date: 2024-06-09T02:22:03.960Z
-updated: 2024-06-10T02:22:03.960Z
+date: 2024-06-25T04:55:15.782Z
+updated: 2024-06-26T04:55:15.782Z
 tags: 
   - transfer
 categories:
@@ -292,7 +292,7 @@ Dr.Fone's phone transfer feature makes **switching data from Samsung Galaxy A23 
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 1 Click to Transfer Data From Samsung Galaxy A23 5G To iPhone
 
@@ -347,7 +347,7 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
 

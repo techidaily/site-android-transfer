@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Infinix Hot 30 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:56:04.364Z
-updated: 2024-05-20T18:56:04.364Z
+date: 2024-06-25T04:55:29.258Z
+updated: 2024-06-26T04:55:29.258Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Infinix Hot 30 5G to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Infinix Hot 30 5G to Samsung Galaxy S21 Ultra
 keywords: transfer from Infinix Hot 30 5G to pc,transfer from android to android,transfer from Infinix Hot 30 5G to iphone,transfer from android to mac,transfer from Infinix Hot 30 5G to android,transfer from android to iphone,transfer from android to ipad,transfer from android to pc,transfer from Infinix Hot 30 5G to ipad
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## How to Transfer Photos From Infinix Hot 30 5G to Samsung Galaxy S21 Ultra
@@ -262,7 +262,7 @@ The archived data is auto-deleted from the PhoneCopy server after one month when
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Data between Android and iPhone in One Click.
 
@@ -309,7 +309,7 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Easily transfer contacts from Infinix Hot 30 5G to iPhone XS/11
 

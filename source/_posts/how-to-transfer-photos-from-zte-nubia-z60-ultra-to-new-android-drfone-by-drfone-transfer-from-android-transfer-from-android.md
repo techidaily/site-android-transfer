@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android? | Dr.fone
-date: 2024-05-19T18:55:13.102Z
-updated: 2024-05-20T18:55:13.102Z
+date: 2024-06-25T04:56:18.953Z
+updated: 2024-06-26T04:56:18.953Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android?
 excerpt: This article describes How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android?
 keywords: transfer from ZTE Nubia Z60 Ultra to pc,transfer from ZTE Nubia Z60 Ultra to android,transfer from android to android,transfer from android to iphone,transfer from android to ipad,transfer from android to mac,transfer from android to pc,transfer from ZTE Nubia Z60 Ultra to mac,transfer from ZTE Nubia Z60 Ultra to iphone,transfer from ZTE Nubia Z60 Ultra to ipad
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android?
@@ -28,7 +28,7 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 

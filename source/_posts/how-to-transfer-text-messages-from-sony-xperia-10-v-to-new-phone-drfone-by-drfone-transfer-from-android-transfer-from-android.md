@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Sony Xperia 10 V to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.697Z
-updated: 2024-05-20T18:55:13.697Z
+date: 2024-06-25T04:54:54.064Z
+updated: 2024-06-26T04:54:54.064Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Sony Xperia 10 V to New Phone
 excerpt: This article describes How to Transfer Text Messages from Sony Xperia 10 V to New Phone
 keywords: transfer from Sony Xperia 10 V to android,transfer from android to mac,transfer from Sony Xperia 10 V to iphone,transfer from Sony Xperia 10 V to pc,transfer from Sony Xperia 10 V to mac,transfer from android to android,transfer from Sony Xperia 10 V to ipad,transfer from android to pc,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## How to Transfer Text Messages from Sony Xperia 10 V to New Phone
@@ -24,7 +24,7 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
 
@@ -74,7 +74,7 @@ The transfer of all music files from one Android phone to another with a single 
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Music from Sony Xperia 10 V to Other Android Devices in 1 Click Directly!
 
@@ -115,7 +115,7 @@ Another way to transfer music from Sony Xperia 10 V to Other Android Devices is 
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (Android)
 
 Transfer Android Media to Android Devices Selectively
 
@@ -279,7 +279,7 @@ This method is particularly well-suited for streamlined bulk photo transfers, ma
 
 
 
-### [Dr.Fone Basic](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone Basic
 
 Backup & Restore iOS Data Turns Flexible.
 

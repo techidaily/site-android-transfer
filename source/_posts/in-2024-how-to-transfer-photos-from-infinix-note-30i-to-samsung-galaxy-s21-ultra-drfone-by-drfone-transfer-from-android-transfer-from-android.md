@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Infinix Note 30i to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:56:12.642Z
-updated: 2024-05-20T18:56:12.642Z
+date: 2024-06-25T04:56:20.013Z
+updated: 2024-06-26T04:56:20.013Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Infinix Note 30i to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Infinix Note 30i to Samsung Galaxy S21 Ultra
 keywords: transfer from Infinix Note 30i to pc,transfer from Infinix Note 30i to mac,transfer from Infinix Note 30i to android,transfer from android to pc,transfer from android to android,transfer from Infinix Note 30i to iphone,transfer from android to iphone,transfer from android to mac,transfer from Infinix Note 30i to ipad,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## How to Transfer Photos From Infinix Note 30i to Samsung Galaxy S21 Ultra
@@ -190,7 +190,7 @@ Here are the steps on how you can transfer text messages from Infinix Note 30i t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
@@ -316,7 +316,7 @@ This method is particularly well-suited for streamlined bulk photo transfers, ma
 
 
 
-### [Dr.Fone Basic](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone Basic
 
 Backup & Restore iOS Data Turns Flexible.
 

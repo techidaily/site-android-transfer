@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from OnePlus 12 to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:07.256Z
-updated: 2024-05-20T18:55:07.256Z
+date: 2024-06-25T04:57:14.826Z
+updated: 2024-06-26T04:57:14.826Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from OnePlus 12 to Samsung Phone
 excerpt: This article describes How to Transfer Data from OnePlus 12 to Samsung Phone
 keywords: transfer from android to pc,transfer from OnePlus 12 to pc,transfer from android to ipad,transfer from OnePlus 12 to iphone,transfer from android to android,transfer from OnePlus 12 to ipad,transfer from android to iphone,transfer from OnePlus 12 to android,transfer from android to mac,transfer from OnePlus 12 to mac
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## How to Transfer Data from OnePlus 12 to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from OnePlus 12 to iPhone
 

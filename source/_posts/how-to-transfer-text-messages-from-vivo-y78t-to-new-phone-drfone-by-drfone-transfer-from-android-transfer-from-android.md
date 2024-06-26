@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Vivo Y78t to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.805Z
-updated: 2024-05-20T18:55:13.805Z
+date: 2024-06-25T04:55:38.551Z
+updated: 2024-06-26T04:55:38.551Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Vivo Y78t to New Phone
 excerpt: This article describes How to Transfer Text Messages from Vivo Y78t to New Phone
 keywords: transfer from android to android,transfer from android to iphone,transfer from android to ipad,transfer from Vivo Y78t to iphone,transfer from Vivo Y78t to ipad,transfer from Vivo Y78t to pc,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## How to Transfer Text Messages from Vivo Y78t to New Phone
@@ -24,7 +24,7 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
 

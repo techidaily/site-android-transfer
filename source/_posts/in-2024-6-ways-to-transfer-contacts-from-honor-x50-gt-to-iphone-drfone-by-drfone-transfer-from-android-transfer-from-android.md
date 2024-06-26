@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Ways To Transfer Contacts From Honor X50 GT to iPhone | Dr.fone
-date: 2024-06-09T02:20:10.739Z
-updated: 2024-06-10T02:20:10.739Z
+date: 2024-06-25T04:55:26.223Z
+updated: 2024-06-26T04:55:26.223Z
 tags: 
   - transfer
 categories:
@@ -146,7 +146,7 @@ However, due to the open nature of the Google Android operating system, there ar
 
 
 
-### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Wondershare Dr.Fone
 
 One-Stop Solution for Android USB File Transfer
 
@@ -252,7 +252,7 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages from Honor X50 GT to iPhone like iPhone 15/14/14 Pro (Max)
 

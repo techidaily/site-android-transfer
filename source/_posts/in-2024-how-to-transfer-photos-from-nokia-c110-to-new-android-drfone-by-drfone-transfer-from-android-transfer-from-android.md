@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Nokia C110 to New Android? | Dr.fone
-date: 2024-05-19T18:56:59.406Z
-updated: 2024-05-20T18:56:59.406Z
+date: 2024-06-25T04:54:58.386Z
+updated: 2024-06-26T04:54:58.386Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Nokia C110 to New Android?
 excerpt: This article describes How to Transfer Photos from Nokia C110 to New Android?
 keywords: transfer from android to android,transfer from Nokia C110 to ipad,transfer from Nokia C110 to iphone,transfer from android to iphone,transfer from Nokia C110 to pc,transfer from android to pc,transfer from android to ipad,transfer from Nokia C110 to android,transfer from Nokia C110 to mac,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## How to Transfer Photos from Nokia C110 to New Android?
@@ -28,7 +28,7 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
@@ -174,7 +174,7 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
