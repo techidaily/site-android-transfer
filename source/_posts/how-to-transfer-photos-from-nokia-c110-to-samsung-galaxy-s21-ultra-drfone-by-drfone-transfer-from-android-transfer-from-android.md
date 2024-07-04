@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:11.096Z
-updated: 2024-05-20T18:55:11.096Z
+date: 2024-07-03T18:20:19.922Z
+updated: 2024-07-04T18:20:19.922Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra
 keywords: transfer from Nokia C110 to android,transfer from Nokia C110 to iphone,transfer from android to ipad,transfer from android to pc,transfer from android to android,transfer from Nokia C110 to ipad,transfer from android to mac,transfer from Nokia C110 to pc,transfer from Nokia C110 to mac,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra
@@ -186,7 +186,7 @@ The software is designed with a user-friendly interface, ensuring that even thos
 
 
 
-### [Dr.Fone Basic](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone Basic
 
 Backup & Restore iOS Data Turns Flexible.
 
@@ -256,7 +256,7 @@ To clone an Android phone in a fast and secure manner, simply take the assistanc
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Photo from Nokia C110 to iPhone in 1 Click Directly!
 

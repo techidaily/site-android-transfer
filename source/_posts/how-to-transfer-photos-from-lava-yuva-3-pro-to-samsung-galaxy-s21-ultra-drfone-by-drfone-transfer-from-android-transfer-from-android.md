@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Lava Yuva 3 Pro to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:10.884Z
-updated: 2024-05-20T18:55:10.884Z
+date: 2024-07-03T18:22:49.654Z
+updated: 2024-07-04T18:22:49.654Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Lava Yuva 3 Pro to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Lava Yuva 3 Pro to Samsung Galaxy S21 Ultra
 keywords: transfer from android to pc,transfer from Lava Yuva 3 Pro to mac,transfer from android to iphone,transfer from android to android,transfer from android to ipad,transfer from Lava Yuva 3 Pro to android,transfer from android to mac,transfer from Lava Yuva 3 Pro to ipad,transfer from Lava Yuva 3 Pro to pc,transfer from Lava Yuva 3 Pro to iphone
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How to Transfer Photos From Lava Yuva 3 Pro to Samsung Galaxy S21 Ultra

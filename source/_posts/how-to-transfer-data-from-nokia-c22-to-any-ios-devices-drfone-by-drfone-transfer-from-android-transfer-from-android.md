@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Nokia C22 to Any iOS Devices | Dr.fone
-date: 2024-05-19T18:55:07.137Z
-updated: 2024-05-20T18:55:07.137Z
+date: 2024-07-03T18:21:12.092Z
+updated: 2024-07-04T18:21:12.092Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Nokia C22 to Any iOS Devices
 excerpt: This article describes How to Transfer Data from Nokia C22 to Any iOS Devices
 keywords: transfer from Nokia C22 to mac,transfer from Nokia C22 to ipad,transfer from Nokia C22 to pc,transfer from android to ipad,transfer from android to iphone,transfer from Nokia C22 to iphone
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## How to Transfer Data from Nokia C22 to Any iOS Devices
@@ -174,7 +174,7 @@ The archived data is auto-deleted from the PhoneCopy server after one month when
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Data between Android and iPhone in One Click.
 

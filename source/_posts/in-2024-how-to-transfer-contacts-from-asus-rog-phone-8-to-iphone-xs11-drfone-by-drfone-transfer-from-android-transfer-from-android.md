@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Contacts from Asus ROG Phone 8 to iPhone XS/11 | Dr.fone
-date: 2024-06-09T02:21:49.847Z
-updated: 2024-06-10T02:21:49.847Z
+date: 2024-07-03T18:20:44.347Z
+updated: 2024-07-04T18:20:44.347Z
 tags: 
   - transfer
 categories:
@@ -26,7 +26,7 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Easily transfer contacts from Asus ROG Phone 8 to iPhone XS/11
 

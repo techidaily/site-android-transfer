@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Samsung Galaxy A25 5G to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.642Z
-updated: 2024-05-20T18:55:13.642Z
+date: 2024-07-03T18:23:22.843Z
+updated: 2024-07-04T18:23:22.843Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Samsung Galaxy A25 5G to New Phone
 excerpt: This article describes How to Transfer Text Messages from Samsung Galaxy A25 5G to New Phone
 keywords: transfer from android to pc,transfer from Samsung Galaxy A25 5G to ipad,transfer from android to iphone,transfer from android to android,transfer from android to mac,transfer from Samsung Galaxy A25 5G to mac,transfer from android to ipad,transfer from Samsung Galaxy A25 5G to android,transfer from Samsung Galaxy A25 5G to pc
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## How to Transfer Text Messages from Samsung Galaxy A25 5G to New Phone
@@ -24,7 +24,7 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
 
@@ -76,7 +76,7 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Easily transfer contacts from Samsung Galaxy A25 5G to iPhone XS/11
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Poco C65 to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:55:11.613Z
-updated: 2024-05-20T18:55:11.613Z
+date: 2024-07-03T18:20:49.626Z
+updated: 2024-07-04T18:20:49.626Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Poco C65 to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Poco C65 to Laptop Without USB
 keywords: transfer from Poco C65 to iphone,transfer from android to android,transfer from android to mac,transfer from Poco C65 to android,transfer from Poco C65 to pc,transfer from android to ipad,transfer from Poco C65 to mac,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## How to Transfer Photos from Poco C65 to Laptop Without USB
@@ -441,7 +441,7 @@ Most importantly, the programs transfer data at a very high speed compared to ot
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Move/Transfer Android data from Computer to iPod/iPhone/iPad without iTunes
 

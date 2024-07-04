@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Vivo Y100i to New Android? | Dr.fone
-date: 2024-05-19T18:55:12.724Z
-updated: 2024-05-20T18:55:12.724Z
+date: 2024-07-03T18:21:15.851Z
+updated: 2024-07-04T18:21:15.851Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Vivo Y100i to New Android?
 excerpt: This article describes How to Transfer Photos from Vivo Y100i to New Android?
 keywords: transfer from android to ipad,transfer from android to pc,transfer from android to android,transfer from Vivo Y100i to iphone,transfer from Vivo Y100i to pc,transfer from Vivo Y100i to mac,transfer from Vivo Y100i to ipad,transfer from android to mac,transfer from android to iphone,transfer from Vivo Y100i to android
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## How to Transfer Photos from Vivo Y100i to New Android?
@@ -28,7 +28,7 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
@@ -168,7 +168,7 @@ Yes – you have read it right. You can learn how to send music from Vivo Y100i 
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer music from Vivo Y100i to iPhone in 1 Click!
 
@@ -207,7 +207,7 @@ Another user-friendly way to learn how to send music from Vivo Y100i to iPhone i
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (Android)
 
 Transfer Media from Vivo Y100i to iPhone/iTunes
 
@@ -300,7 +300,7 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
 

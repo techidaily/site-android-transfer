@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Lava Blaze 2 5G to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:06.821Z
-updated: 2024-05-20T18:55:06.821Z
+date: 2024-07-03T18:21:52.749Z
+updated: 2024-07-04T18:21:52.749Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Lava Blaze 2 5G to Samsung Phone
 excerpt: This article describes How to Transfer Data from Lava Blaze 2 5G to Samsung Phone
 keywords: transfer from android to mac,transfer from Lava Blaze 2 5G to mac,transfer from Lava Blaze 2 5G to iphone,transfer from Lava Blaze 2 5G to pc,transfer from android to ipad,transfer from Lava Blaze 2 5G to android,transfer from android to iphone,transfer from android to android,transfer from android to pc,transfer from Lava Blaze 2 5G to ipad
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## How to Transfer Data from Lava Blaze 2 5G to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from Lava Blaze 2 5G to iPhone
 

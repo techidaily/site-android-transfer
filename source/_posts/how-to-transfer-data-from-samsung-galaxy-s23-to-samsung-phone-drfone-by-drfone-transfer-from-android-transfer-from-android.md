@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Samsung Galaxy S23 to Samsung Phone | Dr.fone
-date: 2024-05-19T18:55:08.247Z
-updated: 2024-05-20T18:55:08.247Z
+date: 2024-07-03T18:20:50.769Z
+updated: 2024-07-04T18:20:50.769Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Samsung Galaxy S23 to Samsung Phone
 excerpt: This article describes How to Transfer Data from Samsung Galaxy S23 to Samsung Phone
 keywords: transfer from Samsung Galaxy S23 to android,transfer from Samsung Galaxy S23 to mac,transfer from Samsung Galaxy S23 to ipad,transfer from android to mac,transfer from android to pc,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## How to Transfer Data from Samsung Galaxy S23 to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from Samsung Galaxy S23 to iPhone
 
@@ -148,7 +148,7 @@ To clone an Android phone in a fast and secure manner, simply take the assistanc
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Photo from Samsung Galaxy S23 to iPhone in 1 Click Directly!
 
@@ -328,13 +328,13 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages from Samsung Galaxy S23 to iPhone like iPhone 15/14/14 Pro (Max)
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e iOS to Android.
-- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices.
 - Works for all models of iPhone, iPad, and iPod.

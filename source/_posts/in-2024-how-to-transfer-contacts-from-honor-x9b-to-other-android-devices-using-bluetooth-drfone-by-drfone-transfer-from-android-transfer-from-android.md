@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Contacts from Honor X9b to Other Android Devices Using Bluetooth? | Dr.fone
-date: 2024-06-18T02:02:29.801Z
-updated: 2024-06-19T02:02:29.801Z
+date: 2024-07-03T18:21:42.506Z
+updated: 2024-07-04T18:21:42.506Z
 tags: 
   - transfer
 categories:
@@ -189,7 +189,7 @@ These advanced capabilities make Wondershare Dr.Fone an all-in-one phone manager
 
 Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung device to a Pixel 8/Pixel 8 Pro:
 
-1. Download Wondershare Dr.Fone from [the official website](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)and launch it on your PC.
+1. Download Wondershare Dr.Fone from [the official website](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and launch it on your PC.
 2. Connect the Samsung and the Pixel 8/Pixel 8 Pro phones to the PC.
 3. Navigate to **Toolbox > Phone Transfer**.
 

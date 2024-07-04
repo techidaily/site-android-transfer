@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos from Motorola Moto G04 to Laptop Without USB | Dr.fone
-date: 2024-05-19T18:55:11.013Z
-updated: 2024-05-20T18:55:11.013Z
+date: 2024-07-03T18:20:44.323Z
+updated: 2024-07-04T18:20:44.323Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos from Motorola Moto G04 to Laptop Without USB
 excerpt: This article describes How to Transfer Photos from Motorola Moto G04 to Laptop Without USB
 keywords: transfer from android to pc,transfer from android to android,transfer from android to iphone,transfer from Motorola Moto G04 to android,transfer from android to ipad,transfer from Motorola Moto G04 to ipad,transfer from android to mac,transfer from Motorola Moto G04 to mac,transfer from Motorola Moto G04 to pc,transfer from Motorola Moto G04 to iphone
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## How to Transfer Photos from Motorola Moto G04 to Laptop Without USB

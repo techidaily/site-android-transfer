@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Smart 8 HD to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.236Z
-updated: 2024-05-20T18:55:13.236Z
+date: 2024-07-03T18:21:15.794Z
+updated: 2024-07-04T18:21:15.794Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Infinix Smart 8 HD to New Phone
 excerpt: This article describes How to Transfer Text Messages from Infinix Smart 8 HD to New Phone
 keywords: transfer from android to ipad,transfer from Infinix Smart 8 HD to mac,transfer from android to pc,transfer from Infinix Smart 8 HD to iphone,transfer from Infinix Smart 8 HD to pc,transfer from android to iphone,transfer from Infinix Smart 8 HD to ipad
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## How to Transfer Text Messages from Infinix Smart 8 HD to New Phone
@@ -24,7 +24,7 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
 
@@ -76,7 +76,7 @@ One of the best ways to synchronize contacts from the phone to Gmail is to use a
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Dr.Fone - Phone Manager (Android)
 
 One-Stop Solution to Sync Contacts from Infinix Smart 8 HD to Gmail
 
@@ -231,7 +231,7 @@ These advanced capabilities make Wondershare Dr.Fone an all-in-one phone manager
 
 Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung device to a Pixel 8/Pixel 8 Pro:
 
-1. Download Wondershare Dr.Fone from [the official website](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)and launch it on your PC.
+1. Download Wondershare Dr.Fone from [the official website](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and launch it on your PC.
 2. Connect the Samsung and the Pixel 8/Pixel 8 Pro phones to the PC.
 3. Navigate to **Toolbox > Phone Transfer**.
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From OnePlus Open to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-06-18T02:03:03.479Z
-updated: 2024-06-19T02:03:03.479Z
+date: 2024-07-03T18:23:18.392Z
+updated: 2024-07-04T18:23:18.392Z
 tags: 
   - transfer
 categories:
@@ -174,7 +174,7 @@ Some of the pros of Dr.Fone - Phone Transfer are as follows:
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e. iOS to Android.
-- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 

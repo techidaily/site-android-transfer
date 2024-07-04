@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Text Messages from Infinix Smart 8 to New Phone | Dr.fone
-date: 2024-05-19T18:55:13.241Z
-updated: 2024-05-20T18:55:13.241Z
+date: 2024-07-03T18:21:59.168Z
+updated: 2024-07-04T18:21:59.168Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Text Messages from Infinix Smart 8 to New Phone
 excerpt: This article describes How to Transfer Text Messages from Infinix Smart 8 to New Phone
 keywords: transfer from android to pc,transfer from Infinix Smart 8 to iphone,transfer from android to ipad,transfer from Infinix Smart 8 to pc,transfer from Infinix Smart 8 to mac,transfer from Infinix Smart 8 to android
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## How to Transfer Text Messages from Infinix Smart 8 to New Phone
@@ -24,7 +24,7 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
 
@@ -183,7 +183,7 @@ Most importantly, the programs transfer data at a very high speed compared to ot
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Move/Transfer Android data from Computer to iPod/iPhone/iPad without iTunes
 
@@ -299,7 +299,7 @@ The Device Switch app is very reliable. But, there is one downside. You cannot t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 How to Transfer Data from Infinix Smart 8 to BlackBerry With 1-Click
 

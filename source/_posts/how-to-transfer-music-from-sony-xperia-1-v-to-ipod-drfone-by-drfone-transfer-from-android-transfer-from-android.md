@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Music from Sony Xperia 1 V to iPod | Dr.fone
-date: 2024-05-19T18:55:09.997Z
-updated: 2024-05-20T18:55:09.997Z
+date: 2024-07-03T18:23:22.867Z
+updated: 2024-07-04T18:23:22.867Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Music from Sony Xperia 1 V to iPod
 excerpt: This article describes How to Transfer Music from Sony Xperia 1 V to iPod
 keywords: transfer from android to ipad,transfer from Sony Xperia 1 V to pc,transfer from android to mac,transfer from android to iphone,transfer from Sony Xperia 1 V to mac,transfer from Sony Xperia 1 V to iphone,transfer from android to pc,transfer from Sony Xperia 1 V to ipad,transfer from Sony Xperia 1 V to android
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## How to Transfer Music from Sony Xperia 1 V to iPod
@@ -100,7 +100,7 @@ The software is designed with a user-friendly interface, ensuring that even thos
 
 
 
-### [Dr.Fone Basic](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone Basic
 
 Backup & Restore iOS Data Turns Flexible.
 
@@ -166,7 +166,7 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Easily transfer contacts from Sony Xperia 1 V to iPhone XS/11
 

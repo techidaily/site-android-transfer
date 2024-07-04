@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data After Switching From Infinix Note 30 5G to Latest Samsung | Dr.fone
-date: 2024-06-09T02:19:20.348Z
-updated: 2024-06-10T02:19:20.348Z
+date: 2024-07-03T18:20:07.675Z
+updated: 2024-07-04T18:20:07.675Z
 tags: 
   - transfer
 categories:
@@ -213,7 +213,7 @@ One of the best ways to synchronize contacts from the phone to Gmail is to use a
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Dr.Fone - Phone Manager (Android)
 
 One-Stop Solution to Sync Contacts from Infinix Note 30 5G to Gmail
 

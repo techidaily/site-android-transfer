@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo S17 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:12.494Z
-updated: 2024-05-20T18:55:12.494Z
+date: 2024-07-03T18:22:29.064Z
+updated: 2024-07-04T18:22:29.064Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Vivo S17 to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Vivo S17 to Samsung Galaxy S21 Ultra
 keywords: transfer from Vivo S17 to mac,transfer from Vivo S17 to ipad,transfer from Vivo S17 to android,transfer from android to mac,transfer from android to ipad,transfer from android to android,transfer from android to iphone,transfer from Vivo S17 to iphone,transfer from Vivo S17 to pc,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## How to Transfer Photos From Vivo S17 to Samsung Galaxy S21 Ultra
@@ -198,7 +198,7 @@ One of the best ways to synchronize contacts from the phone to Gmail is to use a
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
+### Dr.Fone - Phone Manager (Android)
 
 One-Stop Solution to Sync Contacts from Vivo S17 to Gmail
 

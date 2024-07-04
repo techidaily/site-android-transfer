@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from Vivo Y100A to Samsung Phone | Dr.fone
-date: 2024-04-12T02:14:52.685Z
-updated: 2024-04-13T02:14:52.685Z
+date: 2024-07-03T18:21:40.379Z
+updated: 2024-07-04T18:21:40.379Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo Y100A to Samsung Phone
 excerpt: This article describes How to Transfer Data from Vivo Y100A to Samsung Phone
 keywords: transfer from Vivo Y100A to android,transfer from android to iphone,transfer from android to pc,transfer from Vivo Y100A to ipad,transfer from android to mac,transfer from android to ipad,transfer from Vivo Y100A to mac,transfer from Vivo Y100A to iphone
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## How to Transfer Data from Vivo Y100A to Samsung Phone
@@ -24,7 +24,7 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Migrate all data from Motorola to Samsung quickly
 
@@ -68,7 +68,7 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from Vivo Y100A to iPhone
 
@@ -146,7 +146,7 @@ One of the most popular toolkit to transfer contacts from Vivo Y100A to Other An
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 

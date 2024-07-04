@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Vivo Y78t to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:09.333Z
-updated: 2024-05-20T18:55:09.333Z
+date: 2024-07-03T18:22:06.905Z
+updated: 2024-07-04T18:22:06.905Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Data from Vivo Y78t to BlackBerry
 excerpt: This article describes How to Transfer Data from Vivo Y78t to BlackBerry
 keywords: transfer from android to iphone,transfer from android to mac,transfer from Vivo Y78t to pc,transfer from Vivo Y78t to android,transfer from android to android,transfer from android to ipad,transfer from Vivo Y78t to ipad,transfer from android to pc,transfer from Vivo Y78t to iphone
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## How to Transfer Data from Vivo Y78t to BlackBerry
@@ -70,7 +70,7 @@ The Device Switch app is very reliable. But, there is one downside. You cannot t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 How to Transfer Data from Vivo Y78t to BlackBerry With 1-Click
 
@@ -191,7 +191,7 @@ Here are the steps on how you can transfer text messages from Vivo Y78t to Other
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
@@ -261,7 +261,7 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Easily transfer contacts from Vivo Y78t to iPhone XS/11
 
