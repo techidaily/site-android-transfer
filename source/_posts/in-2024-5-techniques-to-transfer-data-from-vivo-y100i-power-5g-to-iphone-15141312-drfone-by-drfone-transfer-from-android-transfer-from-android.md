@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Vivo Y100i Power 5G to iPhone 15/14/13/12 | Dr.fone
-date: 2024-05-19T18:55:19.251Z
-updated: 2024-05-20T18:55:19.251Z
+date: 2024-07-17T21:54:51.484Z
+updated: 2024-07-18T21:54:51.484Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Techniques to Transfer Data from Vivo Y100i Power 5G to iPhone 15/14/13/12
 excerpt: This article describes 5 Techniques to Transfer Data from Vivo Y100i Power 5G to iPhone 15/14/13/12
 keywords: transfer from Vivo Y100i Power 5G to android,transfer from android to android,transfer from Vivo Y100i Power 5G to iphone,transfer from android to iphone,transfer from android to mac,transfer from android to pc,transfer from Vivo Y100i Power 5G to mac,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## 5 Techniques to Transfer Data from Vivo Y100i Power 5G to iPhone 15/14/13/12
@@ -29,14 +29,23 @@ It’s probably true to say that data migration is a major procedure. It’s not
 
 The size of files being transferred affects the process in general. This is because the Vivo Y100i Power 5G device on the receiving end needs to allocate the data individually to the available space. That’s why the procedure often takes some time to complete if the volume of files is quite large. On the hand one hand, data migration gets completed in a snap if the file size is smaller.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### File Type
 
 The type of files involved in the data transfer is also a factor. Why so? The simplest explanation is that compatibility matters a lot in any form of file transfer. For instance, the procedure will likely fail if the receiver’s device does not support the data you’re trying to send. But don’t worry. There are lots of methods to transfer data from Vivo Y100i Power 5G to iPhone 15 if your first try doesn’t work out.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Device Storage
 
 Device storage is definitely the first thing you should check before going ahead with the data transfer. It is important that the receiver’s device has adequate memory to accommodate the incoming files. Otherwise, the transfer will likely not push through.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Operating Systems
 
 Migrating files between two smartphones with the same operating system is convenient. It’s because these two devices share an identical data-sharing structure. On the one hand, data migration between two smartphones with different operating systems is almost similar to the former. It’s just that the steps for the latter are quite longer. But don’t sweat it. There are many tutorials that can help you transfer data from Vivo Y100i Power 5G to iPhone 15 conveniently.
@@ -45,6 +54,9 @@ Migrating files between two smartphones with the same operating system is conven
 
 Sharing files between Android and iOS smartphones has become a lot easier today than ever before. In fact, you can actually complete the entire process in just a matter of minutes. No need for any advanced intervention or external assistance. Just initiate the specific technique that perfectly matches your circumstances. With that said, listed below are the top five methods to transfer data from Vivo Y100i Power 5G to iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Transfer contacts from Vivo Y100i Power 5G to iPhone 15 using iCloud
 
 Do you need to transfer contacts from Vivo Y100i Power 5G to iPhone 15? Well, you can easily do that by importing your Android contacts to iCloud. Don’t worry. The steps are very simple. Here’s how to do it quickly and easily.
@@ -61,6 +73,9 @@ Do you need to transfer contacts from Vivo Y100i Power 5G to iPhone 15? Well, yo
 - **Step 4:** Choose the specific account that contains the contact list you want to export.
 - **Step 5:** Then, click **Save.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-3.jpg)
 
 - **Step 6:** Launch the **Browser** app on your Vivo Y100i Power 5G smartphone.
@@ -77,6 +92,9 @@ Google Photos is not just a mere gallery application that allows users to view m
 - **Step 1:** Go to the **Google Photos** application on your Vivo Y100i Power 5G smartphone.
 - **Step 2:** Click your **Profile** icon at the top-right corner of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![profile icon](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-5.jpg)
 
 - **Step 3:** Click **Back Up Now.** At this point, Google Photos will back up your local photos to the Google servers.
@@ -92,11 +110,26 @@ Do you use Gmail to manage your emails and organize your calendar appointments? 
 - **Step 1:** Go to the **Settings** app on your iPhone 15.
 - **Step 2:** Click **Mail.**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mail iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-7.jpg)
 
 - **Step 3:** Click **Accounts.** Right after, click **Add Account.**
 - **Step 4:** Select **Google.** From there, log in to your Gmail account.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google account](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-8.jpg)
 
 - **Step 5:** Toggle on the radio button next to **Mail** and **Calendar.**
@@ -112,20 +145,32 @@ Move to iOS is a mobile application that automates data migration between Androi
 - **Step 1:** On your Vivo Y100i Power 5G, install the Move to iOS application from Google Playstore.
 - **Step 2:** While the application is being downloaded on your Android smartphone, start setting up your new iPhone 15. On the App & Data screen, select **Move Data From Android.**
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-10.jpg)
 
 - **Step 3:** Get back to your Vivo Y100i Power 5G smartphone and then launch the newly installed Move to iOS application.
 - **Step 4:** Read Apple’s Terms and Conditions. Right after, click **Agree** to proceed.
 - **Step 5:** Click **Continue.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-11.jpg)
 
 - **Step 6:** On the Find Your Code page, click **Continue** to connect your Vivo Y100i Power 5G to your new iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-12.jpg)
 
 - **Step 7:** Find the unique code displayed on your iPhone 15 screen. Then, enter it into your Vivo Y100i Power 5G smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![type in code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-13.jpg)
 
 - **Step 8:** Choose the files you want to transfer. After that, initiate the process. Wait until all the files have been transferred to your new iPhone 15.
@@ -140,10 +185,16 @@ There’s no denying that the first four methods are all effective in this regar
 - **Step 2:** Launch the newly installed Wondershare Dr.Fone on your desktop. Once it fully loads up, connect your Vivo Y100i Power 5G and iPhone 15 using a data cable.
 - **Step 3:** Go to the left-side panel and then click **Toolbox.** Choose **Phone Transfer** among the provided options on the main dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 4:** Wondershare Dr.Fone will then ask you to nominate a **Source** and a **Target** from your two mobile devices. Set the Vivo Y100i Power 5G as the former and the iPhone 15 as the latter. Alternatively, click the **Flip** button to modify the direction of the transfer based on your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![source and target](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 - **Step 5:** Select the specific categories of files you want to transfer. Right after, click **Start Transfer** to proceed.
@@ -156,6 +207,9 @@ There’s no denying that the first four methods are all effective in this regar
 
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
 ## How to Back Up Your Vivo Y100i Power 5G Before the Transfer
@@ -185,6 +239,9 @@ Data migration is the least of your concerns when switching to a new smartphone.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8 Ways to Transfer Photos from Vivo Y100i Power 5G to iPhone Easily
 
 Transferring photos from an Android device to an iPhone might seem daunting, given the differences in their operating systems. However, it doesn't have to be a complicated process. In this guide, we'll explore easy and efficient methods to transfer your cherished photos smoothly, ensuring that your memories remain intact during the transition from the Android to the iOS ecosystem. Whether you're switching to an iPhone, sharing photos with a friend, or simply looking to create a backup, we've got you covered with practical solutions.
@@ -193,6 +250,9 @@ Let's simplify the process of transferring your photos and keep your precious mo
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/84HUpsWS7A4"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Transfer Photos from Vivo Y100i Power 5G to iPhone in One Click?
 
 If you are confused over which method you should choose for transferring photos from Vivo Y100i Power 5G to iPhone, then compare the quality and the quickness of the selected mode. Well, to be frank, the tool that qualifies all these criteria is the Dr.Fone toolkit, which is a comprehensive solution that is well designed to tackle all mobile-related issues and tasks.
@@ -205,6 +265,9 @@ Dr.Fone is perfect because you can transfer across multiple devices regardless o
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Photo from Vivo Y100i Power 5G to iPhone in 1 Click Directly!
@@ -221,6 +284,9 @@ Let us see the steps on how to transfer photos from Vivo Y100i Power 5G to iPhon
 
 **Step 1.** Download and install Dr.Fone toolkit and launch it. Then select the "Phone Transfer" option from the main interface.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Now, connect your Android and iPhone to the computer. As soon as you connect the Vivo Y100i Power 5G device, it will start recognizing it and mention it as the ‘Source’ phone or ‘Target’ phone accordingly. In this case, make sure the Android phone is the Source and the iPhone is the Target. You can change their position using the Flip button.
@@ -229,6 +295,9 @@ Let us see the steps on how to transfer photos from Vivo Y100i Power 5G to iPhon
 
 **Step 3.** Finally, select the files you want to transfer (photos) and click on ‘Start Transfer.’ That was it. Soon, it will transfer pictures from Vivo Y100i Power 5G to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 
@@ -257,6 +326,9 @@ Here, either you can select the photos that you wish to transfer selectively or 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Transfer Photos from Vivo Y100i Power 5G to iPhone Using Move to iOS App
 
 Now, to answer **how to transfer photos from Vivo Y100i Power 5G to iPhone**, there is another simple solution that you can make use of. It is called the “Move to iOS app,” which you can download freely from the Google Play store.
@@ -320,6 +392,9 @@ Now, move to your iPhone.
 
 **Step 2:** Here, download and install the Google Drive app onto your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-install the Google Drive app](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-12.jpg)
 
 **Step 3:** Open the Drive (you must log in with the same Google ID). There you will see all the uploaded media files (Photos). Now, select ‘Save Image’ or ‘Save Video’ depending on your file type.
@@ -328,12 +403,18 @@ This way takes some manual steps. If you want a one-click solution, try [Dr.Fone
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. How to Transfer Photos from Vivo Y100i Power 5G to iPhone Via Email?
 
 Employing email represents a simple technique for sending a restricted set of photos from an Android device to an iPhone. Nevertheless, it might not be the optimal option for transferring a large assortment of high-resolution images. Still, it acts as a swift solution for exchanging a few pictures. Here is a comprehensive guide illustrating the process of sending photos from an Android device to an iPhone via email:
 
 **Step 1:** Launch the email app on your Vivo Y100i Power 5G and tap the compose or new email button to start a new email. Enter your email address or the recipient's email address in the "To" field.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ add email and other details](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-1.jpg)
 
 **Step 2:** Look for the “Attachment” icon (usually a paperclip) and select the photos you want to transfer. Attach the selected photos to the email, and once the photos are attached, click the “Send” button.
@@ -344,10 +425,16 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 ![receive on other end and download](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6: Top 3 Android to iPhone Photo Transfer Apps
 
 Several apps are specifically designed for storing and transferring images from an Android device to an iPhone. We have found the three best apps based on ease of use and accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### PhotoSync
 
 PhotoSync is a free photo-sharing app available on both Android and iOS devices. The app lets you store all your photos on one device and then transfer it to another device through Wi-Fi. PhotoSync is designed to work with several methods besides Android and iOS devices. It works on different platforms, including desktop computers, NAS, and Cloud Services.
@@ -356,6 +443,9 @@ You can extract videos and photos directly from the camera and transfer them to 
 
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Photo Transfer
 
 The photo transfer app is incredibly popular and with a good reason. You can perform Android to iPhone photo transfer without any cables. You can access Photo Transfer on different platforms, including desktop computers. It allows you to access your photos stored on the app via a web browser. You can easily download multiple images for storage and exchange these photos across various platforms. If you need an intuitive, easy-to-use app to **send photos from Vivo Y100i Power 5G to iPhone** then consider using the Photo Transfer app.
@@ -368,6 +458,9 @@ Shareit is a specialized application developed to transfer files between two dev
 
 The best part of Shareit is the freedom allowed to users because you can transfer different file types besides photos. Hence, if you are wondering how to transfer video from Vivo Y100i Power 5G to iPhone, then Shareit is your answer. The software is continuously being updated to make sure it is safe. Therefore, if users need to transfer more than just photos like sensitive information, they can rest assured about Shareit’s reliability.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-Shareit](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-15.jpg)
 
 Thus, after going through the article, we are sure that you have a wide range of options to choose from to transfer your Vivo Y100i Power 5G photos to the iPhone. Well, every method is excellent in itself; however, we would like to say that one of the best options for you would be the Dr.Fone tool without a doubt.
@@ -382,6 +475,9 @@ _You switch from an Android device to an iPhone but can’t find an ideal soluti
 
 Welcome to the club! A while back, I was facing the same issue as iOS devices come with numerous restrictions. Unlike an Android to Android transfer, it can be tough to move music [from Android to a new iPhone](https://drfone.wondershare.com/transfer-to-new-iphone.html), such as iPhone 13. Thankfully, I discovered some quick fixes for this problem, which I’m going to share with all of you right here. Read on and learn how to transfer music from Vivo Y100i Power 5G to iPhone in 4 surefire ways.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to transfer music from Vivo Y100i Power 5G to iPhone, including in 1 click?
 
 Yes – you have read it right. You can learn how to send music from Vivo Y100i Power 5G to iPhone using [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) with just one click. This remarkable tool by Dr.Fone can help you switch from one device to another in a few minutes. A highly advanced tool, it supports data transfer between Android and iPhone, iPhone and iPhone, and Android and Android. Since a cross-platform data transfer is supported, you won’t face any trouble moving music from Vivo Y100i Power 5G to iPod, iPad, or iPhone.
@@ -404,6 +500,9 @@ A user-friendly tool is compatible with most Android and iOS devices. The deskto
 
 1. Firstly, launch the Dr.Fone toolkit on your computer and go to the “Switch” option from its welcome screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![how to transfer music from android to iPhone-go to switch option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2. Now, you need to connect two devices to the system. Once the Vivo Y100i Power 5G devices are detected, authenticate them and select the media transfer option.
@@ -413,6 +512,9 @@ A user-friendly tool is compatible with most Android and iOS devices. The deskto
 
 4. Choose the data that you would like to transfer. To move music from Vivo Y100i Power 5G to iPhone, make sure the option of “Music” is enabled before clicking on the “Start Transfer” button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![how to transfer music from android to iphone-Start Transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 5. As Dr.Fone - Phone Transfer will move the selected data from Vivo Y100i Power 5G to iPhone, wait for a while. Once it is completed, you will be notified.
@@ -427,6 +529,9 @@ Another user-friendly way to learn how to send music from Vivo Y100i Power 5G to
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
 Transfer Media from Vivo Y100i Power 5G to iPhone/iTunes
@@ -443,6 +548,9 @@ Since it is a complete Android phone manager, you can use it to transfer all the
 
 1. Install and open the Dr.Fone toolkit on your computer and click on the “Phone Manager” option from the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![how to transfer music from android to iphone-click on transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2. Connect both Android phones and iPhone to software and let them be detected automatically. From the top-left option, make sure you have selected your Vivo Y100i Power 5G as a default/source device. The interface will provide its snapshot with some shortcuts.
@@ -470,6 +578,9 @@ If you use a Mac, then you can use Android File Transfer to move your data from 
 2. Now, connect your Vivo Y100i Power 5G to your Mac and launch Android File Transfer (if it won’t automatically launch already).
 3. Go to the Music folder, copy your favorite songs, and save them to your Mac. After that, you can transfer music from your Vivo Y100i Power 5G to your Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
     ![how to transfer music from android to iPhone-Go to the Music folder](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-iphone-1.jpg)
 
 4. Great! You are halfway there. Launch iTunes on your Mac and add the newly transferred music to it. You can drag and drop it from the Finder to iTunes. Alternatively, you can also go to its options and click on “Add files to Library”. In this way, you can manually add new music to your iTunes library.
@@ -500,6 +611,9 @@ If you are moving from an Android to an iPhone, you can follow these steps to en
 - Afterward, unlock your iPhone and go to the App store. Look for the music streaming app and download it on your phone.
 - Once you log in to your Spotify account using your credentials, you can access “My Music” and access all your saved playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer music from android to iphone-access all your saved playlists](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-iphone-6.jpg)
 
 The same drill can be followed for all the other streaming services as well. While you can sync your music using these streaming services, the songs you have made available offline will not be listed here. Therefore, you need to make sure that you have saved them in a playlist beforehand.
@@ -523,3 +637,51 @@ When you know how to move music from Vivo Y100i Power 5G to iPhone, you can easi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-expertly-record-your-discord-sessions/"><u>[New] 2024 Approved  Expertly Record Your Discord Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-online-tools-for-youtube-channel-starters/"><u>[New] 2024 Approved  Free Online Tools for YouTube Channel Starters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-savvy-turning-friends-into-customers-and-coins/"><u>[New] 2024 Approved  Social Media Savvy  Turning Friends Into Customers and Coins</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-bridging-platforms-sharing-twitter-videos-to-instagram-feed-for-2024/"><u>[New] Bridging Platforms  Sharing Twitter Videos to Instagram Feed for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-inviolate-disengagement-protocol-for-compact-youtube-clips/"><u>[New] Inviolate Disengagement Protocol for Compact YouTube Clips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-10-fb-videos-to-mp4-converter-toolkit/"><u>[New] Top 10 FB Videos to MP4 Converter Toolkit</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-ubuntu-screen-recorders/"><u>[Updated] Best Ubuntu Screen Recorders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-5-key-strategies-for-impactful-titles-today/"><u>[Updated] In 2024, 5 Key Strategies for Impactful Titles Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-steadicam-choices-enhancing-professional-grade-dslr-footage/"><u>[Updated] Optimal Steadicam Choices Enhancing Professional-Grade DSLR Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-your-podcast-sound-editing-techniques-in-garageband/"><u>[Updated] Perfect Your Podcast Sound  Editing Techniques in GarageBand</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rethinking-top-movies-7-swap-selections/"><u>[Updated] Rethinking Top Movies - #7 Swap Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-terranomes-uncovering-treasure-in-virtual-landscapes-for-2024/"><u>[Updated] Top Terranomes  Uncovering Treasure in Virtual Landscapes for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-sd-to-hd-a-beginners-guide-to-upgrading-your-video-quality-for-2024/"><u>From SD to HD A Beginners Guide to Upgrading Your Video Quality for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-budget-friendly-filmmaking-choose-the-best-6-action-cameras/"><u>In 2024, Budget-Friendly Filmmaking  Choose the Best 6 Action Cameras</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-huawei-nova-y91-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Huawei Nova Y91 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-huawei-p60-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Huawei P60 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-gt-10-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix GT 10 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-hot-30-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Hot 30 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-hot-30i-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Hot 30i to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-hot-40-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Hot 40 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-hot-40-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Hot 40 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-hot-40i-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Hot 40i to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-vip-racing-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 VIP Racing Edition to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-vip-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 VIP to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30i-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30i to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-7-hd-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 7 HD to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-7-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 7 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-8-hd-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 8 HD to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-8-plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 8 Plus to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-8-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 8 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-8-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 8 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-zero-30-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Zero 30 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-zero-5g-2023-turbo-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Zero 5G 2023 Turbo to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-itel-a05s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Itel A05s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-itel-a60-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Itel A60 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-streamline-your-listening-exclusive-access-to-this-curated-list-of-24-free-rippers/"><u>In 2024, Streamline Your Listening  Exclusive Access to This Curated List of 24 Free Rippers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/odins-progeny-clash-of-titans-for-2024/"><u>Odin’s Progeny  Clash of Titans for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unraveling-the-podcast-puzzle-a-step-by-step-approach-to-download-store-and-manage-auditory-media-on-computers/"><u>Unraveling the Podcast Puzzle A Step-by-Step Approach to Download, Store, and Manage Auditory Media on Computers</u></a></li>
+</ul></div>

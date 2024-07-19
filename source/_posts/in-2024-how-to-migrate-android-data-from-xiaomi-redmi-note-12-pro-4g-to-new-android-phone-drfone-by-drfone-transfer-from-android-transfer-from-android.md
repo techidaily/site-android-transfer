@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Migrate Android Data From Xiaomi Redmi Note 12 Pro 4G to New Android Phone? | Dr.fone
-date: 2024-03-19 22:51:37
-updated: 2024-03-22 16:31:15
+date: 2024-07-17T23:28:19.028Z
+updated: 2024-07-18T23:28:19.028Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Migrate Android Data From Xiaomi Redmi Note 12 Pro 4G to New Android Phone?
 excerpt: This article describes How to Migrate Android Data From Xiaomi Redmi Note 12 Pro 4G to New Android Phone?
 keywords: transfer from android to iphone,transfer from android to android,transfer from Xiaomi Redmi Note 12 Pro 4G to pc,transfer from Xiaomi Redmi Note 12 Pro 4G to iphone,transfer from Xiaomi Redmi Note 12 Pro 4G to ipad,transfer from Xiaomi Redmi Note 12 Pro 4G to android,transfer from android to mac
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## How to Migrate Android Data From Xiaomi Redmi Note 12 Pro 4G to New Android Phone?
@@ -22,6 +22,9 @@ Since Google Drive is already available on all the Xiaomi Redmi Note 12 Pro 4G d
 
 1\. To start with, go to Settings > Backup & Reset on the source device and turn on the option of “Backup my Data”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![backup data with google drive](https://images.wondershare.com/drfone/article/2017/11/15113676137229.jpg)
 
 2\. Furthermore, you can select the kind of data you wish to sync with your Google Drive. You can simply turn on the feature for Automatic backup to make the most of the space on Google Drive.
@@ -42,6 +45,9 @@ Since Google Drive is already available on all the Xiaomi Redmi Note 12 Pro 4G d
 
 ![restore backup from google drive](https://images.wondershare.com/drfone/article/2017/11/15113676734393.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to migrate Android data using Dr.Fone - Phone Transfer?
 
 One of the most secure and fastest ways to migrate Android device to another phone is by using [Dr.Fone Switch](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Compatible with all the major Android, iOS, and Windows devices, it can easily be used to perform phone migration between different platforms. The tool performs a direct phone to phone transfer. It can Android migrate to new phone all kinds of data like contacts, call logs, bookmarks, messages, photos, videos, music, and more. To migrate Android to Android with no data loss, perform these steps:
@@ -64,6 +70,9 @@ Migrate Android Data to New Android Phone in 1 Click.
 
 2\. Launch Dr.Fone toolkit and select the option of “Switch” from the welcome screen. Make sure that both the Xiaomi Redmi Note 12 Pro 4G devices are connected to your system in a secure way.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![migrate android with Dr.Fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3\. This will provide the following interface. As you can see, Dr.Fone will intuitively detect the source and the target device. Though, you can click on the “Flip” button to interchange the position of the Xiaomi Redmi Note 12 Pro 4G devices as well.
@@ -82,6 +91,9 @@ Migrate Android Data to New Android Phone in 1 Click.
 
 That’s it! After following these steps, you would be able to migrate Android to Android easily. Just disconnect your Xiaomi Redmi Note 12 Pro 4Gs safely and use them the way you like.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to migrate Android data manually?
 
 By using Dr.Fone Switch or Google Drive, you would be able to perform phone migration in an effortless manner. Nevertheless, if there is no free space on your Drive and you wish to manually migrate Android, then you can also make it work. Following are certain ways to migrate Android to Android using different tools and techniques.
@@ -98,6 +110,14 @@ There are plenty of ways to move your messages from one device to another. Just 
 
 SMS Backup & Restore Download URL: <https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en>
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SMS Backup & Restore app](https://images.wondershare.com/drfone/article/2017/11/15113677212146.jpg)
 
 **Media content**
@@ -162,6 +182,9 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both device between “source” and “Destination” by using the “Flip” button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices using Dr.Fone - Phone Transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
 #### Step 3. Click "Start Transfer"
@@ -172,6 +195,18 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 ## Part 2. How to Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to New Android Using NFC
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
 
 Near Field Communication(NFC) is a technology that supports Android Beam and is ideal for transferring data between android devices by just pressing their backs together. It is a fast and simple program that requires both devices to NFC-capable. This means they are able to communicate with each other when their fields are near. This communication is made possible through radio frequencies. Most devices have NFC hardware integrated underneath their panel.
@@ -180,6 +215,9 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 1\. On your Xiaomi Redmi Note 12 Pro 4G, tap on “Settings” and click on “More” located under “Wireless and Networks” .
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
 
 This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
@@ -194,12 +232,18 @@ To Transfer Photos from your Xiaomi Redmi Note 12 Pro 4G to a new android device
 
 2\. Next, place both devices against each other, back to back.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
 
 3\. At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
 4\. Now, on your Xiaomi Redmi Note 12 Pro 4G, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
 
 To begin beaming, you must touch the screen on your Xiaomi Redmi Note 12 Pro 4G from where the photos are been sent. A sound will alert you that beaming has started.
@@ -208,6 +252,9 @@ To ensure a successful transfer, make sure devices are not locked neither should
 
 5\. Finally, when the beaming is complete, you will hear an audio sound. This is to confirm completion of the process. Alternatively, instead of an audio confirmation, the application on your new android device to which the photos were sent will automatically launch and display the beamed content.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. Transfer Photos between Android Phones by Bluetooth
 
 The Presence of Bluetooth technology in phones is as old as android itself. The use of this technology offers another method that you can employ in transferring your photos from your Xiaomi Redmi Note 12 Pro 4G to your new android device. It is a short and simple method that is known to most android users.
@@ -236,6 +283,9 @@ The Samsung smart switch software helps to Transfer Photos either by cable or wi
 
 1\. Open the switch app on both Samsung devices. On the sending device, tap “Send data” and on the receiving device, tap “Receive data”.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices by Smart Switch-set Sending Device and Receiving Device](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-01.jpg)
 
 2\. Now, choose either the Cable option using an OTG adapter or wireless transfer option.
@@ -276,6 +326,9 @@ When you get a new phone or switch between Android and iPhone, transferring cont
 
 In this article, we will move you through various effective methods on **how to copy contacts from phone to phone**. Also, we have provided the best software that will assist you in transferring contacts securely. After that, you can seamlessly continue communication with your family, friends, and colleagues.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
 
 
@@ -286,6 +339,9 @@ In this article, we will move you through various effective methods on **how to 
 
 Also, besides contacts, you can transfer other content from your old device to a new one. This Phone Transfer tool can transfer your contacts regardless of the operating system they are running on. You can easily transfer contacts from your iPhone and vice versa if you have an Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 1. The Phone Transfer tool of Dr.Fone supports all kinds of data files to transfer. It allows more than 12 types of files, including Photos, Videos, Bookmarks, Voice Memos, and more.
@@ -302,18 +358,27 @@ This software will require a few steps to transfer your contacts to another devi
 
 First, you have to activate Wondershare Dr.Fone on your computer and navigate to the “Toolbox" section. In that section, you have to select the "Phone Transfer” tool to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose phone transfer in toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Step 2. Designate the “Source” and “Destination” Devices
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the Xiaomi Redmi Note 12 Pro 4G device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the Xiaomi Redmi Note 12 Pro 4G devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 - Step 3. Select the “Contacts” Option for their Transfer
 
 Now, select the type of data you want to transfer, which, in your case, is “Contacts.” Checkmark the “Contacts” option, and click the “Start Transfer” button to begin the transfer. Now, you can monitor the progress of the contacts transfer in a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 - Step 4. Finalize the Contact Transfer Process
@@ -326,6 +391,9 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Use NameDrop
 
 Apple has introduced a new feature in the latest iPhones named NameDrop. The feature allows you to share your contact card with another person by tapping the two iPhones together. The step-by-step guide to move contacts between iPhone and iPhone using “NameDrop" is below.
@@ -340,6 +408,9 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
 ### Method 2. iCloud Sync
@@ -348,6 +419,9 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 - **Step 1.** First, you need to access the "Settings" of your old iPhone and tap on the "Apple ID" on the top. There, continue with the "iCloud" option and tap on "Show All" to display all features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-9.jpg)
 
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
@@ -358,6 +432,9 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Xiaomi Redmi Note 12 Pro 4G to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Sync Google Account
 
 Android users can back up their phone's data to Google Drive. Also, an Android phone's "Google Contacts" app saves the contact information to their linked Google account. The same account can be logged in a new iPhone, where they can be restored. Follow the simple guide to sync your Google account with the updated contact information:
@@ -372,6 +449,9 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
 
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
@@ -384,12 +464,18 @@ This method simplifies transferring contacts from Xiaomi Redmi Note 12 Pro 4G to
 
 - **Step 1.** Start by opening the "Contacts" app on your Xiaomi Redmi Note 12 Pro 4G. Choose the "Select all" option to select all contacts and tap the "Share" icon. You can choose any sharing method, but we'll use Gmail to send the VCF file in this case.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share contacts from contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-15.jpg)
 
 - **Step 2.** Now, on your iPhone, you need to open the email containing the “Contacts VCF” file from your Xiaomi Redmi Note 12 Pro 4G. Tap to open the attached file and choose the “arrow” icon on the top to select the "Share" option. Next, choose the "Contacts" app and tap the "Add All Contacts" option to save contacts on your iPhone.
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. 2 Methods To Transfer Contacts from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
@@ -400,14 +486,23 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 - **Step 1.** To begin, navigate to the “Settings" of your Xiaomi Redmi Note 12 Pro 4G and tap on the "Google” option. Then, proceed with “Devices and Sharing,” followed by switching on the “Nearby Share” feature.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access nearby share option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-17.jpg)
 
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
 
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Xiaomi Redmi Note 12 Pro 4G and access the "Fix & manage" tab. Choose the "Export to file" option and select the Xiaomi Redmi Note 12 Pro 4G device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
 
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
@@ -420,6 +515,9 @@ The Google account transfer method can also transfer between Android and Android
 
 - **Step 1.** First, create a backup on your previous Android phone. For this, you need to access “Settings” on your phone and tap the "Accounts & Sync” option. Then, select “Google” and enable the “Contacts” option to allow the syncing process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![navigate to google account for sync](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-21.jpg)
 
 - **Step 2.** In the next step, navigate to “Settings” of your new Android device and tap “Accounts & Sync.” Afterward, log in using your Google account credentials and select the "Sync Now” feature within the "More” option. This will import the synced contacts to your new Android device.
@@ -430,6 +528,9 @@ The Google account transfer method can also transfer between Android and Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Enable iPhone Sync Feature
 
 You can enable the iPhone Sync feature to transfer contacts from an iPhone to an Android device. In this case, ensure the contacts option in the Gmail synchronization is toggled on. Later, the contacts are saved when you sign in with the same Google account on your Xiaomi Redmi Note 12 Pro 4G. Let's learn **how to transfer from phone to phone using this feature**:
@@ -442,18 +543,27 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Xiaomi Redmi Note 12 Pro 4G. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Xiaomi Redmi Note 12 Pro 4G.
 
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2. Import the VCF File
 
 Importing a VCF file is another simple method for transferring contacts. It includes a vCard creation, in which contacts are saved. Then, this card can be downloaded from an iCloud account and imported to your Xiaomi Redmi Note 12 Pro 4G. Moreover, this simple process does not involve any complicated steps to implement it. You can import a VCF file by following these simple steps.
 
 - **Step 1.** At first, you will have to access “Settings” on your iPhone and tap your “Profile” icon at the top. After that, tap "iCloud," followed by the "Show All" option. Then,you need to toggle the “Contacts” switch to turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![locate contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-26.jpg)
 
 - **Step 2.** Now,on your Xiaomi Redmi Note 12 Pro 4G, open “Chrome” browser and navigate to the "iCloud” site. Then, sign in to your iCloud account and tap the “Three Dots” icon in the browser. Afterward, select the "Desktop site" option among various other options.
@@ -462,6 +572,9 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Xiaomi Redmi Note 12 Pro 4G.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
 ## Conclusion
@@ -485,3 +598,44 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-bridging-the-gap-in-vr-storytelling-and-innovation/"><u>[New] Bridging the Gap in VR Storytelling and Innovation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hand-tracking-insights-detailed-exploration/"><u>[New] Hand Tracking Insights  Detailed Exploration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-windows-and-macos-screen-capture-tools/"><u>[Updated] Expert Windows & macOS Screen Capture Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elegant-architecture-top-6-sleek-mc-houses/"><u>[Updated] In 2024, Elegant Architecture  Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-use-of-plugins-for-skype-call-capture-in-obs/"><u>[Updated] In 2024, Innovative Use of Plugins for Skype Call Capture in OBS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-video-content-for-youtube-success/"><u>[Updated] Mastering Video Content for YouTube Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-story-blueprints-across-8-movie-sectors/"><u>[Updated] Ultimate Story Blueprints Across 8 Movie Sectors</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y56-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y56 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c300-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C300 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-90-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor 90 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-90-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor 90 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-5-lite-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 5 Lite to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-5-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 5 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-5-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 5 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-6-lite-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 6 Lite to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-6-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 6 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-6-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 6 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-v2-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic V2 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-vs-2-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic Vs 2 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic5-ultimate-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic5 Ultimate to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-play-40c-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Play 40C to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-play-7t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Play 7T to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-play-8t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Play 8T to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-v-purse-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor V Purse to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x50-gt-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X50 GT to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x50-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X50 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x50i-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X50i to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x50iplus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X50i+ to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x7b-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X7b to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x8b-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X8b to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x9a-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X9a to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x9b-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X9b to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-aspect-ratio-conversion-in-final-cut-pro-a-quick-and-easy-guide/"><u>New 2024 Approved Aspect Ratio Conversion in Final Cut Pro A Quick and Easy Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-online-dailymotion-converter-convert-videos-to-any-format-for-free/"><u>New 2024 Approved Online Dailymotion Converter Convert Videos to Any Format for Free</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-free-video-splitters-top-5-picks/"><u>New The Ultimate Guide to Free Video Splitters Top 5 Picks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-clearer-screen-cleaner-sound-techniques-for-dampening-background-audio-in-digital-videos/"><u>Updated In 2024, Clearer Screen, Cleaner Sound Techniques for Dampening Background Audio in Digital Videos</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways To Teach You To Transfer Files from OnePlus 12R to Other Android Devices Easily | Dr.fone
-date: 2024-05-19T18:55:20.173Z
-updated: 2024-05-20T18:55:20.173Z
+date: 2024-07-17T22:07:45.415Z
+updated: 2024-07-18T22:07:45.415Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways To Teach You To Transfer Files from OnePlus 12R to Other Android Devices Easily
 excerpt: This article describes 5 Ways To Teach You To Transfer Files from OnePlus 12R to Other Android Devices Easily
 keywords: transfer from android to iphone,transfer from android to pc,transfer from OnePlus 12R to pc,transfer from OnePlus 12R to mac,transfer from OnePlus 12R to android,transfer from android to mac,transfer from android to ipad,transfer from OnePlus 12R to ipad,transfer from android to android,transfer from OnePlus 12R to iphone
-thumbnail: https://www.lifewire.com/thmb/5TQ2qNutxP1-2d0Nqc32lnx5qyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-16-best-shows-to-watch-on-discovery-plus-right-now-5116795-b17411d87cfd4bd690fda5be50ea188c.jpg
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
 ---
 
 ## 5 Ways To Teach You To Transfer Files from OnePlus 12R to Other Android Devices Easily
@@ -18,6 +18,9 @@ Transferring data from one phone to another when switching devices is a complex 
 
 There are multiple ways to transfer files from one Android to another, but we have chosen the easiest 5 methods in this article. Stick with the article to find different methods for ****Android-to-Android file transfer****, along with their pro, cons, and best-case scenarios.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Transfer Files Between Android via Bluetooth
 
 When trying to ****transfer files between Android phones****, Bluetooth is available as the in-built option. It is part of all Android devices, and you don’t need any internet, computer, or cable to use it. Although newer and faster transfer methods have overshadowed Bluetooth as a data transfer option, it is still among the reliable options.
@@ -30,10 +33,16 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 
 ****Step 2:**** Now, press the “Share” icon and select “Bluetooth.” Choose your new Android device from the available devices on the next screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the bluetooth option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-2.jpg)
 
 ****Step 3:**** Move to your new Android phone and hit “Accept” to start the transfer process. The transfer time will be depended on the size of the files.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the accept button](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-3.jpg)
 
 ### Pros and Cons
@@ -48,6 +57,9 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 
 Using Bluetooth is best for transferring small to medium, size files. It is also convenient when you can’t access the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Transfer Files from OnePlus 12R to Other Android Devices by Nearby Share
 
 Nearby Share is a method developed by Google to ****share files between Android phones****. It can be considered Google’s answer to Apple’s AirDrop, though, unlike AirDrop, it doesn’t require Wi-Fi. This method is available for all Android devices though you should use the latest Android OS for smoother working. Moreover, Bluetooth needs to be enabled to use this method.
@@ -56,6 +68,18 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 ****Step 1:**** You will need to activate “Nearby Share” on both devices first. To do that, go to the phone’s “Settings” and access the “Google” settings. Here, tap “Devices and Sharing,” and from the next appearing screen, choose “Nearby Share.”
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the nearby share option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-4.jpg)
 
 ****Step 2:**** In the “Nearby Share” screen, toggle it on and set device visibility to “Everyone.” Once you activate it on both Android devices, find and select the files you want to transfer on the old Android phone.
@@ -64,6 +88,9 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 ****Step 3:**** After selecting the required files, press the “Share” button and select “Nearby Share” from the options. It will detect nearby devices and select your new Android device once it appears. A prompt will appear on both phones with a matching PIN. Accept the files on the new phone to start the transfer process.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the nearby share](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-6.jpg)
 
 ### Pros and Cons
@@ -78,10 +105,16 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 Using Nearby Share is recommended when you don't have access to a computer or the internet, and you need to share large files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Transfer Files Between Android by USB Cable
 
 If you have access to a computer, you can use it to ****transfer files from OnePlus 12R to Other Android Devices****. All you need is a USB cable, and you are set. In this method, you will first copy data from the old phone to the computer and then copy it to the new phone from the computer. It works by default on Windows, but for Mac, you need Android File Transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Instructions To Transfer Files by USB Cable
 
 ****Step 1:**** First, connect your old Android phone to your computer using a USB cable. A prompt will appear on your asking for the USB purpose. Here, select “File Transfer/Android Auto.” It will give your computer access to the phone data.
@@ -90,6 +123,9 @@ If you have access to a computer, you can use it to ****transfer files from OneP
 
 ****Step 2:**** Now copy all the data you want to transfer to your computer and disconnect the old device. Afterward, connect the new Android device to the computer, give access permission, and copy the data you took from the old phone to the new phone.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the android data](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-8.jpg)
 
 ### Pros and Cons
@@ -104,20 +140,35 @@ If you have access to a computer, you can use it to ****transfer files from OneP
 
 Using a USB cable is best for transferring data when you have large files and don’t have any better options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Sync Files from OnePlus 12R to Other Android Devices With Google Account
 
 Google Account is another great way for ****Android-to-Android file transfer**** if you haven’t set up the new phone yet. It allows you to back up all your data on the old device and restore it to the new Android device. With this method, you can transfer most of the data from the old phone, including settings, contacts, notes, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Step-by-Step Guide To Transfer Files With Google Account
 
 ****Step 1:**** On your old Android device, go to “Settings” and tap “Google.” In the Google settings, select “Backup” and tap “Backup Now” to back up your phone. Once the backup is complete, move to the new device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on back up now](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-9.jpg)
 
 ****Step 2:**** When setting up the new Android device, sign in using the same Google Account. Afterward, select “Restore from Google Backup” when the option appears to restore the backup from the old phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the old android backup](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pros and Cons
 
 | Pros | Cons |
@@ -163,6 +214,9 @@ Now select the data you want to transfer and click “Start Transfer” to begin
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pros and Cons
 
 | Pros | Cons |
@@ -183,6 +237,9 @@ To summarize, while it may seem troublesome to ****transfer files from OnePlus 1
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from OnePlus 12R To Phone
 
 When you get a new phone or switch between Android and iPhone, transferring contacts is essential. Moreover, to avoid losing your important contacts, you need some techniques to move them smoothly. The method you select has to transfer your contacts efficiently on a new device without losing information.
@@ -205,6 +262,9 @@ Also, besides contacts, you can transfer other content from your old device to a
 2. This software provides easy navigation so that even a layman can operate the software with a one-click solution.
 3. The transfer speed of Dr.Fone's Phone Transfer tool is the lowest among other transfer methods. Within 3 minutes, all of your content can be transferred to another device.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Guide To Move Contacts Between iPhone and Android Using Wondershare Dr.Fone
 
 This software will require a few steps to transfer your contacts to another device. Here is the answer in a step-wise manner to your "**how do I transfer contacts from phone to phone**" question. Moreover, this toolkit can work in all directions, such as from one iPhone to another or from an old Android smartphone to a new one.
@@ -221,12 +281,18 @@ First, you have to activate Wondershare Dr.Fone on your computer and navigate to
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the OnePlus 12R device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the OnePlus 12R devices.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 - Step 3. Select the “Contacts” Option for their Transfer
 
 Now, select the type of data you want to transfer, which, in your case, is “Contacts.” Checkmark the “Contacts” option, and click the “Start Transfer” button to begin the transfer. Now, you can monitor the progress of the contacts transfer in a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 - Step 4. Finalize the Contact Transfer Process
@@ -235,6 +301,9 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
@@ -249,6 +318,9 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose to share or receive contact](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-7.jpg)
 
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
@@ -277,20 +349,41 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 - **Step 1.** First, open the “Google Contacts” app on your OnePlus 12R and tap the "Profile" icon at the top right corner. Following this, head to the "Contacts settings" and choose the "Google Contacts sync settings" option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access contact settings](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-11.jpg)
 
 - **Step 2.** Next, choose the "Also sync device contacts" option at the top of the screen and ensure that the "Automatically back up & sync device contacts" feature is turned on. Afterward, switch to your iPhone and open the "Settings" app.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
 
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
 
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2. Use the VCF File
 
 This method simplifies transferring contacts from OnePlus 12R to iPhone without requiring additional software or complex procedures. Also, it maintains contact details and facilitates a smooth transfer between devices. You can follow these steps to import a VCF file in which your contacts are saved.
@@ -301,12 +394,18 @@ This method simplifies transferring contacts from OnePlus 12R to iPhone without 
 
 - **Step 2.** Now, on your iPhone, you need to open the email containing the “Contacts VCF” file from your OnePlus 12R. Tap to open the attached file and choose the “arrow” icon on the top to select the "Share" option. Next, choose the "Contacts" app and tap the "Add All Contacts" option to save contacts on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
 ## Part 4. 2 Methods To Transfer Contacts from OnePlus 12R to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Nearby Share
 
 Nearby Share is a feature available on Android devices that allows you to easily share various types of content, including contacts. You have to ensure that both devices have Bluetooth and Location Services turned on. That’s because Nearby Share uses these services to find nearby devices and establish a connection for sharing content.
@@ -325,6 +424,9 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the OnePlus 12R device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
 ### Method 2. Use Google Account
@@ -343,12 +445,18 @@ The Google account transfer method can also transfer between Android and Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1. Enable iPhone Sync Feature
 
 You can enable the iPhone Sync feature to transfer contacts from an iPhone to an Android device. In this case, ensure the contacts option in the Gmail synchronization is toggled on. Later, the contacts are saved when you sign in with the same Google account on your OnePlus 12R. Let's learn **how to transfer from phone to phone using this feature**:
 
 - **Step 1.** Access the "Settings" app on your iPhone and navigate to the "Contacts" settings. Then, tap on "Accounts" and choose your Gmail account. Turn on the “Contacts” toggle switch to synchronize them.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![sync contacts with your gmail account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-23.jpg)
 
 **Note:** You can select "Add Account,” tap “Google," and input your credentials if your account has not been added yet.
@@ -367,6 +475,9 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 - **Step 1.** At first, you will have to access “Settings” on your iPhone and tap your “Profile” icon at the top. After that, tap "iCloud," followed by the "Show All" option. Then,you need to toggle the “Contacts” switch to turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-26.jpg)
 
 - **Step 2.** Now,on your OnePlus 12R, open “Chrome” browser and navigate to the "iCloud” site. Then, sign in to your iCloud account and tap the “Three Dots” icon in the browser. Afterward, select the "Desktop site" option among various other options.
@@ -377,12 +488,18 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have discussed various scenarios on **how to copy contacts from phone to phone,** whether the OnePlus 12R devices are Android or iPhone. Nonetheless, Wondershare Dr.Fone - Phone Transfer stands out as the perfect method. This software provides a one-click and swift solution to all your transfer processes, including the contacts. Moreover, Dr.Fone can deal with all types of phone transfers, such as iPhone to iPhone, Android to iPhone, iPhone to Android, and Android to Android.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from OnePlus 12R to iPhone XS/11
 
 When it comes to transferring contacts from OnePlus 12R to iPhone XS/11, we play enough care to not mess with the process.
@@ -414,12 +531,18 @@ Well! After going through the amazing features of with Dr.Fone - Phone Transfer.
 
 Step 1:  Download Dr.Fone - Phone Transfer on your computer and then install it. Launch it after installation and hit on the ‘Phone Transfer’ tab on the Dr.Fone software interface.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![import contacts to iPhone XS/11 from android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Now, connect both your OnePlus 12R and iPhone XS/11 to the computer using genuine USB cables.
 
 Step 3:  Once the OnePlus 12R devices get detected, you need to select Android as the source device on the next screen. As you wish to import contacts to iPhone XS/11 from Android, the iPhone XS/11 needs to be selected in place of the target device.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![import contacts to iPhone XS (Max) from android - specify source and target devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 **Note:** _In case of a wrong selection, you can tap the ‘Flip’ button and change the selection._
@@ -450,12 +573,18 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 1. On your OnePlus 12R, click ‘Continue’ and then ‘Agree’. A prompt asking for a code will appear on your Android mobile.
 2. Get the iPhone and hit ‘Continue’ and note the displayed code. Enter this on your OnePlus 12R. When both the Android and iPhone are connected to the Wi-Fi, select ‘Contacts’ from the data types and tap ‘Next’.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer contacts from OnePlus 12R to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
 1. On your OnePlus 12R, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from OnePlus 12R to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to transfer contacts from OnePlus 12R to iPhone XS/11 using Google account
 
 Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Android mobile, as well. to do that, you need to get your Gmail and Android device contacts to get synced first.
@@ -472,6 +601,9 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
 
 ## How to transfer contacts from OnePlus 12R to iPhone XS/11 using SIM card
@@ -481,6 +613,9 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 1. Open the ‘Contacts’ app and click on ‘More’. Go to the ‘Import/Export’ or simply ‘Export Contacts’ option there.
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer contacts from OnePlus 12R to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
@@ -505,3 +640,44 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhance-visual-narratives-with-story-remix-within-windows-10-photos/"><u>[New] 2024 Approved  Enhance Visual Narratives with Story Remix Within Windows 10 Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unbeatable-windows-chat-providers-3-1-ranked/"><u>[New] 2024 Approved  Unbeatable Windows Chat Providers, #3-#1 Ranked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-conversion-made-simple-youtube-to-mp3-mac-edition-for-2024/"><u>[New] Audio Conversion Made Simple  YouTube to MP3, Mac Edition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boosting-productivity-utilizing-zoom-on-win11-devices/"><u>[New] Boosting Productivity  Utilizing Zoom on Win11 Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[New] Exclusive Guide  Choosing Among Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-best-tools-for-scrutinizing-your-tiktok-traffic-patterns/"><u>[New] In 2024, The Best Tools for Scrutinizing Your TikTok Traffic Patterns</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>[Updated] Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-vs-sjcam-capturing-the-thrill/"><u>[Updated] GoPro vs SJCAM  Capturing the Thrill</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-7-dslr-cameras-enhancing-real-time-online-interactions-for-2024/"><u>[Updated] Top 7 DSLR Cameras Enhancing Real-Time Online Interactions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-optimal-cloud-savers-updated-list/"><u>2024 Approved  Android's Optimal Cloud Savers Updated List</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-easy-way-to-create-an-alternate-reality-effect/"><u>2024 Approved Easy Way to Create an Alternate Reality Effect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/acid-pro-evaluation-finding-reliable-counterparts/"><u>ACID Pro Evaluation  Finding Reliable Counterparts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-gt-neo-5-se-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme GT Neo 5 SE by Name | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11x-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11X 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11x-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11X 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11x-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11X 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11x-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11X 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-proplus-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro+ 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-proplus-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro+ 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-seamless-integration-of-free-melodies-into-your-videography-projects/"><u>In 2024, Seamless Integration of Free Melodies Into Your Videography Projects</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-measuring-up-how-to-calculate-pixel-dimensions-accurately/"><u>New In 2024, Measuring Up How to Calculate Pixel Dimensions Accurately</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-backup-and-organize-your-footage-in-minutes/"><u>Updated In 2024, Backup and Organize Your Footage in Minutes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-optimal-video-size-for-instagram-a-complete-guide/"><u>Updated In 2024, Optimal Video Size for Instagram A Complete Guide</u></a></li>
+</ul></div>

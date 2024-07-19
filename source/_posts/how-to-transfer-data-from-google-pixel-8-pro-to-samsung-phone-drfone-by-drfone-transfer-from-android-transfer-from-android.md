@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Google Pixel 8 Pro to Samsung Phone | Dr.fone
-date: 2024-06-09T02:19:41.731Z
-updated: 2024-06-10T02:19:41.731Z
+date: 2024-07-17T19:49:34.692Z
+updated: 2024-07-18T19:49:34.692Z
 tags: 
   - transfer
 categories:
@@ -18,12 +18,18 @@ Samsung is undoubtedly the most widely used smartphone manufacturer today. Cutti
 
 If you're going to buy a new Samsung S23, these solutions work as well.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 1: Transfer Data from Motorola to Samsung using Dr.Fone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can be used for transferring data from to phone to another phone like messages, contacts, call logs, calendars, photos, music, video, and apps. Also, you can back up your iPhone and save the data on your PC, for example, and restore it later when you wish. Basically, all your necessary data can be transferred fast from a phone to another phone, including transfer from Motorola to Samsung.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Migrate all data from Motorola to Samsung quickly
@@ -48,6 +54,9 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 **Step 2.** Using the USB cables, attach both of your phones to the computer or laptop that you just installed Dr.Fone. When you run Dr.Fone, you’ll see a screen similar to the one shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Motorola to samsung-select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3.** There will be several modes listed on the screen. Select the “Phone Transfer” mode. Dr.Fone - Phone Transfer will display both of your devices after detecting them.
@@ -56,6 +65,18 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 **Step 4.** Notice that the menu in the center shows the items to be transferred to the destination device. If you want to transfer the contacts, check the contacts item to transfer contacts from Motorola to Samsung. Check or uncheck the boxes as per your requirement. Click “Start Transfer” when you are done. Dr.Fone - Phone Transfer will begin the transferring process. A menu will appear showing the progress of the transfer.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Motorola to samsung-transfer from Motorola to Samsung](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 **Step 5.** You can cancel the transferring process at any time by hitting the “Cancel” button however, make sure that neither of the Google Pixel 8 Pro devices gets detached while the transferring process is still underway.
@@ -86,6 +107,9 @@ This versatile tool enables effortless transfer of WhatsApp and WhatsApp Busines
 
 Begin by opening Wondershare Dr.Fone on your computer and proceed to link your Motorola and Samsung devices using a USB cable. Once the Google Pixel 8 Pro devices are connected, navigate to “Toolbox” and there, tap “WhatsApp Transfer” to proceed. On the following screen, move to the "WhatsApp" tab and click "Transfer WhatsApp Messages."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the whatsapp transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Assign Correct Positions to Motorola and Samsung Devices**
@@ -118,12 +142,18 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 
 ![head to home screen after transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: Want to Manage Your Google Pixel 8 Pro Data before Transferring Data?
 
 Before initiating data transfer from your Motorola phone to your new Samsung device, it's a great idea to declutter and organize your data. [Wondershare Dr.Fone](https://drfone.wondershare.com/guide/manage-android-device.html) is your go-to smart solution for managing and transferring Android data. With its intuitive features, you can preview, delete, export, and manage your data. This software facilitates smooth file transfers between your Google Pixel 8 Pro and computer.
 
 Moreover, it enables easy transfer of media files between iTunes and Android. Dr.Fone also offers the capability to import contacts from iCloud to either your Google Pixel 8 Pro or computer. Additionally, it allows you to view and manage mobile notifications directly on your PC. It checks how much storage is left and generates a report showing the Google Pixel 8 Pro device's history with basic details automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone phone manager](https://images.wondershare.com/drfone/guide/manage-android-apps-1.png)
 
 
@@ -232,12 +262,18 @@ Now, pull the SIM card out and insert in on your new device.
 
 • Here follow the same steps above and on “Import / Export” option, choose “Import”. Then it will ask for the option to import from. Choose “SIM Card” here. Now, all your contacts will be imported to your phone memory from the SIM card.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import from sim card](https://images.wondershare.com/drfone/article/2017/05/14945040941310.jpg)
 
 Advantages: This process is easy to use and can be done without any PC.
 
 Disadvantage: It can only transfer the contacts up to the SIM capacity that is 200 to 250 in one time. If you have lots of contacts, it is impossible to transfer by this method.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to transfer contacts from Google Pixel 8 Pro to Other Android Devices using Bluetooth or Wi-Fi Direct?
 
 To transfer contacts from Google Pixel 8 Pro to Other Android Devices using Bluetooth or Wi-Fi Direct is one of the easiest methods. For this method, make sure that you should enable “Bluetooth” or “Wi-Fi Direct” on both the Android devices.
@@ -274,10 +310,16 @@ To transfer contacts from Google Pixel 8 Pro to Other Android Devices via this a
 
 2\. Then, open this app on new Android device and Start the process by tapping on “Start”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select old device](https://images.wondershare.com/drfone/article/2017/05/14945045848700.jpg)
 
 3\. Now, Select the new device as ‘Receiving device”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
 
 4\. Now connect with your old device by opening the app on your old Android mobile. This will prompt to enter the pin number as displayed. Enter the same and hit “Connect” to start the process.
@@ -316,6 +358,9 @@ Also, besides contacts, you can transfer other content from your old device to a
 2. This software provides easy navigation so that even a layman can operate the software with a one-click solution.
 3. The transfer speed of Dr.Fone's Phone Transfer tool is the lowest among other transfer methods. Within 3 minutes, all of your content can be transferred to another device.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Guide To Move Contacts Between iPhone and Android Using Wondershare Dr.Fone
 
 This software will require a few steps to transfer your contacts to another device. Here is the answer in a step-wise manner to your "**how do I transfer contacts from phone to phone**" question. Moreover, this toolkit can work in all directions, such as from one iPhone to another or from an old Android smartphone to a new one.
@@ -332,12 +377,18 @@ First, you have to activate Wondershare Dr.Fone on your computer and navigate to
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the Google Pixel 8 Pro device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the Google Pixel 8 Pro devices.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 - Step 3. Select the “Contacts” Option for their Transfer
 
 Now, select the type of data you want to transfer, which, in your case, is “Contacts.” Checkmark the “Contacts” option, and click the “Start Transfer” button to begin the transfer. Now, you can monitor the progress of the contacts transfer in a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 - Step 4. Finalize the Contact Transfer Process
@@ -356,16 +407,28 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 - **Step 1.** Start by holding your iPhone's display a few centimeters from the top of the other person's iPhone. Keep both devices close until "NameDrop" appears on both screens.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![place iphone near each other](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-6.jpg)
 
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose to share or receive contact](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-7.jpg)
 
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. iCloud Sync
 
 The alternate method to transfer your phone contacts is via iCloud synchronization. The technique involves your iCloud contacts option to be toggled on. You can sign in with the same iCloud account to transfer the contact list to your new iPhone. Here's how to transfer contacts from iPhone to iPhone using iCloud Sync:
@@ -376,6 +439,9 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
 
 ## Part 3. 2 Methods To Transfer Contacts From Google Pixel 8 Pro to iPhone
@@ -392,6 +458,9 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 - **Step 2.** Next, choose the "Also sync device contacts" option at the top of the screen and ensure that the "Automatically back up & sync device contacts" feature is turned on. Afterward, switch to your iPhone and open the "Settings" app.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
@@ -400,8 +469,14 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Use the VCF File
 
 This method simplifies transferring contacts from Google Pixel 8 Pro to iPhone without requiring additional software or complex procedures. Also, it maintains contact details and facilitates a smooth transfer between devices. You can follow these steps to import a VCF file in which your contacts are saved.
@@ -414,10 +489,16 @@ This method simplifies transferring contacts from Google Pixel 8 Pro to iPhone w
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. 2 Methods To Transfer Contacts from Google Pixel 8 Pro to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Nearby Share
 
 Nearby Share is a feature available on Android devices that allows you to easily share various types of content, including contacts. You have to ensure that both devices have Bluetooth and Location Services turned on. That’s because Nearby Share uses these services to find nearby devices and establish a connection for sharing content.
@@ -428,14 +509,23 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
 
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Google Pixel 8 Pro and access the "Fix & manage" tab. Choose the "Export to file" option and select the Google Pixel 8 Pro device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
 
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the Google Pixel 8 Pro device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
 ### Method 2. Use Google Account
@@ -444,16 +534,25 @@ The Google account transfer method can also transfer between Android and Android
 
 - **Step 1.** First, create a backup on your previous Android phone. For this, you need to access “Settings” on your phone and tap the "Accounts & Sync” option. Then, select “Google” and enable the “Contacts” option to allow the syncing process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![navigate to google account for sync](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-21.jpg)
 
 - **Step 2.** In the next step, navigate to “Settings” of your new Android device and tap “Accounts & Sync.” Afterward, log in using your Google account credentials and select the "Sync Now” feature within the "More” option. This will import the synced contacts to your new Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Enable iPhone Sync Feature
 
 You can enable the iPhone Sync feature to transfer contacts from an iPhone to an Android device. In this case, ensure the contacts option in the Gmail synchronization is toggled on. Later, the contacts are saved when you sign in with the same Google account on your Google Pixel 8 Pro. Let's learn **how to transfer from phone to phone using this feature**:
@@ -466,12 +565,18 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Google Pixel 8 Pro. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Google Pixel 8 Pro.
 
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Import the VCF File
 
 Importing a VCF file is another simple method for transferring contacts. It includes a vCard creation, in which contacts are saved. Then, this card can be downloaded from an iCloud account and imported to your Google Pixel 8 Pro. Moreover, this simple process does not involve any complicated steps to implement it. You can import a VCF file by following these simple steps.
@@ -486,8 +591,14 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Google Pixel 8 Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have discussed various scenarios on **how to copy contacts from phone to phone,** whether the Google Pixel 8 Pro devices are Android or iPhone. Nonetheless, Wondershare Dr.Fone - Phone Transfer stands out as the perfect method. This software provides a one-click and swift solution to all your transfer processes, including the contacts. Moreover, Dr.Fone can deal with all types of phone transfers, such as iPhone to iPhone, Android to iPhone, iPhone to Android, and Android to Android.
@@ -511,3 +622,57 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-expert-tips-for-crafting-engaging-instagram-stories/"><u>[New] 2024 Approved  Expert Tips for Crafting Engaging Instagram Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>[New] 2024 Approved  From Novice to Pro  Your Step-by-Step Guide to YouTube Live Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[New] In 2024, Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swift-windows-document-reviewing-techniques/"><u>[New] Swift Windows Document Reviewing Techniques</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-craft-an-enigmatic-profile-on-tiktok-with-these-unique-ideas/"><u>[Updated] 2024 Approved  Craft an Enigmatic Profile on TikTok with These Unique Ideas</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tutorial-turning-on-grid-view-in-google-meet-chats/"><u>[Updated] 2024 Approved  Tutorial  Turning On Grid View in Google Meet Chats</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ace-your-youtube-live-with-these-7-powerful-live-streaming-apps-iosandroid-os-for-2024/"><u>[Updated] Ace Your YouTube LIVE with These 7 Powerful Live Streaming Apps (iOS/Android OS) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-analyzing-the-post-upload-process-in-youtubes-ecosystem/"><u>[Updated] In 2024, Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-strategic-approaches-broadcasting-live-sports-with-precision-for-2024/"><u>[Updated] Strategic Approaches  Broadcasting Live Sports with Precision for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>2024 Approved  Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-clones-playbook-secrets-to-mirror-success-on-the-tiktok-sphere/"><u>2024 Approved  The Clone's Playbook  Secrets to Mirror Success on the TikTok Sphere</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creative-boost-top-quality-complimentary-premiere-pro/"><u>Creative Boost  Top-Quality, Complimentary Premiere Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nubia-z50-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nubia Z50 Ultra</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v29-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V29 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v29e-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V29e to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v30-lite-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V30 Lite 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v30-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V30 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v30-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V30 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-x-flip-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo X Flip to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-x-fold-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo X Fold 2 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-x100-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo X100 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-x100-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo X100 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-x90s-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo X90S to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y02t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y02T to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100a-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100A to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100i-power-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100i Power 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100i-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100i to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100t to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y17s-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y17s to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y200-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y200 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y200e-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y200e 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y27-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y27 4G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y27-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y27 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y27s-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y27s to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y28-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y28 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y36-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y36 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y36i-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y36i to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y55s-5g-2023-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y55s 5G (2023) to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y56-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y56 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y77t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y77t to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y78-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y78 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y78plus-t1-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y78+ (T1) Edition to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y78plus-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y78+ to iPad | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>In 2024, Mastering the Height  Final Cut Pro X Techniques for Instagram Video</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-amd-drivers-on-widows-steps-guide/"><u>Reinstall AMD Drivers on Widows: Steps Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-screen-savers-strategy-top-recording-tactics/"><u>The Screen Saver's Strategy  Top Recording Tactics</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-c110-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from C110.</u></a></li>
+</ul></div>

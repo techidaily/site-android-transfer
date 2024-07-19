@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Ways to Transfer Photos from Oppo A78 to iPhone Easily | Dr.fone
-date: 2024-03-19 20:41:38
-updated: 2024-03-22 12:47:16
+date: 2024-07-17T22:33:27.082Z
+updated: 2024-07-18T22:33:27.082Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 8 Ways to Transfer Photos from Oppo A78 to iPhone Easily
 excerpt: This article describes 8 Ways to Transfer Photos from Oppo A78 to iPhone Easily
 keywords: transfer from android to android,transfer from android to mac,transfer from android to ipad,transfer from Oppo A78 to pc,transfer from android to iphone,transfer from Oppo A78 to mac,transfer from Oppo A78 to ipad,transfer from Oppo A78 to android,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## 8 Ways to Transfer Photos from Oppo A78 to iPhone Easily
@@ -26,12 +26,18 @@ If you are confused over which method you should choose for transferring photos 
 
 Dr.Fone is perfect because you can transfer across multiple devices regardless of OS. As an example, if you want to transfer photos from Oppo A78 to iPad /iPhone and vice versa, it can be done quickly by following two ways as mentioned below:
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1.1 One-click to Transfer Photos from Oppo A78 to iPhone using Dr.Fone - Phone Transfer
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a software package that facilitates cross-device transactions, such as transferring photos from Oppo A78 to iPhone. If you are in the process of replacing your Android with a new iPhone, then use Dr.Fone to transfer all contents to the new phone. The content can include photos, contacts, videos, and social media messages.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Photo from Oppo A78 to iPhone in 1 Click Directly!
@@ -56,6 +62,9 @@ Let us see the steps on how to transfer photos from Oppo A78 to iPhone using Dr.
 
 **Step 3.** Finally, select the files you want to transfer (photos) and click on ‘Start Transfer.’ That was it. Soon, it will transfer pictures from Oppo A78 to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 
@@ -80,6 +89,9 @@ All in one Solution to Transfer Photos from Oppo A78 to iPhone
 
 Here, either you can select the photos that you wish to transfer selectively or select all the images at once. Now, as you want to transfer photos to an iPhone device, connect your iPhone and then click on To Device. The name of your iOS device should appear. Click on the Oppo A78 device to start transferring photos.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-export to device](https://images.wondershare.com/drfone/guide/manage-android-photos-1.png)
 
 
@@ -131,6 +143,9 @@ Bluetooth is an excellent option to transfer photos and videos across both Andro
 
 It is important to note that the rate of data transfer on Bluetooth is heavily dependent on the version of Bluetooth you use. For example, if you use Bluetooth 2.x data transfer happens at 0.25 MB/s, whereas Bluetooth 5.x transfers data at 6 MB/s.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 4: How to Transfer Photos from Oppo A78 to iPhone Using Google Drive?
 
 Google Drive is cloud storage that is available to those who have a Gmail address. It can store anything ranging from Word Documents to photos and videos. Hence, if you are wondering **how to move photos from Oppo A78 to iPhone**, then Google Drive is your answer.
@@ -155,12 +170,18 @@ This way takes some manual steps. If you want a one-click solution, try [Dr.Fone
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. How to Transfer Photos from Oppo A78 to iPhone Via Email?
 
 Employing email represents a simple technique for sending a restricted set of photos from an Android device to an iPhone. Nevertheless, it might not be the optimal option for transferring a large assortment of high-resolution images. Still, it acts as a swift solution for exchanging a few pictures. Here is a comprehensive guide illustrating the process of sending photos from an Android device to an iPhone via email:
 
 **Step 1:** Launch the email app on your Oppo A78 and tap the compose or new email button to start a new email. Enter your email address or the recipient's email address in the "To" field.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ add email and other details](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-1.jpg)
 
 **Step 2:** Look for the “Attachment” icon (usually a paperclip) and select the photos you want to transfer. Attach the selected photos to the email, and once the photos are attached, click the “Send” button.
@@ -175,18 +196,30 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 Several apps are specifically designed for storing and transferring images from an Android device to an iPhone. We have found the three best apps based on ease of use and accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### PhotoSync
 
 PhotoSync is a free photo-sharing app available on both Android and iOS devices. The app lets you store all your photos on one device and then transfer it to another device through Wi-Fi. PhotoSync is designed to work with several methods besides Android and iOS devices. It works on different platforms, including desktop computers, NAS, and Cloud Services.
 
 You can extract videos and photos directly from the camera and transfer them to another device. You can even access the photos/videos via a web browser. PhotoSync is regularly updated with features to make the experience better support for RAW files and preserves for EXIF-data.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Photo Transfer
 
 The photo transfer app is incredibly popular and with a good reason. You can perform Android to iPhone photo transfer without any cables. You can access Photo Transfer on different platforms, including desktop computers. It allows you to access your photos stored on the app via a web browser. You can easily download multiple images for storage and exchange these photos across various platforms. If you need an intuitive, easy-to-use app to **send photos from Oppo A78 to iPhone** then consider using the Photo Transfer app.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-Photo Transfer](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-14.jpg)
 
 ### Shareit
@@ -203,12 +236,18 @@ Thus, after going through the article, we are sure that you have a wide range of
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Copy Data from Samsung to Pixel 8 and Pixel 8 Pro
 
 Getting a new phone is incredibly exciting, but once you realize how much data you need to transfer, the experience can take a sudden turn for the worse. Fortunately, there are now multiple ways to transfer data from your old phone to a new device, and we’re here to help you with these.
 
 Today’s article will teach you how to **transfer data from a Samsung to a Google Pixel** device with the help of Wi-Fi, USB cables, Google Drive, and a third-party app. Stay with us to learn how to **copy data from Samsung to Pixel** with these seven incredibly convenient methods.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transfer Data From Samsung to Pixel 8 and Pixel 8 Pro via Dr. Fone Phone Transfer
 
 ![wondershare dr.fone phone transfer app](https://images.wondershare.com/drfone/images2023/home/part-banner-img-768.png)
@@ -258,6 +297,9 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
 
 1. Power on your new Pixel phone and tap the **Get started**button during the initial setup. Choose to restore from an old phone.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![transfer data to new pixel device](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-8.jpg)
 
 2. Connect the Oppo A78 device to a Wi-Fi network.
@@ -267,12 +309,27 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
 
 4. Select which apps and types of data you want to transfer to it and tap **Restore**.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
     ![restore specific file types](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-10.jpg)
 
 5. Follow the file transfer instructions and watch as data copies from your old Samsung to your new Pixel 8/8 Pro device.
 
 Your new phone will notify you when the file transfer is complete, and you can continue using your brand-new device right where you left off with the Samsung one.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Copy Data From Samsung to Pixel 8 and Pixel 8 Pro Using USB
 
 If you don’t want to transfer files over a Wi-Fi network, don’t want to waste your mobile data, or wish to complete the file transfer the old-fashioned way with a USB cable, you can follow these steps to transfer data from Samsung to Pixel:
@@ -281,6 +338,9 @@ If you don’t want to transfer files over a Wi-Fi network, don’t want to wast
 2. Hit the **Get started** button on your Pixel phone and connect to a Wi-Fi network (this is required to initiate a data transfer, regardless of your connection).
 3. Tap on **Next**when you see the “Copy apps and data” screen. Click **Next** again when prompted to use your old phone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![copy apps and data to pixel](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-11.jpg)
 
 4. Connect the USB cable between your old Samsung and new Pixel 8/8 Pro phones and tap **Next**.
@@ -301,6 +361,18 @@ Using a computer as an intermediary device for transferring files is another exc
 3. Access its memory through the computer’s File Explorer.
 4. Select the files and folders you want to copy and transfer them to a new folder on your PC. You can then go through these files on your PC, delete what you don’t need, and organize everything before transferring the data to your new Pixel 8 device, but this is optional.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![copy data to the pc](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-14.jpg)
 
 5. Disconnect the old phone from the computer.
@@ -324,12 +396,18 @@ Here’s what you’ll need to do:
 3. Unlock your Samsung device and click the **Copy**
 4. Select the type of data you want to transfer and hit **Copy**.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
     ![copy data with quick switch adapter](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-15.jpg)
 
 5. Once the process is complete, click **Next** \> **Done**.
 
 Before you start the file transfer process using a Quick Switch, you should ensure both devices are fully charged. Furthermore, you should also update your Samsung device to the latest software version to avoid potential transfer issues, such as data corruption or incomplete transfers.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transfer Data From Samsung to Pixel Using Google Drive
 
 Being an Android user requires a Google account, granting you access to 15 GB of free storage space on Google Drive, making the app an excellent way to transfer files from your old phone to your new one. Here’s how you can use it:
@@ -357,6 +435,9 @@ Although it’s not as effective as the abovementioned methods, email is also an
 1. Open your old Samsung phone’s email app and compose a new email.
 2. Hit the attachment icon and add your files to the email. Send it to whomever you like or to your secondary email account.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![transfer data via email attachments](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-18.jpg)
 
 3. Launch the email app on your new Google Pixel 8 or 8 Pro device.
@@ -372,6 +453,9 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from Oppo A78 to iPhone XS/11
 
 When it comes to transferring contacts from Oppo A78 to iPhone XS/11, we play enough care to not mess with the process.
@@ -415,6 +499,9 @@ Step 3:  Once the Oppo A78 devices get detected, you need to select Android as 
 
 Step 4:  In this step, you have to select the data type you want to move from your Oppo A78 to the iPhone XS/11, i.e. ‘Contacts’. Now, push the ‘Start Transfer’ button consecutively to initiate the transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![start to import contacts to iPhone XS (Max) from android with USB cable](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 **Note:** _If it’s a used iPhone XS/11, then you can select the ‘Clear Data before Copy’ checkbox for erasing any existing data on it prior to transferring the data._
@@ -423,6 +510,9 @@ Step 5: Allow some time to get the process completed. Your contacts are successf
 
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to transfer contacts from Oppo A78 to iPhone XS/11 using Move to iOS
 
 Move to the iOS app from Apple allows you to make a smooth transition from an Android device to an iOS device. Be it an iPhone, iPad, or iPod Touch, this tool makes transferring content a cakewalk.
@@ -439,12 +529,18 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 1. On your Oppo A78, click ‘Continue’ and then ‘Agree’. A prompt asking for a code will appear on your Android mobile.
 2. Get the iPhone and hit ‘Continue’ and note the displayed code. Enter this on your Oppo A78. When both the Android and iPhone are connected to the Wi-Fi, select ‘Contacts’ from the data types and tap ‘Next’.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer contacts from Oppo A78 to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
 1. On your Oppo A78, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Oppo A78 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to transfer contacts from Oppo A78 to iPhone XS/11 using Google account
 
 Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Android mobile, as well. to do that, you need to get your Gmail and Android device contacts to get synced first.
@@ -457,12 +553,27 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to transfer contacts from Oppo A78 to iPhone XS/11 using SIM card
 
 As you know the SIM card itself can hold a certain number of contacts, depending on the carrier and phone make and model.
@@ -470,6 +581,9 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 1. Open the ‘Contacts’ app and click on ‘More’. Go to the ‘Import/Export’ or simply ‘Export Contacts’ option there.
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer contacts from Oppo A78 to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
@@ -492,3 +606,59 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficient-practices-logging-google-voice-dialogues/"><u>[New] 2024 Approved  Efficient Practices  Logging Google Voice Dialogues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-inconspicuous-footprint-of-social-media-engagements/"><u>[New] 2024 Approved  The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-guide-to-effective-video-capturing-via-screencastify-for-2024/"><u>[Updated] Guide to Effective Video Capturing via Screencastify for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-windows-11-gamers-guide-to-excellent-game-capturing/"><u>[Updated] Windows 11 Gamers' Guide to Excellent Game Capturing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-dormant-dialogues-among-youtube-watchers/"><u>2024 Approved  Discovering Dormant Dialogues Among YouTube Watchers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-download-gif-images-from-twitter/"><u>2024 Approved  How to Download GIF Images From Twitter</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovative-templates-to-amplify-yt-decks/"><u>2024 Approved  Innovative Templates to Amplify YT Decks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-by-step-filming-and-editing-your-first-reel-on-facebook/"><u>2024 Approved  Step-by-Step  Filming and Editing Your First Reel on Facebook</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-t1-edition-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ (T1) Edition to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-t1-edition-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ (T1) Edition to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-t1-edition-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ (T1) Edition to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-t1-edition-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ (T1) Edition to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78t to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78t to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78t to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78t to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13 Ultra to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13 Ultra to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13 Ultra to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Ultra to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Ultra to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Ultra to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-editing-essential-10-final-cut-pro-extensions/"><u>In 2024, Ace Editing  Essential 10 Final Cut Pro Extensions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-reversing-the-flow-a-comprehensive-list-of-advanced-audio-reversal-tools-for-2024/"><u>New Reversing the Flow A Comprehensive List of Advanced Audio Reversal Tools for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-6-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 6</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-comprehensive-guide-to-the-wave-editor-highlights-critiques-and-walkthroughs/"><u>Updated 2024 Approved Comprehensive Guide to the Wave Editor Highlights, Critiques, and Walkthroughs</u></a></li>
+<li><a href="https://games-able.techidaily.com/when-to-rely-on-a-simple-ps5-controller-restart-solution/"><u>When to Rely on a Simple PS5 Controller Restart Solution</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily | Dr.fone
-date: 2024-03-21 12:11:24
-updated: 2024-03-22 10:18:29
+date: 2024-07-17T22:21:18.560Z
+updated: 2024-07-18T22:21:18.560Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily
 excerpt: This article describes 5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily
 keywords: transfer from android to iphone,transfer from android to mac,transfer from ZTE Nubia Z60 Ultra to mac,transfer from android to pc,transfer from ZTE Nubia Z60 Ultra to iphone,transfer from android to android,transfer from ZTE Nubia Z60 Ultra to ipad,transfer from android to ipad,transfer from ZTE Nubia Z60 Ultra to pc,transfer from ZTE Nubia Z60 Ultra to android
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## 5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily
@@ -24,6 +24,9 @@ The transfer of all music files from one Android phone to another with a single 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices in 1 Click Directly!
@@ -47,6 +50,9 @@ Here are the few simple steps required to be carefully followed to transfer musi
 
 If you want the Source device to be the Destination device, click on the “Flip” button at the center of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer music from android to android-click on the “Flip” button](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 **Step 3.** You can now select the files to be transferred by checking the corresponding boxes. In this case, check the Music box and then click on “Start Transfer” to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices.
@@ -59,12 +65,18 @@ There you go; within a few seconds, your music files will be transferred success
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Selectively?
 
 Another way to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices is by using the transfer feature on [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). As the name implies, this feature can be used to transfer files from one Android device to another by selecting the particular music file one by one instead of choosing an entire music file.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
 Transfer Android Media to Android Devices Selectively
@@ -81,6 +93,9 @@ Here are a few easy steps to follow on how to transfer music from ZTE Nubia Z60 
 
 **Step 1:** After installing Dr.Fone software on your computer and launching it, connect the Android device via USB cable. Now click on the “Music” tab at the top of the screen amongst the other listed options. The program would immediately recognize your device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![transfer music from android to android-click on the “Music” tab](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
 **Step 2.** The moment all the audio files or music files on the connected device are displayed on the Dr.Fone software screen. You can scroll down and select each file you wish to copy or select an entire folder from the left side pane.
@@ -93,6 +108,9 @@ Here are a few easy steps to follow on how to transfer music from ZTE Nubia Z60 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices using Bluetooth?
 
 Bluetooth transfer is one of the oldest methods that can be used to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices, and it is a simple way to make use of it.
@@ -111,6 +129,9 @@ Bluetooth transfer is one of the oldest methods that can be used to transfer mus
 
 Mostly, you will be provided with a pair confirmation code that will be displayed on both devices. Click OK to pair both devices successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![transfer music from android to android-pair both devices](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-9.jpg)
 
 **Step 3.** The final step is to head to the File Manager app on your phone or go to your Music Player, select the music file you wish to transfer, and then click on your device's Share button or logo.
@@ -119,6 +140,9 @@ Here, scroll until you see the “Bluetooth” option. You will be immediately p
 
 This is how you can transfer music files from ZTE Nubia Z60 Ultra to Other Android Devices using Bluetooth.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer music from android to android-use Bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-10.jpg)
 
 ## Part 4. How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices using NFC?
@@ -129,6 +153,9 @@ NFC or Near Field Communication is another wireless means to transfer music from
 
 **Step 1.** First, enable NFC connection on both the ZTE Nubia Z60 Ultra devices between which you want to transfer the music files. To switch on NFC on Android, go to Phone’s “Settings” and click on “More Settings” under “Wireless and Network” options. Now click on the NFC button to ensure that it is switched On. Do the same on the other Android device as well.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer music from android to android-click on “More Settings”](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-11.jpg)
 
 **Step 2.** Before you begin to transfer, you need to touch the back of both devices (whose NFC has already been turned on), you will notice that both devices vibrate upon a successful connection. This means you can now start transferring your music files.
@@ -185,12 +212,18 @@ Among Samsung Galaxy S21, S21 Plus, and S21 Ultra, Samsung Galaxy S21 has the lo
 
 Though three of these have the same design of camera and position, the real difference is in size. Galaxy S21 comes in 6.2 inches screen, Galaxy S21 Plus has a 6.7-inch screen, and Galaxy S21 Ultra has a 6.8-inch screen. Galaxy S21 Ultra comes with a wide camera bump that fits the extra sensors. Galaxy S21 Ultra fits better in hands because of its curved edges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung galaxy s21 ultra vs s20](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-20-vs-21.jpg)
 
 **Display:**
 
 As mentioned, the difference of screen measurements. Besides this, there are some other differences in the display. Galaxy S21 and S21 Plus come in FHD resolution displays, where Galaxy S21 Ultra has QHD resolution. That means you can see the details on the Galaxy S21 Ultra. Galaxy S21 and S21 Plus change the refresh rate between 48Hz and 120Hz, where Galaxy S21 Ultra can go 10Hz and 120Hz.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
 
 **Camera:**
@@ -213,12 +246,21 @@ Most of the time, after purchasing a new phone, we cannot transfer photos or oth
 
 Download and install the software on your computer. Then start the Dr.Fone - Phone Transfer, and you'll get the program's home page. Now click on the "Switch" option to proceed forward.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 ### Step 3: Start Transfer Process
@@ -227,6 +269,9 @@ After choosing the desired file types (Photos for this case), click on the "Star
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4: Finish Transfer and Check
 
 Within a short time, all your selected photos will be transferred to the Samsung Galaxy S21 Ultra. Then disconnect the ZTE Nubia Z60 Ultra devices and check if everything is okay.
@@ -247,6 +292,9 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Data After Switching From ZTE Nubia Z60 Ultra to Latest Samsung
 
 Have you finally gotten your hands on the latest smartphone from Samsung’s flagship Galaxy S series? Whether you have the compact S23, the slightly larger S23 Plus, or the sleek S23 Ultra, you’re in for a thrilling ride of exceptional performance and vivid graphics.
@@ -255,8 +303,14 @@ What about files on your old Android? Can you transfer data after **switching fr
 
 However, can you save all the data? Let’s find out.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Can You Save Your Data After Switching From ZTE Nubia Z60 Ultra to Samsung S23?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![samsung galaxy s23 on a table](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-2.jpg)
 
 You can save all data after switching from ZTE Nubia Z60 Ultra to Samsung S23. It doesn’t matter which Android phone you’ve used before buying the latest Samsung model because you have many data transfer options.
@@ -276,6 +330,9 @@ Here’s how to move data from ZTE Nubia Z60 Ultra to Samsung S23 with Wondersha
 1. Download and install the app on your computer.
 2. Go to **Toolbox > Phone Transfer**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3. Connect your old Android and Samsung S23 to the computer with USB cables.
@@ -285,6 +342,18 @@ Here’s how to move data from ZTE Nubia Z60 Ultra to Samsung S23 with Wondersha
 
 5. Select the categories to copy to Samsung S23 and click **Start Transfer**.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data transfer with wondershare dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
 
 Wondershare Dr.Fone Phone Transfer lets you move apps, contacts, photos, videos, music, ringtones, text messages, voice memos, call logs, bookmarks, and calendar data between Android devices.
@@ -308,6 +377,9 @@ Here’s how to move data from ZTE Nubia Z60 Ultra to Samsung S23 with Smart Swi
 
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![establishing a wireless connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-5.jpg)
 
 5. Choose the desired data using your Samsung S23, tap **Transfer**, then **Go to the Home screen**once everything is on your new phone.
@@ -324,12 +396,18 @@ Here’s how to transfer data to Samsung Galaxy S23 using Google Account synchro
 
 1. Go to **Settings > Google > Backup > Google Account data**on your old Android phone and toggle on the desired switches for synchronization.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring google account data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-7.jpg)
 
 2. On your Samsung S23, go to **Settings > Google**and log into your backed-up Google Account.
 
 Everything you’ve previously backed up will automatically sync once you log into your Google Account.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Share Data via Bluetooth
 
 Bluetooth may be slower than most data-sharing methods, but its reliability is why we never have to imagine life without it. It may not support transferring settings or downloaded apps, but it’s excellent for moving all your photos, videos, music, and other files.
@@ -347,6 +425,9 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### 5\. Use Google Drive
 
 Google Drive is a prominent cloud storage and file-sharing platform. You’re missing out if you don’t use it. It lets you synchronize data across devices, access files in the cloud, and create presentation slides, spreadsheets, forms, and documents (online and offline).
@@ -395,6 +476,9 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 6. Pick any location on your Samsung S23 phone (e.g., the **Downloads**folder for quick access) and tap **Copy**.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring data to samsung s23](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-17.jpg)
 
 Moving data between phones using a USB cable is faster than Bluetooth but offers the same functionality. However, charge your devices beforehand because the data transfer may take a while (if you have many sizable files).
@@ -414,11 +498,17 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 2. Connect the Android to your computer with a USB cable.
 3. Tap **USB for file transfer**in the **Notification panel** and select **Transferring files / Android Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choosing a usb for file transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-19.jpg)
 
 4. Go to **This PC**in **File Explorer** and open your phone under **Devices and drives**.
 5. Right-click the folders or files you wish to move, select **Copy**, and paste them to any location on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring files to a pc](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-20.jpg)
 
 6. Once you move the data, safely disconnect your old Android and connect your Samsung S23 to the PC.
@@ -426,6 +516,9 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 This method is best for transferring photos, videos, and other files from an SD card you might not use anymore. After all, smartphone manufacturers increasingly ditch SD card slots for sleek, more compact designs.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Switching from ZTE Nubia Z60 Ultra to Samsung S23 is a breeze because you have many data transfer options. Besides Samsung’s Smart Switch, you can use your synced Google Account, Google Drive, Bluetooth, or a USB-C to USB-C cable. You can also migrate data from your old Android SD card to your computer before transferring it to your new phone.
@@ -449,3 +542,71 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-becoming-an-expert-in-igtv-a-complete-overview/"><u>[New] Becoming an Expert in IGTV  A Complete Overview</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capture-every-click-with-spring-screen-recorder/"><u>[New] Capture Every Click with Spring Screen Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-discover-easy-fb-ad-videos-free-creation-kit-available/"><u>[New] Discover Easy FB Ad Videos – FREE Creation Kit Available</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flutter-free-your-videos-a-selection-of-excellent-converters-for-2024/"><u>[New] Flutter Free Your Videos  A Selection of Excellent Converters for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-best-10-online-yoga-hubs-for-fitness/"><u>[Updated] 2024 Approved  Discover the Best 10 Online Yoga Hubs for Fitness</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-revealing-featured-comment-spots/"><u>[Updated] In 2024, Revealing Featured Comment Spots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lustrous-android-video-techniques-for-every-user/"><u>[Updated] Lustrous Android Video Techniques for Every User</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-master-list-of-10-best-video-chat-programs-today-for-2024/"><u>[Updated] Master List of 10 Best Video Chat Programs Today for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-podcast-beat-initiation-essential-melody-hotspots/"><u>[Updated] Podcast Beat Initiation  Essential Melody Hotspots</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-rotation-revelations-maximizing-media-experience-with-vlc/"><u>[Updated] Rotation Revelations  Maximizing Media Experience with VLC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-taste-titans-top-culinary-bloggers-and-youtubers/"><u>[Updated] Taste Titans  Top Culinary Bloggers & YouTubers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-ideas-that-will-help-you-out-in-making-transparent-image/"><u>2024 Approved Ideas That Will Help You Out in Making Transparent Image</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y02t-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y02T FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-efficiency-learning-free-timers-functionality/"><u>Boost Efficiency  Learning FREE Timers' Functionality</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/capture-discord-conversations-with-these-top-free-apps-for-2024/"><u>Capture Discord Conversations with These Top Free Apps for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-steps-to-share-your-screen-via-google-meet/"><u>Easy Steps to Share Your Screen via Google Meet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/explore-cost-free-cross-platform-virtual-communication-software-for-2024/"><u>Explore Cost-Free, Cross-Platform Virtual Communication Software for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmony-in-transition-crafting-crossfade-effects/"><u>Harmony in Transition  Crafting Crossfade Effects</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-m14-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy M14 4G Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f23-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F23 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f23-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F23 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f25-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F25 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f25-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F25 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F25 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f25-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F25 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-flip-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 Flip to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-flip-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 Flip to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-flip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 Flip to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-flip-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 Flip to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 Ultra to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 Ultra to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 Ultra to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-k11-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo K11 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-k11-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo K11 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-k11-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo K11 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-youtubes-algorithm-behind-prominent-comments/"><u>In 2024, Decoding YouTube's Algorithm Behind Prominent Comments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elite-hd-visuals-selecting-top-quality-recorders/"><u>In 2024, Elite HD Visuals  Selecting Top Quality Recorders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-multiplatform-movie-capture-with-expert-ease/"><u>In 2024, Navigating Multiplatform Movie Capture with Expert Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximizing-ad-performance-with-engaging-fb-animation-strategies-for-2024/"><u>Maximizing Ad Performance with Engaging FB Animation Strategies for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-exceptional-online-tools-for-creating-epic-gaming-intros/"><u>New 10 Exceptional Online Tools for Creating Epic Gaming Intros</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-renderforest/"><u>New In 2024, How to Create Intro with Renderforest</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-up-your-image-game-the-best-free-online-editors-for-2024/"><u>Step Up Your Image Game  The Best Free Online Editors for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/time-stamping-your-photographs-efficiently/"><u>Time Stamping Your Photographs Efficiently</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-break-free-from-adobe-10-linux-video-editors-for-every-creator-for-2024/"><u>Updated Break Free From Adobe 10 Linux Video Editors for Every Creator for 2024</u></a></li>
+</ul></div>

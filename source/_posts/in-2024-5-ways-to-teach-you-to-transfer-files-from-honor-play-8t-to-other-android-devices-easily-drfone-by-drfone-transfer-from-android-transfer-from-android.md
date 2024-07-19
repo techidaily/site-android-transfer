@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways To Teach You To Transfer Files from Honor Play 8T to Other Android Devices Easily | Dr.fone
-date: 2024-05-19T18:55:19.950Z
-updated: 2024-05-20T18:55:19.950Z
+date: 2024-07-17T22:05:15.511Z
+updated: 2024-07-18T22:05:15.511Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways To Teach You To Transfer Files from Honor Play 8T to Other Android Devices Easily
 excerpt: This article describes 5 Ways To Teach You To Transfer Files from Honor Play 8T to Other Android Devices Easily
 keywords: transfer from Honor Play 8T to ipad,transfer from Honor Play 8T to pc,transfer from Honor Play 8T to android,transfer from android to android,transfer from android to mac,transfer from android to ipad,transfer from android to iphone,transfer from Honor Play 8T to mac,transfer from android to pc,transfer from Honor Play 8T to iphone
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## 5 Ways To Teach You To Transfer Files from Honor Play 8T to Other Android Devices Easily
@@ -26,14 +26,32 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 
 ****Step 1:**** Start by enabling Bluetooth on both Android devices and ensuring their visibility is set to all. Afterward, select the targeted files on the old Android phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the bluetooth option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-1.jpg)
 
 ****Step 2:**** Now, press the “Share” icon and select “Bluetooth.” Choose your new Android device from the available devices on the next screen.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the bluetooth option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-2.jpg)
 
 ****Step 3:**** Move to your new Android phone and hit “Accept” to start the transfer process. The transfer time will be depended on the size of the files.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the accept button](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-3.jpg)
 
 ### Pros and Cons
@@ -48,6 +66,9 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 
 Using Bluetooth is best for transferring small to medium, size files. It is also convenient when you can’t access the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Transfer Files from Honor Play 8T to Other Android Devices by Nearby Share
 
 Nearby Share is a method developed by Google to ****share files between Android phones****. It can be considered Google’s answer to Apple’s AirDrop, though, unlike AirDrop, it doesn’t require Wi-Fi. This method is available for all Android devices though you should use the latest Android OS for smoother working. Moreover, Bluetooth needs to be enabled to use this method.
@@ -66,6 +87,9 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 ![tap on the nearby share](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pros and Cons
 
 | Pros | Cons |
@@ -78,6 +102,9 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 Using Nearby Share is recommended when you don't have access to a computer or the internet, and you need to share large files.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Transfer Files Between Android by USB Cable
 
 If you have access to a computer, you can use it to ****transfer files from Honor Play 8T to Other Android Devices****. All you need is a USB cable, and you are set. In this method, you will first copy data from the old phone to the computer and then copy it to the new phone from the computer. It works by default on Windows, but for Mac, you need Android File Transfer.
@@ -90,6 +117,9 @@ If you have access to a computer, you can use it to ****transfer files from Hono
 
 ****Step 2:**** Now copy all the data you want to transfer to your computer and disconnect the old device. Afterward, connect the new Android device to the computer, give access permission, and copy the data you took from the old phone to the new phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the android data](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-8.jpg)
 
 ### Pros and Cons
@@ -130,6 +160,9 @@ Google Account is another great way for ****Android-to-Android file transfer***
 
 Using Google Account to transfer files from Honor Play 8T to Other Android Devices is best when you still haven’t set up the new Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Best choice: The Fastest Way to Transfer Files from Honor Play 8T to Other Android Devices with Dr.Fone
 
 Want to find the best and ****fast way to transfer files from Honor Play 8T to Other Android Devices****? If you don’t want to go through any time-consuming or complex transfer process, we recommend you use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a complete toolbox for smartphones and includes all the necessary solutions. Regarding Android data transfer, it can quickly transfer data between 8000+ Android devices, including the latest ones.
@@ -149,12 +182,18 @@ Aside from being the fastest way to transfer files between Android phones, it al
 
 Use USB cables to connect both Android devices to the computer and launch Dr.Fone app. From the “Home” screen, click “Phone Transfer” and wait for the program to assign devices to the correct positions.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2: Assign Android Devices to their Correct Positions****
 
 For transferring data from the old Android device to the new one, the old device should be at the “Source” position and the new device at the “Destination” position. If the positions assigned by the program are incorrect, use the “Flip” button to correct them.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the data to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 ****Step 3: Select the Desired Data and Complete the Transfer Process****
@@ -163,6 +202,9 @@ Now select the data you want to transfer and click “Start Transfer” to begin
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pros and Cons
 
 | Pros | Cons |
@@ -171,6 +213,9 @@ Now select the data you want to transfer and click “Start Transfer” to begin
 | · The transfer process of this method is extremely fast and gets completed within minutes. | · It also needs USB cables to connect your Honor Play 8Ts. |
 | · You do not need the internet to use this method. |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best For
 
 It is best for all sorts of data transfer situations. Whether you are transferring a few files or moving all the data, it is a perfect tool.
@@ -191,6 +236,9 @@ Today’s article will teach you how to **transfer data from a Samsung to a Goog
 
 ## Transfer Data From Samsung to Pixel 8 and Pixel 8 Pro via Dr. Fone Phone Transfer
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone phone transfer app](https://images.wondershare.com/drfone/images2023/home/part-banner-img-768.png)
 
 While a third-party data transfer app might not be your first thought, they’re undoubtedly worth checking out as they can make the entire experience flow much more seamlessly. Wondershare Dr.Fone is one such app, and it’s a toolkit designed to help you manage your Honor Play 8T] and other smartphones and make the most out of your journey. It has been on the market for over 17 years, meaning it’s reliable, trustworthy, and highly efficient.
@@ -212,10 +260,16 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 2. Connect the Samsung and the Pixel 8/Pixel 8 Pro phones to the PC.
 3. Navigate to **Toolbox > Phone Transfer**.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![start the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 4. Select the **Source**device (Samsung) and your **Destination** device (Pixel 8/Pixel 8 Pro). You can also use the **Flip** option to switch the file transfer’s direction if you ever need to.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![select source and destination devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
 5. Select the types of data you want to transfer and hit the **Start Transfer**.
@@ -253,6 +307,9 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
 
 Your new phone will notify you when the file transfer is complete, and you can continue using your brand-new device right where you left off with the Samsung one.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Copy Data From Samsung to Pixel 8 and Pixel 8 Pro Using USB
 
 If you don’t want to transfer files over a Wi-Fi network, don’t want to waste your mobile data, or wish to complete the file transfer the old-fashioned way with a USB cable, you can follow these steps to transfer data from Samsung to Pixel:
@@ -261,6 +318,9 @@ If you don’t want to transfer files over a Wi-Fi network, don’t want to wast
 2. Hit the **Get started** button on your Pixel phone and connect to a Wi-Fi network (this is required to initiate a data transfer, regardless of your connection).
 3. Tap on **Next**when you see the “Copy apps and data” screen. Click **Next** again when prompted to use your old phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![copy apps and data to pixel](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-11.jpg)
 
 4. Connect the USB cable between your old Samsung and new Pixel 8/8 Pro phones and tap **Next**.
@@ -281,6 +341,9 @@ Using a computer as an intermediary device for transferring files is another exc
 3. Access its memory through the computer’s File Explorer.
 4. Select the files and folders you want to copy and transfer them to a new folder on your PC. You can then go through these files on your PC, delete what you don’t need, and organize everything before transferring the data to your new Pixel 8 device, but this is optional.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![copy data to the pc](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-14.jpg)
 
 5. Disconnect the old phone from the computer.
@@ -291,6 +354,9 @@ Using a computer as an intermediary device for transferring files is another exc
 
 You’ll need to consider which types of files go into which folders. For example, you’ll need to ensure that music data goes into Android’s Music folder, pictures and videos go into Camera or DCIM folders, and documents and downloads have their respective folders, which are typical on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Copy Data From Samsung to Pixel 8 Pro via Quick Switch
 
 Another excellent option for transferring files to any Pixel phone is with Google’s Quick Switch adapters. These free OTG devices are included in every Pixel phone box and are designed to help you transfer data from an old phone to a new Pixel device.
@@ -310,12 +376,18 @@ Here’s what you’ll need to do:
 
 Before you start the file transfer process using a Quick Switch, you should ensure both devices are fully charged. Furthermore, you should also update your Samsung device to the latest software version to avoid potential transfer issues, such as data corruption or incomplete transfers.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transfer Data From Samsung to Pixel Using Google Drive
 
 Being an Android user requires a Google account, granting you access to 15 GB of free storage space on Google Drive, making the app an excellent way to transfer files from your old phone to your new one. Here’s how you can use it:
 
 1. Using your old Samsung phone, navigate to **Settings**\> **Accounts and Backup**\> **Back up data** under **Google Drive**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![back up google drive data](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-16.jpg)
 
 2. Change the **Backup details**and add the types of data you want to back up.
@@ -324,12 +396,18 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 5. Log in with the same Google account you used on the Samsung phone.
 6. The new device will immediately recognize older backups.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![restore from a google drive backup](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-17.jpg)
 
 7. Choose the latest backup made on your Samsung phone and tap **Restore**to copy data from Samsung to Pixel.
 
 It’s worth noting that Google Drive users aren’t limited to 15 GB of storage space, as paid plans also include 100 GB and 200 GB options for a few dollars per month, making this type of transfer incredibly efficient.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transfer Data From Samsung to Google Pixel 8, 8 Pro Using Email
 
 Although it’s not as effective as the abovementioned methods, email is also an option for transferring data between phones. Using it is as straightforward as sending emails, meaning that this method is effortless, and anyone can do it. Here’s how:
@@ -337,6 +415,9 @@ Although it’s not as effective as the abovementioned methods, email is also an
 1. Open your old Samsung phone’s email app and compose a new email.
 2. Hit the attachment icon and add your files to the email. Send it to whomever you like or to your secondary email account.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![transfer data via email attachments](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-18.jpg)
 
 3. Launch the email app on your new Google Pixel 8 or 8 Pro device.
@@ -352,6 +433,9 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Photos from Honor Play 8T to New Android?
 
 [![James Davis](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -360,6 +444,9 @@ The phone industry, for years, has constantly improved on the design and develop
 
 Most of these photos would need to be shared with other people who are either a part of the photo or you would want to transfer them to your new android device. Most users are at a loss about how to transfer their photos from one android device to another. There are several ways to do that successfully without the risk of losing your priced photos. And in this article we have outlined several ways through which you can transfer your photos from your Honor Play 8T to your new android device.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Transfer Photos from Honor Play 8T to New Android with a File Transfer Software
 
 One way of moving your photos between android devices is through the use of file transfer software. This software enables you to connect both android devices together.
@@ -368,6 +455,9 @@ Using file transfer software to move your photos from one android device to anot
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
@@ -390,6 +480,9 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both device between “source” and “Destination” by using the “Flip” button.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer Photos from Honor Play 8T to Other Android Devices using Dr.Fone - Phone Transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
 #### Step 3. Click "Start Transfer"
@@ -398,6 +491,9 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 ![How to Transfer Photos from Honor Play 8T to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. How to Transfer Photos from Honor Play 8T to New Android Using NFC
 
 ![Transfer Photos from Honor Play 8T to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
@@ -428,6 +524,9 @@ To Transfer Photos from your Honor Play 8T to a new android device, ensure both 
 
 4\. Now, on your Honor Play 8T, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Transfer Photos from Honor Play 8T to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
 
 To begin beaming, you must touch the screen on your Honor Play 8T from where the photos are been sent. A sound will alert you that beaming has started.
@@ -454,8 +553,14 @@ A message will pop up on your new android device, requesting permission to pair 
 
 4\. A list of option will appear. Choose Bluetooth. This will take you back to The Bluetooth application. Click on your new android device that you have previously paired with. A Message will appear on your new device asking for permission to receive the photos from your Honor Play 8T. Click "Accept". This will initiate the transfer process. A progress bar at the top of your screen will show you the Progress of each transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Transfer Photos from Honor Play 8T to Other Android Devices by Bluetooth](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Transfer Photos from Old to New Android Phones via Device-Specific App
 
 **Samsung Smart Switch**
@@ -470,6 +575,9 @@ The Samsung smart switch software helps to Transfer Photos either by cable or wi
 
 3\. On the old Samsung device, select the data to be transferred to the new Samsung device. When you are done with this, your phone will notify the size and time length of the transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Transfer Photos from Honor Play 8T to Other Android Devices by Smart Switc-Start Transfer by Smart Switch](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-02.jpg)
 
 4\. Thereafter, click on “Send” to begin the transfer of data from on device to the other.
@@ -513,3 +621,66 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhancing-selfie-impact-on-instagram-the-zoom-guide/"><u>[New] In 2024, Enhancing Selfie Impact on Instagram  The Zoom Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-starry-nights-in-focus-advice-on-night-portraiture/"><u>[Updated] 2024 Approved  Starry Nights in Focus  Advice on Night Portraiture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube-for-2024/"><u>[Updated] Free Yourself From Cash for Sound  The Best 18 Audio Crackers on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-youtube-content-with-text-overlays/"><u>[Updated] In 2024, Enhancing YouTube Content with Text Overlays</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-content-size-on-igtv-top-5-expert-tips-to-consider/"><u>[Updated] Navigating Content Size on IGTV  Top 5 Expert Tips to Consider</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-performance-desktops-today/"><u>[Updated] Optimal Performance Desktops Today</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-media-extractor-quick-mp3-downloads/"><u>2024 Approved  Facebook Media Extractor – Quick MP3 Downloads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-livestreaming-facebook-made-simple-for-all-tech-users/"><u>2024 Approved  Livestreaming Facebook Made Simple for All Tech Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-resize-videos-in-no-time-a-simple-tutorial/"><u>2024 Approved Resize Videos in No Time A Simple Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-out-the-magic-leading-frames-for-your-images-for-2024/"><u>Bring Out the Magic  Leading Frames for Your Images for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-users-at-risk-the-effect-of-deleting-facial-recognition-data-on-safety/"><u>Facebook Users at Risk? The Effect of Deleting Facial Recognition Data on Safety?</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-20-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-vs-2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic Vs 2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-vs-2-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic Vs 2 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-vs-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic Vs 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-vs-2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic Vs 2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-vs-2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic Vs 2 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic5-ultimate-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic5 Ultimate to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic5-ultimate-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic5 Ultimate to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic5-ultimate-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic5 Ultimate to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic5-ultimate-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic5 Ultimate to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic5-ultimate-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic5 Ultimate To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-40c-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 40C to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>In 2024, Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essence-and-creation-process-of-mukbangs/"><u>In 2024, The Essence and Creation Process of Mukbangs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-windows-video-editing-apps-the-best-imovie-substitutes/"><u>New 2024 Approved Windows Video Editing Apps The Best iMovie Substitutes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-animation-drawing-made-easy-top-software-picks-and-beyond/"><u>New In 2024, Animation Drawing Made Easy Top Software Picks and Beyond</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-searching-for-realistic-church-bells-acoustics-for-2024/"><u>New Searching for Realistic Church Bells Acoustics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-pieces-captivating-collages/"><u>Perfect Pieces, Captivating Collages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revised-interview-scripts-for-captivating-audiences/"><u>Revised Interview Scripts for Captivating Audiences</u></a></li>
+<li><a href="https://techidaily.com/solved-microsoft-excel-2019-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2019 File Error The document cannot be saved</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-13-pro-max-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 13 Pro Max and Android Phones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-revenue-with-strategic-snapchat-promotions-for-2024/"><u>Unlocking Revenue with Strategic Snapchat Promotions for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-12-sports-streaming-sites-freeandpaid/"><u>Updated In 2024, Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
+</ul></div>

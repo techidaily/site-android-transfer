@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Techniques to Transfer Data from Xiaomi Redmi A2 to iPhone 15/14/13/12 | Dr.fone
-date: 2024-05-19T18:55:19.318Z
-updated: 2024-05-20T18:55:19.318Z
+date: 2024-07-17T21:55:38.082Z
+updated: 2024-07-18T21:55:38.082Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Techniques to Transfer Data from Xiaomi Redmi A2 to iPhone 15/14/13/12
 excerpt: This article describes 5 Techniques to Transfer Data from Xiaomi Redmi A2 to iPhone 15/14/13/12
 keywords: transfer from android to mac,transfer from Xiaomi Redmi A2 to iphone,transfer from Xiaomi Redmi A2 to ipad,transfer from android to android,transfer from android to ipad,transfer from Xiaomi Redmi A2 to pc,transfer from Xiaomi Redmi A2 to android,transfer from android to iphone,transfer from Xiaomi Redmi A2 to mac,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## 5 Techniques to Transfer Data from Xiaomi Redmi A2 to iPhone 15/14/13/12
@@ -21,10 +21,16 @@ Switching to a brand-new smartphone requires plenty of work. You first need to s
 In this article, we’ll talk about the essential factors involved in data migration of two devices with different operating systems. We will also provide a few tutorials on how to **transfer data from Xiaomi Redmi A2 to iPhone 15** conveniently. Continue reading below to learn more.
 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Factors to Consider When Transferring Data From Xiaomi Redmi A2 to iPhone
 
 It’s probably true to say that data migration is a major procedure. It’s not just a simple file-sharing method that can be completed in no time. A lot of things are involved when data is transferred from one device to another. To help you understand it better, below is a list of factors affecting the quality and speed of data migration.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### File Size
 
 The size of files being transferred affects the process in general. This is because the Xiaomi Redmi A2 device on the receiving end needs to allocate the data individually to the available space. That’s why the procedure often takes some time to complete if the volume of files is quite large. On the hand one hand, data migration gets completed in a snap if the file size is smaller.
@@ -33,6 +39,9 @@ The size of files being transferred affects the process in general. This is beca
 
 The type of files involved in the data transfer is also a factor. Why so? The simplest explanation is that compatibility matters a lot in any form of file transfer. For instance, the procedure will likely fail if the receiver’s device does not support the data you’re trying to send. But don’t worry. There are lots of methods to transfer data from Xiaomi Redmi A2 to iPhone 15 if your first try doesn’t work out.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Device Storage
 
 Device storage is definitely the first thing you should check before going ahead with the data transfer. It is important that the receiver’s device has adequate memory to accommodate the incoming files. Otherwise, the transfer will likely not push through.
@@ -41,10 +50,16 @@ Device storage is definitely the first thing you should check before going ahead
 
 Migrating files between two smartphones with the same operating system is convenient. It’s because these two devices share an identical data-sharing structure. On the one hand, data migration between two smartphones with different operating systems is almost similar to the former. It’s just that the steps for the latter are quite longer. But don’t sweat it. There are many tutorials that can help you transfer data from Xiaomi Redmi A2 to iPhone 15 conveniently.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Various Ways to Transfer Data From Xiaomi Redmi A2 to iPhone 15
 
 Sharing files between Android and iOS smartphones has become a lot easier today than ever before. In fact, you can actually complete the entire process in just a matter of minutes. No need for any advanced intervention or external assistance. Just initiate the specific technique that perfectly matches your circumstances. With that said, listed below are the top five methods to transfer data from Xiaomi Redmi A2 to iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Transfer contacts from Xiaomi Redmi A2 to iPhone 15 using iCloud
 
 Do you need to transfer contacts from Xiaomi Redmi A2 to iPhone 15? Well, you can easily do that by importing your Android contacts to iCloud. Don’t worry. The steps are very simple. Here’s how to do it quickly and easily.
@@ -77,6 +92,9 @@ Google Photos is not just a mere gallery application that allows users to view m
 - **Step 1:** Go to the **Google Photos** application on your Xiaomi Redmi A2 smartphone.
 - **Step 2:** Click your **Profile** icon at the top-right corner of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![profile icon](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-5.jpg)
 
 - **Step 3:** Click **Back Up Now.** At this point, Google Photos will back up your local photos to the Google servers.
@@ -101,6 +119,9 @@ Do you use Gmail to manage your emails and organize your calendar appointments? 
 
 - **Step 5:** Toggle on the radio button next to **Mail** and **Calendar.**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![mail and calendar](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-9.JPG)
 
 - **Step 6:** Check your **Mail** and **Calendar** applications. Find the Gmail data you’ve just synced.
@@ -112,16 +133,25 @@ Move to iOS is a mobile application that automates data migration between Androi
 - **Step 1:** On your Xiaomi Redmi A2, install the Move to iOS application from Google Playstore.
 - **Step 2:** While the application is being downloaded on your Android smartphone, start setting up your new iPhone 15. On the App & Data screen, select **Move Data From Android.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-10.jpg)
 
 - **Step 3:** Get back to your Xiaomi Redmi A2 smartphone and then launch the newly installed Move to iOS application.
 - **Step 4:** Read Apple’s Terms and Conditions. Right after, click **Agree** to proceed.
 - **Step 5:** Click **Continue.**
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-11.jpg)
 
 - **Step 6:** On the Find Your Code page, click **Continue** to connect your Xiaomi Redmi A2 to your new iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-12.jpg)
 
 - **Step 7:** Find the unique code displayed on your iPhone 15 screen. Then, enter it into your Xiaomi Redmi A2 smartphone.
@@ -144,10 +174,16 @@ There’s no denying that the first four methods are all effective in this regar
 
 - **Step 4:** Wondershare Dr.Fone will then ask you to nominate a **Source** and a **Target** from your two mobile devices. Set the Xiaomi Redmi A2 as the former and the iPhone 15 as the latter. Alternatively, click the **Flip** button to modify the direction of the transfer based on your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![source and target](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 - **Step 5:** Select the specific categories of files you want to transfer. Right after, click **Start Transfer** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
@@ -185,6 +221,9 @@ Data migration is the least of your concerns when switching to a new smartphone.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 8 Ways to Transfer Photos from Xiaomi Redmi A2 to iPhone Easily
 
 Transferring photos from an Android device to an iPhone might seem daunting, given the differences in their operating systems. However, it doesn't have to be a complicated process. In this guide, we'll explore easy and efficient methods to transfer your cherished photos smoothly, ensuring that your memories remain intact during the transition from the Android to the iOS ecosystem. Whether you're switching to an iPhone, sharing photos with a friend, or simply looking to create a backup, we've got you covered with practical solutions.
@@ -221,18 +260,30 @@ Let us see the steps on how to transfer photos from Xiaomi Redmi A2 to iPhone us
 
 **Step 1.** Download and install Dr.Fone toolkit and launch it. Then select the "Phone Transfer" option from the main interface.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Now, connect your Android and iPhone to the computer. As soon as you connect the Xiaomi Redmi A2 device, it will start recognizing it and mention it as the ‘Source’ phone or ‘Target’ phone accordingly. In this case, make sure the Android phone is the Source and the iPhone is the Target. You can change their position using the Flip button.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-make sure the source and destination](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 **Step 3.** Finally, select the files you want to transfer (photos) and click on ‘Start Transfer.’ That was it. Soon, it will transfer pictures from Xiaomi Redmi A2 to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1.2 Selectively Transfer photos from Xiaomi Redmi A2 to iPhone using Dr.Fone's Phone Manager Feature
 
 Another way that can assist you in **moving photos from Xiaomi Redmi A2 to iPhone** is the [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html). What is incredibly convenient about Dr.Fone is its ability to transfer photos selectively. You can also use it to transfer contacts, videos, messages, podcasts, and anything else stored on your Android in minutes. Wondershare Dr.Fone is a secure, trustworthy program. Hence you can be reassured that your information will be safe while transferring from one device to another.
@@ -257,6 +308,9 @@ Here, either you can select the photos that you wish to transfer selectively or 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Transfer Photos from Xiaomi Redmi A2 to iPhone Using Move to iOS App
 
 Now, to answer **how to transfer photos from Xiaomi Redmi A2 to iPhone**, there is another simple solution that you can make use of. It is called the “Move to iOS app,” which you can download freely from the Google Play store.
@@ -265,6 +319,9 @@ Now to proceed, first of all, you need to do some settings on your iPhone device
 
 - **Step 1:** On your iPhone, go to a screen called ‘Apps & Data’ > choose the ‘Move Data from Android’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-app and data](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-6.jpg) ![how to transfer photos from android to iphone-move data from android](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-7.jpg)
 
 The next step is to take your Xiaomi Redmi A2 to complete the transfer process with the “Move to iOS” app.
@@ -273,6 +330,9 @@ The next step is to take your Xiaomi Redmi A2 to complete the transfer process w
 - **Step 3:** Open the ‘Move to iOS’ app to accept permission requests, install it, and open the app.
 - **Step 4:** At this point, tap Continue on both your iOS and Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-move from android to ios](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-8.jpg)
 
 - **Step 5:** On your Xiaomi Redmi A2, enter the 12-digit code of the iPhone. This is so that the ‘Move to iOS’ app knows which iOS device it has to transfer the data to.
@@ -287,6 +347,18 @@ The above process to **transfer pictures from Xiaomi Redmi A2 to iPhone** is sui
 
 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Transfer Photos from Xiaomi Redmi A2 to iPhone via Bluetooth
 
 Bluetooth is an excellent option to transfer photos and videos across both Android and iPhone devices. This is because Bluetooth is available on both Android and iOS devices, making it widely useful. Furthermore, you don’t have to download a third-party app to transfer pictures via Bluetooth. The process can also be completed quickly with just a few taps on the screen.
@@ -328,12 +400,18 @@ This way takes some manual steps. If you want a one-click solution, try [Dr.Fone
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. How to Transfer Photos from Xiaomi Redmi A2 to iPhone Via Email?
 
 Employing email represents a simple technique for sending a restricted set of photos from an Android device to an iPhone. Nevertheless, it might not be the optimal option for transferring a large assortment of high-resolution images. Still, it acts as a swift solution for exchanging a few pictures. Here is a comprehensive guide illustrating the process of sending photos from an Android device to an iPhone via email:
 
 **Step 1:** Launch the email app on your Xiaomi Redmi A2 and tap the compose or new email button to start a new email. Enter your email address or the recipient's email address in the "To" field.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ add email and other details](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-1.jpg)
 
 **Step 2:** Look for the “Attachment” icon (usually a paperclip) and select the photos you want to transfer. Attach the selected photos to the email, and once the photos are attached, click the “Send” button.
@@ -348,12 +426,18 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 Several apps are specifically designed for storing and transferring images from an Android device to an iPhone. We have found the three best apps based on ease of use and accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### PhotoSync
 
 PhotoSync is a free photo-sharing app available on both Android and iOS devices. The app lets you store all your photos on one device and then transfer it to another device through Wi-Fi. PhotoSync is designed to work with several methods besides Android and iOS devices. It works on different platforms, including desktop computers, NAS, and Cloud Services.
 
 You can extract videos and photos directly from the camera and transfer them to another device. You can even access the photos/videos via a web browser. PhotoSync is regularly updated with features to make the experience better support for RAW files and preserves for EXIF-data.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
 ### Photo Transfer
@@ -374,14 +458,23 @@ Thus, after going through the article, we are sure that you have a wide range of
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from Xiaomi Redmi A2 to Other Android Devices Using Bluetooth?
 
 One of the first and the most important things people care about while upgrading their phones today is how to transfer contacts from one phone to another phone. 2022 has just begun, new devices from smartphone companies are coming in and one of the most anticipated of them is Samsung Galaxy S22 series that is rumored to launch just this February. For some, the upgrade fever is coming on! And, it pays to be prepared in advance. If you are going to be upgrading your old Android to one of the fancy new Android smartphones soon, you are in the right place. You will learn how to transfer contacts from the old device to the new one easily and smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part I: How to Transfer Contacts from Xiaomi Redmi A2 to Other Android Devices via Bluetooth?
 
 This method works if you are not trading in your old smartphone to offset the cost of the new, as to transfer contacts from one Android smartphone to another using Bluetooth you will require both devices present and in close proximity, a few feet away at best. There are advantages to transferring contacts using Bluetooth, such as no need for using the internet, going through any other hoops, or opening special apps! Everything you need to share contacts from one Android phone to another is built right into your phone! Now, to transfer contacts from one Android smartphone to another using Bluetooth, you must first pair the two devices together so as to allow for seamless contacts transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### I.I: Pairing Two Android Devices Together
 
 Here’s how to pair your old and new phone together via Bluetooth:
@@ -396,6 +489,9 @@ Step 3: If everything is done correctly, both devices will show themselves to ea
 
 Step 4: Tap the other device on either of them. Here, the Moto G4 Play was tapped on OnePlus Nord 2:
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![initiate pairing process on either device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-2.jpg)
 
 Step 5: A prompt to pair with the new phone will come on the other device as well. For your device, make sure that the PIN is the same on both devices to ensure the security of the connection. This PIN is generated afresh and is unique, so the PIN in the image is not the PIN you will see on your devices. Tap Pair on your old device to pair the two devices together using Bluetooth.
@@ -414,6 +510,9 @@ Step 1: Go to Phone on your old phone and select the Contacts tab
 
 Step 2: Tap the vertical ellipses and select Import/ Export.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![export contacts from old android to new](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-4.jpg)
 
 This particular option can vary by your phone model and Android flavor, this is on Android 7 running on Motorola G4 Play. If you are unable to find a way to select contacts or share contacts in the Phone app on your phone, use the Contacts app on your phone for the same effect.
@@ -436,6 +535,9 @@ Step 5: Choose the paired handset, in this case, the OnePlus Nord 2:
 
 Step 6: The VCF file will be exported to Nord 2 and you can accept it on the Nord 2 (new device).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![receive contacts on new device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-8.jpg)
 
 And that is how to transfer contacts from an Android smartphone to another using Bluetooth!
@@ -444,6 +546,9 @@ And that is how to transfer contacts from an Android smartphone to another using
 
 What are other ways to transfer contacts from one Android smartphone to another? Glad you asked. Because there are other ways to transfer contacts from an Android smartphone to another that do not use Bluetooth and can be both seamless and more powerful than the Bluetooth method, depending on your tastes and needs.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.I: Sync Contacts Using Google Account
 
 This is another method to transfer your contacts on one Android device and restore them on another Android device. Here’s how to transfer contacts from one Android smartphone to another using Google Sync:
@@ -492,8 +597,14 @@ It must be noted that there is one binding limitation with such apps - these app
 
 In that regard, using a third-party solution such as Dr.Fone allows you complete freedom to do whatever you want and whenever you want, and even so, Dr.Fone is a great tool to have in one’s arsenal to use every day. How? Because not only does Dr.Fone allow you to transfer contacts from one Android device to another, you have complete freedom to mix the Xiaomi Redmi A2 devices in all possible ways. So, if you want to transfer from Samsung to Xiaomi, you can do that. You want to transfer from Xiaomi to Samsung, Dr.Fone does that. Transfer from Apple iPhone to Xiaomi? Yes! Xiaomi or Samsung to Apple iPhone? You bet, all supported! And with a clean, easy-to-use interface that does the job quickly and safely.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.III: Transfer Contacts from Xiaomi Redmi A2 to Other Android Devices Using Dr.Fone - Phone Transfer
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Video Tutorial: How to Transfer Data from Xiaomi Redmi A2 to Other Android Devices
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek" id="video-iframe-t"></iframe>
@@ -510,6 +621,9 @@ Step 1: Download Dr.Fone
 
 Step 2: Launch Dr.Fone
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 3: Select the Phone Transfer module and connect your Xiaomi Redmi A2s to the computer
@@ -545,3 +659,58 @@ Transferring contacts from one Android to another Android can be done in two bro
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>[New] The Comedic Journey  An Evaluation of 'Goofy Adventures'</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-guide-to-instagram-video-advancement-a-planning-primer-for-2024/"><u>[New] The Guide to Instagram Video Advancement  A Planning Primer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-createwinfx-movies/"><u>[Updated] CreateWinFX Movies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-easing-into-frame-focus/"><u>[Updated] Easing Into Frame Focus</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>[Updated] Masterclass in Image Detail  Removing Obscuring Elements with Photopea</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-steps-for-choosing-an-effective-4k-camera-lens/"><u>[Updated] Proven Steps for Choosing an Effective 4K Camera Lens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-skyward-savings-affordable-drones-below-a-hundred/"><u>[Updated] Skyward Savings  Affordable Drones Below a Hundred$</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-counter-flow-strategy-reversing-your-youtube-video-sequence/"><u>[Updated] The Counter-Flow Strategy  Reversing Your YouTube Video Sequence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ioss-finest-virtual-ps2-games/"><u>2024 Approved  IOS's Finest Virtual PS2 Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-strategies-to-combat-freezing-in-high-quality-mode/"><u>2024 Approved  Strategies to Combat Freezing in High Quality Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-reno-9a-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Reno 9A</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nubia-z50s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nubia Z50S Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 3 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 3 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 3 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lenovo-thinkphone-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lenovo ThinkPhone to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lenovo-thinkphone-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lenovo ThinkPhone to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lenovo-thinkphone-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lenovo ThinkPhone to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lenovo-thinkphone-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lenovo ThinkPhone to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 2023 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-2023-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 2023 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-2023-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 2023 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 2023 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-neo-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Neo to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-neo-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Neo to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-neo-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Neo to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-neo-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Neo to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-live-stream-recorder-companies/"><u>In 2024, Live Stream Recorder Companies</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-tips-for-perfectly-timed-tiktok-video-captions/"><u>In 2024, Tips for Perfectly Timed TikTok Video Captions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premiere-reviews-exploring-the-best-8k-cameras-for-2024/"><u>Premiere Reviews  Exploring the Best 8K Cameras for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-cartoon-characters-from-your-photos/"><u>Updated 2024 Approved Create Cartoon Characters From Your Photos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-trim-videos-for-free-top-watermark-free-editors/"><u>Updated 2024 Approved Trim Videos for Free Top Watermark-Free Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-whatsapp-video-status-production-apps/"><u>Updated 2024 Approved WhatsApp Video Status Production Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-online-video-flipper-tools/"><u>Updated The Top Online Video Flipper Tools</u></a></li>
+</ul></div>

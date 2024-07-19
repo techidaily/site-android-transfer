@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-05-19T18:55:12.831Z
-updated: 2024-05-20T18:55:12.831Z
+date: 2024-07-17T20:53:40.101Z
+updated: 2024-07-18T20:53:40.101Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra
 excerpt: This article describes How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra
 keywords: transfer from android to android,transfer from android to ipad,transfer from android to mac,transfer from Vivo Y36 to pc,transfer from Vivo Y36 to mac,transfer from android to pc,transfer from Vivo Y36 to iphone,transfer from android to iphone,transfer from Vivo Y36 to ipad
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra
@@ -38,12 +38,18 @@ Among Samsung Galaxy S21, S21 Plus, and S21 Ultra, Samsung Galaxy S21 has the lo
 
 Though three of these have the same design of camera and position, the real difference is in size. Galaxy S21 comes in 6.2 inches screen, Galaxy S21 Plus has a 6.7-inch screen, and Galaxy S21 Ultra has a 6.8-inch screen. Galaxy S21 Ultra comes with a wide camera bump that fits the extra sensors. Galaxy S21 Ultra fits better in hands because of its curved edges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung galaxy s21 ultra vs s20](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-20-vs-21.jpg)
 
 **Display:**
 
 As mentioned, the difference of screen measurements. Besides this, there are some other differences in the display. Galaxy S21 and S21 Plus come in FHD resolution displays, where Galaxy S21 Ultra has QHD resolution. That means you can see the details on the Galaxy S21 Ultra. Galaxy S21 and S21 Plus change the refresh rate between 48Hz and 120Hz, where Galaxy S21 Ultra can go 10Hz and 120Hz.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
 
 **Camera:**
@@ -72,14 +78,26 @@ Download and install the software on your computer. Then start the Dr.Fone - Pho
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Start Transfer Process
 
 After choosing the desired file types (Photos for this case), click on the "Start Transfer" button to start the transfer process. Keep patience until the process ends and make sure both Android and iOS devices stay connected properly during the process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Step 4: Finish Transfer and Check
 
 Within a short time, all your selected photos will be transferred to the Samsung Galaxy S21 Ultra. Then disconnect the Vivo Y36 devices and check if everything is okay.
@@ -98,8 +116,14 @@ Within a short time, all your selected photos will be transferred to the Samsung
 
 Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more updated than other models. It has the best quality camera, better battery capacity, and other new features. The design and the display are way better than the other models. After purchasing the Samsung Galaxy S21 Ultra, if you get stuck transferring your photos to the Vivo Y36 device, then you don't have to worry. We have introduced you to Dr.Fone - Phone Transfer in this article. Using this software, you can recover any files and keep data backup and restore them later. To transfer your photos to Galaxy S21 Ultra, you can use Dr.Fone Switch app by following the steps we provided. It's definitely better software than Smart Switch.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Data from Vivo Y36 to Any iOS Devices
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
 If you are a proud owner of smartphones running on two different operating systems such as Windows and iOS, you might face the challenging task of transferring the data from your **Windows phone to iPhone**. Transferring the data between the two devices running the OS of the different platforms is not as easy as it is when you have devices with a common platform. This article aims to guide you through two simple routes that you can follow to transfer the data stored in your Windows phone such as **Vivo Y36 to iPhone** or other iOS devices. You don't need to worry about how to transfer from Vivo Y36 to iPhone or How to transfer contacts from Vivo Y36 to iPhone anymore after reading this article. Read them on.
@@ -107,6 +131,9 @@ If you are a proud owner of smartphones running on two different operating syste
 - 1\. You can rely on some program/online service/website such as Outlook, CSV file format, Google Contacts, etc.
 - 2\. You may experience issues while transferring data from your Vivo Y36 phone to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Transfer Data Wirelessly via Microsoft ID
 
 Windows phones such as Vivo Y36 depend on a Microsoft ID to back up your important data such as contacts, text messages, calendar, and device preferences. Once you have configured the data on your Vivo Y36 smartphone, you can add the same Microsoft email address to your iPhone and then sync the data to it. Given below are the step-by-step instructions on **how to transfer from Vivo Y36 to iPhone** via Microsoft ID:
@@ -254,6 +281,9 @@ Only up to 500 contacts, SMS, tasks, and notes can be synched while using the Ba
 
 The archived data is auto-deleted from the PhoneCopy server after one month when using the Basic version, and after 1 year when using the Premium version.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus Tip: Best Way to Transfer data between Android and iPhone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) lets you transfer data from Vivo Y36 to iPhone or iPhone to Android in 1 Click. It supports almost all mobiles, including iPhone, Android Samsung, LG, Sony, HTC, etc. Dr.Fone - Phone Transfer can transfer music, videos, contacts, messages, call logs, and apps between mobiles. If you want to transfer data between Android and iPhone, it must be the best solution for you. Try it free. Follow the steps below to know **how to transfer data between Android and iPhone**.
@@ -287,6 +317,9 @@ Connect your Android and iPhone. Dr.Fone will detect it soon. Then select the fi
 
 ![transfer from lumia to iPHone- start transfer](https://images.wondershare.com/drfone/drfone/phone-switch-android-to-ios-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Regardless of the fact that many free solutions are there that can help you **transfer data from your Vivo Y36 to iPhone**. If you also have an Android device, the Dr.Fone - Phone Transfer always has an upper hand when it comes to providing hassle-free migration between iPhone and Android devices.
@@ -319,16 +352,25 @@ Transfer Text Messages to New Phone in 1 click!
 
 Download this tool to try transferring text messages to the new phone. Here, I'd like to give the Windows version a shot. And also, we take data transfer from Samsung to iPhone as an example.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Text Messages to New Phone Step by Step
 
 ### Step 1. Run this phone transfer tool on the computer
 
 To begin with, install and run Dr.Fone on the computer. The primary window will be shown on the computer screen. Click "Switch". This brings up the phone transfer window.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Note:** To transfer data to or from iPhone (iPhone 8 Plus, iPhone X supported), iPad and iPod, you should install iTunes on the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Connect your old and new phones to the computer
 
 As I mentioned above, Dr.Fone lets you export SMS on the old Nokia phone, Android phone and even iPhone, and then copy them to your new iPhone or Android phone. So, connect two phones to do the SMS transfer to the computer with USB cables. After detected, the old phone is shown on the left, named as the source phone, and the new Android phone or iPhone, the destination phone appears on the right.
@@ -362,3 +404,43 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-in-depth-exploration-of-razers-kiyo-cam/"><u>[New] 2024 Approved  In-Depth Exploration of Razer's Kiyo Cam</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-deep-dive-ultimate-ice-cream-viewer-analysis/"><u>[New] Deep Dive  Ultimate Ice Cream Viewer Analysis</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much/"><u>[New] Earning Strategies for Successful Youtube Shorts  What You Need & How Much?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-meta-descriptions-top-template-strategies/"><u>[New] Elevate Meta Descriptions  Top Template Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-tips-on-producing-high-quality-facebook-video-for-2024/"><u>[New] Expert Tips on Producing High-Quality Facebook Video for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premier-10-lenses-for-superior-image-capture/"><u>[Updated] In 2024, Premier 10 Lenses for Superior Image Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ai-powered-virtual-patient-interactions/"><u>2024 Approved  AI-Powered Virtual Patient Interactions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-harnessing-skypes-voice-free-mp3-exclusive/"><u>2024 Approved  Harnessing Skype's Voice - Free MP3 Exclusive</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-into-style-with-snapchats-gif-features-a-users-guide/"><u>2024 Approved  Step-Into Style with Snapchat's GIF Features – A User’s Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-4k-proxy-video-editing-software-for-creators-for-2024/"><u>Best 4K Proxy Video Editing Software for Creators for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-f04-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy F04</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tools-for-photography-driven-film-production/"><u>In 2024, Expert Tools for Photography-Driven Film Production</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55T to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55T to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55t-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55T to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55T to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55T To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23+ to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-vidma-screen-recorder-review/"><u>In 2024, Vidma Screen Recorder Review</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-the-leading-edge-of-audio-production-does-magix-samplitude-hold-sway-for-2024/"><u>New Exploring the Leading Edge of Audio Production Does MAGIX Samplitude Hold Sway for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-beat-engineers-companion-selecting-from-among-the-top-8-daw-tools-for-todays-urban-music-masters/"><u>New In 2024, The Beat Engineers Companion Selecting From Among the Top 8 DAW Tools for Todays Urban Music Masters</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-the-best-free-animation-software-for-windows-mac-and-more/"><u>Updated 2024 Approved Discover the Best Free Animation Software for Windows, Mac, and More</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

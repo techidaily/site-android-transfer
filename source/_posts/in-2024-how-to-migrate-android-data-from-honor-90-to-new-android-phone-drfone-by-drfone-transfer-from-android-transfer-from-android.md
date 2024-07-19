@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Migrate Android Data From Honor 90 to New Android Phone? | Dr.fone
-date: 2024-06-25T04:55:59.006Z
-updated: 2024-06-26T04:55:59.006Z
+date: 2024-07-17T23:20:36.578Z
+updated: 2024-07-18T23:20:36.578Z
 tags: 
   - transfer
 categories:
@@ -22,6 +22,9 @@ Since Google Drive is already available on all the Honor 90 devices, it can read
 
 1\. To start with, go to Settings > Backup & Reset on the source device and turn on the option of “Backup my Data”.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backup data with google drive](https://images.wondershare.com/drfone/article/2017/11/15113676137229.jpg)
 
 2\. Furthermore, you can select the kind of data you wish to sync with your Google Drive. You can simply turn on the feature for Automatic backup to make the most of the space on Google Drive.
@@ -32,6 +35,9 @@ Since Google Drive is already available on all the Honor 90 devices, it can read
 
 5\. Agree to the terms and conditions and sign-in to your Google account. Make sure this is the same account that is linked to your source device.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup google account on new phone](https://images.wondershare.com/drfone/article/2017/11/15113676517143.jpg)
 
 6\. As you would sign-in to the account, it will display a list of available backup files. Simply select the recent backup file.
@@ -40,14 +46,23 @@ Since Google Drive is already available on all the Honor 90 devices, it can read
 
 8\. To migrate Android to Android, just click on the “Restore” button and move your data from your old to new device.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![restore backup from google drive](https://images.wondershare.com/drfone/article/2017/11/15113676734393.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to migrate Android data using Dr.Fone - Phone Transfer?
 
 One of the most secure and fastest ways to migrate Android device to another phone is by using [Dr.Fone Switch](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Compatible with all the major Android, iOS, and Windows devices, it can easily be used to perform phone migration between different platforms. The tool performs a direct phone to phone transfer. It can Android migrate to new phone all kinds of data like contacts, call logs, bookmarks, messages, photos, videos, music, and more. To migrate Android to Android with no data loss, perform these steps:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Phone Transfer
 
 Migrate Android Data to New Android Phone in 1 Click.
@@ -82,6 +97,9 @@ Migrate Android Data to New Android Phone in 1 Click.
 
 That’s it! After following these steps, you would be able to migrate Android to Android easily. Just disconnect your Honor 90s safely and use them the way you like.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to migrate Android data manually?
 
 By using Dr.Fone Switch or Google Drive, you would be able to perform phone migration in an effortless manner. Nevertheless, if there is no free space on your Drive and you wish to manually migrate Android, then you can also make it work. Following are certain ways to migrate Android to Android using different tools and techniques.
@@ -90,6 +108,9 @@ By using Dr.Fone Switch or Google Drive, you would be able to perform phone migr
 
 To migrate Android device’s crucial content like its contacts, Google Fit data, Google Play Store data, Music data, etc. you can go to the respective Account and turn on the sync option. Later, you can use the same account and sync these files to the new device.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![transfer contacts, gmail, fit data](https://images.wondershare.com/drfone/article/2017/11/15113677017088.jpg)
 
 **SMS transfer**
@@ -98,6 +119,9 @@ There are plenty of ways to move your messages from one device to another. Just 
 
 SMS Backup & Restore Download URL: <https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SMS Backup & Restore app](https://images.wondershare.com/drfone/article/2017/11/15113677212146.jpg)
 
 **Media content**
@@ -118,6 +142,9 @@ Helium Download URL: <https://play.google.com/store/apps/details?id=com.koushikd
 
 If you use Google Chrome to store your passwords and bookmarks, then you can also migrate Android this content. Just go to Google Settings on the Honor 90 device and turn on the option of “Smart Lock for Passwords”. In this way, you won’t have to enter your passwords over and over again.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer bookmarks and passwords](https://images.wondershare.com/drfone/article/2017/11/15113677792528.jpg)
 
 As you can see, the manual phone migration method will consume a lot of time and effort of yours. Therefore, we recommend using Dr.Fone Switch to migrate Android to Android without any data loss. It is a highly secure and reliable tool that will let you migrate Android to any other platform without any hassle.
@@ -144,6 +171,9 @@ There are numerous ways to export contacts from Honor 90 to iPhone 14 or 15. But
 
 “How do I transfer contacts from Honor 90 to iPhone 14 or iPhone 15?” As mentioned earlier, data transfer between two devices is now as easy as falling off a log. It’s no longer required to engage in manual work because most of the steps involve automation. To help you in this regard, below are the top five techniques to copy contacts from Honor 90 to iPhone. Just try to commence each solution and find the best one that brings good progress.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Import vCard to iCloud
 
 You can instantly copy contacts from Honor 90 to iPhone 14 or 15 by simply uploading your contact list to iCloud. Just make sure you’re uploading a Virtual Card File and your device is synced to your iCloud account. Here’s a quick guide on how to do it in easy steps.
@@ -171,6 +201,9 @@ You can instantly copy contacts from Honor 90 to iPhone 14 or 15 by simply uploa
 
 - **Step 7:** Lastly, sync your iPhone to iCloud and then check your contact list from the app.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Import contacts from Google account
 
 Are you using Google Contacts on your Android smartphone? Or, at the very least, do you back up your phone book to your Google account? If so, you can easily export contacts from Honor 90 to your iPhone via your Gmail account. Here’s how to do it in easy steps.
@@ -190,6 +223,9 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 
 ![sync contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Copy contacts from the SIM card to your iPhone
 
 Another way to export contacts from Honor 90 to iPhone is with the aid of your SIM card. Simply save your phonebook to the SIM card and import it on your iPhone. Here’s a simple guide to help you commence this procedure.
@@ -202,6 +238,9 @@ Another way to export contacts from Honor 90 to iPhone is with the aid of your S
 
 - **Step 4:** Click **Import SIM Contacts.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import sim contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-10.jpg)
 
 - **Step 5:** Once completed, check the **Contacts** app and find the newly imported directories.
@@ -214,6 +253,9 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 - **Step 2:** Launch the app on your device afterward.
 - **Step 3:** Click **Continue.**
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-11.jpg)
 
 - **Step 4:** Read the Terms and Conditions and then click **Agree.**
@@ -228,6 +270,9 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 - **Step 6:** On your Android smartphone, key in the code displayed on your iPhone screen.
 - **Step 7:** Choose **Contacts.** After that, wait for the data transfer to start and finish.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5: Copy contacts from Honor 90 to iPhone using Wondershare Dr.Fone
 
 The easiest way to export contacts from Honor 90 to iPhone is by means of third-party phone transfer software. Wondershare Dr.Fone is one of the best tools that can help you a lot in this regard. Its phone transfer feature is designed to initiate and complete data migration with just the snap of a finger. Here’s a short guide on how to use it in easy steps.
@@ -238,6 +283,9 @@ The easiest way to export contacts from Honor 90 to iPhone is by means of third-
 - **Step 2:** Launch the newly installed Wondershare Dr.Fone on your desktop. Wait until the application has fully loaded.
 - **Step 3:** Navigate the left-side panel and then click **Toolbox.** On the main dashboard, click **Phone Transfer.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 4:** Connect your Android smartphone and iPhone to the computer using a data cable.
@@ -247,10 +295,16 @@ The easiest way to export contacts from Honor 90 to iPhone is by means of third-
 
 - **Step 6:** After that, choose the categories of the files you want to transfer. From there, click **Contacts** and then tap **Start Transfer** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
 - **Step 7:** Wait while the data transfer is ongoing. Avoid using both your devices during the process to avoid unwanted disruptions.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 - **Step 8:** After completing the process, click **OK** to wrap it up. Check your iPhone contacts afterward and find the newly imported contacts from your old Android phone.
@@ -266,6 +320,9 @@ It’s true to say that the five data transfer methods above are safe and effect
 - Don’t use both devices once the data transfer has started.
 - Lastly, create a backup file for your contact list. You never know what’s going to happen with the transfer. It’s best to be prepared to avoid data loss. Don’t worry. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)has a file backup feature that can help you a lot.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Data transfer is a sensitive procedure. That’s why it’s highly recommended to opt for a conservative yet effective migration method to prevent serious issues. The five techniques above can surely help you copy contacts from Honor 90 to iPhone 14 or any model. Just make sure to prepare your mobile devices beforehand and settle on the data transfer option suitable to your needs. For a more convenient phone transfer solution, install Wondershare Dr.Fone on your computer. It is equipped with data migration features that can help you export contacts from Honor 90 to iPhone securely.
@@ -301,6 +358,9 @@ Here’s how to move data from Honor 90 to Samsung S23 with Wondershare Dr.Fone:
 1. Download and install the app on your computer.
 2. Go to **Toolbox > Phone Transfer**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3. Connect your old Android and Samsung S23 to the computer with USB cables.
@@ -314,6 +374,9 @@ Here’s how to move data from Honor 90 to Samsung S23 with Wondershare Dr.Fone:
 
 Wondershare Dr.Fone Phone Transfer lets you move apps, contacts, photos, videos, music, ringtones, text messages, voice memos, call logs, bookmarks, and calendar data between Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Move Data From Honor 90 to Samsung Using Smart Switch
 
 Samsung’s Smart Switch app is excellent for moving data (even settings) between Android devices. However, you can only transfer settings, memos (including voice), and app data between Galaxy phones.
@@ -325,10 +388,16 @@ Here’s how to move data from Honor 90 to Samsung S23 with Smart Switch:
 1. Download and install Smart Switch on both phones and place them next to one another.
 2. Get your Samsung S23 and go to **Settings > Accounts and backup > Bring data from an old device**.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung smart switch options](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-3.jpg)
 
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
 
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
@@ -337,10 +406,16 @@ Here’s how to move data from Honor 90 to Samsung S23 with Smart Switch:
 
 5. Choose the desired data using your Samsung S23, tap **Transfer**, then **Go to the Home screen**once everything is on your new phone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![moving data with smart switch](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-6.jpg)
 
 Remember to charge both phones before transferring data or connect them to a power source to ensure the process goes smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Transfer Data Using Google Account Sync
 
 Backing up your Google Account data with Google One means accessing it on any device upon login. The backup includes apps, phone settings, messages, calls, photos, videos, and your chosen Google Account data (e.g., contacts, calendar, emails, and documents).
@@ -386,6 +461,9 @@ Transferring data from Honor 90 to Samsung S23 is seamless with Google Drive. He
 3. Open Google Drive on your Samsung S23 and sign into the correct account.
 4. Select the uploaded data, tap the **kebab menu**(the three vertical dots in the top right corner), and hit **Download**.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![downloading data from google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-11.jpg)
 
 Google Drive may limit you to 15 GB of free storage, but it’s among the best Google apps for sharing files across devices. You may already use its desktop version to collaborate on docs and spreadsheets, so why not leverage its handy mobile app?
@@ -404,14 +482,23 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 2. Tap **Connected to Android**on your Galaxy S23 phone and select **MTP Host** (Media Transfer Protocol).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![establishing a usb connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-13.jpg)
 
 3. Tap **Allow**on your old Android to enable data access.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allowing data access](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-14.jpg)
 
 4. Choose the desired file manager on your new phone and browse your old Android’s internal storage.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing android data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-15.jpg)
 
 5. Choose folders or files to transfer, tap the **kebab menu**for more options, and select **Copy to**.
@@ -434,6 +521,9 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 1. Select the desired files or folders on your old Android, tap **Move**, and choose your **SD card**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![moving files to an sd card](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-18.jpg)
 
 2. Connect the Android to your computer with a USB cable.
@@ -451,6 +541,9 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 This method is best for transferring photos, videos, and other files from an SD card you might not use anymore. After all, smartphone manufacturers increasingly ditch SD card slots for sleek, more compact designs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Switching from Honor 90 to Samsung S23 is a breeze because you have many data transfer options. Besides Samsung’s Smart Switch, you can use your synced Google Account, Google Drive, Bluetooth, or a USB-C to USB-C cable. You can also migrate data from your old Android SD card to your computer before transferring it to your new phone.
@@ -478,3 +571,58 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-roundup-of-ranch-games-top-10-for-friends-and-family/"><u>[New] 2024 Approved  Roundup of Ranch Games  Top 10 for Friends and Family</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[New] 2024 Approved  Unlocking Smooth Playback  Overcoming Booty Freezes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streaming-success-capturing-dota-2s-epic-battles-2enas-for-2024/"><u>[New] Streaming Success  Capturing Dota 2'S Epic Battles (2Enas) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtube-success-subscriber-boosts-at-a-bargain/"><u>[New] Unlock YouTube Success - Subscriber Boosts at a Bargain</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[New] Your Daily Diary  Staying Fresh & Avoiding Common Mistakes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-stream-a-comprehensive-ad-revenue-guide-on-youtube/"><u>[Updated] Elevate Your Stream  A Comprehensive Ad Revenue Guide on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-writing-compelling-vlog-dialogues/"><u>[Updated] Secrets to Writing Compelling Vlog Dialogues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-facebook-live-via-zoom-techniques/"><u>2024 Approved  Enhancing Facebook Live via Zoom Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-s24-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy S24 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-honor-play-7t-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Honor Play 7T.</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/easy-breezy-country-playlist-best-songs-for-stress-relief-tiktok-for-2024/"><u>Easy Breezy Country Playlist  Best Songs for Stress Relief (TikTok) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-incomplete-updates-in-your-windows-based-discord/"><u>Handling Incomplete Updates in Your Windows-Based Discord</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-realme-c67-4g-frp-by-drfone-android/"><u>How Can We Bypass Realme C67 4G FRP?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-live-without-youtube-shorts-for-2024/"><u>How to Live Without YouTube Shorts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlsm by digital signature</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-agni-2-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Agni 2 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Blaze 2 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Blaze 2 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Blaze 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-curve-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze Curve 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-curve-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze Curve 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-curve-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Blaze Curve 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Blaze Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-storm-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Storm 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-storm-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Storm 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-storm-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Storm 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Yuva 2 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Yuva 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-3-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 3 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-3-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 3 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-c65-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco C65? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sound-capture-in-windows-11/"><u>In 2024, Mastering Sound Capture in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-reno-8t-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Reno 8T Phone? Unlock It Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-color-harmony-made-easy-a-step-by-step-fcp-guide/"><u>New In 2024, Color Harmony Made Easy A Step-by-Step FCP Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-essential-video-rotation-software-for-web-and-social-media/"><u>Updated 2024 Approved 10 Essential Video Rotation Software for Web and Social Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-must-have-music-selections-for-peaceful-environmental-scenarios/"><u>Updated In 2024, Must-Have Music Selections for Peaceful Environmental Scenarios</u></a></li>
+</ul></div>

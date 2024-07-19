@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Music from Xiaomi Redmi Note 12 5G to iPod | Dr.fone
-date: 2024-06-18T02:02:32.811Z
-updated: 2024-06-19T02:02:32.811Z
+date: 2024-07-18T01:15:56.474Z
+updated: 2024-07-19T01:15:56.474Z
 tags: 
   - transfer
 categories:
@@ -20,10 +20,16 @@ However, if your cherished iPod is showing signs of wear or experiencing issues,
 
 - [Can I Transfer iPod Music to Android?](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part1)
 - [Part 1. Transfer Music from iPod to Android via Bluetooth](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part2)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - [Part 2. How to Transfer Music from Xiaomi Redmi Note 12 5G to iPod with Move to iOS App](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part3)![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)
 - [Part 3. How To Transfer Music From iPod to Android/Android to iPod With Easy Software](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part4)
 - [Conclusion](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can I Transfer iPod Music to Android?
 
 **Can you transfer music from an iPod to an Android phone**? Despite the fact that the iPod is an Apple product, transferring its music to an Android device is indeed possible. Apple's ecosystem may be renowned for its exclusivity, but with the right methods, you can seamlessly bridge the gap between your iPod and an Android device.
@@ -58,6 +64,9 @@ Accept the incoming Bluetooth transfer request from the iPod. The music files wi
 
 Confirm the successful transfer by checking the music library on your Xiaomi Redmi Note 12 5G. The transferred songs should now be available and ready to play.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer music from iPod to Android via Bluetooth.](https://images.wondershare.com/drfone/article/2023/12/transfer-music-from-android-to-ipod-1.jpg)
 
 ## Part 2. How to Transfer Music from Xiaomi Redmi Note 12 5G to iPod with Move to iOS App
@@ -90,6 +99,18 @@ Allow the app to complete the transfer process. Once the transfer is complete, y
 
 ![Android to iPod transfer via Move to iOS.](https://images.wondershare.com/drfone/article/2023/12/transfer-music-from-android-to-ipod-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. How To Transfer Music From iPod to Android/Android to iPod With Easy Software
 
 Now, for a more comprehensive and versatile solution, using software like Wondershare Dr.Fone provides a streamlined process to transfer music not only from Xiaomi Redmi Note 12 5G to iPod but also from iPod to Android.
@@ -124,6 +145,9 @@ Make a connection between your iPod and your Xiaomi Redmi Note 12 5G on your com
 
 After connecting them, the platform will identify the connected devices and load their data. Choose the Source and Destination devices to set the transfer path. Use the Flip button to alter the transfer direction (for example, when you want to transfer from Xiaomi Redmi Note 12 5G to iPod instead).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Specify the source and target devices.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 **Step 3:** Choose the music category for the transfer
@@ -142,8 +166,14 @@ Now, Dr. Fone's Phone Transfer tool should prompt a specific operation on the wi
 
 The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Transferring music seamlessly between iPod and Android devices, and vice versa, has become more accessible than ever with the right tools and methods. Bluetooth technology serves as a wireless bridge, allowing users to effortlessly move their favourite music from an iPod to an Android device.
@@ -158,12 +188,18 @@ _Hi, I have recently bought a new iPhone. Is there any way to transfer my text m
 
 In this article, we are going to introduce a powerful tool to solve the problem above. This tool is MoibleTrans; it will help you to easily **transfer text messages to a new phone** in 1 click.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Way to Transfer Text Messages to New Phone
 
 After getting a new phone, you may transfer text messages with important or sensitive information from the old phone to a new one. Therefore, you can read the text messages on your new phone. To transfer text messages to a new phone, you highly recommend you a one-click phone transfer tool - [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It's mainly used to help you transfer data between phones and tablets running iOS, Symbian and Android. With its help, you can transfer all text messages on your old Android phone, Nokia phone, and iPhone to the new Android phone or iPhone in one click.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Phone Transfer
 
 Transfer Text Messages to New Phone in 1 click!
@@ -180,6 +216,9 @@ Download this tool to try transferring text messages to the new phone. Here, I'd
 
 ## How to Transfer Text Messages to New Phone Step by Step
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Run this phone transfer tool on the computer
 
 To begin with, install and run Dr.Fone on the computer. The primary window will be shown on the computer screen. Click "Switch". This brings up the phone transfer window.
@@ -194,6 +233,9 @@ As I mentioned above, Dr.Fone lets you export SMS on the old Nokia phone, Androi
 
 Besides, "Flip" between two phones lets you change places of the two phones.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect devices to transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
 ### Step 3. Transfer text messages to new phone
@@ -216,12 +258,27 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Phone Transfer
 
 Transfer Text Messages from Xiaomi Redmi Note 12 5G to iPhone like iPhone 15/14/14 Pro (Max)
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e iOS to Android.
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices.
@@ -253,6 +310,9 @@ Dr.Fone - Phone Transfer offers a safe and quick way to transfer messages from X
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Transfer SMS from Xiaomi Redmi Note 12 5G to iPhone using Move to iOS app
 
 Transferring text messages from Xiaomi Redmi Note 12 5G to iPhone using Dr.Fone - Phone Transfer is the best and the fastest way. But it requires a computer and physically connecting the Xiaomi Redmi Note 12 5G devices via USB cables. What if the person doesn’t have a computer? They won’t be able to transfer any data from their old Android to a new iPhone like iPhone 14/14 Pro (Max). If you want to find another way to transfer messages and other stuff from Xiaomi Redmi Note 12 5G to iPhone, then Move to the iOS app can help in this task.
@@ -282,6 +342,9 @@ Step 4: Tap on “Continue” and then “Agree” on the terms and conditions s
 
 Step 5: Enter the code generated on the iPhone in the “Enter Code” screen.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter code](https://images.wondershare.com/drfone/article/2018/02/enter-code.JPG "enter the code to verify")
 
 Step 6: On the Transfer Data screen, select the content to transfer and click “Next”. It will start the transfer process and will take some time to complete depending on the size of the data.
@@ -312,3 +375,39 @@ The disadvantage that this method has is that you can’t transfer messages from
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-boosting-vimeo-streams-tips-and-tricks/"><u>[Updated] 2024 Approved  Boosting Vimeo Streams  Tips & Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-storytelling-on-snapchat-with-top-tips/"><u>[Updated] Elevate Your Storytelling on Snapchat with Top Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seekingsuperiorcameraspost-mycam/"><u>[Updated] SeekingSuperiorCamerasPost-MyCam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unveiling-the-eight-best-free-video-editing-software-for-social-media/"><u>[Updated] Unveiling the Eight Best FREE Video Editing Software for Social Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-soothing-stories-in-video-form-insights-and-critiques/"><u>2024 Approved  Soothing Stories in Video Form  Insights and Critiques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unveiling-the-top-10-facebook-video-platforms/"><u>2024 Approved  Unveiling the Top 10 Facebook Video Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-k70e-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi K70E without App | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-20c-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 20C to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-20c-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 20C to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-go-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark Go (2023) to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-go-2023-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark Go (2023) to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-go-2023-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark Go (2023) to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-go-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark Go (2023) to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-g2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo G2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-g2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo G2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-g2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo G2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-g2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo G2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17e-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17e to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17e-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17e to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17e-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17e to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y100-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y100 5G FRP Bypass</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-fixes-for-seamless-phone-screencasting-for-2024/"><u>Quick Fixes for Seamless Phone Screencasting for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-gopro-quik-on-mac-effortless-video-editing-for-2024/"><u>Updated Mastering GoPro Quik on Mac Effortless Video Editing for 2024</u></a></li>
+</ul></div>

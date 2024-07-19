@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Data from Motorola Moto G23 to BlackBerry | Dr.fone
-date: 2024-05-19T18:55:07.011Z
-updated: 2024-05-20T18:55:07.011Z
+date: 2024-07-17T19:57:34.469Z
+updated: 2024-07-18T19:57:34.469Z
 tags: 
   - transfer
 categories:
@@ -9,23 +9,41 @@ categories:
 description: This article describes How to Transfer Data from Motorola Moto G23 to BlackBerry
 excerpt: This article describes How to Transfer Data from Motorola Moto G23 to BlackBerry
 keywords: transfer from android to pc,transfer from Motorola Moto G23 to iphone,transfer from android to mac,transfer from Motorola Moto G23 to ipad,transfer from Motorola Moto G23 to android,transfer from Motorola Moto G23 to pc
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## How to Transfer Data from Motorola Moto G23 to BlackBerry
 
 Today’s world is full of technological benefits. Transferring data from one part of the world to another can be done in the blink of an eye. Transferring data from one phone to another should be that simple right? Well, it is if you are using devices with the same OS. But, what should you do if you want to transfer data from, let’s say, Android to BlackBerry? Don’t worry. It is possible, and we will guide you step by step through the entire process.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Option 1: Issues about transferring data from Motorola Moto G23 to BlackBerry
 
 When transferring data from Motorola Moto G23 to BlackBerry, you can’t use Bluetooth or a third party software that will help you speed up the process. And unfortunately, you will sometimes wish that you can speed up this process. You can try to manually transfer data from Motorola Moto G23 to a computer, and then from a computer to BlackBerry, but this process can take hours. It is boring to transfer the files from one place to another, and the time it takes is a real pain in the neck. And also, it is impossible to transfer apps from Motorola Moto G23 to BlackBerry because of different operating systems. Sometimes, not even all photos, videos and music files will be compatible. But, luckily, the BlackBerry developers have thought of a one way, which is simpler than the manual transfer mentioned above, to transfer your data from Motorola Moto G23 to BlackBerry. It takes less time, but you still need to do some work.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to transfer data from Motorola Moto G23 to Blackberry (Free)
 
 The BlackBerry developers have thought of an app that will help you transfer your contacts, calendar videos and photos from and Android device to a BlackBerry. You will not need to connect the Motorola Moto G23 devices to a PC or Mac. You will only need to connect both devices to the same Wi-Fi network. The app is called Device Switch.
 
 From the Home screen of your BlackBerry tap the ‘BlackBerry World’.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer data from Motorola Moto G23 to BlackBerry-01](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry02.jpg)
 
 Then, tap the search box and enter ‘Device Switch’. After the Motorola Moto G23 device shows up, tap it.
@@ -46,6 +64,9 @@ You should read through the top half of the screen, and make sure that the prefe
 
 After pressing OK, swipe left. A new screen will show up. You will have the option to choose the Motorola Moto G23 device you are switching data from. Make sure to click Android.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer data from Motorola Moto G23 to BlackBerry-06](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry05.jpg)
 
 Then, download the Motorola Moto G23 device Switch application from Google Play on your Motorola Moto G23. When the application is installed, open it, tap next and then RIM BlackBerry Device. Note the PIN code and enter it on your BlackBerry when prompted.
@@ -64,6 +85,9 @@ Once the transfer is done, tap finish. And that is it! The content from the Andr
 
 The Device Switch app is very reliable. But, there is one downside. You cannot transfer all file types using it, and the process may take a lot of time sometimes. But, we have found an even easier way. It is software called Dr.Fone - Phone Transfer. Keep reading to find out more about it!
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Transfer data from Motorola Moto G23 to Blackberry by Dr.Fone (Fast, easy and safe)
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can transfer all kinds of data including text messages, call logs, contacts, and of course, photos, videos and music. The software does not only enable transfer between Android, iOS and Symbian, but also restores data from iTunes, iCloud, kies and BlackBerry backup files. It supports more than 3000 phones currently, from all manufacturers.
@@ -159,6 +183,9 @@ For more details, follow the instructions below:
 - **Step 5:** Transfer complete.
 - Once the transfer is complete, you will be prompted to finish setting up your iPhone. Follow the instructions to complete the setup process.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![Motorola Moto G23 to iPhone transfer via Move to iOS.](https://images.wondershare.com/drfone/article/2024/01/transfer-data-from-motorola-to-iphone-2.jpg)
 
 ## Part 2. How To Make iPhone to Motorola Moto G23 Data Transfer Using Easy Software
@@ -175,6 +202,9 @@ How to make **iPhone to Motorola Moto G23 data transfer** with Dr.Fone:
 
 Make a connection between your iPhone and your Motorola Moto G23 phone through USB cable on your computer. Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/phone-switch/) on your computer and navigate to Toolbox > Phone Transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone to Motorola Moto G23 data transfer using Dr.Fone.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2:** Specify the source and destination devices
@@ -187,6 +217,9 @@ After connecting them, the platform will identify the connected devices and load
 
 Proceed to select the types of data you wish to transfer. Checkmark the category and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Choose the data types for transfer.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 - **Step 4:** Disable iCloud syncing
@@ -237,6 +270,9 @@ And for those who prefer the cloud, Dropbox and Google Drive also offer a soluti
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Transfer Data After Switching From Motorola Moto G23 to Latest Samsung
 
 Have you finally gotten your hands on the latest smartphone from Samsung’s flagship Galaxy S series? Whether you have the compact S23, the slightly larger S23 Plus, or the sleek S23 Ultra, you’re in for a thrilling ride of exceptional performance and vivid graphics.
@@ -247,6 +283,9 @@ However, can you save all the data? Let’s find out.
 
 ## Can You Save Your Data After Switching From Motorola Moto G23 to Samsung S23?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![samsung galaxy s23 on a table](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-2.jpg)
 
 You can save all data after switching from Motorola Moto G23 to Samsung S23. It doesn’t matter which Android phone you’ve used before buying the latest Samsung model because you have many data transfer options.
@@ -266,6 +305,9 @@ Here’s how to move data from Motorola Moto G23 to Samsung S23 with Wondershare
 1. Download and install the app on your computer.
 2. Go to **Toolbox > Phone Transfer**.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3. Connect your old Android and Samsung S23 to the computer with USB cables.
@@ -275,10 +317,16 @@ Here’s how to move data from Motorola Moto G23 to Samsung S23 with Wondershare
 
 5. Select the categories to copy to Samsung S23 and click **Start Transfer**.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data transfer with wondershare dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
 
 Wondershare Dr.Fone Phone Transfer lets you move apps, contacts, photos, videos, music, ringtones, text messages, voice memos, call logs, bookmarks, and calendar data between Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Move Data From Motorola Moto G23 to Samsung Using Smart Switch
 
 Samsung’s Smart Switch app is excellent for moving data (even settings) between Android devices. However, you can only transfer settings, memos (including voice), and app data between Galaxy phones.
@@ -290,6 +338,9 @@ Here’s how to move data from Motorola Moto G23 to Samsung S23 with Smart Switc
 1. Download and install Smart Switch on both phones and place them next to one another.
 2. Get your Samsung S23 and go to **Settings > Accounts and backup > Bring data from an old device**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![samsung smart switch options](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-3.jpg)
 
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
@@ -298,10 +349,16 @@ Here’s how to move data from Motorola Moto G23 to Samsung S23 with Smart Switc
 
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![establishing a wireless connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-5.jpg)
 
 5. Choose the desired data using your Samsung S23, tap **Transfer**, then **Go to the Home screen**once everything is on your new phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![moving data with smart switch](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-6.jpg)
 
 Remember to charge both phones before transferring data or connect them to a power source to ensure the process goes smoothly.
@@ -320,6 +377,9 @@ Here’s how to transfer data to Samsung Galaxy S23 using Google Account synchro
 
 Everything you’ve previously backed up will automatically sync once you log into your Google Account.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Share Data via Bluetooth
 
 Bluetooth may be slower than most data-sharing methods, but its reliability is why we never have to imagine life without it. It may not support transferring settings or downloaded apps, but it’s excellent for moving all your photos, videos, music, and other files.
@@ -328,15 +388,24 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 
 1. Go to **Settings > Connections**and toggle on the **Bluetooth** switch on both phones. Alternatively, use a shortcut in the **Notification panel**.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning on bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-8.jpg)
 
 2. Pair the phones and select folders or files you wish to transfer to your Samsung Galaxy S23.
 3. Tap **Share > Bluetooth**and choose your new phone.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring data via bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-9.jpg)
 
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Use Google Drive
 
 Google Drive is a prominent cloud storage and file-sharing platform. You’re missing out if you don’t use it. It lets you synchronize data across devices, access files in the cloud, and create presentation slides, spreadsheets, forms, and documents (online and offline).
@@ -345,6 +414,9 @@ Transferring data from Motorola Moto G23 to Samsung S23 is seamless with Google 
 
 1. Launch Google Drive on your old Android and tap **New > Upload**. The **New**button features only a **plus sign** on some devices.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![uploading data to google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-10.jpg)
 
 2. Add all folders or files you wish to transfer to your new phone.
@@ -373,6 +445,9 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 3. Tap **Allow**on your old Android to enable data access.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![allowing data access](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-14.jpg)
 
 4. Choose the desired file manager on your new phone and browse your old Android’s internal storage.
@@ -385,10 +460,16 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 6. Pick any location on your Samsung S23 phone (e.g., the **Downloads**folder for quick access) and tap **Copy**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring data to samsung s23](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-17.jpg)
 
 Moving data between phones using a USB cable is faster than Bluetooth but offers the same functionality. However, charge your devices beforehand because the data transfer may take a while (if you have many sizable files).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Use an SD Card
 
 We can almost see you fumbling with your Samsung S23, looking for an SD or microSD card slot. Newsflash: there isn’t one. Like its predecessors, S21 and S22, the Galaxy S23 series doesn’t support expandable storage.
@@ -399,6 +480,14 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 1. Select the desired files or folders on your old Android, tap **Move**, and choose your **SD card**.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![moving files to an sd card](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-18.jpg)
 
 2. Connect the Android to your computer with a USB cable.
@@ -409,6 +498,9 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 4. Go to **This PC**in **File Explorer** and open your phone under **Devices and drives**.
 5. Right-click the folders or files you wish to move, select **Copy**, and paste them to any location on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring files to a pc](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-20.jpg)
 
 6. Once you move the data, safely disconnect your old Android and connect your Samsung S23 to the PC.
@@ -416,6 +508,9 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 This method is best for transferring photos, videos, and other files from an SD card you might not use anymore. After all, smartphone manufacturers increasingly ditch SD card slots for sleek, more compact designs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Switching from Motorola Moto G23 to Samsung S23 is a breeze because you have many data transfer options. Besides Samsung’s Smart Switch, you can use your synced Google Account, Google Drive, Bluetooth, or a USB-C to USB-C cable. You can also migrate data from your old Android SD card to your computer before transferring it to your new phone.
@@ -441,3 +536,55 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-vimeo-uploads-with-imovie-videos/"><u>[New] 2024 Approved  Mastering Vimeo Uploads with iMovie Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-digging-for-discounted-beauty-in-tiktok-backgrounds/"><u>[New] In 2024, Digging for Discounted Beauty in TikTok Backgrounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>[New] In 2024, Finding Your Ideal Screen Recorder  OBS or Fraps?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-simplified-guide-efficient-screen-recording-for-dell-users/"><u>[Updated] 2024 Approved  Simplified Guide  Efficient Screen Recording for Dell Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-downloading-facebook-stories-anywhere/"><u>[Updated] 2024 Approved  The Ultimate Guide to Downloading Facebook Stories Anywhere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-practices-for-perfecting-figmas-background-removal/"><u>2024 Approved  Precision Practices for Perfecting Figma's Background Removal</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-recorded-talk-extraction-and-study/"><u>2024 Approved  Recorded Talk Extraction & Study</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/choosing-the-right-fps-30-or-60-which-is-better/"><u>Choosing the Right FPS  30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-redmi-note-12-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi Redmi Note 12 Pro 4G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-defy-2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Defy 2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-defy-2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Defy 2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-defy-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Defy 2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-tailor-videos-to-instagrams-preferred-format/"><u>In 2024, Tailor Videos to Instagram's Preferred Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>In 2024, Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-with-latest-windows-10-apps-and-games/"><u>In 2024, Unleash Potential with Latest Windows 10 Apps and Games</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-11-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-restarting-brother-printer-for-windows/"><u>Troubleshooting: Restarting Brother Printer for Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-security-camera-solutions-2023s-best-picks/"><u>Updated 2024 Approved Free Security Camera Solutions 2023S Best Picks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-elevating-your-audio-game-a-comprehensive-list-of-the-best-tools-to-modify-and-transform-sound/"><u>Updated Elevating Your Audio Game A Comprehensive List of the Best Tools to Modify and Transform Sound</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-beatless-beats-innovative-strategies-for-eliminating-drums-from-audio-tracks/"><u>Updated In 2024, Beatless Beats Innovative Strategies for Eliminating Drums From Audio Tracks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/your-journey-to-1k-followers-in-one-month-secrets-from-top-influencers/"><u>Your Journey to 1K Followers in One Month  Secrets From Top Influencers</u></a></li>
+</ul></div>

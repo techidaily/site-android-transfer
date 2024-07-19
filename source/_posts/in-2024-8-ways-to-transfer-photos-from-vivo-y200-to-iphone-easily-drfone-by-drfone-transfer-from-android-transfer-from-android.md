@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Ways to Transfer Photos from Vivo Y200 to iPhone Easily | Dr.fone
-date: 2024-03-20 20:39:44
-updated: 2024-03-22 19:58:17
+date: 2024-07-17T22:37:02.328Z
+updated: 2024-07-18T22:37:02.328Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 8 Ways to Transfer Photos from Vivo Y200 to iPhone Easily
 excerpt: This article describes 8 Ways to Transfer Photos from Vivo Y200 to iPhone Easily
 keywords: transfer from Vivo Y200 to mac,transfer from android to mac,transfer from Vivo Y200 to iphone,transfer from Vivo Y200 to pc,transfer from android to iphone,transfer from android to pc,transfer from Vivo Y200 to ipad,transfer from Vivo Y200 to android,transfer from android to ipad
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## 8 Ways to Transfer Photos from Vivo Y200 to iPhone Easily
@@ -20,12 +20,18 @@ Let's simplify the process of transferring your photos and keep your precious mo
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/84HUpsWS7A4"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Transfer Photos from Vivo Y200 to iPhone in One Click?
 
 If you are confused over which method you should choose for transferring photos from Vivo Y200 to iPhone, then compare the quality and the quickness of the selected mode. Well, to be frank, the tool that qualifies all these criteria is the Dr.Fone toolkit, which is a comprehensive solution that is well designed to tackle all mobile-related issues and tasks.
 
 Dr.Fone is perfect because you can transfer across multiple devices regardless of OS. As an example, if you want to transfer photos from Vivo Y200 to iPad /iPhone and vice versa, it can be done quickly by following two ways as mentioned below:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1.1 One-click to Transfer Photos from Vivo Y200 to iPhone using Dr.Fone - Phone Transfer
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a software package that facilitates cross-device transactions, such as transferring photos from Vivo Y200 to iPhone. If you are in the process of replacing your Android with a new iPhone, then use Dr.Fone to transfer all contents to the new phone. The content can include photos, contacts, videos, and social media messages.
@@ -48,14 +54,23 @@ Let us see the steps on how to transfer photos from Vivo Y200 to iPhone using Dr
 
 **Step 1.** Download and install Dr.Fone toolkit and launch it. Then select the "Phone Transfer" option from the main interface.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Now, connect your Android and iPhone to the computer. As soon as you connect the Vivo Y200 device, it will start recognizing it and mention it as the ‘Source’ phone or ‘Target’ phone accordingly. In this case, make sure the Android phone is the Source and the iPhone is the Target. You can change their position using the Flip button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-make sure the source and destination](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 **Step 3.** Finally, select the files you want to transfer (photos) and click on ‘Start Transfer.’ That was it. Soon, it will transfer pictures from Vivo Y200 to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 
@@ -66,6 +81,9 @@ Another way that can assist you in **moving photos from Vivo Y200 to iPhone** is
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 All in one Solution to Transfer Photos from Vivo Y200 to iPhone
@@ -84,6 +102,9 @@ Here, either you can select the photos that you wish to transfer selectively or 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Transfer Photos from Vivo Y200 to iPhone Using Move to iOS App
 
 Now, to answer **how to transfer photos from Vivo Y200 to iPhone**, there is another simple solution that you can make use of. It is called the “Move to iOS app,” which you can download freely from the Google Play store.
@@ -92,6 +113,18 @@ Now to proceed, first of all, you need to do some settings on your iPhone device
 
 - **Step 1:** On your iPhone, go to a screen called ‘Apps & Data’ > choose the ‘Move Data from Android’ option.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-app and data](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-6.jpg) ![how to transfer photos from android to iphone-move data from android](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-7.jpg)
 
 The next step is to take your Vivo Y200 to complete the transfer process with the “Move to iOS” app.
@@ -100,6 +133,9 @@ The next step is to take your Vivo Y200 to complete the transfer process with th
 - **Step 3:** Open the ‘Move to iOS’ app to accept permission requests, install it, and open the app.
 - **Step 4:** At this point, tap Continue on both your iOS and Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-move from android to ios](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-8.jpg)
 
 - **Step 5:** On your Vivo Y200, enter the 12-digit code of the iPhone. This is so that the ‘Move to iOS’ app knows which iOS device it has to transfer the data to.
@@ -114,6 +150,9 @@ The above process to **transfer pictures from Vivo Y200 to iPhone** is suitable 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Transfer Photos from Vivo Y200 to iPhone via Bluetooth
 
 Bluetooth is an excellent option to transfer photos and videos across both Android and iPhone devices. This is because Bluetooth is available on both Android and iOS devices, making it widely useful. Furthermore, you don’t have to download a third-party app to transfer pictures via Bluetooth. The process can also be completed quickly with just a few taps on the screen.
@@ -155,6 +194,9 @@ This way takes some manual steps. If you want a one-click solution, try [Dr.Fone
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. How to Transfer Photos from Vivo Y200 to iPhone Via Email?
 
 Employing email represents a simple technique for sending a restricted set of photos from an Android device to an iPhone. Nevertheless, it might not be the optimal option for transferring a large assortment of high-resolution images. Still, it acts as a swift solution for exchanging a few pictures. Here is a comprehensive guide illustrating the process of sending photos from an Android device to an iPhone via email:
@@ -165,6 +207,9 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 **Step 2:** Look for the “Attachment” icon (usually a paperclip) and select the photos you want to transfer. Attach the selected photos to the email, and once the photos are attached, click the “Send” button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select photos to transfer](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-2.jpg)
 
 **Step 3:** Then log in using the same email account on your iPhone. After logging in, access the email with your photos and download the attachments to complete the photo transfer.
@@ -183,12 +228,18 @@ You can extract videos and photos directly from the camera and transfer them to 
 
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Photo Transfer
 
 The photo transfer app is incredibly popular and with a good reason. You can perform Android to iPhone photo transfer without any cables. You can access Photo Transfer on different platforms, including desktop computers. It allows you to access your photos stored on the app via a web browser. You can easily download multiple images for storage and exchange these photos across various platforms. If you need an intuitive, easy-to-use app to **send photos from Vivo Y200 to iPhone** then consider using the Photo Transfer app.
 
 ![how to transfer photos from android to iphone-Photo Transfer](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Shareit
 
 Shareit is a specialized application developed to transfer files between two devices. You can use Shareit to **transfer pictures from Vivo Y200 to iPhone** in seconds. The software is free and completely secure, so you do not have to worry about how to transfer photos from one device to another. You can share individual photos or entire folders on Shareit. However, it should be noted that sharing folders can make slow down the process.
@@ -201,6 +252,9 @@ Thus, after going through the article, we are sure that you have a wide range of
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8 Ways to Transfer Photos from Vivo Y200 to iPhone Easily
 
 Transferring photos from an Android device to an iPhone might seem daunting, given the differences in their operating systems. However, it doesn't have to be a complicated process. In this guide, we'll explore easy and efficient methods to transfer your cherished photos smoothly, ensuring that your memories remain intact during the transition from the Android to the iOS ecosystem. Whether you're switching to an iPhone, sharing photos with a friend, or simply looking to create a backup, we've got you covered with practical solutions.
@@ -215,12 +269,18 @@ If you are confused over which method you should choose for transferring photos 
 
 Dr.Fone is perfect because you can transfer across multiple devices regardless of OS. As an example, if you want to transfer photos from Vivo Y200 to iPad /iPhone and vice versa, it can be done quickly by following two ways as mentioned below:
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1.1 One-click to Transfer Photos from Vivo Y200 to iPhone using Dr.Fone - Phone Transfer
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a software package that facilitates cross-device transactions, such as transferring photos from Vivo Y200 to iPhone. If you are in the process of replacing your Android with a new iPhone, then use Dr.Fone to transfer all contents to the new phone. The content can include photos, contacts, videos, and social media messages.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Photo from Vivo Y200 to iPhone in 1 Click Directly!
@@ -245,6 +305,9 @@ Let us see the steps on how to transfer photos from Vivo Y200 to iPhone using Dr
 
 **Step 3.** Finally, select the files you want to transfer (photos) and click on ‘Start Transfer.’ That was it. Soon, it will transfer pictures from Vivo Y200 to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 
@@ -273,6 +336,9 @@ Here, either you can select the photos that you wish to transfer selectively or 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Transfer Photos from Vivo Y200 to iPhone Using Move to iOS App
 
 Now, to answer **how to transfer photos from Vivo Y200 to iPhone**, there is another simple solution that you can make use of. It is called the “Move to iOS app,” which you can download freely from the Google Play store.
@@ -289,6 +355,9 @@ The next step is to take your Vivo Y200 to complete the transfer process with th
 - **Step 3:** Open the ‘Move to iOS’ app to accept permission requests, install it, and open the app.
 - **Step 4:** At this point, tap Continue on both your iOS and Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer photos from android to iphone-move from android to ios](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-8.jpg)
 
 - **Step 5:** On your Vivo Y200, enter the 12-digit code of the iPhone. This is so that the ‘Move to iOS’ app knows which iOS device it has to transfer the data to.
@@ -303,6 +372,9 @@ The above process to **transfer pictures from Vivo Y200 to iPhone** is suitable 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Transfer Photos from Vivo Y200 to iPhone via Bluetooth
 
 Bluetooth is an excellent option to transfer photos and videos across both Android and iPhone devices. This is because Bluetooth is available on both Android and iOS devices, making it widely useful. Furthermore, you don’t have to download a third-party app to transfer pictures via Bluetooth. The process can also be completed quickly with just a few taps on the screen.
@@ -320,6 +392,9 @@ Bluetooth is an excellent option to transfer photos and videos across both Andro
 
 It is important to note that the rate of data transfer on Bluetooth is heavily dependent on the version of Bluetooth you use. For example, if you use Bluetooth 2.x data transfer happens at 0.25 MB/s, whereas Bluetooth 5.x transfers data at 6 MB/s.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to Transfer Photos from Vivo Y200 to iPhone Using Google Drive?
 
 Google Drive is cloud storage that is available to those who have a Gmail address. It can store anything ranging from Word Documents to photos and videos. Hence, if you are wondering **how to move photos from Vivo Y200 to iPhone**, then Google Drive is your answer.
@@ -354,10 +429,16 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 **Step 2:** Look for the “Attachment” icon (usually a paperclip) and select the photos you want to transfer. Attach the selected photos to the email, and once the photos are attached, click the “Send” button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select photos to transfer](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-2.jpg)
 
 **Step 3:** Then log in using the same email account on your iPhone. After logging in, access the email with your photos and download the attachments to complete the photo transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![receive on other end and download](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-3.jpg)
 
 ## Part 6: Top 3 Android to iPhone Photo Transfer Apps
@@ -372,6 +453,9 @@ You can extract videos and photos directly from the camera and transfer them to 
 
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Photo Transfer
 
 The photo transfer app is incredibly popular and with a good reason. You can perform Android to iPhone photo transfer without any cables. You can access Photo Transfer on different platforms, including desktop computers. It allows you to access your photos stored on the app via a web browser. You can easily download multiple images for storage and exchange these photos across various platforms. If you need an intuitive, easy-to-use app to **send photos from Vivo Y200 to iPhone** then consider using the Photo Transfer app.
@@ -390,6 +474,9 @@ Thus, after going through the article, we are sure that you have a wide range of
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Ways to Transfer Music from Vivo Y200 to iPhone
 
 _You switch from an Android device to an iPhone but can’t find an ideal solution to transfer music from Vivo Y200 to iPhone._
@@ -402,6 +489,9 @@ Yes – you have read it right. You can learn how to send music from Vivo Y200 t
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer music from Vivo Y200 to iPhone in 1 Click!
@@ -418,11 +508,17 @@ A user-friendly tool is compatible with most Android and iOS devices. The deskto
 
 1. Firstly, launch the Dr.Fone toolkit on your computer and go to the “Switch” option from its welcome screen.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![how to transfer music from android to iPhone-go to switch option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2. Now, you need to connect two devices to the system. Once the Vivo Y200 devices are detected, authenticate them and select the media transfer option.
 3. Both of your devices will automatically be detected by the application. Ideally, your Vivo Y200 will be listed as “Source” while the iPhone should be the “Destination” device. If not, you can click on the Flip button to interchange their positions.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![how to transfer music from android to iphone-your devices will be detected](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 4. Choose the data that you would like to transfer. To move music from Vivo Y200 to iPhone, make sure the option of “Music” is enabled before clicking on the “Start Transfer” button.
@@ -457,6 +553,9 @@ Since it is a complete Android phone manager, you can use it to transfer all the
 
 1. Install and open the Dr.Fone toolkit on your computer and click on the “Phone Manager” option from the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![how to transfer music from android to iphone-click on transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2. Connect both Android phones and iPhone to software and let them be detected automatically. From the top-left option, make sure you have selected your Vivo Y200 as a default/source device. The interface will provide its snapshot with some shortcuts.
@@ -472,10 +571,16 @@ Since it is a complete Android phone manager, you can use it to transfer all the
 
     Besides performing a direct transfer of data from one smartphone to another, you can also use the application to transfer music from Vivo Y200 to iTunes as well. To do this, you need to select the “Transfer Device Media to iTunes” option from its home page. This will launch a pop-up window and let you move your music files from the Android device to iTunes directly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![how to transfer music from android to iphone-Transfer Device Media to iTunes](https://images.wondershare.com/drfone/drfone/mac-android-transfer-to-itunes-01.jpg)
 
 In this way, you can selectively transfer music from Vivo Y200 to iPhone in a hassle-free manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to transfer music from Vivo Y200 to iPhone using Android File Transfer?
 
 If you use a Mac, then you can use Android File Transfer to move your data from your Vivo Y200 to your system. Though, to transfer music from Vivo Y200 to iPhone, you would later need to take the assistance of iTunes. This is because you can’t simply drag and drop your data from your system to the iPhone. While the solution is free, it is certainly quite complicated and is not direct like Dr.Fone.
@@ -503,6 +608,9 @@ These days, many people use streaming services like Apple Music, Google Play Mus
 
 Once you have created a playlist on your Spotify account, you can access it from any other device. You can even access your music by visiting its website because it will be stored on Spotify’s server and not your device itself.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to transfer music from android to iphone-transfer streaming music](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-iphone-4.jpg)
 
 If you are moving from an Android to an iPhone, you can follow these steps to ensure your Spotify music won’t be lost.
@@ -537,3 +645,55 @@ When you know how to move music from Vivo Y200 to iPhone, you can easily make th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860185108-new-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype/"><u>[New] The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-creating-content-with-purpose-balancing-job-and-youtube-for-2024/"><u>[Updated] Creating Content with Purpose  Balancing Job & YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-device-based-access-commence-google-meet-chat/"><u>[Updated] Device-Based Access  Commence Google Meet Chat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unleash-potential-understanding-and-altering-account-numbers/"><u>[Updated] In 2024, Unleash Potential  Understanding and Altering Account Numbers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screen-protectors-that-enhance-vr-filming/"><u>[Updated] Screen Protectors That Enhance VR Filming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sketched-snicker-fits-kapwing-meme-artisan/"><u>[Updated] Sketched Snicker-Fits  Kapwing Meme Artisan</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-elite-echelon-streaming-champions-on-tiktok-for-2024/"><u>[Updated] The Elite Echelon  Streaming Champions on TikTok for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-fundamentals-of-synchronizing-audio-and-video-in-screencasts/"><u>[Updated] The Fundamentals of Synchronizing Audio and Video in Screencasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-create-captivating-sports-videography/"><u>2024 Approved  Create Captivating Sports Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-effortless-coordination-streamlining-zoom-and-gmail-collaboration-techniques/"><u>2024 Approved  Effortless Coordination  Streamlining Zoom & Gmail Collaboration Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-c300-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia C300 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic-v2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic V2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic-vs-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic Vs 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic5-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic5 Ultimate to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-play-40c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Play 40C to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-play-7t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Play 7T to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-play-8t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Play 8T to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-v-purse-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor V Purse to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x50-gt-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X50 GT to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x50-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X50 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x50i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X50i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x50iplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X50i+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x7b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X7b to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x8b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X8b to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x9a-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X9a to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x9b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X9b to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-htc-u23-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from HTC U23 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-htc-u23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from HTC U23 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-huawei-nova-y71-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Huawei Nova Y71 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-huawei-nova-y91-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Huawei Nova Y91 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-huawei-p60-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Huawei P60 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-gt-10-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix GT 10 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-30-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 30 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-30i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 30i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 40 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 40i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-vip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30 VIP to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-smart-7-hd-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Smart 7 HD to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-smart-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Smart 7 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-smart-8-hd-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Smart 8 HD to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/"><u>In 2024, Explore the Best DVD Players for Your Portable Laptop</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-anxiety-in-your-camera-lens-youtube-wisdom/"><u>In 2024, Overcoming Anxiety in Your Camera Lens  YouTube Wisdom</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leading-windows-call-platforms-7-1-ranked/"><u>Leading Windows Call Platforms  #7-#1 Ranked</u></a></li>
+</ul></div>

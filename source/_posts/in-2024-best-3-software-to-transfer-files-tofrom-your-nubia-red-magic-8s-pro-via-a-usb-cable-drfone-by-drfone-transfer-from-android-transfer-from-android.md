@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best 3 Software to Transfer Files to/from Your Nubia Red Magic 8S Pro via a USB Cable | Dr.fone
-date: 2024-06-18T02:00:06.181Z
-updated: 2024-06-19T02:00:06.181Z
+date: 2024-07-17T22:49:27.917Z
+updated: 2024-07-18T22:49:27.917Z
 tags: 
   - transfer
 categories:
@@ -58,6 +58,9 @@ Step 3. You can select the file type you want to transfer to the computer or sel
 
 Wondershare Dr.Fone also features other helpful tools, such as the De-Duplicate option, which automatically scans all your contacts for any repetitions, which is always a nuisance (you often end up with duplicate contacts if you sync your contacts with Facebook, as well as already having them on your device, for example).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mobogenie Android USB File Transfer
 
 **Advantages:**
@@ -82,6 +85,9 @@ Download Mobogenie and run it, and connect your Nubia Red Magic 8S Pro to the co
 
 As with other data management software, you can download and install apps onto your Nubia Red Magic 8S Pro from your PC. The advantage of this is that apps can be downloaded quickly, and also without costing you in terms of data roaming charges.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![usb android file transfer](https://images.wondershare.com/drfone/article/2018/03/download-app-with-mobogenie.jpg)
 
 A neat feature is the ability to uninstall apps that came preloaded on the phone as often we find ourselves with apps that we never use that we cannot delete.
@@ -90,6 +96,9 @@ A neat feature is the ability to uninstall apps that came preloaded on the phone
 
 The transfer of photo files is straightforward, and several photos can be selected from your computer to import onto your device at once, or vice versa.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![usb to android file transfer](https://images.wondershare.com/drfone/article/2018/03/transfer-photos-with-mobogenie.jpg)
 
 **Features:**
@@ -106,6 +115,9 @@ Download MoboRobo and install this Android USB file transfer tool on your comput
 
 Once connected, you will be brought to this home page, notice the options to use different devices as well as connected through Wi-Fi.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![USB android file transfer](https://images.wondershare.com/drfone/article/2018/03/mobogenie-home.jpg)
 
 As with Mobogenie, once you are on the software, it is fairly easy to navigate around, and you can do everything from sending SMS from your PC to transferring apps and contacts. However, a drawback is that the management of your music requires you to have all your MP3 files on your PC and move them on to the software- not extremely inconvenient, but as we will see much easier solutions exist.
@@ -123,6 +135,9 @@ If you are a proud owner of smartphones running on two different operating syste
 - 1\. You can rely on some program/online service/website such as Outlook, CSV file format, Google Contacts, etc.
 - 2\. You may experience issues while transferring data from your Nubia Red Magic 8S Pro phone to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Transfer Data Wirelessly via Microsoft ID
 
 Windows phones such as Nubia Red Magic 8S Pro depend on a Microsoft ID to back up your important data such as contacts, text messages, calendar, and device preferences. Once you have configured the data on your Nubia Red Magic 8S Pro smartphone, you can add the same Microsoft email address to your iPhone and then sync the data to it. Given below are the step-by-step instructions on **how to transfer from Nubia Red Magic 8S Pro to iPhone** via Microsoft ID:
@@ -194,6 +209,9 @@ Cons:
 1. It is a time-consuming process.
 2. You cannot transfer photos and media files by following this method.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 2: Transfer Data Using PhoneCopy
 
 With PhoneCopy you can easily export data from your Nubia Red Magic 8S Pro to the PhoneCopy server, and then import the data from the PhoneCopy server to your new iOS device. It is easy to **transfer contacts from Nubia Red Magic 8S Pro to iPhone** with PhoneCopy. What you need is PhoneCopy iPhone Nubia Red Magic 8S Pro.
@@ -270,6 +288,9 @@ Only up to 500 contacts, SMS, tasks, and notes can be synched while using the Ba
 
 The archived data is auto-deleted from the PhoneCopy server after one month when using the Basic version, and after 1 year when using the Premium version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: Best Way to Transfer data between Android and iPhone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) lets you transfer data from Nubia Red Magic 8S Pro to iPhone or iPhone to Android in 1 Click. It supports almost all mobiles, including iPhone, Android Samsung, LG, Sony, HTC, etc. Dr.Fone - Phone Transfer can transfer music, videos, contacts, messages, call logs, and apps between mobiles. If you want to transfer data between Android and iPhone, it must be the best solution for you. Try it free. Follow the steps below to know **how to transfer data between Android and iPhone**.
@@ -301,6 +322,9 @@ Launch Dr.Fone. You will see "Phone Transfer". Click it.
 
 Connect your Android and iPhone. Dr.Fone will detect it soon. Then select the files and click Start Transfer. It can transfer almost all files, contacts, apps, messages, photos, music, videos, etc. If you just want to transfer contacts from Nubia Red Magic 8S Pro to iPhone, then it is also ok. Just check the Contacts option to transfer contacts from Nubia Red Magic 8S Pro to iPhone easily.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![transfer from lumia to iPHone- start transfer](https://images.wondershare.com/drfone/drfone/phone-switch-android-to-ios-01.jpg)
 
 ### Conclusion
@@ -309,6 +333,9 @@ Regardless of the fact that many free solutions are there that can help you **tr
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 Ways to Transfer Text Messages from Nubia Red Magic 8S Pro to iPhone 15/14/13/12/11/X/8/
 
 The biggest dilemma that people face when they buy a new iPhone like iPhone 14/14 Pro (Max) is how to transfer data from the Android or old iPhone. Well, transferring images, audio, videos, etc. is easy as there are lots of apps available that allow doing so.
@@ -323,6 +350,9 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Phone Transfer
 
 Transfer Text Messages from Nubia Red Magic 8S Pro to iPhone like iPhone 15/14/14 Pro (Max)
@@ -336,6 +366,9 @@ Transfer Text Messages from Nubia Red Magic 8S Pro to iPhone like iPhone 15/14/1
 
 **4,053,382** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to transfer SMS from Nubia Red Magic 8S Pro to iPhone using Dr.Fone - Phone Transfer?
 
 Using Dr.Fone, it is possible to transfer SMS from Nubia Red Magic 8S Pro to iPhone in a matter of seconds. This one-click method of transferring text messages is way faster and simple than other transfer methods. Follow the steps to learn how to transfer text messages from Nubia Red Magic 8S Pro to iPhone with Dr.Fone - Phone Transfer:
@@ -344,6 +377,9 @@ Step 1: Download the Dr.Fone toolkit and install it on the Windows or Mac comput
 
 Step 2: Then connect both the Nubia Red Magic 8S Pro devices i.e. Android and iPhone to the computer with the help of USB cables. Wait for them to be detected by the software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![launch the tool and connect devices](https://images.wondershare.com/drfone/guide/drfone-home.png "first screen of Dr.Fone")
 
 Step 3: Click on the Switch option on the Dr.Fone utility home screen and it will take you to Dr.Fone - Phone Transfer interface.
@@ -389,10 +425,25 @@ Step 4: Tap on “Continue” and then “Agree” on the terms and conditions s
 
 Step 5: Enter the code generated on the iPhone in the “Enter Code” screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter code](https://images.wondershare.com/drfone/article/2018/02/enter-code.JPG "enter the code to verify")
 
 Step 6: On the Transfer Data screen, select the content to transfer and click “Next”. It will start the transfer process and will take some time to complete depending on the size of the data.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![process of transferring sms from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-to-ios.JPG "transfer to be complete in a while")
 
 Step 7: After transferring is complete, finish the iPhone device setup process.
@@ -420,3 +471,41 @@ The disadvantage that this method has is that you can’t transfer messages from
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-your-video-call-process-with-obs-and-skype/"><u>[New] In 2024, Streamlining Your Video Call Process with OBS & Skype</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-incorporating-captions-into-instagrams-video-platform/"><u>[New] Incorporating Captions Into Instagram's Video Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-mac-capturing-utilities-ranked/"><u>[Updated] Best Mac Capturing Utilities Ranked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>2024 Approved  Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-10-history-youtube-channels-for-students-and-history-lovers/"><u>2024 Approved  Top 10 History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-voicing-the-future-the-top-8-free-online-recorders-transforming-audio/"><u>2024 Approved Voicing the Future The Top 8 Free, Online Recorders Transforming Audio</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-play-7t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor Play 7T to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-play-8t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor Play 8T to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-v-purse-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor V Purse to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x50-gt-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X50 GT to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X50 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x50i-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X50i to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x50iplus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X50i+ to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x7b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X7b to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x8b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X8b to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x9a-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X9a to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x9b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X9b to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-htc-u23-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from HTC U23 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-htc-u23-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from HTC U23 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-huawei-nova-y71-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Huawei Nova Y71 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-huawei-nova-y91-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Huawei Nova Y91 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-huawei-p60-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Huawei P60 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-gt-10-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix GT 10 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-30-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 30 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-30i-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 30i to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-40-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 40 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-40-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 40 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-40i-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 40i to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-note-30-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Note 30 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-finding-auditory-representations-of-steel-trumpets/"><u>In 2024, Finding Auditory Representations of Steel Trumpets</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 14 Plus?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ate-guide-to-the-top-youtube-video-editors/"><u>Ultimate Guide to the Top YouTube Video Editors</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-essential-dj-playlist-archives/"><u>Updated In 2024, Essential DJ Playlist Archives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-decoded-an-in-depth-look-at-video-hosting-for-2024/"><u>Vimeo Decoded  An In-Depth Look at Video Hosting for 2024</u></a></li>
+</ul></div>
