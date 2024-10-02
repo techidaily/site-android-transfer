@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Videos from Oppo Find N3 Flip to iPad | Dr.fone
-date: 2024-09-23T12:01:26.378Z
-updated: 2024-09-26T16:23:59.478Z
+date: 2024-09-25T16:41:19.681Z
+updated: 2024-10-02T20:11:43.429Z
 tags: 
   - transfer
 categories:
@@ -27,13 +27,6 @@ This article talks about 5 different ways on **how to share movies from Oppo Fin
 
 Wireless technologies have revolutionized data transfer, eliminating the need for physical connections. This article will discuss 3 prominent wireless methods that stand out. These methods leverage various technologies, from Wi-Fi-based solutions to cloud-based services. Given below are the wireless methods, each offering its unique approach to **how to share videos from Oppo Find N3 Flip to iPad**:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Move to iOS App
 
 The Move to iOS app stands as an official app from Apple. This app is tailor-made to simplify the transition from Oppo Find N3 Flip to iOS devices, streamlining the migration process. It efficiently transfers crucial data such as videos, contacts, messages, photos, and more. Moreover, utilizing Move to iOS is a straightforward procedure.
@@ -53,10 +46,10 @@ Nonetheless, a notable drawback of Move to iOS is its limitation to use only dur
 ![select data to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Email
@@ -68,6 +61,13 @@ You can attach a maximum of 25MB-sized videos to an email. Still, it offers a st
 - **Step 1.** Starting with, open the preferred email app on your Oppo Find N3 Flip and choose to “Compose” a new email. Attach the targeted video file by pressing the "Attachment" icon and selecting the "Attach File" option. Ensure the video file size adheres to the email service's attachment limitations.
 
 ![compose a new email](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Provide either the email address linked to the iPad or the recipient's email address. Once done, hit the "Send" icon to send an email with the attached videos. Access the email app on your iPad and find the email that includes the attached video. Download or open the attached video file directly from the email.
 
@@ -83,23 +83,9 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 
 ![upload video on drive](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Proceed to your iPad, access the App Store, and install Google Drive. Utilize the same Google account credentials employed for uploading the videos from your Oppo Find N3 Flip to sign in on your iPad.
 
 ![install the google drive app](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** Now, access the videos you uploaded from the Android device. Tap the ”Three Dots” icon on the video and choose the "Make available offline" option to complete the video transfer process.
 
@@ -108,13 +94,6 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 ## Part 2: 2 Wired Methods To Transfer Videos From Oppo Find N3 Flip to iPad
 
 Having explored wireless methods, let's shift our focus to wired methods. Wired connections provide a reliable and direct approach to data transfer. They ensure stability and potentially faster speeds compared to wireless alternatives. Here, we'll explore two wired methods that use physical connections to **transfer videos from Oppo Find N3 Flip to iPad**:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Wondershare Dr.Fone
 
@@ -188,19 +167,6 @@ However, if your cherished iPod is showing signs of wear or experiencing issues,
 - [Part 1. Transfer Music from iPod to Android via Bluetooth](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part2)
 - [Part 2. How to Transfer Music from Oppo Find N3 Flip to iPod with Move to iOS App](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part3)![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)
 - [Part 3. How To Transfer Music From iPod to Android/Android to iPod With Easy Software](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part4)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - [Conclusion](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part5)
 
@@ -322,6 +288,13 @@ The progress of the data transfer will be displayed in a pop-up window. Once com
 
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Transferring music seamlessly between iPod and Android devices, and vice versa, has become more accessible than ever with the right tools and methods. Bluetooth technology serves as a wireless bridge, allowing users to effortlessly move their favourite music from an iPod to an Android device.
@@ -340,18 +313,18 @@ However, can you save all the data? Let’s find out.
 
 ![samsung galaxy s23 on a table](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can save all data after switching from Oppo Find N3 Flip to Samsung S23. It doesn’t matter which Android phone you’ve used before buying the latest Samsung model because you have many data transfer options.
 
 Samsung Smart Switch may have features exclusive to Galaxy devices (among other limitations), but all methods let you transfer data seamlessly from Oppo Find N3 Flip to Samsung S23. Here’s how each works.
 
 The following methods will help you move data from Oppo Find N3 Flip to Samsung S23 within minutes. Each is straightforward, so your choice will depend on your preferences. Let’s dive in.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Transfer Data Using Wondershare Dr.Fone Phone Transfer
 
@@ -388,20 +361,27 @@ Here’s how to move data from Oppo Find N3 Flip to Samsung S23 with Smart Switc
 
 ![samsung smart switch options](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
 
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
 
 ![establishing a wireless connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Choose the desired data using your Samsung S23, tap **Transfer**, then **Go to the Home screen**once everything is on your new phone.
 
@@ -437,6 +417,13 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 3. Tap **Share > Bluetooth**and choose your new phone.
 
 ![transferring data via bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
 
@@ -509,6 +496,13 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 ![choosing a usb for file transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Go to **This PC**in **File Explorer** and open your phone under **Devices and drives**.
 5. Right-click the folders or files you wish to move, select **Copy**, and paste them to any location on your computer.
 
@@ -539,20 +533,20 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-melody-in-motion-iphones-role-in-making-music-videos/"><u>[Updated] Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-secrets-to-exposing-videos-in-the-news-feed/"><u>2024 Approved Secrets to Exposing Videos in the News Feed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-productivity-strategic-chatgpt-commands-to-dodge-digital-disturbances/"><u>Boost Productivity: Strategic ChatGPT Commands to Dodge Digital Disturbances</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-uncover-if-its-a-game-changer-with-these-5-must-know-reasons-to-subscribe/"><u>ChatGPT Plus: Uncover if It's a Game-Changer with These 5 Must-Know Reasons to Subscribe!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-note-30-vip-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Note 30 VIP Device SIM</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-find-x6-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Find X6 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-x-fold-2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo X Fold 2 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y100i-power-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y100i Power 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12 Pro 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 mini with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y100t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y100t Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-v27e-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo V27e to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-defy-2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Defy 2 To Phone | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-ultimate-powerdirector-24-review-a-comprehensive-dive-for-2024/"><u>The Ultimate PowerDirector '24 Review A Comprehensive Dive for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>[New] Navigating the World of Filmmaking Best Cameras for Novices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-fixing-iphone-lens-blur-effectively/"><u>[Updated] Expert Advice Fixing iPhone Lens Blur Effectively</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-design-and-construct-your-dream-mc-house/"><u>2024 Approved Design and Construct Your Dream MC House</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-vgksys-solved-effective-techniques-for-stability-restoration/"><u>Blue Screen Error 'vgk.sys' Solved: Effective Techniques for Stability Restoration</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-course-complete-eliminating-gameplay-interruptions-in-pcs-spellbreak-experience/"><u>Crash Course Complete: Eliminating Gameplay Interruptions in PC's Spellbreak Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord CE 3 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nokia-c22-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nokia C22 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-a79-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo A79 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-x100-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo X100 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-150-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 150 (2023) to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x7-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X7 Ultra to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s18-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S18 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-cameo-review-video-editor-and-movie-maker-for-iphone/"><u>In 2024, Vimeo Cameo Review-Video Editor & Movie Maker for iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/proven-asmr-techniques-and-the-best-microphone-options-for-2024/"><u>Proven ASMR Techniques and the Best Microphone Options for 2024</u></a></li>
 </ul></div>
 

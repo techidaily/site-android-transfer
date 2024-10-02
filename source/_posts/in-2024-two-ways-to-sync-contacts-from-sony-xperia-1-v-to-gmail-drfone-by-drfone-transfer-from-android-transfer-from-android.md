@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Sync Contacts from Sony Xperia 1 V to Gmail | Dr.fone
-date: 2024-09-22T06:14:26.275Z
-updated: 2024-09-26T16:36:29.631Z
+date: 2024-09-25T19:11:38.341Z
+updated: 2024-10-02T19:50:07.056Z
 tags: 
   - transfer
 categories:
@@ -50,6 +50,13 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-export to vcard file](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 8\. You will be taken to a page to select where you want the file to be saved on your PC, select the location, and click on OK to start exporting your contacts.
 
 Once your contacts have been successfully saved to your PC as a vCard or in.VCF format can be easily imported into your Gmail account right from your computer by following these steps.
@@ -63,13 +70,6 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
@@ -90,13 +90,6 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
@@ -178,6 +171,13 @@ Changing Android phones is no longer a tedious job. By using an Android clone ap
 
 To clone an Android phone in a fast and secure manner, simply take the assistance of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a part of the Dr.Fone toolkit and can be used to transfer all sorts of data directly from one device to another. For instance, you can transfer your photos, videos, music, messages, contacts, notes, and multiple accounts to Android detail as well. It is compatible with all the leading Android devices manufactured by brands like Samsung, HTC, Lenovo, Huawei, LG, Motorola, and more. Having an intuitive process, it will let you Android clone in no time. To learn how to clone Android phone using Dr.Fone Switch, follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Photo from Sony Xperia 1 V to iPhone in 1 Click Directly!
@@ -201,6 +201,13 @@ Transfer Photo from Sony Xperia 1 V to iPhone in 1 Click Directly!
 4\. If you wish to change their positions before you do Android clone, click the “Flip” button.
 
 ![connect both android devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5\. Now, you can select the kind of data that you wish to transfer from one device to another.
 
@@ -231,13 +238,6 @@ Download SHAREit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 4\. Bring the target device in close proximity to the sender and launch the app. Mark it as a receiving device.
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/11/15115449135128.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5\. This will make the phone automatically detect the sending device. Select the Wi-Fi hotspot that is associated with the sending device to form a secure connection.
 
@@ -317,6 +317,13 @@ Google Drive is ideally used to store data on the cloud. However, it can also be
 
 ![restore from google drive](https://images.wondershare.com/drfone/article/2017/11/15115452575873.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: Clone Sony Xperia 1 V Phone Using Bluetooth
 
 Using Bluetooth for cloning an Android phone is not the most efficient method. It is more suitable for transferring specific files than creating a comprehensive clone. Moreover, it's a slow and manual process that requires you to select and transfer files one by one. Here's how you can use Bluetooth for this purpose:
@@ -337,18 +344,18 @@ Cloning an Android phone using reputable and trusted methods, apps, or tools is 
 
 The ability to clone between different Android phone models or brands depends on the specific method or tool you are using. Dedicated phone transfer apps like Wondershare Dr.Fone - Phone Transfer or Phone Clone are often designed to work across various Android models and brands.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. What should I do before cloning my Android phone to ensure a smooth process?
 
 Before commencing the cloning procedure for your Sony Xperia 1 V, creating a backup of your device's data is crucial. It can be accomplished by using either the integrated backup feature or a trustworthy third-party app.
 
 This precautionary step guarantees the safety of your data should any issues arise during the cloning procedure. Moreover, it's imperative to verify that both devices are running the most up-to-date software updates and application versions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -400,13 +407,6 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 ![choose the nearby share option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Step 2:**** In the “Nearby Share” screen, toggle it on and set device visibility to “Everyone.” Once you activate it on both Android devices, find and select the files you want to transfer on the old Android phone.
 
 ![enable the nearby share option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-5.jpg)
@@ -457,13 +457,6 @@ Using a USB cable is best for transferring data when you have large files and do
 
 Google Account is another great way for ****Android-to-Android file transfer**** if you haven’t set up the new phone yet. It allows you to back up all your data on the old device and restore it to the new Android device. With this method, you can transfer most of the data from the old phone, including settings, contacts, notes, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide To Transfer Files With Google Account
 
 ****Step 1:**** On your old Android device, go to “Settings” and tap “Google.” In the Google settings, select “Backup” and tap “Backup Now” to back up your phone. Once the backup is complete, move to the new device.
@@ -474,13 +467,6 @@ Google Account is another great way for ****Android-to-Android file transfer***
 
 ![choose the old android backup](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pros and Cons
 
 | Pros | Cons |
@@ -490,16 +476,10 @@ Google Account is another great way for ****Android-to-Android file transfer***
 | · The devices don’t need to be near each other. |
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best For
@@ -516,6 +496,13 @@ Want to find the best and ****fast way to transfer files from Sony Xperia 1 V t
 - This tool allows you to transfer, back up, and restore your entire WhatsApp data from chats to emojis to locations.
 - If you have lost your phone data, you can recover it back using the Dr.Fone app safely and quickly.
 - With this tool, you can also repair system issues in your device in a secure environment.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Transfer Files from Sony Xperia 1 V to Other Android Devices With Dr.Fone
 
@@ -538,6 +525,13 @@ For transferring data from the old Android device to the new one, the old device
 Now select the data you want to transfer and click “Start Transfer” to begin the transfer process. In case you want to delete data on the new device, select “Clear Data before Copy” before pressing “Start Transfer.”
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -569,17 +563,19 @@ To summarize, while it may seem troublesome to ****transfer files from Sony Xper
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/co-filmmaking-simplified-youtubes-green-screen-wonders-for-2024/"><u>[New] Eco-Filmmaking Simplified YouTube's Green Screen Wonders for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-merging-yt-chorus-with-visual-storytelling/"><u>[New] Merging YT Chorus with Visual Storytelling</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unleashing-your-ads-potential-maximizing-revenue-with-fb-animation-strategies-for-2024/"><u>[Updated] Unleashing Your Ad's Potential Maximizing Revenue with FB Animation Strategies for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-y36-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo Y36 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-7-ultimate-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 7 Ultimate to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nokia-130-music-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nokia 130 Music to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-40-neo-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 40 Neo to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-s24-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy S24 Ultra to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-hardware-hub-in-depth-insights-and-comparisons/"><u>Tom's Computer Hardware Hub: In-Depth Insights and Comparisons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-customer-care-chatgpt-meets-whatsapp/"><u>Uniting Customer Care: ChatGPT Meets WhatsApp</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/what-lies-beneath-the-core-of-asmr-videos-for-2024/"><u>What Lies Beneath The Core of ASMR Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-precision-in-photos-mastering-insta-story-zoom-levels/"><u>[New] Precision in Photos Mastering Insta Story Zoom Levels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pioneering-success-with-effective-youtube-adsense-tactics-for-2024/"><u>[Updated] Pioneering Success with Effective YouTube AdSense Tactics for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-c55-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme C55</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decrypt-viewer-counts-unveiling-instagram-audience-numbers-for-2024/"><u>Decrypt Viewer Counts Unveiling Instagram Audience Numbers for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-f5-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco F5 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-9-proplus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 9 Pro+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lenovo-thinkphone-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lenovo ThinkPhone to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-ace-3-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from OnePlus Ace 3 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-2023-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Edge 2023 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-t2-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo T2 5G Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gamers-rejoice-fixing-stutter-and-crashes-in-red-dead-redemption-2-for-an-uninterrupted-adventure/"><u>PC Gamers Rejoice! Fixing Stutter and Crashes in Red Dead Redemption 2 for an Uninterrupted Adventure</u></a></li>
 </ul></div>
 

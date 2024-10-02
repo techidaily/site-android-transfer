@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy F34 5G Data? | Dr.fone
-date: 2024-09-20T05:39:04.064Z
-updated: 2024-09-27T09:48:51.056Z
+date: 2024-09-27T18:30:52.995Z
+updated: 2024-10-02T16:03:33.443Z
 tags: 
   - transfer
 categories:
@@ -48,13 +48,6 @@ Here are the steps to be followed for Phone Clone Samsung to transfer your data 
 
 ![phone clone for android](https://images.wondershare.com/drfone/article/2017/11/15114845572594.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Open the app on the old phone. Click on the old phone button. Select the wi-fi network created in the 2nd step and enter the password that you received in the 2nd step.
 
 ![phone clone for android](https://images.wondershare.com/drfone/article/2017/11/15114845727821.jpg)
@@ -87,6 +80,19 @@ Dr.Fone provides one of the best options to switch personal data from one phone 
 
 Some of the pros of Dr.Fone - Phone Transfer are as follows:
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 1-Click Phone-to-Phone Transfer
@@ -95,13 +101,6 @@ Some of the pros of Dr.Fone - Phone Transfer are as follows:
 - Move data between devices with different operating systems, i.e. iOS to Android.
 - Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
@@ -116,6 +115,13 @@ Now let us take a look at how to use Dr. Fone to transfer data between mobiles:
 1\. Launch the Dr.Fone app on the computer and select Phone Transfer.
 
 ![clone phone with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. Connect both the mobile to the computer and select the send and receive side on the computer
 
@@ -143,13 +149,6 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Samsung Galaxy F34 5G device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
 We all know how amazing the Samsung Galaxy S21 series is. Their features and quality make us fall in love with these devices. Though Samsung Galaxy S21, S21+, and S21 Ultra have many common features, there are still many differences among these. So, let's find out what those are:
@@ -169,6 +168,13 @@ Though three of these have the same design of camera and position, the real diff
 As mentioned, the difference of screen measurements. Besides this, there are some other differences in the display. Galaxy S21 and S21 Plus come in FHD resolution displays, where Galaxy S21 Ultra has QHD resolution. That means you can see the details on the Galaxy S21 Ultra. Galaxy S21 and S21 Plus change the refresh rate between 48Hz and 120Hz, where Galaxy S21 Ultra can go 10Hz and 120Hz.
 
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Camera:**
 
@@ -198,18 +204,31 @@ Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the com
 
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Start Transfer Process
 
 After choosing the desired file types (Photos for this case), click on the "Start Transfer" button to start the transfer process. Keep patience until the process ends and make sure both Android and iOS devices stay connected properly during the process.
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Finish Transfer and Check
 
@@ -224,6 +243,13 @@ Within a short time, all your selected photos will be transferred to the Samsung
 - Smart Switch has a low-speed transfer problem. It shows up when you transfer data with wireless connectivity.
 - After transferring the data, the smart switch does not back up the data. It is quite hard to recover the data using this app.
 - Using the Smart Switch app, you can only transfer the data from Samsung to Samsung. You can't use it for other devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -248,6 +274,19 @@ Step 2: Make sure Bluetooth is “On” on both of them
 Step 3: If everything is done correctly, both devices will show themselves to each other
 
 ![enable bluetooth](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Tap the other device on either of them. Here, the Moto G4 Play was tapped on OnePlus Nord 2:
 
@@ -277,13 +316,6 @@ Step 3: A popup will emerge:
 
 ![select share all contacts to transfer contacts](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Select Share All Contacts.
 
 Step 4: When you do that, this will come up:
@@ -305,13 +337,6 @@ And that is how to transfer contacts from an Android smartphone to another using
 ## Part II: Other Methods to Transfer Contacts from Samsung Galaxy F34 5G to Other Android Devices
 
 What are other ways to transfer contacts from one Android smartphone to another? Glad you asked. Because there are other ways to transfer contacts from an Android smartphone to another that do not use Bluetooth and can be both seamless and more powerful than the Bluetooth method, depending on your tastes and needs.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.I: Sync Contacts Using Google Account
 
@@ -361,14 +386,14 @@ It must be noted that there is one binding limitation with such apps - these app
 
 In that regard, using a third-party solution such as Dr.Fone allows you complete freedom to do whatever you want and whenever you want, and even so, Dr.Fone is a great tool to have in one’s arsenal to use every day. How? Because not only does Dr.Fone allow you to transfer contacts from one Android device to another, you have complete freedom to mix the Samsung Galaxy F34 5G devices in all possible ways. So, if you want to transfer from Samsung to Xiaomi, you can do that. You want to transfer from Xiaomi to Samsung, Dr.Fone does that. Transfer from Apple iPhone to Xiaomi? Yes! Xiaomi or Samsung to Apple iPhone? You bet, all supported! And with a clean, easy-to-use interface that does the job quickly and safely.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.III: Transfer Contacts from Samsung Galaxy F34 5G to Other Android Devices Using Dr.Fone - Phone Transfer
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Video Tutorial: How to Transfer Data from Samsung Galaxy F34 5G to Other Android Devices
 
@@ -396,13 +421,6 @@ Step 4: When the Samsung Galaxy F34 5G devices are connected, select the Contact
 
 ![transfer complete](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That’s it! It is that easy. Connect your devices, select what to transfer, click Start Transfer, and boom! You’re good to go. If you are thinking about WhatsApp chats, that is handled easily, too, using the [WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/) module. You’re going to have a wide smile plastered all over your face when you try this and experience how seamless and easy this is, everything integrated into one easy-to-use app called Dr.Fone.
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
@@ -423,16 +441,20 @@ Transferring contacts from one Android to another Android can be done in two bro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-easy-screen-capture-app-w10-edition/"><u>[Updated] Easy Screen Capture App, W10 Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-visionaries-at-work-a-look-into-the-six-dominant-nftos-for-2024/"><u>[Updated] Visionaries at Work A Look Into the Six Dominant NFTOs for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bring-everywhere-you-go-huawei-plus-mondly/"><u>Bring Everywhere You Go - Huawei + Mondly</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-infinix-smart-8-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Smart 8 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-p55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel P55 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-spark-20-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Spark 20 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-80-pro-straight-screen-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor 80 Pro Straight Screen Edition to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-20-proplus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 20 Pro+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/scrutinizing-the-significance-of-high-dynamic-range-hdr-for-2024/"><u>Scrutinizing the Significance of High Dynamic Range HDR for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-5-lite-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 5 Lite? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-harmonic-helpers-sourcing-video-music/"><u>[New] 2024 Approved Harmonic Helpers Sourcing Video Music</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-your-video-viewing-space-online-for-2024/"><u>[New] Optimize Your Video Viewing Space Online for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tactics-for-flawless-solo-streaming-experiences/"><u>[New] Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-comprehensively-understanding-instagram-video-restrictions/"><u>[Updated] In 2024, Comprehensively Understanding Instagram Video Restrictions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlock-youtubes-power-for-free-educational-sessions/"><u>[Updated] Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-color-gradings-secret-weapon-learning-about-luts/"><u>2024 Approved Color Grading's Secret Weapon Learning About LUTs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nokia-c32-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nokia C32 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-12r-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From OnePlus 12R to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-upload-a-video-from-imovie-to-youtube-in-2024/"><u>How to Upload a Video From iMovie to YouTube, In 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-v30-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo V30 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nubia-red-magic-9-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nubia Red Magic 9 Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-asus-rog-phone-7-ultimate-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Asus ROG Phone 7 Ultimate Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-a05s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy A05s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-z-fold-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy Z Fold 5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gpu-activation-issues-for-call-of-duty-warzone-players-on-windows-11-systems/"><u>Troubleshooting GPU Activation Issues for Call of Duty: Warzone Players on Windows 11 Systems</u></a></li>
 </ul></div>
 

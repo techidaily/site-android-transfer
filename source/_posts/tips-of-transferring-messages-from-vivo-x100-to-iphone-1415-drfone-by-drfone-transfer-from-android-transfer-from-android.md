@@ -1,7 +1,7 @@
 ---
 title: Tips of Transferring Messages from Vivo X100 to iPhone 14/15 | Dr.fone
-date: 2024-09-25T20:17:52.140Z
-updated: 2024-09-27T08:32:41.511Z
+date: 2024-09-25T19:19:29.211Z
+updated: 2024-10-02T20:20:46.978Z
 tags: 
   - transfer
 categories:
@@ -52,11 +52,25 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 .
 
 - **Step 2:** Specify the source and destination devices. After connecting to your devices, Dr.Fone will identify the connected devices and load their data onto the platform. Choose your Android as the Source device and your iPhone as the Destination device to set the transfer path. Use the Flip button if necessary to alter the transfer direction.
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Choose text messages as data types for transfer. Proceed to select the types of data you wish to transfer. Checkmark the text messages category and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
@@ -65,6 +79,13 @@ Packed with a user-friendly interface, this software streamlines the process, en
 - **Step 4:** Monitor music transfer progress. The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Troubleshoot Why I Can’t Transfer Texts from Vivo X100 to iPhone
 
@@ -88,6 +109,13 @@ Users may encounter situations where only some content is transferred, or the iO
 
 For this issue, you can consider erasing your iOS device and starting the transfer again. Make sure that the available space on your iPhone accommodates the Android content. Delete unnecessary data or apps on your iPhone to free up space if needed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus: How to Back Up Messages with Google Drive
 
 In addition to seamless transfers between devices, backing up your text messages becomes equally important. Fortunately, Google Drive offers a convenient solution by allowing you to back up your messages with ease. Turning on backup on Google Drive ensures that your valuable SMS history remains safe and accessible whenever you need it.
@@ -99,13 +127,20 @@ In addition to seamless transfers between devices, backing up your text messages
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,13 +160,6 @@ In this article, we will talk about the Samsung Galaxy S21 Ultra price and all i
 Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This amazing device has so many features, the best quality camera, and 5G connectivity. This model of the Samsung Galaxy series has a pro-grade camera. Using its camera, you can take the best shots of anything. You can record video like a professional by using the camera. The camera has multi-lens with zoom-in features. You cannot take a perfect zoomed shot using another device because they don't have these zoom-in features.
 
 ![samsung galaxy s21 ultra](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-s21-ultra.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Vivo X100 device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
@@ -155,13 +183,6 @@ As mentioned, the difference of screen measurements. Besides this, there are som
 
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Camera:**
 
 Galaxy S21 and S21 Plus have three cameras: a 12MP main camera and a 12MP ultra-wide camera with a 64MP telephoto camera. The front camera comes in 10MP. On the other side, Galaxy S21 Ultra comes with a 108MP main camera, 12MP ultra-wide, and two 10MP telephoto cameras. Among these two telephoto cameras, one has 3x zoom capacity, and the other has 10X zoom capacity. S21 Ultra has a laser autofocus sensor that will track the subject and take the perfect shot. For video recording, three of these models have great video features. However, S21 Ultra is offering you the bright night sensor so you can record and take pictures in low light.
@@ -174,23 +195,9 @@ Regarding the battery performance and charging system, there are many difference
 
 In these three models, you will get 5G. So, there is no argument about this. However, Galaxy S21 Plus and S21 Ultra have been manufactured with Ultra-Wide Band (UWB) chips. It is a new feature that will provide hands-free control. Using these features, you can unlock your car or find the SmartTag tracker. Among these, S21 Ultra offers you more. It has Wi-Fi 6E compatibility, which is the fastest and lowest latency for Wi-Fi connection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pro tips: How to Transfer Photos to S21 Ultra?
 
 Most of the time, after purchasing a new phone, we cannot transfer photos or other data to that device easily. At that moment, if you can use amazing data recovery software to transfer all your photos to the new Samsung Galaxy S21 Ultra, that would be a great solution. Well, we have the best solution for you. We are going to introduce you to an amazing software: [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a brilliant data recovery software that you can use for both iOS and Android systems. It has many amazing features. You can recover your data, transfer your photos and files, unlock Apple's ID and lock screen, repair the Android or iOS system, switch data from one phone to another phone, keep backup, restore data and erase data permanently from a device. Using this amazing software, you can transfer your photos to Samsung Galaxy S21 Ultra within one single click. Let's follow the guideline to know how to do this.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Download & Install Program
 
@@ -198,31 +205,11 @@ Download and install the software on your computer. Then start the Dr.Fone - Pho
 
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
 
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Start Transfer Process
 
@@ -260,6 +247,13 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Vivo X100 contact details to another platform.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 One-Stop Solution to Sync Contacts from Vivo X100 to Gmail
@@ -285,6 +279,13 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
 
 ![sync contacts from android to gmail-export to vcard file](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - 8\. You will be taken to a page to select where you want the file to be saved on your PC, select the location, and click on OK to start exporting your contacts.
 
@@ -314,13 +315,6 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 - 4\. Choose your Gmail account from the email accounts setup page.
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
@@ -409,17 +403,20 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-time-management-for-weekly-video-conferencing-sessions/"><u>[New] In 2024, Time Management for Weekly Video Conferencing Sessions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-watchlist-15-must-see-stop-motion-classics/"><u>Essential Watchlist 15 Must-See Stop-Motion Classics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g73-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto G73 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-k70e-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi K70E to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-x-flip-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo X Flip to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v30-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V30 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-razr-40-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Razr 40 Ultra Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-huawei-p60-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Huawei P60 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y36i-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y36i to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-split-screen-video-makers-the-ultimate-guide-for-ios-and-android-users/"><u>New In 2024, Split Screen Video Makers The Ultimate Guide for iOS and Android Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-editing-sportscasts/"><u>The Ultimate Guide to Editing Sportscasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-examining-performance-of-dji-raptor-eyewear/"><u>[New] Examining Performance of DJI Raptor Eyewear</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-gaming-yt-presence-a-hashtag-focused-manual/"><u>[New] In 2024, Elevate Your Gaming YT Presence A Hashtag-Focused Manual</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>[Updated] 2024 Approved Galactic Glitter Top 10 Accessories for SJ4000 Stargazers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-syncing-soundscapes-with-visuals-in-film-teasers/"><u>[Updated] In 2024, Syncing Soundscapes with Visuals in Film Teasers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-creating-youtube-video-thumbnails/"><u>[Updated] The Art of Creating YouTube Video Thumbnails</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-crashes-steady-play-for-madden-21-on-windows-systems/"><u>Conquer Game Crashes: Steady Play for Madden '21 on Windows Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-x8b-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor X8b Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-11-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus 11 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-12-proplus-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 12 Pro+ 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-c55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme C55 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-14-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi 14 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-nokia-c12-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Nokia C12 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-smart-8-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Smart 8 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-note-12r-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi Note 12R to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-embedded-webcam-issues-with-easy-windows-tips/"><u>Resolve Your PC's Embedded Webcam Issues with Easy Windows Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Infinix Note 30 5G to Gmail | Dr.fone
-date: 2024-09-12T06:22:20.011Z
-updated: 2024-09-13T20:18:28.562Z
+date: 2024-10-01T17:28:38.606Z
+updated: 2024-10-02T19:48:18.226Z
 tags: 
   - transfer
 categories:
@@ -20,23 +20,9 @@ One of the most important stuff you can keep on your phone is your contacts, the
 
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Sync Contacts from Infinix Note 30 5G to Gmail? (Easier way)
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Infinix Note 30 5G contact details to another platform.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -78,23 +64,9 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How to Sync Contacts from Infinix Note 30 5G to Gmail? (Official Way)
 
@@ -112,21 +84,7 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Other Ways to Backup Android Contacts
 
@@ -203,10 +161,10 @@ A lot of people switch from Infinix Note 30 5G to iPhone due to numerous reasons
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is undoubtedly the best Android to iPhone contacts transfer software that you can use. Since it is compatible with all the leading versions of iOS and Android (including iOS 16 and Android 13), you won’t face any issues using it. It follows an intuitive process and has a user-friendly interface. Here are some other features of this reliable Android to iPhone contacts transfer software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
@@ -217,13 +175,6 @@ Best Android to iPhone Contacts Transfer Software
 - It supports iOS and Android, allowing a seamless cross-platform transfer.
 - Supports iOS devices that run the latest iOS  ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
@@ -242,13 +193,6 @@ All of this makes Dr.Fone - Phone Transfer the best Android to iPhone contacts t
 ## Part 2: Top 4 Android to iPhone contacts transfer Apps \[iPhone 15 Included\]
 
 Dr.Fone is the fastest tool to transfer all kinds of data from one device to another. Nevertheless, if you want to try some other Android to iPhone contacts transfer app, you can give these options a try.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. My Contacts - Phonebook Backup & Transfer App
 
@@ -276,13 +220,6 @@ Move to iOS is the official app developed by Apple to help users switch from an 
 
 ![android to iphone contacts transfer app - move to ios](https://images.wondershare.com/drfone/article/2018/01/15156708208549.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Contacts Transfer Backup Sync & Dialer: InTouchApp
 
 Ideally, the InTouchApp is a smart contact management tool that can be used to add “context” to your contact list. You can use it to describe your contacts, search them easily, set reminders, and more. You can also use InTouch as an Android to iPhone contacts transfer app since it supports cross-platform syncing.
@@ -295,13 +232,6 @@ Ideally, the InTouchApp is a smart contact management tool that can be used to a
 [Get it here](https://www.intouchapp.com/)
 
 ![android to iphone contacts transfer app - InTouchApp](https://images.wondershare.com/drfone/article/2018/01/15156708422050.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. SHAREit
 
@@ -319,20 +249,13 @@ Boasting an impressive number of over 1 billion downloads, SHAREit is one of the
 ![android to iphone contacts transfer app - shareit](https://images.wondershare.com/drfone/article/2018/01/15156708565360.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After learning about these top 5 Android to iPhone contacts transfer software, you can easily complete the Infinix Note 30 5G device transition without any data loss. Out of all the alternatives, we recommend Dr.Fone - Phone Transfer. It provides the fastest and most secure option to move your content directly from one device to another with a single click. Go ahead and give it a try to move from Infinix Note 30 5G to iPhone (iPhone 15 included) in a few minutes while keeping your data intact.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Transfer Contacts from Infinix Note 30 5G To Phone
 
@@ -341,13 +264,6 @@ When you get a new phone or switch between Android and iPhone, transferring cont
 In this article, we will move you through various effective methods on **how to copy contacts from phone to phone**. Also, we have provided the best software that will assist you in transferring contacts securely. After that, you can seamlessly continue communication with your family, friends, and colleagues.
 
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. One-Click Solution To Handle All Contacts Transfer Between iPhone and Android
 
@@ -371,13 +287,6 @@ First, you have to activate Wondershare Dr.Fone on your computer and navigate to
 
 ![choose phone transfer in toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 2. Designate the “Source” and “Destination” Devices
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the Infinix Note 30 5G device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the Infinix Note 30 5G devices.
@@ -400,13 +309,6 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1. Use NameDrop
 
 Apple has introduced a new feature in the latest iPhones named NameDrop. The feature allows you to share your contact card with another person by tapping the two iPhones together. The step-by-step guide to move contacts between iPhone and iPhone using “NameDrop" is below.
@@ -415,23 +317,9 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 ![place iphone near each other](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
 
 ![choose to share or receive contact](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
@@ -449,23 +337,9 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. 2 Methods To Transfer Contacts From Infinix Note 30 5G to iPhone
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Infinix Note 30 5G to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1. Sync Google Account
 
@@ -480,10 +354,10 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
@@ -502,6 +376,13 @@ This method simplifies transferring contacts from Infinix Note 30 5G to iPhone w
 
 ![share contacts from contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Now, on your iPhone, you need to open the email containing the “Contacts VCF” file from your Infinix Note 30 5G. Tap to open the attached file and choose the “arrow” icon on the top to select the "Share" option. Next, choose the "Contacts" app and tap the "Add All Contacts" option to save contacts on your iPhone.
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
@@ -509,6 +390,13 @@ This method simplifies transferring contacts from Infinix Note 30 5G to iPhone w
 ## Part 4. 2 Methods To Transfer Contacts from Infinix Note 30 5G to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1. Nearby Share
 
@@ -518,23 +406,9 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 ![access nearby share option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Infinix Note 30 5G and access the "Fix & manage" tab. Choose the "Export to file" option and select the Infinix Note 30 5G device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
 
@@ -543,13 +417,6 @@ Nearby Share is a feature available on Android devices that allows you to easily
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
 
 ![select the Infinix Note 30 5G device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2. Use Google Account
 
@@ -564,29 +431,15 @@ The Google account transfer method can also transfer between Android and Android
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1. Enable iPhone Sync Feature
 
@@ -596,13 +449,6 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 ![sync contacts with your gmail account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** You can select "Add Account,” tap “Google," and input your credentials if your account has not been added yet.
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Infinix Note 30 5G. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
@@ -610,16 +456,10 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Infinix Note 30 5G.
@@ -627,10 +467,10 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2. Import the VCF File
@@ -641,23 +481,9 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 ![locate contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Now,on your Infinix Note 30 5G, open “Chrome” browser and navigate to the "iCloud” site. Then, sign in to your iCloud account and tap the “Three Dots” icon in the browser. Afterward, select the "Desktop site" option among various other options.
 
 ![access icloud site on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-27.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Infinix Note 30 5G.
 
@@ -679,5 +505,26 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-prelude-playlists-navigating-auditory-sources-for-podcasts/"><u>[New] Prelude Playlists Navigating Auditory Sources for Podcasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-explore-infinite-artistic-possibilities-with-top-10-apps/"><u>[Updated] In 2024, Explore Infinite Artistic Possibilities with Top 10 Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-practices-in-selecting-premium-hdr-cameras-for-2024/"><u>Best Practices in Selecting Premium HDR Cameras for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/clockwise-conversions-transform-your-instagram-posts-through-rotation/"><u>Clockwise Conversions Transform Your Instagram Posts Through Rotation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-performance-post-update-resolving-persistent-chilling-problems-in-new-world/"><u>Enhanced Performance Post-Update: Resolving Persistent Chilling Problems in New World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-resolve-when-your-dvd-doesnt-play-in-windows/"><u>Fixing the Issue: How to Resolve When Your DVD Doesn't Play in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-t1-edition-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ (T1) Edition to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-lava-agni-2-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Lava Agni 2 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-redmi-k70e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Redmi K70E to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-note-12t-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi Note 12T Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-t2-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo T2 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-t2x-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo T2x 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100t to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-x5-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco X5 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-complexities-of-youtubes-subtitles-download-with-3-proven-techniques/"><u>In 2024, Navigating the Complexities of YouTube's Subtitles Download With 3 Proven Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725287860164-winxvideo-ai/"><u>WinxVideo AI系統普遍難處及其解決方案</u></a></li>
+</ul></div>
 

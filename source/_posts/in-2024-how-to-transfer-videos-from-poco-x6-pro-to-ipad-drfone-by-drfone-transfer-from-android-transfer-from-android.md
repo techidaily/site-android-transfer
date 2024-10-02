@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Videos from Poco X6 Pro to iPad | Dr.fone
-date: 2024-09-25T23:17:31.604Z
-updated: 2024-09-26T18:29:59.853Z
+date: 2024-09-29T19:51:27.658Z
+updated: 2024-10-02T20:13:23.508Z
 tags: 
   - transfer
 categories:
@@ -36,13 +36,6 @@ Nonetheless, a notable drawback of Move to iOS is its limitation to use only dur
 - **Step 1.** Turn on your iPad and follow the initial setup process until you reach the "Apps & Data" screen. Here, select the "Move Data from Android" option and move to an Android device.
 
 ![move data from android on ipad](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Launch and access the Move to iOS app on your Poco X6 Pro. Tap "Continue" and grant necessary permissions when prompted. You'll be asked to enter a code displayed on your iPad.
 
@@ -83,6 +76,13 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 - **Step 3.** Now, access the videos you uploaded from the Android device. Tap the ”Three Dots” icon on the video and choose the "Make available offline" option to complete the video transfer process.
 
 ![choose make available offline option](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: 2 Wired Methods To Transfer Videos From Poco X6 Pro to iPad
 
@@ -158,13 +158,6 @@ To use the app, install it on your android device first. The transfer process re
 
 ![move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Move to iOS app works on android version 4.0 or higher. You can transfer data to any iPhone in a relatively straightforward process. Also, beware that the Move to iOS will work only when setting up a new iPhone or iPad.
 
 Besides knowing what the content that Moves to iOS tool can transfer, you might be wondering how long the process can take. Depending on the content you want to transfer, the process generally takes around 10 – 30 minutes. However, other factors can determine the time the app will take to move content to iOS. They include the speed of the network, patency of the transmission process, and Wi-Fi stability.
@@ -230,6 +223,19 @@ Even though Move to iOS is a useful tool for android users willing to transfer c
 
 Most of the 'move to iOS' problems are related to Wi-Fi connection issues, android and iOS versions, space requirements, connection optimizers, and application issues. Nevertheless, you will need to find a solution to these problems to transfer your data successfully from android to iOS devices. This section will discuss possible solutions to the errors that occasionally appear when moving android data to iOS devices.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Restart both your devices
 
 Restarting your devices is the essential thing to do when troubleshooting the Move to iOS problems. It is a great way o eliminate minor issues during data transfer from android to iOS devices. The process can resolve the Move to iOS stuck on connecting to iPhone issues. A simple restart will eliminate the bugs and any cached error in the Poco X6 Pro devices.
@@ -263,13 +269,6 @@ Android devices with connection optimizers will switch between different connect
 ### Tip 8: Check the compatibility of your devices
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 9: Turn off battery optimization
 
@@ -324,6 +323,13 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![connect your Poco X6 Pros](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Select the types of data you want to transfer, then click on the 'start transfer' option to continue. Be careful not to disconnect the Poco X6 Pro devices until the process is complete.
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -333,25 +339,11 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 ## Conclusion
 
 Transferring data from android to iOS device has been made easier with the Move to iOS app. However, you need to consider the requirements for the data transfer process to complete successfully. You can also apply Dr. Fone – Phone Transfer as your recommended alternatives to transfer android data to the iOS device in the simplest way.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 Ways To Transfer Contacts From Poco X6 Pro to iPhone
 
@@ -397,9 +389,23 @@ The Move to iOS app is a dedicated solution provided by Apple. It is specificall
 
 ![tap move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Proceed by tapping “Continue” on both your devices and consenting to the terms and conditions. Follow it by tapping “Next” and insert the code from the iPhone to the Move to iOS app to establish a connection. From the available data transfer options, ensure to choose "Contacts." Now, follow the on-screen prompts to complete the transfer process.
 
 ![transfer contacts using move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 3: Sync Contacts to Google Account
 
@@ -413,16 +419,16 @@ Syncing contacts to a Google account serves as a convenient method. It can autom
 
 ![enable automatically backup and sync option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** Go to the “Settings” app and locate the “Contacts” settings. Proceed by scrolling to locate “Accounts” and then tap on it. Afterwards, choose “Add Account” and sign in with your Google Account. Once logged in, make sure to enable the “Contacts” option.
 
 ![enable the contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 4: Using the SIM Card
 
@@ -432,16 +438,16 @@ Transferring contacts using a SIM card provides a basic yet effective method. Th
 
 ![export contacts to sim](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** After it is done, insert the SIM card into the iPhone and open Settings. Move to "Contacts" and press "Import SIM Contacts" on the next screen to complete the process of moving contacts from a SIM card on an iPhone or email.
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 5: Sync Using iTunes/Finder
 
@@ -451,16 +457,22 @@ Syncing contacts from an Android device to an iPhone using iTunes or Finder is a
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Ensure the box beside "Sync Contacts with" is checked, then pick "Google Contacts" from the drop-down menu. Log in to your Google account and designate the contacts for synchronization. Tap "Apply" in the bottom right to initiate syncing your iPhone with your Google contacts.
 
 ![enable sync contacts with option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 6: Import the VCF File
 
@@ -506,18 +518,21 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-enrich-your-visuals-captions-on-the-go-in-instagram-for-2024/"><u>[New] Enrich Your Visuals Captions on the Go in Instagram for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ransforming-viewers-into-fans-with-top-yt-video-reacts/"><u>[New] Transforming Viewers Into Fans with Top YT Video Reacts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlocking-creative-potential-a-deep-dive-into-screenflow-for-mac/"><u>[Updated] 2024 Approved Unlocking Creative Potential A Deep Dive Into ScreenFlow for Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-advanced-methods-for-archiving-your-roblox-quests-on-mac/"><u>[Updated] Advanced Methods for Archiving Your Roblox Quests on Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-perfecting-your-voice-with-the-ultimate-guide-to-morphvox-modification-for-2024/"><u>[Updated] Perfecting Your Voice with the Ultimate Guide to MorphVOX Modification for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/craft-your-story-pace-with-instagrams-temp-control-feature-for-2024/"><u>Craft Your Story Pace with Instagram's Temp Control Feature for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-13-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 13 Activation Lock</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-magic-5-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor Magic 5 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x6-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X6 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-reno-9a-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Reno 9A Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-13-ultra-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi 13 Ultra to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a1-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A1 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-xr21-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia XR21 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-a-quick-guide-secure-your-instagram-stories-with-screen-record-for-2024/"><u>[New] A Quick Guide Secure Your Instagram Stories with Screen Record for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transforming-passive-browsing-into-active-participation-on-fb/"><u>[New] Transforming Passive Browsing Into Active Participation on FB</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-the-power-of-live-videos-on-facebook-for-2024/"><u>[Updated] Unlock the Power of Live Videos on Facebook for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-5-pro-audio-techniques-for-windows-10-users/"><u>2024 Approved 5 Pro Audio Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>2024 Approved A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-geforce-gtx-1080-graphics-card-drivers-for-windows-10-quick-and-simple/"><u>Download Nvidia GeForce GTX 1080 Graphics Card Drivers for Windows 10 - Quick & Simple</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-zte-axon-40-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from ZTE Axon 40 Lite to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-m6-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Poco M6 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y56-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y56 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-review-best-text-plugins-for-your-after-effects-projects/"><u>In 2024, A Review Best Text Plugins For Your After Effects Projects</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-play-8t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Play 8T via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-meizu-21-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Meizu 21 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17t-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17t to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s18-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S18 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-itel-p55-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Itel P55 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-pop-7-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Pop 7 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

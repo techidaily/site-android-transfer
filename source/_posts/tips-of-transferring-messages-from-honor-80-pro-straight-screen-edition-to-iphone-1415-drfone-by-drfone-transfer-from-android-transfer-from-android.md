@@ -1,7 +1,7 @@
 ---
 title: Tips of Transferring Messages from Honor 80 Pro Straight Screen Edition to iPhone 14/15 | Dr.fone
-date: 2024-09-24T19:18:57.886Z
-updated: 2024-09-27T10:53:02.490Z
+date: 2024-09-25T16:33:52.757Z
+updated: 2024-10-02T19:10:24.495Z
 tags: 
   - transfer
 categories:
@@ -61,6 +61,13 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Troubleshoot Why I Can’t Transfer Texts from Honor 80 Pro Straight Screen Edition to iPhone
 
 Even with the reliable methods mentioned earlier, there may be instances where you encounter difficulties in transferring texts from your Android to your iPhone. Don't worry; we've got you covered with solutions to common issues that might hinder a smooth transfer.
@@ -112,6 +119,19 @@ So for all those who want to know how to transfer contacts from Honor 80 Pro Str
 
 One of the most popular toolkit to transfer contacts from Honor 80 Pro Straight Screen Edition to Other Android Devices is the [Dr.Fone toolkit - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This is a revolutionary application for your entire backup and restores solutions. This application supports over 8000+ Android devices worldwide and with its advanced features, the application allows the user to take backup and restore by selecting their needs and requirements.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
@@ -130,6 +150,13 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 ![How to Transfer Photos from Honor 80 Pro Straight Screen Edition to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2. Connect both phones to PC and select "Photos"
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both devices between “source” and “Destination” by using the “Flip” button.
@@ -142,21 +169,7 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 ![How to Transfer Photos from Honor 80 Pro Straight Screen Edition to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
@@ -174,13 +187,6 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 ![Transfer data from Honor 80 Pro Straight Screen Edition to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Another method of checking is by opening the settings menu and tapping on the search icon. Type in “NFC”. If your phone is capable, it will show up. The NFC function works hand-in-hand with the android beam. NFC may not work at optimal levels if the android beam is “off”.
 
 To Transfer Photos from your old android device to a new android device, ensure both devices support NFC using the method explained above. Once this is confirmed, use the Android beam to access the photos you want to transfer to your new android device.
@@ -196,13 +202,6 @@ At this stage, both an audio sound and visual message will appear, acting as con
 Now, on your old android device, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
 
 ![Transfer Photos from Honor 80 Pro Straight Screen Edition to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To begin beaming, you must touch the screen on your old android device from where the photos are been sent. A sound will alert you that beaming has started.
 
@@ -272,19 +271,6 @@ To transfer contacts from Honor 80 Pro Straight Screen Edition to Other Android 
 
 ![select old device](https://images.wondershare.com/drfone/article/2017/05/14945045848700.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Now, Select the new device as ‘Receiving device”
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
@@ -310,10 +296,10 @@ Though, there are numerous ways to [switch to a new iPhone](https://drfone.wonde
 In this article, we are going to introduce 4 vital solutions to make your transition from Honor 80 Pro Straight Screen Edition to iPhone a smooth sail.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to transfer contacts from Honor 80 Pro Straight Screen Edition to iPhone XS/11 in one click
@@ -338,6 +324,13 @@ Well! After going through the amazing features of with Dr.Fone - Phone Transfer.
 Step 1:  Download Dr.Fone - Phone Transfer on your computer and then install it. Launch it after installation and hit on the ‘Phone Transfer’ tab on the Dr.Fone software interface.
 
 ![import contacts to iPhone XS/11 from android](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Now, connect both your Honor 80 Pro Straight Screen Edition and iPhone XS/11 to the computer using genuine USB cables.
 
@@ -375,22 +368,15 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Honor 80 Pro Straight Screen Edition to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. On your Honor 80 Pro Straight Screen Edition, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Honor 80 Pro Straight Screen Edition to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to transfer contacts from Honor 80 Pro Straight Screen Edition to iPhone XS/11 using Google account
@@ -411,6 +397,13 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to transfer contacts from Honor 80 Pro Straight Screen Edition to iPhone XS/11 using SIM card
 
 As you know the SIM card itself can hold a certain number of contacts, depending on the carrier and phone make and model.
@@ -419,6 +412,13 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
 ![transfer contacts from Honor 80 Pro Straight Screen Edition to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
 2. Now, open the SIM card slot of your Honor 80 Pro Straight Screen Edition and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
@@ -439,18 +439,18 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-exploring-earth-with-high-res-the-mi-drone-review/"><u>[New] In 2024, Exploring Earth with High Res The MI Drone Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-reimagining-posts-a-new-perspective-on-ig/"><u>[Updated] 2024 Approved Reimagining Posts A New Perspective on IG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>[Updated] In 2024, Broadcast Perfection Recommended Tech and Apps for YouTubers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-11-pros-of-perfect-color-balancing-mastery/"><u>2024 Approved 11 Pros of Perfect Color Balancing Mastery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-maximizing-video-quality-mastering-insta-to-mp4-conversion/"><u>2024 Approved Maximizing Video Quality Mastering Insta-to-MP4 Conversion</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-k11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo K11 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v30-lite-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V30 Lite 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-redmi-note-13-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi Redmi Note 13 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a05s-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A05s to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 VIP Racing Edition to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c110-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C110 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-most-frequent-blue-screen-hurdles/"><u>Overcoming the Most Frequent Blue Screen Hurdles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dive-into-the-dos-and-donts-of-youtube-beauty-channels-for-2024/"><u>[New] Dive Into the Do's and Don'ts of YouTube Beauty Channels for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-art-and-craft-of-podcast-storytelling/"><u>[Updated] 2024 Approved The Art and Craft of Podcast Storytelling</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-action-vision-top-7-4k-camera-selections/"><u>2024 Approved Ultimate Action Vision Top 7 4K Camera Selections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-3d-text-techniques-in-ai/"><u>Advanced 3D Text Techniques in AI</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/disabling-automated-podcast-suggestions-for-privacy/"><u>Disabling Automated Podcast Suggestions for Privacy</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-xr21-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia XR21 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-camon-20-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Camon 20 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-play-40c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Play 40C via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-asus-rog-phone-7-ultimate-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Asus ROG Phone 7 Ultimate To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-v30-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo V30 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x6-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X6 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/seamlessly-transform-videos-and-audios-into-any-format/"><u>Seamlessly Transform Videos & Audios Into Any Format</u></a></li>
 </ul></div>
 

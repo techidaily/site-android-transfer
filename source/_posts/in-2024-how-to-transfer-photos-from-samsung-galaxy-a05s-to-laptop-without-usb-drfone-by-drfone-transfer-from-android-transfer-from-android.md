@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Samsung Galaxy A05s to Laptop Without USB | Dr.fone
-date: 2024-09-23T05:52:12.420Z
-updated: 2024-09-27T04:51:25.252Z
+date: 2024-09-26T16:23:29.250Z
+updated: 2024-10-02T20:46:29.763Z
 tags: 
   - transfer
 categories:
@@ -51,13 +51,6 @@ Give your photos descriptive and unique filenames that reflect either their cont
 
 Copying photos from smartphones to laptops has become significantly more straightforward today than in the past. In fact, the entire data migration process can be completed within a few minutes. No need to resort to advanced interventions and external assistance. Just choose a particular tutorial below on how to transfer photos from your phone to your laptop without USB. Initiate each step carefully and complete the procedure in no time. Check out the list below to get started.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Transfer photos from phone to laptop using iCloud web
 
 If you're an Apple user, you can easily transfer photos from your phone to your computer via iCloud. Don’t worry. It’s a very simple data transfer procedure you can definitely complete with little to no effort. Here’s a short guide on how to transfer photos from your phone to your laptop without USB using iCloud.
@@ -87,18 +80,18 @@ Google Photos is simply the iCloud’s substitute for Android smartphone. Like i
 
 ![google photos backup](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Launch the **Browser** on your computer. Go to google.com.
 - **Step 3:** Click the **Nine-dotted** menu icon next to your profile. Make sure that you’re logged in to the same Gmail account you’re currently using on your smartphone.
 - **Step 4:** Choose **Photos.**
 
 ![chrome photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Click the images you want to save on your computer. From there, click the **Three-dotted** menu icon. Find and click **Download** or press **SHIFT + D** on your keyboard.
 
@@ -115,6 +108,13 @@ Does your laptop have a Bluetooth connectivity feature? If so, try to use it for
 - **Step 3:** Click **Share.**
 
 ![share photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Click **Bluetooth.** Select your computer from the list. Then, click on it. Wait for the transfer to be completed in a few seconds.
 
@@ -134,13 +134,6 @@ If you’re only sending a few photos to your laptop, emailing them from your sm
 ![download email photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-9.jpg)
 
 **NOTE:** How to copy files from your phone to your laptop without USB? This data migration technique also works in this regard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Transfer photos from phone to laptop using AirDrop
 
@@ -180,21 +173,22 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 
 ![wondershare dr.fone ios transfer progress](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Once completed, click **OK** to close the window.
 
 ![wondershare dr.fone ios transfer complete](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -218,13 +212,6 @@ You can save all data after switching from Samsung Galaxy A05s to Samsung S23. I
 Samsung Smart Switch may have features exclusive to Galaxy devices (among other limitations), but all methods let you transfer data seamlessly from Samsung Galaxy A05s to Samsung S23. Here’s how each works.
 
 The following methods will help you move data from Samsung Galaxy A05s to Samsung S23 within minutes. Each is straightforward, so your choice will depend on your preferences. Let’s dive in.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Transfer Data Using Wondershare Dr.Fone Phone Transfer
 
@@ -261,6 +248,13 @@ Here’s how to move data from Samsung Galaxy A05s to Samsung S23 with Smart Swi
 
 ![samsung smart switch options](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
 
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
@@ -289,6 +283,13 @@ Here’s how to transfer data to Samsung Galaxy S23 using Google Account synchro
 
 Everything you’ve previously backed up will automatically sync once you log into your Google Account.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Share Data via Bluetooth
 
 Bluetooth may be slower than most data-sharing methods, but its reliability is why we never have to imagine life without it. It may not support transferring settings or downloaded apps, but it’s excellent for moving all your photos, videos, music, and other files.
@@ -305,20 +306,13 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 ![transferring data via bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Use Google Drive
 
@@ -338,6 +332,13 @@ Transferring data from Samsung Galaxy A05s to Samsung S23 is seamless with Googl
 
 Google Drive may limit you to 15 GB of free storage, but it’s among the best Google apps for sharing files across devices. You may already use its desktop version to collaborate on docs and spreadsheets, so why not leverage its handy mobile app?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Transfer Data Using a USB Cable
 
 USB cables—the unsung heroes of connectivity. Like Bluetooth and Wi-Fi, we can’t imagine life without them. They’re perfect for transferring data between devices.
@@ -353,13 +354,6 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 2. Tap **Connected to Android**on your Galaxy S23 phone and select **MTP Host** (Media Transfer Protocol).
 
 ![establishing a usb connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Tap **Allow**on your old Android to enable data access.
 
@@ -422,16 +416,19 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-craft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[Updated] Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-obs-full-screen-glitch-resolution-dropped/"><u>[Updated] In 2024, Obs Full Screen Glitch Resolution Dropped</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x8b-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X8b to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s23-tactical-edition-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S23 Tactical Edition to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-k11-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo K11 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-find-x6-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo Find X6 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-v30-lite-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo V30 Lite 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-checklist-purging-backdrops-with-affinity-photo/"><u>In 2024, The Essential Checklist Purging Backdrops with Affinity Photo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-podcast-potential-the-ultimate-guide-to-seo-excellence/"><u>In 2024, Unleash Your Podcast Potential The Ultimate Guide to SEO Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-ai-on-the-go-browsing-with-agentgpt/"><u>Maximizing AI On-the-Go: Browsing with AgentGPT</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-to-editing-and-optimizing-instagram-footage/"><u>Step-by-Step Guide to Editing and Optimizing Instagram Footage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximize-online-revenue-monetizing-on-youtube-with-500plus-viewers/"><u>[New] In 2024, Maximize Online Revenue Monetizing on Youtube with 500+ Viewers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ranking-of-top-10-budget-friendly-video-calls-iphoneandroid/"><u>[New] In 2024, Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-techniques-for-text-overlays-in-video-platforms-vimeo/"><u>[New] In 2024, Techniques for Text Overlays in Video Platforms (Vimeo)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-is-active-setting-new-standards-in-screen-recording/"><u>[Updated] In 2024, Is Active Setting New Standards in Screen Recording?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/boost-your-content-with-top-notch-tiktok-video-edit-tricks-for-2024/"><u>Boost Your Content with Top-Notch TikTok Video Edit Tricks for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-s23-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy S23 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme 12 Pro+ 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-crafting-flawless-virtual-reality-gaming-archives/"><u>In 2024, Crafting Flawless Virtual Reality Gaming Archives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-note-30-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Note 30 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-gt-10-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix GT 10 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-professional-virtual-camera/"><u>Live Streaming Made Easy: Discover the Power of ManyCam - Professional Virtual Camera</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-frustrations-effective-solutions-for-recurring-fuser-software-failures-on-windows/"><u>Overcoming Frustrations: Effective Solutions for Recurring Fuser Software Failures on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-trailer-highlight-hodgepodge/"><u>Ultimate Trailer Highlight Hodgepodge</u></a></li>
 </ul></div>
 

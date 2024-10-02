@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Text Messages from Lenovo ThinkPhone to New Phone | Dr.fone
-date: 2024-09-22T18:26:14.635Z
-updated: 2024-09-26T16:09:56.861Z
+date: 2024-10-01T16:26:15.867Z
+updated: 2024-10-02T17:18:15.974Z
 tags: 
   - transfer
 categories:
@@ -38,13 +38,6 @@ Download this tool to try transferring text messages to the new phone. Here, I'd
 
 ## How to Transfer Text Messages to New Phone Step by Step
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1. Run this phone transfer tool on the computer
 
 To begin with, install and run Dr.Fone on the computer. The primary window will be shown on the computer screen. Click "Switch". This brings up the phone transfer window.
@@ -74,6 +67,13 @@ Transitioning from an Android to an iPhone can be an exciting move. However, the
 This article will delve into 6 effective ways to effortlessly migrate your contacts. It ensures a smooth transition without worrying about losing essential contacts. These step-by-step solutions will guide you through the process, simplifying the task.
 
 ![transfer contacts from android to iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Author Recommendation. The Best Method to Transfer Contacts from Lenovo ThinkPhone to iPhone**
 
@@ -111,13 +111,6 @@ The Move to iOS app is a dedicated solution provided by Apple. It is specificall
 
 ![tap move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Proceed by tapping “Continue” on both your devices and consenting to the terms and conditions. Follow it by tapping “Next” and insert the code from the iPhone to the Move to iOS app to establish a connection. From the available data transfer options, ensure to choose "Contacts." Now, follow the on-screen prompts to complete the transfer process.
 
 ![transfer contacts using move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-5.jpg)
@@ -129,13 +122,6 @@ Syncing contacts to a Google account serves as a convenient method. It can autom
 - **Step 1.** Access the Google Contacts app on your Lenovo ThinkPhone and tap on the “Profile” icon at the top right corner. Following this, access the "Contacts Settings" option followed by "Google Contacts sync settings."
 
 ![choose google contacts sync settings](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Next, you need to select "Also sync device contacts." On the following screen, ensure "Automatically back up & sync device contacts" is toggled on. Now, move to your iPhone and access the Settings app.
 
@@ -165,13 +151,6 @@ Syncing contacts from an Android device to an iPhone using iTunes or Finder is a
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Ensure the box beside "Sync Contacts with" is checked, then pick "Google Contacts" from the drop-down menu. Log in to your Google account and designate the contacts for synchronization. Tap "Apply" in the bottom right to initiate syncing your iPhone with your Google contacts.
 
 ![enable sync contacts with option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-12.jpg)
@@ -187,6 +166,13 @@ Importing a VCF file directly to your iPhone allows for a simple and direct tran
 - **Step 2.** Now move to your iPhone and open the mail with Contacts from the Android device. Press the attached file, choose "Share," select the "Contacts" app and tap "Add All Contacts."
 
 ![tap add all 3 contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Author Recommendation: The Best Method To Transfer Contacts From Lenovo ThinkPhone to iPhone
 
@@ -236,32 +222,26 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
     ![start the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select the **Source**device (Samsung) and your **Destination** device (Pixel 8/Pixel 8 Pro). You can also use the **Flip** option to switch the file transfer’s direction if you ever need to.
 
     ![select source and destination devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the types of data you want to transfer and hit the **Start Transfer**.
 
     ![select data types to copy](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. The progress bar will appear. You can click the **Cancel** button if you wish to pause the process.
 
@@ -273,6 +253,13 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 
 Once you see that the file transfer between your Samsung and Pixel 8/8 Pro devices has been completed, you can disconnect your phones from the PC and start using your new Pixel phone. You should then check if all the data has been transferred.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Transfer Data From Samsung to Google Pixel 8 and Pixel 8 Pro Using Wi-Fi
 
 Users who want to avoid downloading apps can use the built-in file transfer app instead. All Android phones include a data transfer tool that appears when setting up a new device. Using it is incredibly straightforward, and all you need to do is follow the on-screen instructions to initiate a file transfer between your old and new phone over Wi-Fi. Here’s how:
@@ -280,13 +267,6 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
 1. Power on your new Pixel phone and tap the **Get started**button during the initial setup. Choose to restore from an old phone.
 
     ![transfer data to new pixel device](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Connect the Lenovo ThinkPhone device to a Wi-Fi network.
 3. Choose the “**Can’t use old device**” option and sign in with your Google account.
@@ -339,6 +319,13 @@ Using a computer as an intermediary device for transferring files is another exc
 
 You’ll need to consider which types of files go into which folders. For example, you’ll need to ensure that music data goes into Android’s Music folder, pictures and videos go into Camera or DCIM folders, and documents and downloads have their respective folders, which are typical on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Copy Data From Samsung to Pixel 8 Pro via Quick Switch
 
 Another excellent option for transferring files to any Pixel phone is with Google’s Quick Switch adapters. These free OTG devices are included in every Pixel phone box and are designed to help you transfer data from an old phone to a new Pixel device.
@@ -359,16 +346,10 @@ Here’s what you’ll need to do:
 Before you start the file transfer process using a Quick Switch, you should ensure both devices are fully charged. Furthermore, you should also update your Samsung device to the latest software version to avoid potential transfer issues, such as data corruption or incomplete transfers.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Transfer Data From Samsung to Pixel Using Google Drive
@@ -386,6 +367,13 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 6. The new device will immediately recognize older backups.
 
     ![restore from a google drive backup](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Choose the latest backup made on your Samsung phone and tap **Restore**to copy data from Samsung to Pixel.
 
@@ -425,21 +413,20 @@ As you can see, it’s your safest bet, ensuring the most straightforward and fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-barely-there-to-top-rated-the-youtube-growth-arc/"><u>[New] From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-affordable-options-selecting-the-right-cam-for-your-needs/"><u>[New] In 2024, Affordable Options Selecting the Right Cam for Your Needs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mobile-mastery-secure-your-favorite-igtv-content-easily/"><u>[Updated] Mobile Mastery Secure Your Favorite IGTV Content Easily</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chortlecraft-customize-funny-digital-images/"><u>2024 Approved ChortleCraft Customize Funny Digital Images</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-video-editing-software-for-beginners-2022-top-list/"><u>Best Video Editing Software for Beginners 2022 Top List</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y27-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y27 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-g24-power-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola G24 Power to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-note-30-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Note 30 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v29e-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V29e without App | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-c67-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme C67 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-m6-pro-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco M6 Pro 4G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 7 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-dota-2-game-crashes-a-comprehensive-guide/"><u>Troubleshooting and Repairing Dota 2 Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-fixing-the-black-screen-of-death-on-iphones/"><u>Troubleshooting Tips for Fixing the 'Black Screen of Death' On iPhones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-create-meme-with-adobe/"><u>[New] 2024 Approved Create Meme with Adobe</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-thriving-in-the-digital-age-mastering-facebook-interaction-for-2024/"><u>[New] Thriving in the Digital Age Mastering Facebook Interaction for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-youtubes-comment-analysis/"><u>[Updated] Mastering YouTube's Comment Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>[Updated] Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-official-windows-driver-for-canon-mf7-grower-printers-now/"><u>Get the Official Windows Driver for Canon MF7 Grower Printers Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50s-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50S Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y28-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y28 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-s17-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo S17 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-2022-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone SE (2022) to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-beyond-clickbait-whats-real-about-instagram-reels/"><u>In 2024, Beyond Clickbait What's Real About Instagram Reels?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-8t-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 8T 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-lava-yuva-3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Lava Yuva 3 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-moto-g14-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola Moto G14 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-v30-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo V30 to iPod | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-7-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 7 Plus Making It Possible</u></a></li>
 </ul></div>
 

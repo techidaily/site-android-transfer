@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Text Messages from Nubia Red Magic 9 Pro to New Phone | Dr.fone
-date: 2024-09-21T08:23:07.671Z
-updated: 2024-09-27T11:13:35.544Z
+date: 2024-09-29T16:48:47.746Z
+updated: 2024-10-02T20:18:59.751Z
 tags: 
   - transfer
 categories:
@@ -51,13 +51,6 @@ To begin with, install and run Dr.Fone on the computer. The primary window will 
 
 **Note:** To transfer data to or from iPhone (iPhone 8 Plus, iPhone X supported), iPad and iPod, you should install iTunes on the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2. Connect your old and new phones to the computer
 
 As I mentioned above, Dr.Fone lets you export SMS on the old Nokia phone, Android phone and even iPhone, and then copy them to your new iPhone or Android phone. So, connect two phones to do the SMS transfer to the computer with USB cables. After detected, the old phone is shown on the left, named as the source phone, and the new Android phone or iPhone, the destination phone appears on the right.
@@ -66,25 +59,11 @@ Besides, "Flip" between two phones lets you change places of the two phones.
 
 ![connect devices to transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3. Transfer text messages to new phone
 
 Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other files, like contacts, music, and photos. Therefore, remove the marks before other files when you just want to move text messages to the new phone. Then, click "Start Transfer". Please never disconnect either phone before the transfer is done. When it's done, click "OK". That's all about how to transfer texts to a new phone.
 
 ![transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Solved] Move from Nubia Red Magic 9 Pro to iOS not Working Problems
 
@@ -94,18 +73,18 @@ To use the app, install it on your android device first. The transfer process re
 
 ![move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Move to iOS app works on android version 4.0 or higher. You can transfer data to any iPhone in a relatively straightforward process. Also, beware that the Move to iOS will work only when setting up a new iPhone or iPad.
 
 Besides knowing what the content that Moves to iOS tool can transfer, you might be wondering how long the process can take. Depending on the content you want to transfer, the process generally takes around 10 – 30 minutes. However, other factors can determine the time the app will take to move content to iOS. They include the speed of the network, patency of the transmission process, and Wi-Fi stability.
 
 ![android move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Move to iOS not working problem lists
 
@@ -151,13 +130,6 @@ The circumstances can be frustrating as the transfer process will not be complet
 
 ![move to ios not working](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 While the Move to iOS app can be easy to use, you need to know a couple of things before transferring.
 
 - Ensure the android and iOS device can connect to Wi-Fi
@@ -177,6 +149,13 @@ Most of the 'move to iOS' problems are related to Wi-Fi connection issues, andro
 
 Restarting your devices is the essential thing to do when troubleshooting the Move to iOS problems. It is a great way o eliminate minor issues during data transfer from android to iOS devices. The process can resolve the Move to iOS stuck on connecting to iPhone issues. A simple restart will eliminate the bugs and any cached error in the Nubia Red Magic 9 Pro devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 2: Clear all running apps
 
 It is recommended to avoid using the android device o run applications when using the Move to iOS app. Since the app runs in the foreground, you should ensure all other apps in the android are disabled before starting the data transfer process. Notifications and incoming calls are likely to interfere with the process; therefore, users must ensure such distraction is not happening by disabling such apps.
@@ -195,16 +174,16 @@ When you transfer android data to iOS using the Move to iOS tool, apple recommen
 
 The best way to ensure these distractions are not happening is to turn on airplane mode on the android device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 6: Check the storage requirement
 
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 7: Disable the connection optimizer
 
@@ -213,6 +192,13 @@ Android devices with connection optimizers will switch between different connect
 ### Tip 8: Check the compatibility of your devices
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 9: Turn off battery optimization
 
@@ -250,6 +236,13 @@ You need to login to your iCloud account on android to download data, or you can
 
     ![wait for the process](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Wait for the data transfer process to complete.
 
 To transfer content from your iPhone to Android device directly, open Dr. Fone – Phone Transfer on android and tap 'import from a USB cable.' Use the iOS-to-android cable to connect your iOS and Android devices.
@@ -267,6 +260,13 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![connect your Nubia Red Magic 9 Pros](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Select the types of data you want to transfer, then click on the 'start transfer' option to continue. Be careful not to disconnect the Nubia Red Magic 9 Pro devices until the process is complete.
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -275,19 +275,6 @@ The following steps will help you transfer data from android to an iOS device us
 - All the data you selected will be transferred successfully in a few minutes.
 
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
@@ -304,10 +291,10 @@ Let's simplify the process of transferring your photos and keep your precious mo
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/84HUpsWS7A4"></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Transfer Photos from Nubia Red Magic 9 Pro to iPhone in One Click?
@@ -315,6 +302,13 @@ Let's simplify the process of transferring your photos and keep your precious mo
 If you are confused over which method you should choose for transferring photos from Nubia Red Magic 9 Pro to iPhone, then compare the quality and the quickness of the selected mode. Well, to be frank, the tool that qualifies all these criteria is the Dr.Fone toolkit, which is a comprehensive solution that is well designed to tackle all mobile-related issues and tasks.
 
 Dr.Fone is perfect because you can transfer across multiple devices regardless of OS. As an example, if you want to transfer photos from Nubia Red Magic 9 Pro to iPad /iPhone and vice versa, it can be done quickly by following two ways as mentioned below:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1.1 One-click to Transfer Photos from Nubia Red Magic 9 Pro to iPhone using Dr.Fone - Phone Transfer
 
@@ -330,20 +324,22 @@ Dr.Fone is perfect because you can transfer across multiple devices regardless o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Honor X7b</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-netgear-wifi-card-software-for-smooth-connectivity/"><u>Get the Latest NETGEAR Wifi Card Software for Smooth Connectivity</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-common-problems-with-twitch-livestreams-discover-our-top-7-tips/"><u>How to Fix Common Problems With Twitch Livestreams - Discover Our Top 7 Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-x-fold-2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo X Fold 2 phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-a2plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi A2+ to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-smart-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Smart 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-v30-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo V30 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-40c-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 40C To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-phantom-v-fold-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Phantom V Fold to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-t2-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo T2 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-k11x-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo K11x to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/navigate-and-utilize-your-phone-easily-with-the-latest-addition-to-windows-11s-quick-access-options/"><u>Navigate and Utilize Your Phone Easily with the Latest Addition to Windows 11'S Quick Access Options!</u></a></li>
-<li><a href="https://win11.techidaily.com/sync-windows-display-avoiding-overscan-limitations/"><u>Sync Windows Display: Avoiding Overscan Limitations</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>The Best Wedding Stories Online YouTube + Vimeo's Selection (8)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-mts-video-editing-top-5-software-for-2024/"><u>The Ultimate Guide to MTS Video Editing Top 5 Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub/"><u>[New] 2024 Approved From Play to Pro Setting up a PS4 Game Broadcast Hub</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dynamic-backdrop-customization-in-teammate-windows-prepost-calls/"><u>[New] Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>[Updated] In 2024, Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-dedication-rejecting-unfair-help-from-ai/"><u>Academic Dedication: Rejecting Unfair Help From AI</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-video-layouts-vertical-or-horizontal-in-2024/"><u>Facebook Video Layouts Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-install-the-latest-logitech-g13-gamepad-software-update/"><u>Free Download: Install the Latest Logitech G13 Gamepad Software Update</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a2-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A2 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-m6-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco M6 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-z-fold-5-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy Z Fold 5 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Civi 3 Disney 100th Anniversary Edition to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c12-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia C12 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-lava-yuva-3-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Lava Yuva 3 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic-6-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic 6 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-v30-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme V30 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bite-sized-narrative-notation/"><u>In 2024, Bite-Sized Narrative Notation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g14-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G14 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-valhalla-vanguard-gods-clash-in-ragnarok/"><u>In 2024, Valhalla Vanguard Gods Clash in Ragnarok</u></a></li>
 </ul></div>
 

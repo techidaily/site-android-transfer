@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Vivo Y100i to Gmail | Dr.fone
-date: 2024-09-07T16:13:16.566Z
-updated: 2024-09-08T16:13:16.566Z
+date: 2024-10-01T16:13:38.866Z
+updated: 2024-10-02T18:13:38.046Z
 tags: 
   - transfer
 categories:
@@ -24,14 +24,6 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Vivo Y100i contact details to another platform.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 One-Stop Solution to Sync Contacts from Vivo Y100i to Gmail
@@ -52,12 +44,6 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
@@ -74,32 +60,14 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Sync Contacts from Vivo Y100i to Gmail? (Official Way)
 
 There is also a way whereby you can sync your contacts to your Gmail account on Android using just Your Vivo Y100i. You can do this simply by following these steps:
@@ -111,23 +79,18 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
 ## Part 3. Other Ways to Backup Android Contacts
@@ -196,23 +159,16 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Vivo Y100i to Gmail.
 
-
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Photos from Vivo Y100i to New Android?
 
 [![James Davis](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The phone industry, for years, has constantly improved on the design and development of mobile phones being released into the market. One of the major developments is the introduction of the camera to mobile phones. The ease of carriage and portability has made mobile phone cameras a preference over digital cameras. As a result we are witnessing more pictures taken with the aid of a phone. This also means most of these photos are stored on the phone memory.
 
@@ -224,7 +180,12 @@ One way of moving your photos between android devices is through the use of file
 
 Using file transfer software to move your photos from one android device to another android device provides a secure and sure transfer window, ensuring your files won’t be lost. Reliable software you can use for this purpose is the [**Dr.Fone - Phone Transfer**](https://tools.techidaily.com/wondershare/drfone/phone-switch/) software. Dr.Fone - Phone Transfer file transfer software is topnotch and user friendly. This article will carefully lead you through the process of using this software.
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -257,33 +218,16 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 ![How to Transfer Photos from Vivo Y100i to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2. How to Transfer Photos from Vivo Y100i to New Android Using NFC
 
 ![Transfer Photos from Vivo Y100i to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Near Field Communication(NFC) is a technology that supports Android Beam and is ideal for transferring data between android devices by just pressing their backs together. It is a fast and simple program that requires both devices to NFC-capable. This means they are able to communicate with each other when their fields are near. This communication is made possible through radio frequencies. Most devices have NFC hardware integrated underneath their panel.
 
 NFC can be found in almost every android device. In the past, it was easy to identify devices with NFC as such devices usually had NFC printed somewhere in the back of the Vivo Y100i devices, most tines on the battery pack. But since most android devices don’t have a removable back, there is an alternative to checking if your device is NFC enabled.
@@ -292,12 +236,6 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 ![Transfer Photos from Vivo Y100i to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
 ![Transfer data from Vivo Y100i to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
@@ -312,12 +250,6 @@ To Transfer Photos from your Vivo Y100i to a new android device, ensure both dev
 
 ![Transfer Photos from Vivo Y100i to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
 4\. Now, on your Vivo Y100i, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
@@ -350,18 +282,6 @@ A message will pop up on your new android device, requesting permission to pair 
 
 ![How to Transfer Photos from Vivo Y100i to Other Android Devices by Bluetooth](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Transfer Photos from Old to New Android Phones via Device-Specific App
 
 **Samsung Smart Switch**
@@ -377,6 +297,13 @@ The Samsung smart switch software helps to Transfer Photos either by cable or wi
 3\. On the old Samsung device, select the data to be transferred to the new Samsung device. When you are done with this, your phone will notify the size and time length of the transfer.
 
 ![How to Transfer Photos from Vivo Y100i to Other Android Devices by Smart Switc-Start Transfer by Smart Switch](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Thereafter, click on “Send” to begin the transfer of data from on device to the other.
 
@@ -400,30 +327,10 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 
 ![How to Transfer Photos from Vivo Y100i to Other Android Devices by Huawei Suite](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-huaweisuite.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
 ## How to Transfer Contacts from Vivo Y100i to Other Android Devices Using Bluetooth?
 
 One of the first and the most important things people care about while upgrading their phones today is how to transfer contacts from one phone to another phone. 2022 has just begun, new devices from smartphone companies are coming in and one of the most anticipated of them is Samsung Galaxy S22 series that is rumored to launch just this February. For some, the upgrade fever is coming on! And, it pays to be prepared in advance. If you are going to be upgrading your old Android to one of the fancy new Android smartphones soon, you are in the right place. You will learn how to transfer contacts from the old device to the new one easily and smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part I: How to Transfer Contacts from Vivo Y100i to Other Android Devices via Bluetooth?
 
 This method works if you are not trading in your old smartphone to offset the cost of the new, as to transfer contacts from one Android smartphone to another using Bluetooth you will require both devices present and in close proximity, a few feet away at best. There are advantages to transferring contacts using Bluetooth, such as no need for using the internet, going through any other hoops, or opening special apps! Everything you need to share contacts from one Android phone to another is built right into your phone! Now, to transfer contacts from one Android smartphone to another using Bluetooth, you must first pair the two devices together so as to allow for seamless contacts transfer.
@@ -440,6 +347,19 @@ Step 3: If everything is done correctly, both devices will show themselves to ea
 
 ![enable bluetooth](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Tap the other device on either of them. Here, the Moto G4 Play was tapped on OnePlus Nord 2:
 
 ![initiate pairing process on either device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-2.jpg)
@@ -449,6 +369,13 @@ Step 5: A prompt to pair with the new phone will come on the other device as wel
 Step 6: After pairing is complete, both devices will show under paired devices on each other:
 
 ![old device showing paired android](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 And that’s how simple it is to pair devices to each other using Bluetooth!
 
@@ -462,24 +389,12 @@ Step 2: Tap the vertical ellipses and select Import/ Export.
 
 ![export contacts from old android to new](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This particular option can vary by your phone model and Android flavor, this is on Android 7 running on Motorola G4 Play. If you are unable to find a way to select contacts or share contacts in the Phone app on your phone, use the Contacts app on your phone for the same effect.
 
 Step 3: A popup will emerge:
 
 ![select share all contacts to transfer contacts](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Select Share All Contacts.
 
 Step 4: When you do that, this will come up:
@@ -492,12 +407,6 @@ Step 5: Choose the paired handset, in this case, the OnePlus Nord 2:
 
 ![select paired device to transfer to](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 6: The VCF file will be exported to Nord 2 and you can accept it on the Nord 2 (new device).
 
 ![receive contacts on new device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-8.jpg)
@@ -508,12 +417,6 @@ And that is how to transfer contacts from an Android smartphone to another using
 
 What are other ways to transfer contacts from one Android smartphone to another? Glad you asked. Because there are other ways to transfer contacts from an Android smartphone to another that do not use Bluetooth and can be both seamless and more powerful than the Bluetooth method, depending on your tastes and needs.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.I: Sync Contacts Using Google Account
 
 This is another method to transfer your contacts on one Android device and restore them on another Android device. Here’s how to transfer contacts from one Android smartphone to another using Google Sync:
@@ -528,18 +431,6 @@ Step 4: Make sure that there is a checkmark next to Contacts, or, in other words
 
 ![enable contacts sync in google account settings](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now, Google will sync your contacts from the Vivo Y100i device onto the cloud, and your new device signed into the same Google Account will automatically download the contacts.
 
 ### II.II: Transfer Contacts from An Android Smartphone To Another Using Manufacturer Apps
@@ -574,12 +465,6 @@ It must be noted that there is one binding limitation with such apps - these app
 
 In that regard, using a third-party solution such as Dr.Fone allows you complete freedom to do whatever you want and whenever you want, and even so, Dr.Fone is a great tool to have in one’s arsenal to use every day. How? Because not only does Dr.Fone allow you to transfer contacts from one Android device to another, you have complete freedom to mix the Vivo Y100i devices in all possible ways. So, if you want to transfer from Samsung to Xiaomi, you can do that. You want to transfer from Xiaomi to Samsung, Dr.Fone does that. Transfer from Apple iPhone to Xiaomi? Yes! Xiaomi or Samsung to Apple iPhone? You bet, all supported! And with a clean, easy-to-use interface that does the job quickly and safely.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.III: Transfer Contacts from Vivo Y100i to Other Android Devices Using Dr.Fone - Phone Transfer
 
 ### Video Tutorial: How to Transfer Data from Vivo Y100i to Other Android Devices
@@ -600,16 +485,17 @@ Step 2: Launch Dr.Fone
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Select the Phone Transfer module and connect your Vivo Y100is to the computer
 
 ![phone transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 4: When the Vivo Y100i devices are connected, select the Contacts category to transfer and click Start Transfer. Within seconds, your contacts will be transferred to the new device.
 
 ![transfer complete](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
@@ -619,7 +505,6 @@ That’s it! It is that easy. Connect your devices, select what to transfer, cli
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 Transferring contacts from one Android to another Android can be done in two broad ways. One is to transfer contacts from an Android smartphone to another using Bluetooth, which means you can transfer between any smartphone easily and whenever you wish to, without limitations such as which manufacturer the smartphone belongs to. But, how about some more control over what you transfer? If you do not want to use Bluetooth, there is the other way to simply enable Sync in your Google Account, post which your contacts will be uploaded to your Google Account and downloaded to your other device. Or, when you want to do more than transfer, or when you want to have the convenience of doing things from your computer, you have a third way, where you can use Dr.Fone with the Phone Transfer module that lets you select what to transfer, and importantly, lets you transfer between manufacturers easily. So you want to transfer from Vivo Y100i to iPhone, you can do that. You want to transfer from an Android smartphone to another, you can do that. You want to transfer contacts and other data from one manufacturer to another, you can do that. All in just three steps - connect, select, click.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -633,5 +518,21 @@ Transferring contacts from one Android to another Android can be done in two bro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-usb-c-revolution-with-lgs-ultra-hd-tv-the-27ud88/"><u>[New] In 2024, USB-C Revolution with LG's Ultra HD TV, the 27UD88</u></a></li>
+<li><a href="https://fox-links.techidaily.com/advanced-3d-text-techniques-in-ai-for-2024/"><u>Advanced 3D Text Techniques in AI for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s23-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S23 Ultra to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p55-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Itel P55 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-10t-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme 10T 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-13t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi 13T to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nokia-c02-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nokia C02 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>In 2024, Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-your-mac-techniques-to-remove-green-screen-effects/"><u>In 2024, Streamlining Your Mac Techniques to Remove Green Screen Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>In 2024, Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-govee-triad-multi-colored-floodlights-highly-adaptable-outdoor-lighting-at-a-considerable-price-point/"><u>In-Depth Analysis of Govee Triad Multi-Colored Floodlights: Highly Adaptable Outdoor Lighting at a Considerable Price Point</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cannot-connect-to-server-in-apexs-lost-ark-expert-tips-and-fixes/"><u>Solving 'Cannot Connect to Server' In APEX's 'Lost Ark': Expert Tips and Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-guide-to-saving-live-periscope-broadcasts/"><u>The Complete Guide to Saving Live Periscope Broadcasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-entertainment-12-live-screening-suite/"><u>Ultimate Entertainment 12 Live Screening Suite</u></a></li>
+</ul></div>
 

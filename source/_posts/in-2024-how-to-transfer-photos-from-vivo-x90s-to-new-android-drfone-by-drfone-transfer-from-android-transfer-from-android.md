@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Vivo X90S to New Android? | Dr.fone
-date: 2024-09-21T09:39:56.090Z
-updated: 2024-09-27T14:49:34.383Z
+date: 2024-09-28T17:16:55.868Z
+updated: 2024-10-02T17:15:58.721Z
 tags: 
   - transfer
 categories:
@@ -68,6 +68,13 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 ![Transfer Photos from Vivo X90S to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
 ![Transfer data from Vivo X90S to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
@@ -82,13 +89,6 @@ To Transfer Photos from your Vivo X90S to a new android device, ensure both devi
 
 ![Transfer Photos from Vivo X90S to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
 4\. Now, on your Vivo X90S, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
@@ -100,6 +100,13 @@ To begin beaming, you must touch the screen on your Vivo X90S from where the pho
 To ensure a successful transfer, make sure devices are not locked neither should the screen be turned off. Also both devices should be kept back-to-back throughout the duration of the transfer.
 
 5\. Finally, when the beaming is complete, you will hear an audio sound. This is to confirm completion of the process. Alternatively, instead of an audio confirmation, the application on your new android device to which the photos were sent will automatically launch and display the beamed content.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Transfer Photos between Android Phones by Bluetooth
 
@@ -158,19 +165,6 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 3\. Click on “Restore” to retrieve data from previous backups after selecting the backup file you want.
 
 ![How to Transfer Photos from Vivo X90S to Other Android Devices by Huawei Suite](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-huaweisuite.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Transfer Contacts from Vivo X90S to Other Android Devices Devices?
 
@@ -240,6 +234,13 @@ Next, place both devices against each other, back to back.
 
 ![Transfer Photos from Vivo X90S to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
 Now, on your old android device, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
@@ -255,10 +256,16 @@ Finally, when the beaming is complete, you will hear an audio sound. This is to 
 Now, we’ll discuss how to transfer contacts from one Android to another with the help of a SIM card.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to transfer contacts from Vivo X90S to Other Android Devices using SIM card?
@@ -279,16 +286,16 @@ Now, pull the SIM card out and insert in on your new device.
 
 ![import from sim card](https://images.wondershare.com/drfone/article/2017/05/14945040941310.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Advantages: This process is easy to use and can be done without any PC.
 
 Disadvantage: It can only transfer the contacts up to the SIM capacity that is 200 to 250 in one time. If you have lots of contacts, it is impossible to transfer by this method.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to transfer contacts from Vivo X90S to Other Android Devices using Bluetooth or Wi-Fi Direct?
 
@@ -308,6 +315,13 @@ The steps:
 
 ![wifi direct](https://images.wondershare.com/drfone/article/2017/05/14945041942239.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This method is simple and easy to use.
 
 There is yet another method to transfer contacts from Vivo X90S to Other Android Devices using Samsung’s own app “Smart Switch”.
@@ -315,13 +329,6 @@ There is yet another method to transfer contacts from Vivo X90S to Other Android
 Advantage: This is a very fast process.
 
 Disadvantage : Sometimes the contacts are not saved automatically. You have to open the name card file one by one to save them. If you have a lot of contacts, this process is very hectic and lengthy.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to transfer contacts from Vivo X90S to Other Android Devices using Samsung Smart Switch?
 
@@ -338,13 +345,6 @@ To transfer contacts from Vivo X90S to Other Android Devices via this app, follo
 3\. Now, Select the new device as ‘Receiving device”
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Now connect with your old device by opening the app on your old Android mobile. This will prompt to enter the pin number as displayed. Enter the same and hit “Connect” to start the process.
 
@@ -425,15 +425,22 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Vivo X90S to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. On your Vivo X90S, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Vivo X90S to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to transfer contacts from Vivo X90S to iPhone XS/11 using Google account
@@ -445,13 +452,6 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 1. Go to your Vivo X90S and go to the ‘Accounts’ tab and enable syncing of contacts. ‘Settings’ > ‘Accounts’ > ‘Google’ > Turn on ‘Contacts’ switch > tap on ‘3 vertical dots’ > ‘Sync Now’.
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
@@ -489,21 +489,19 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-convert-songs-to-calls-essential-websites-for-youtubetones-extraction/"><u>[New] 2024 Approved Convert Songs to Calls Essential Websites for YoutubeTones Extraction</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[New] In 2024, Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-youtube-video-trailers-with-filmoras-guide/"><u>[Updated] 2024 Approved Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>[Updated] Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-srt-education-and-resources/"><u>2024 Approved Comprehensive SRT Education and Resources</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unleash-the-power-of-words-how-to-enchant-tinder-users-with-a-bio/"><u>2024 Approved Unleash the Power of Words How to Enchant Tinder Users with a Bio</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-htc-u23-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from HTC U23 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-x-fold-2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo X Fold 2 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-magic-5-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Magic 5 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic5-ultimate-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic5 Ultimate via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-a54-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy A54 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-z60-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-camon-20-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Camon 20 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-shutdown-of-windows-privacy-tools/"><u>Navigating the Shutdown of Windows Privacy Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y100a-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y100A Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mapping-social-interest-to-video-idea-generation-with-google/"><u>[New] In 2024, Mapping Social Interest to Video Idea Generation with Google</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-prime-capture-device-your-ally-in-youtube-ventures-for-2024/"><u>[Updated] Prime Capture Device Your Ally in YouTube Ventures for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-savvy-gaming-windows-10-video-capture-tactics-for-2024/"><u>[Updated] Tech-Savvy Gaming Windows 10 Video Capture Tactics for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-magic-of-moonlight-iphonely-for-2024/"><u>Capture the Magic of Moonlight iPhonely for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view-in-2024/"><u>Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View, In 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-12-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 12 Pro 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-mix-fold-3-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi Mix Fold 3 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-s18-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo S18 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-100-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor 100 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-directing-youtube-and-twitter-videos-via-whatsapp-messages/"><u>In 2024, Directing YouTube & Twitter Videos via WhatsApp Messages</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-x7b-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor X7b to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professionelle-verbesserung-mit-hilfe-digitaler-zwillingsmodelle-fur-ihr-unternehmen/"><u>Professionelle Verbesserung Mit Hilfe Digitaler Zwillingsmodelle Für Ihr Unternehmen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976855446-steelseries-engine-download-upgrade-your-pc-gaming-on-windows-10-today/"><u>SteelSeries Engine Download: Upgrade Your PC Gaming on Windows 10 Today</u></a></li>
 </ul></div>
 
