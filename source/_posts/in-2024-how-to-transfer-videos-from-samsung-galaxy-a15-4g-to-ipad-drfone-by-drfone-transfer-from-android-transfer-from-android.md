@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Videos from Samsung Galaxy A15 4G to iPad | Dr.fone
-date: 2024-09-29T18:53:44.450Z
-updated: 2024-10-02T16:51:04.479Z
+date: 2024-10-04T03:35:45.973Z
+updated: 2024-10-08T03:22:43.434Z
 tags: 
   - transfer
 categories:
@@ -76,6 +76,13 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 
 Having explored wireless methods, let's shift our focus to wired methods. Wired connections provide a reliable and direct approach to data transfer. They ensure stability and potentially faster speeds compared to wireless alternatives. Here, we'll explore two wired methods that use physical connections to **transfer videos from Samsung Galaxy A15 4G to iPad**:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Wondershare Dr.Fone
 
 Regarding phone management tools, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the best. Using the tool, you can easily transfer videos and other data selectively or in bulk. It is compatible with over 8000 smartphones across brands and operating systems. The following are two ways **on how to share movies from Samsung Galaxy A15 4G to iPad** via Wondershare Dr.Fone:
@@ -126,13 +133,6 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 
 ![add file or folder to itunes library](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Connect your computer to the iPad using a USB cable to enable iTunes recognition of your iPad. Click on the iPad icon positioned at the top-left corner of iTunes. Next, navigate to the "Movies" tab located in the left sidebar to continue the process.
 
 ![choose the movies option](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-16.jpg)
@@ -140,6 +140,20 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 - **Step 4.** Select the "Sync Movies" option by checking the corresponding box and pick out the specific videos you wish to move to your iPad. Afterward, proceed by clicking the "Apply" button to commence the transfer process of the chosen videos from iTunes to your iPad.
 
 ![press the apply button](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -174,13 +188,6 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 
     ![start the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the **Source**device (Samsung) and your **Destination** device (Pixel 8/Pixel 8 Pro). You can also use the **Flip** option to switch the file transfer’s direction if you ever need to.
 
     ![select source and destination devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
@@ -193,9 +200,23 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 
 ![data transfer progress bar](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. You’ll be notified when the process is complete. Tap **OK**.
 
     ![finishing the data transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you see that the file transfer between your Samsung and Pixel 8/8 Pro devices has been completed, you can disconnect your phones from the PC and start using your new Pixel phone. You should then check if all the data has been transferred.
 
@@ -230,13 +251,6 @@ If you don’t want to transfer files over a Wi-Fi network, don’t want to wast
 
     ![copy apps and data to pixel](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Connect the USB cable between your old Samsung and new Pixel 8/8 Pro phones and tap **Next**.
 5. Confirm data transfer on your old phone, select what you want to transfer, and hit **Copy**.
 
@@ -256,6 +270,13 @@ Using a computer as an intermediary device for transferring files is another exc
 4. Select the files and folders you want to copy and transfer them to a new folder on your PC. You can then go through these files on your PC, delete what you don’t need, and organize everything before transferring the data to your new Pixel 8 device, but this is optional.
 
     ![copy data to the pc](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Disconnect the old phone from the computer.
 6. Connect your new Pixel phone to the PC.
@@ -284,6 +305,13 @@ Here’s what you’ll need to do:
 
 Before you start the file transfer process using a Quick Switch, you should ensure both devices are fully charged. Furthermore, you should also update your Samsung device to the latest software version to avoid potential transfer issues, such as data corruption or incomplete transfers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Transfer Data From Samsung to Pixel Using Google Drive
 
 Being an Android user requires a Google account, granting you access to 15 GB of free storage space on Google Drive, making the app an excellent way to transfer files from your old phone to your new one. Here’s how you can use it:
@@ -299,6 +327,13 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 6. The new device will immediately recognize older backups.
 
     ![restore from a google drive backup](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Choose the latest backup made on your Samsung phone and tap **Restore**to copy data from Samsung to Pixel.
 
@@ -360,25 +395,11 @@ Transfer Photo from Samsung Galaxy A15 4G to iPhone in 1 Click Directly!
 
 ![connect both android devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5\. Now, you can select the kind of data that you wish to transfer from one device to another.
 
 6\. Click on the “Start Transfer” button to clone Android phone.
 
 ![transfer data from android to android](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7\. Sit back and wait for a while as the application will transfer the selected content from one device to another. Make sure that both devices stay connected to the computer.
 
@@ -436,13 +457,6 @@ Download CLONEit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 
 ![clone android phone with cloneit](https://images.wondershare.com/drfone/article/2017/11/15115451102601.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Clone Android phone using Phone Clone
 
 Huawei has also developed a dedicated app – Phone Clone to transfer the data from one Android device to another wirelessly. In this way, you don’t have to set up multiple accounts Android for every phone you buy. The app supports a fast and extensive cloning option with a user-friendly interface. To make your new device an Android clone, follow these steps:
@@ -454,13 +468,6 @@ Download Phone Clone: <https://play.google.com/store/apps/details?id=com.hicloud
 2\. After launching the app on the new phone, mark it as a receiver. This will turn your phone into a Wi-Fi hotspot.
 
 ![launch phone clone app](https://images.wondershare.com/drfone/article/2017/11/15115448054431.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Go to the app on the source device and mark it as a sender. It will start looking for the available Wifi networks.
 
@@ -506,13 +513,6 @@ Using Bluetooth for cloning an Android phone is not the most efficient method. I
 
 ![use the bluetooth feature](https://images.wondershare.com/drfone/article/2023/10/clone-android-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### 1\. Is Android phone clone safe?
@@ -547,22 +547,22 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-prime-lineup-of-affordable-cutting-tools/"><u>[New] 2024 Approved Discover the Prime Lineup of Affordable Cutting Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-instantly-boost-youtube-performance-master-render-and-upload/"><u>[New] In 2024, Instantly Boost YouTube Performance - Master Render and Upload</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726224986267-video-converter/"><u>即時轉換影片:最佳行動式Video Converter選擇</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/directly-downloading-videos-from-vevo-a-step-by-step-guide/"><u>Directly Downloading Videos From Vevo: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-reasons-driving-the-switch-to-ev-technology/"><u>Exploring the Reasons Driving the Switch to EV Technology</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-corsair-icue-now-free-download-for-windows-11-and-10/"><u>Get Corsair iCUE Now: Free Download for Windows 11 & 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g-5g-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G 5G (2023) to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro+ to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-note-30-vip-racing-edition-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Note 30 VIP Racing Edition to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y27-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y27 4G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-huawei-nova-y71-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Huawei Nova Y71 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-poco-x6-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Poco X6 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100i-power-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100i Power 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>In 2024, Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/koupiti-editovat-video-cesky/"><u>Koupiti | Editovat Video - Česky</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-pixel-queens-rising-youtubes-top-10/"><u>[New] In 2024, Pixel Queens Rising YouTube's #Top 10</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-top-10-hilarious-tweets-galore-for-2024/"><u>[New] Top 10 Hilarious Tweets Galore for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-fundamentals-of-assembling-photos-into-art/"><u>[Updated] 2024 Approved The Fundamentals of Assembling Photos Into Art</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fires-sound-alteration-tactics/"><u>[Updated] Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://facebook.techidaily.com/decembers-silence-on-instagram-thread-activity/"><u>December's Silence on Instagram Thread Activity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-sound-separation-tool-how-to-isolate-and-download-audio-from-videos/"><u>Easy Sound Separation Tool: How to Isolate and Download Audio From Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-htc-u23-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from HTC U23 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-open-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Open to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S17t to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-100-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor 100 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-magic-5-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor Magic 5 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-x50i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor X50i Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-3-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT 3 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Infinix Note 30 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-magic-5-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor Magic 5 FRP Without Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sideways-instagram-videos-an-enigma-or-bug-for-2024/"><u>Sideways Instagram Videos An Enigma or Bug for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tips of Transferring Messages from OnePlus Nord CE 3 5G to iPhone 14/15 | Dr.fone
-date: 2024-09-27T19:07:11.698Z
-updated: 2024-10-02T20:00:32.855Z
+date: 2024-10-06T03:19:05.100Z
+updated: 2024-10-07T20:10:07.162Z
 tags: 
   - transfer
 categories:
@@ -51,13 +51,6 @@ Packed with a user-friendly interface, this software streamlines the process, en
 - **Step 1:** Open Wondershare Dr.Fone from its [official website](https://tools.techidaily.com/wondershare/drfone/phone-switch/), and find the phone transfer tool.
 
 ![Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 .
 
@@ -122,6 +115,13 @@ Moreover, understanding the app migration process is crucial whether you are mov
 
 ![transfer apps from phone to android](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Is It Possible To Transfer Apps from OnePlus Nord CE 3 5G to Other Android Devices and iPhone to Android?
 
 It is possible to transfer applications from an Android phone to another Android. There are multiple ways that Android offers to move apps between two smartphones. These include using the Google Play Store and signing in with the same Google account. Also, multiple tools and apps can assist you in this context.
@@ -150,17 +150,44 @@ Download the Wondershare Dr.Fone toolkit by pressing the "Free Download" provide
 
 ![choose the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2: Device Selection for Android-to-Android Transfer**
 
 Start the process by connecting both Android devices to load their data onto the platform. After that, designate the "Source" and "Destination" devices for the transfer. You can also use the “Flip” button to flip the OnePlus Nord CE 3 5G devices.
 
 ![set the phones position](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3: Select the Data Categories for Transfer**
 
 Now, you have to select the "Apps" category to be transferred in this process. Proceed by clicking the "Start Transfer" button after selecting it to start the transfer. A window will display the progress of the transfer, where you can view the progress bar. Upon successfully completing the data transfer, a confirmation message will appear on the window. Hit the "OK" button to conclude the transfer process.
 
 ![transfer of data in process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How To Transfer Apps From Non-Samsung to Galaxy Devices Using Samsung Smart Switch?
 
@@ -179,6 +206,20 @@ Samsung Smart Switch allows you to quickly transfer various contents from your o
 
 ![select apps to start transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How To Transfer Apps Between Android Devices With the Help of Google Backup
 
 There is another method that you can try to **transfer apps to a new Android phone**. This includes restoring a Google backup on a new device. You can back up all of your data, including the applications, to the Google account you have signed in. Later, you can restore the same data on a new device quite easily:
@@ -191,13 +232,6 @@ There is another method that you can try to **transfer apps to a new Android pho
 
 ![navigate backup option in settings](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** To restore your data, you have to charge and power up your new Android device. Then, follow the on-screen instructions until prompted to restore data from another device. Following this, you will have to choose the OnePlus Nord CE 3 5G device from which you want to restore data and tap the “Copy Your Data” option.
 
 ![head to copy required data](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-10.jpg)
@@ -209,20 +243,6 @@ There is another method that you can try to **transfer apps to a new Android pho
 - **Step 5:** Lastly, you can choose the "Apps” option to pick the apps you want on the new device. Afterward, you have to tap on the "Restore" option to restore your Google backup.
 
 ![restore all the necessary apps](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How To Transfer and Download Apps From One Phone to Another Using Play Store
 
@@ -304,13 +324,6 @@ Download SHAREit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 
 ![launch shareit app](https://images.wondershare.com/drfone/article/2017/11/15115448962938.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. This will further let you select the data files that you wish to transfer. Click on the “Next” option after selecting your content.
 
 4\. Bring the target device in close proximity to the sender and launch the app. Mark it as a receiving device.
@@ -335,18 +348,18 @@ Download CLONEit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 
 ![connect source and target devices](https://images.wondershare.com/drfone/article/2017/11/15115449859674.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. In this way, the target device will automatically start looking for the sender. You can view the Wifi hotspot the sender has created to verify the connection.
 
 4\. You need to confirm the connection request by tapping on the “Ok” button of the prompt.
 
 ![confirm connection](https://images.wondershare.com/drfone/article/2017/11/15115450159334.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5\. Once the connection has been established, you can clone Android phone easily. Just go to the source device (sender) and select the data that you wish to transfer.
 
@@ -355,6 +368,13 @@ Download CLONEit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 7\. Wait for a while as the transfer of data would take place. You will be notified as soon as it is completed successfully.
 
 ![clone android phone with cloneit](https://images.wondershare.com/drfone/article/2017/11/15115451102601.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Clone Android phone using Phone Clone
 
@@ -379,13 +399,6 @@ Download Phone Clone: <https://play.google.com/store/apps/details?id=com.hicloud
 6\. Tap on the “Send” button and transfer the selected content to the target device wirelessly.
 
 ![clone android phone with phone clone app](https://images.wondershare.com/drfone/article/2017/11/15115448476323.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: Clone Android phone using Google Drive
 
@@ -425,13 +438,6 @@ Using Bluetooth for cloning an Android phone is not the most efficient method. I
 
 Cloning an Android phone using reputable and trusted methods, apps, or tools is generally safe. Nonetheless, it is of utmost importance to exercise prudence and employ trustworthy software to safeguard your personal data. Be sure to obtain apps and tools exclusively from reputable sources, such as the Google Play Store, and adhere to the best data security practices.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Can I clone between different Android phone models or brands?
 
 The ability to clone between different Android phone models or brands depends on the specific method or tool you are using. Dedicated phone transfer apps like Wondershare Dr.Fone - Phone Transfer or Phone Clone are often designed to work across various Android models and brands.
@@ -460,19 +466,24 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-complete-visual-storytellers-guide-to-vsco-app/"><u>[New] In 2024, Complete Visual Storyteller's Guide to VSCO App</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-seeking-freebies-learn-instagrams-secret-for-additional-filters/"><u>[Updated] Seeking Freebies? Learn Instagram’s Secret for Additional Filters</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-gaming-with-xbox-screen-recorders/"><u>2024 Approved Streamline Your Gaming with Xbox Screen Recorders</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-phasmophobias-frequent-crashes-for-a-smoother-gaming-experience/"><u>How To Fix Phasmophobia's Frequent Crashes for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13t-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 13T Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a25-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy A25 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-zero-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Zero 30 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-14-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 14 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-gt-5-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme GT 5 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-dying-lights-first-person-coop-survival-challenge-with-skillful-parkour-techniques/"><u>Mastering Dying Light's First-Person Coop Survival Challenge with Skillful Parkour Techniques</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-pro-level-mp3-cutting-discover-the-top-5-online-platforms/"><u>New Pro-Level MP3 Cutting Discover the Top 5 Online Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-enable-your-gaming-voice-chat-on-discord-with-clear-audio/"><u>Quick Fix: Enable Your Gaming Voice Chat on Discord with Clear Audio</u></a></li>
-<li><a href="https://facebook.techidaily.com/superior-social-venues-for-senior-interactions/"><u>Superior Social Venues For Senior Interactions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[New] Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-streamlining-the-search-for-spotless-stock-visuals/"><u>[Updated] 2024 Approved Streamlining the Search for Spotless Stock Visuals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overview-of-google-ar-sticker-and-its-alternative/"><u>[Updated] Overview of Google AR Sticker and Its Alternative</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-snap-game-with-pro-level-boomerang-expertise/"><u>2024 Approved Elevate Your Snap Game with Pro-Level Boomerang Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-frequent-freezes-a-guide-to-stable-outriders-gaming/"><u>Fixing Frequent Freezes: A Guide to Stable Outriders Gaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-legally-obtain-a-full-airparrot-license-key-for-your-mac-system/"><u>How to Legally Obtain a Full AirParrot License Key for Your Mac System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 8 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-12-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme 12 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-camon-20-premier-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-narzo-60-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme Narzo 60 Pro 5G Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-c12-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia C12 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-effortless-background-cleanse-using-picsart/"><u>In 2024, Effortless Background Cleanse Using Picsart</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-s23plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy S23+ To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-s24-ultra-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy S24 Ultra To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy M14 4G Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a34-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A34 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60x-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60x 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-3-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From OnePlus Nord 3 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
 
