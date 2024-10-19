@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Vivo S18 Pro to Laptop Without USB | Dr.fone
-date: 2024-08-29T13:32:37.826Z
-updated: 2024-08-30T13:32:37.826Z
+date: 2024-10-17T19:58:16.142Z
+updated: 2024-10-19T17:31:08.165Z
 tags: 
   - transfer
 categories:
@@ -28,16 +28,10 @@ While smartphones offer convenience for snapping photos on the go, viewing your 
 
 Many operating systems have a built-in Photos application to help you organize and view your pictures more efficiently. You may use it to organize your photos in separate folders and create a centralized hub for browsing.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Add Tags to Your Photos
 
 Tagging your photos is a versatile way to categorize and organize them based on themes, events, or people. Most photo management applications allow you to add descriptive tags that make it easy to search the media files later. This is particularly useful for quickly locating pictures of specific occasions or individuals.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Keep Your Photos in Separate Folders
 
 Make it a habit to create separate folders for different events, locations, or time periods. This organization method helps you maintain a clear structure for your photo collection. For example, you might have folders for vacations, family gatherings, or special occasions. Organizing photos this way simplifies navigation and ensures that each set of pictures is kept properly.
@@ -48,12 +42,16 @@ Give your photos descriptive and unique filenames that reflect either their cont
 
 **NOTE:** By incorporating these organization techniques, you can surely enjoy your memory collection on the larger canvas of your computer screen. Take advantage of these methods to transform your digital photo library into a well-ordered and easily accessible archive. Moreover, these are prerequisites for the tutorials on how to transfer photos from your phone to your laptop without USB.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Transfer Photos From Phone to Laptop Without USB in Easy Steps
 
 Copying photos from smartphones to laptops has become significantly more straightforward today than in the past. In fact, the entire data migration process can be completed within a few minutes. No need to resort to advanced interventions and external assistance. Just choose a particular tutorial below on how to transfer photos from your phone to your laptop without USB. Initiate each step carefully and complete the procedure in no time. Check out the list below to get started.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Transfer photos from phone to laptop using iCloud web
 
@@ -72,16 +70,10 @@ If you're an Apple user, you can easily transfer photos from your phone to your 
 
 ![photos on icloud](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 5:** Select the photos you want to transfer to your computer. After that, click the **Download** icon at the top-right corner of your screen.
 
 **NOTE:** How to transfer videos from your phone to your laptop without USB? This data migration technique also works in this regard.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Transfer photos from phone to laptop using Google Photos
 
 Google Photos is simply the iCloud’s substitute for Android smartphone. Like iCloud, you can sync your Android photos to Google Photos and access them from your computer. Don’t worry. It’s very easy to facilitate. Here’s how to transfer photos from your phone to your laptop without USB using Google Photos.
@@ -100,14 +92,8 @@ Google Photos is simply the iCloud’s substitute for Android smartphone. Like i
 
 ![download google photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **NOTE:** How to transfer videos from your phone to your laptop without USB? This data migration technique also works in this regard.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Transfer photos from phone to laptop using Bluetooth
 
 Does your laptop have a Bluetooth connectivity feature? If so, try to use it for the photo transfer. Just connect your smartphone to the computer via Bluetooth and go ahead with the migration. Here’s a short guide on how to transfer photos from your phone to your laptop without USB via Bluetooth.
@@ -118,12 +104,16 @@ Does your laptop have a Bluetooth connectivity feature? If so, try to use it for
 
 ![share photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Click **Bluetooth.** Select your computer from the list. Then, click on it. Wait for the transfer to be completed in a few seconds.
 
 ![bluetooth photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Email the photos from the phone to the laptop
 
@@ -138,9 +128,6 @@ If you’re only sending a few photos to your laptop, emailing them from your sm
 
 ![download email photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 **NOTE:** How to copy files from your phone to your laptop without USB? This data migration technique also works in this regard.
 
 ### Method 5: Transfer photos from phone to laptop using AirDrop
@@ -157,9 +144,6 @@ Are you using an iPhone and a Macbook? No problem. You may use AirDrop to move y
 - **Step 5:** Select your Macbook as the recipient.
 - **Step 6:** On your Macbook, click **Accept.**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## BONUS TIP: How to Copy Files From One Smartphone to Another?
 
 As a bonus, it is important to know that transferring files from one device to another in a secure environment is significant. It safely copies the documents and lowers the risk of data loss and corruption.
@@ -167,8 +151,6 @@ As a bonus, it is important to know that transferring files from one device to a
 With the holidays fast approaching and the abundance of noteworthy photos, videos, and moments coming your way, having a steadfast solution is crucial. This is where Wondershare brings a compact yet efficient tool to help you. Wondershare Dr.Fone lets you quickly transfer photos and files to another mobile device in no time. To back this up, here is a quick, comprehensive guide on how to do it in a few simple steps.
 
 Suppose you’re upgrading to an IOS device and need a quick way to transfer files from your old Android device. Then here’s your go-to guide using Wondershare Dr.Fone.
-
-
 
 - **Step 1:** Open Wondershare Dr.Fone on your computer and navigate to the Toolbox section. Select the **Phone Transfer** tool.
 
@@ -182,9 +164,6 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 
 ![wondershare dr.fone ios data transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** A new window will show the progress of the transfer. If you want to stop the operation, click **Cancel**.
 
 ![wondershare dr.fone ios transfer progress](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
@@ -193,30 +172,19 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 
 ![wondershare dr.fone ios transfer complete](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Navigating the digital landscape of photo organization and transfer has become increasingly vital in our fast-paced era. This article showcased various wireless methods, from iCloud to Bluetooth, and offered a step-by-step guide on how to transfer photos from phone to laptop without USB cables. As a valuable bonus, Wondershare Dr.Fone emerges as a trustworthy solution for efficiently transferring photos and files between mobile devices, ensuring a hassle-free experience. As we approach the holiday season, where memories are plentiful, having a reliable tool like Wondershare Dr.Fone can enhance the management of our digital archives, making it easier to cherish and share moments with friends and family.
-
-
 
 ## How to Transfer Data from Vivo S18 Pro to Any iOS Devices
 
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 If you are a proud owner of smartphones running on two different operating systems such as Windows and iOS, you might face the challenging task of transferring the data from your **Windows phone to iPhone**. Transferring the data between the two devices running the OS of the different platforms is not as easy as it is when you have devices with a common platform. This article aims to guide you through two simple routes that you can follow to transfer the data stored in your Windows phone such as **Vivo S18 Pro to iPhone** or other iOS devices. You don't need to worry about how to transfer from Vivo S18 Pro to iPhone or How to transfer contacts from Vivo S18 Pro to iPhone anymore after reading this article. Read them on.
 
 - 1\. You can rely on some program/online service/website such as Outlook, CSV file format, Google Contacts, etc.
 - 2\. You may experience issues while transferring data from your Vivo S18 Pro phone to iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Transfer Data Wirelessly via Microsoft ID
 
 Windows phones such as Vivo S18 Pro depend on a Microsoft ID to back up your important data such as contacts, text messages, calendar, and device preferences. Once you have configured the data on your Vivo S18 Pro smartphone, you can add the same Microsoft email address to your iPhone and then sync the data to it. Given below are the step-by-step instructions on **how to transfer from Vivo S18 Pro to iPhone** via Microsoft ID:
@@ -288,9 +256,6 @@ Cons:
 1. It is a time-consuming process.
 2. You cannot transfer photos and media files by following this method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Transfer Data Using PhoneCopy
 
 With PhoneCopy you can easily export data from your Vivo S18 Pro to the PhoneCopy server, and then import the data from the PhoneCopy server to your new iOS device. It is easy to **transfer contacts from Vivo S18 Pro to iPhone** with PhoneCopy. What you need is PhoneCopy iPhone Vivo S18 Pro.
@@ -371,8 +336,6 @@ The archived data is auto-deleted from the PhoneCopy server after one month when
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) lets you transfer data from Vivo S18 Pro to iPhone or iPhone to Android in 1 Click. It supports almost all mobiles, including iPhone, Android Samsung, LG, Sony, HTC, etc. Dr.Fone - Phone Transfer can transfer music, videos, contacts, messages, call logs, and apps between mobiles. If you want to transfer data between Android and iPhone, it must be the best solution for you. Try it free. Follow the steps below to know **how to transfer data between Android and iPhone**.
 
-
-
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Data between Android and iPhone in One Click.
@@ -401,17 +364,16 @@ Connect your Android and iPhone. Dr.Fone will detect it soon. Then select the fi
 ![transfer from lumia to iPHone- start transfer](https://images.wondershare.com/drfone/drfone/phone-switch-android-to-ios-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 Regardless of the fact that many free solutions are there that can help you **transfer data from your Vivo S18 Pro to iPhone**. If you also have an Android device, the Dr.Fone - Phone Transfer always has an upper hand when it comes to providing hassle-free migration between iPhone and Android devices.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Transfer Contacts from Vivo S18 Pro to iPhone XS/11
 
 When it comes to transferring contacts from Vivo S18 Pro to iPhone XS/11, we play enough care to not mess with the process.
@@ -420,11 +382,23 @@ Though, there are numerous ways to [switch to a new iPhone](https://drfone.wonde
 
 In this article, we are going to introduce 4 vital solutions to make your transition from Vivo S18 Pro to iPhone a smooth sail.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to transfer contacts from Vivo S18 Pro to iPhone XS/11 in one click
 
 If you want to import contacts to iPhone XS/11 from Android in a single click, there is no better solution than [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Not only contacts but a wide range of device data can be transferred from your Android to an iPhone with this tool. Photos, music, text messages, videos, etc. are a few of them.
 
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -446,8 +420,18 @@ Step 1:  Download Dr.Fone - Phone Transfer on your computer and then install it
 ![import contacts to iPhone XS/11 from android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Now, connect both your Vivo S18 Pro and iPhone XS/11 to the computer using genuine USB cables.
 
 Step 3:  Once the Vivo S18 Pro devices get detected, you need to select Android as the source device on the next screen. As you wish to import contacts to iPhone XS/11 from Android, the iPhone XS/11 needs to be selected in place of the target device.
@@ -484,9 +468,6 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Vivo S18 Pro to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 1. On your Vivo S18 Pro, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Vivo S18 Pro to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
@@ -506,18 +487,23 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to transfer contacts from Vivo S18 Pro to iPhone XS/11 using SIM card
 
 As you know the SIM card itself can hold a certain number of contacts, depending on the carrier and phone make and model.
@@ -527,16 +513,10 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 ![transfer contacts from Vivo S18 Pro to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Then hit ‘Export’ and ‘Continue’ afterward.
 2. Now, open the SIM card slot of your Vivo S18 Pro and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your Vivo S18 Pro supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -550,5 +530,21 @@ As you know the SIM card itself can hold a certain number of contacts, depending
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-soundsreview-insight/"><u>[New] SoundsReview Insight</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-comprehensive-guide-to-understanding-and-using-slug-lines/"><u>2024 Approved A Comprehensive Guide to Understanding and Using Slug Lines</u></a></li>
+<li><a href="https://video-capture.techidaily.com/abema-formerly-abematv-video-download-issues-effective-solutions-and-fixes/"><u>ABEMA (Formerly AbemaTV) Video Download Issues - Effective Solutions and Fixes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-youtube-exchange-threads-for-2024/"><u>Decoding YouTube Exchange Threads for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 Prowith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-30-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 30 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-note-30i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Note 30i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y55s-5g-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y55s 5G (2023) to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a34-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A34 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-realme-12-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Realme 12 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C12 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-cpu-driver-updates-made-easy-how-to-download-and-install-quickly/"><u>Intel CPU Driver Updates Made Easy – How to Download & Install Quickly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-showdown-comparing-the-switch-lite-and-new-oled-models/"><u>Nintendo Showdown: Comparing the Switch Lite and New OLED Models</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/guide-to-gaining-from-google-a-stepwise-strategy-for-tracking-youtube-income-for-2024/"><u>Your Guide to Gaining From Google A Stepwise Strategy for Tracking YouTube Income for 2024</u></a></li>
+</ul></div>
 

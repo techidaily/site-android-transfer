@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Sync Contacts from Realme C51 to Gmail | Dr.fone
-date: 2024-10-12T20:28:39.836Z
-updated: 2024-10-13T16:33:26.356Z
+date: 2024-10-18T20:18:56.267Z
+updated: 2024-10-19T19:00:12.105Z
 tags: 
   - transfer
 categories:
@@ -157,11 +157,25 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Realme C51 to Gmail.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I Transferred Messages from Realme C51 to iPhone 12/XS (Max) in Seconds
 
 Recently, I got a new iPhone 12/XS (Max) with so much excitement. But, the one thing that was driving me crazy was how to transfer messages from my old Android device to this iPhone 12/XS (Max), as I have always been an Android phone user till then. So, I was scared to [transfer anything to the new iPhone](https://drfone.wondershare.com/transfer-to-new-iphone.html) and ruin it. You can have numerous solutions to transfer text messages from Realme C51 to iPhone 12/XS (Max) after setup.
 
 Well! If you are in a similar situation as me, then I would recommend you go through this article. I have finally opted to import SMS to iPhone 12/XS (Max) from Android.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Apps to Transfer Messages from Realme C51 to iPhone 12/XS (Max) without Computer
 
@@ -184,20 +198,6 @@ The first method to transfer text messages from Realme C51 to iPhone 12/XS (Max)
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
 
 You can learn how to transfer messages from Realme C51 to iPhone 12/XS (Max) without a computer using the SMS Backup+ app. It can automatically backup the SMS, call logs, MMS using a different label in Google Calendar and Gmail. Remember that MMS can’t be restored later.
@@ -214,6 +214,19 @@ You can learn how to transfer messages from Realme C51 to iPhone 12/XS (Max) wit
 **Note:** _The messages will be enclosed in an Email attachment. That implies you won’t be able to import your messages to your iMessage app. If you want to transfer SMS to the default messages app, try Dr.Fone - Phone Transfer. It's a one-click and reliable desktop software._
 
 ## 2 Methods to Transfer Messages from Realme C51 to iPhone 12/XS (Max) with a PC
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to transfer all messages to iPhone 12/XS (Max) at a time
 
@@ -256,16 +269,16 @@ Step 1:  Get Dr.Fone - Phone Manager installed and launched on your PC. Now, pr
 
 ![selectively import messages from android to iPhone 12/XS (Max)](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Use respective USB cables to connect your Android and iPhone 12/XS (Max) with the computer and then pick Android as the source device. Then, select the ‘Information’ tab displayed on the top.
 
 ![connect android and iPhone XS (Max) to pc for sms transfer](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3:  From the list of messages, choose the desired text messages and hit the ‘Export’ button. Click the ‘Export to device’ button consecutively and complete the process with the onscreen guide.
 
@@ -304,13 +317,6 @@ You can instantly copy contacts from Realme C51 to iPhone 14 or 15 by simply upl
 
 ![contacts fix and manage](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Click **Export to File.**
 
 ![export to file](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-2.jpg)
@@ -318,13 +324,6 @@ You can instantly copy contacts from Realme C51 to iPhone 14 or 15 by simply upl
 - **Step 4:** Choose the contact list you want to export. Then click **Export.**
 
 ![export contact list](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Choose a specific folder where you want to save the exported VCF. Right after, click **Save.**
 
@@ -335,6 +334,13 @@ You can instantly copy contacts from Realme C51 to iPhone 14 or 15 by simply upl
 ![upload vcf](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-5.jpg)
 
 - **Step 7:** Lastly, sync your iPhone to iCloud and then check your contact list from the app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Import contacts from Google account
 
@@ -349,31 +355,11 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 
 ![mail accounts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Select **Google.**
 - **Step 5:** Log in to your Gmail account that contains your contact list.
 - **Step 6:** The settings for your Gmail account will appear once you have successfully logged in on your iPhone. Toggle on the radio button next to **Contacts** to sync your phonebook with the new device.
 
 ![sync contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Copy contacts from the SIM card to your iPhone
 
@@ -401,21 +387,28 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Read the Terms and Conditions and then click **Agree.**
 - **Step 5:** On the Find Your Code page, click **Continue.**
 
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** To proceed, make sure your iPhone is on the iOS setup page. From there, click **Move Data From Android.** Your iPhone will then show a unique code.
 
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** On your Android smartphone, key in the code displayed on your iPhone screen.
 - **Step 7:** Choose **Contacts.** After that, wait for the data transfer to start and finish.
@@ -429,6 +422,13 @@ The easiest way to export contacts from Realme C51 to iPhone is by means of thir
 - **Step 3:** Navigate the left-side panel and then click **Toolbox.** On the main dashboard, click **Phone Transfer.**
 
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Connect your Android smartphone and iPhone to the computer using a data cable.
 - **Step 5:** Once the two devices have been recognized on the platform, set your Realme C51 as the **Source** and your iPhone as the **Target.** Alternatively, click the **Flip** button to specify the direction of the transfer.
@@ -474,19 +474,18 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop-for-2024/"><u>[New] Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop) for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dynamic-youtube-follower-analyzers/"><u>[New] In 2024, Dynamic YouTube Follower Analyzers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-converting-videos-on-macos-with-best-tools-guide/"><u>[Updated] Converting Videos on macOS with Best Tools Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-8-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 8 Safe and Legal</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-20-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 20 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-craft-viral-unboxing-content-on-social-media/"><u>How to Craft Viral Unboxing Content on Social Media</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-smart-8-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Smart 8</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-note-30i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Note 30i to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-k70-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi K70 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-y100i-power-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo Y100i Power 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-quick-fixes-for-a-malfunctioning-amazon-fire-stick-remote/"><u>Master the Quick Fixes for a Malfunctioning Amazon Fire Stick Remote</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-tecno-spark-20c-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Tecno Spark 20C to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Redmi Note 12 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-video-edits-ultimate-tutorial-guide-for-2024/"><u>[New] Mastering Instagram Video Edits Ultimate Tutorial Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-overcoming-non-displayed-thumbnails-youtube-shorts-guide/"><u>[New] Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-prohero-gopro-vs-nikkor-keymission-camera-faceoff/"><u>[Updated] In 2024, ProHero GoPro VS Nikkor Keymission Camera Faceoff</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-youtube-video-wizardry-top-conversion-techniques-to-mp4mpeg/"><u>[Updated] In 2024, YouTube Video Wizardry Top Conversion Techniques to MP4/MPEG</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>2024 Approved Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hands-of-honour-versus-followers-faith/"><u>2024 Approved Hands of Honour Versus Followers’ Faith</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-original-elite-social-favorites-and-watch-count-hits-for-2024/"><u>Amazon Original Elite Social Favorites and Watch Count Hits for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y100a-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y100A to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-phantom-v-fold-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Phantom V Fold to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-n53-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo N53 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-90-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor 90 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-a60-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel A60 to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
 

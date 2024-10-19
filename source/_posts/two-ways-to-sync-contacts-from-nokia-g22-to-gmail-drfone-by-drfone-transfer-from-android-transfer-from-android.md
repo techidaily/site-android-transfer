@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Nokia G22 to Gmail | Dr.fone
-date: 2024-09-03T02:23:15.541Z
-updated: 2024-09-04T02:23:15.541Z
+date: 2024-10-13T17:57:01.278Z
+updated: 2024-10-19T17:03:55.615Z
 tags: 
   - transfer
 categories:
@@ -23,8 +23,6 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 ## Part 1: How to Sync Contacts from Nokia G22 to Gmail? (Easier way)
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Nokia G22 contact details to another platform.
-
-
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -70,9 +68,6 @@ If you followed these steps, you would not only have synced your contacts with y
 
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. How to Sync Contacts from Nokia G22 to Gmail? (Official Way)
 
 There is also a way whereby you can sync your contacts to your Gmail account on Android using just Your Nokia G22. You can do this simply by following these steps:
@@ -85,8 +80,12 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
@@ -103,8 +102,12 @@ Although there has been no record of such occurrence in the past from users who 
 Another way to back up your contacts before you sync contacts from Nokia G22 to Gmail can be found in this article: [Four Ways to Backup Android Contacts Easily](https://drfone.wondershare.com/contacts/backup-contacts-android.html).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4. Basic Solutions to Fix Google Contacts Syncing Issues on Android
 
 In the above parts, you have learned how to transfer contacts from Nokia G22 to Gmail. So what if your contacts have, for some reason, refused to sync? Well, don't panic; here are some of the possible fixes for the problem.
@@ -164,8 +167,12 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Nokia G22 to Gmail.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Transfer Contacts from Nokia G22 to Outlook
 
 _I would like to export/edit my contacts that are on My Nokia G22 and get them onto my computer for a back, to edit them, to input/import them into Outlook. Can this be done and how? Is there something I can download or a backup assistant?_
@@ -173,8 +180,6 @@ _I would like to export/edit my contacts that are on My Nokia G22 and get them o
 With lots of contacts on your Nokia G22, you may want to transfer these contacts from Nokia G22 to Outlook for backup. This way, when you get a new Android phone or when you lose contacts by accident, you can quickly get them back.
 
 To sync Android to Outlook, I highly recommend an Android manager: [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). This program empowers you to transfer contacts on your Nokia G22 to Outlook 2003/2007/2010/2013 easily and effortlessly.
-
-
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -189,8 +194,12 @@ One Stop Solution to Transfer Contacts from Nokia G22 to Outlook
 **4,858,377** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to sync Android with Outlook?
 
 Now, I’d like to introduce you how to transfer Android contacts to Outlook. Download this free trial version on your computer. Then check out the easy steps below.
@@ -211,11 +220,6 @@ As you see, apart from exporting Android contacts to Outlook, you can also copy 
 
 Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Data from Nokia G22 to Samsung Phone
 
 Samsung is undoubtedly the most widely used smartphone manufacturer today. Cutting edge functionalities in prices that are affordable makes Samsung a favorite. Therefore, more and more users will need to transfer data to Samsung’s devices. In this article, we are going to share how to transfer data from Motorola to Samsung, especially for **how to transfer contacts from Motorola to Samsung**. Check them out.
@@ -223,18 +227,22 @@ Samsung is undoubtedly the most widely used smartphone manufacturer today. Cutti
 If you're going to buy a new Samsung S23, these solutions work as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: Transfer Data from Motorola to Samsung using Dr.Fone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can be used for transferring data from to phone to another phone like messages, contacts, call logs, calendars, photos, music, video, and apps. Also, you can back up your iPhone and save the data on your PC, for example, and restore it later when you wish. Basically, all your necessary data can be transferred fast from a phone to another phone, including transfer from Motorola to Samsung.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Migrate all data from Motorola to Samsung quickly
@@ -269,12 +277,7 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 ![Motorola to samsung-transfer from Motorola to Samsung](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5.** You can cancel the transferring process at any time by hitting the “Cancel” button however, make sure that neither of the Nokia G22 devices gets detached while the transferring process is still underway.
-
-
 
 ## Part 2: Transfer WhatsApp from Motorola to Samsung via WhatsApp Transfer Tool
 
@@ -283,8 +286,12 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
 One-click to transfer WhatsApp messages from Nokia G22 to iPhone
@@ -317,11 +324,6 @@ Afterward, click "Transfer" to commence the WhatsApp transfer process. A prompt 
 
 ![whatsapp data transfer in process](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-
-
 ## Part 3. Using Official Tools to Transfer Data from Motorola to Samsung
 
 Samsung Smart Switch is an official tool developed by Samsung. This tool is designed to simplify transferring data from an old device, including non-Samsung devices like Motorola, to a new Samsung smartphone or tablet. This tool supports various data types, such as contacts, photos, messages, videos, calendars, and music. You can use the steps given below to transfer your data from Motorola to Samsung using Smart Switch:
@@ -331,31 +333,27 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 ![motorola to samsung data transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2.** On the Motorola device, tap "Send Data" and follow it by pressing "Wireless." Now move to Samsung and tap "Receive Data," then press "Galaxy/Android," and finally tap "Wireless."
 
 ![receive data on samsung](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** Afterward, finalize the connection by selecting "Allow" on the old phone. Then, on your new phone, select the content you wish to transfer and proceed by tapping "Transfer." Once the transfer finishes, tap "Go to Home Screen" on the new phone, and you're all set to proceed.
 
 ![head to home screen after transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Want to Manage Your Nokia G22 Data before Transferring Data?
 
 Before initiating data transfer from your Motorola phone to your new Samsung device, it's a great idea to declutter and organize your data. [Wondershare Dr.Fone](https://drfone.wondershare.com/guide/manage-android-device.html) is your go-to smart solution for managing and transferring Android data. With its intuitive features, you can preview, delete, export, and manage your data. This software facilitates smooth file transfers between your Nokia G22 and computer.
@@ -364,12 +362,7 @@ Moreover, it enables easy transfer of media files between iTunes and Android. Dr
 
 ![wondershare dr.fone phone manager](https://images.wondershare.com/drfone/guide/manage-android-apps-1.png)
 
-
-
 To cater for the above mentioned problems and many other, Dr.Fone - Phone Transfer was developed. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is an easy to use tool. It has been designed to assist you to in transferring data from your old phone to your new phone, including transferring contacts from Motorola to Samsung.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -383,5 +376,22 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-masterclass-top-10-recorder-options-on-spotify-for-2024/"><u>[New] Masterclass Top 10 Recorder Options on Spotify for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upgrade-alert-navigate-changes-with-confidence/"><u>[New] Upgrade Alert Navigate Changes with Confidence</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-livestream-lifters-for-modern-audiences/"><u>[Updated] In 2024, Livestream Lifters for Modern Audiences</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tailoring-a-triad-of-topical-youtube-tracks/"><u>2024 Approved Tailoring a Triad of Topical YouTube Tracks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/a-step-by-step-approach-to-freeing-up-space-in-figma-for-2024/"><u>A Step-by-Step Approach to Freeing Up Space in Figma for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-spark-10c-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Spark 10C to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-reno-11-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Reno 11 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-pop-7-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Pop 7 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi Civi 3 Disney 100th Anniversary Edition to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-lava-yuva-2-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Lava Yuva 2 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-redmi-note-12t-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Redmi Note 12T Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-how-to-resolve-missing-sound-devices-on-windows-10-8-and-7/"><u>Troubleshooting Audio Problems: How to Resolve Missing Sound Devices on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-poco-c65-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Poco C65 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-controller-unleash-potential-for-pc-play/"><u>Xbox One Controller: Unleash Potential for PC Play</u></a></li>
+</ul></div>
 

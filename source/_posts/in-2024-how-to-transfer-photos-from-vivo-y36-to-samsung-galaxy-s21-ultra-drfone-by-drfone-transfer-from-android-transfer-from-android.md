@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-10-12T19:40:49.825Z
-updated: 2024-10-13T17:13:41.134Z
+date: 2024-10-16T18:36:54.393Z
+updated: 2024-10-19T20:25:16.189Z
 tags: 
   - transfer
 categories:
@@ -26,6 +26,13 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Vivo Y36 device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
 We all know how amazing the Samsung Galaxy S21 series is. Their features and quality make us fall in love with these devices. Though Samsung Galaxy S21, S21+, and S21 Ultra have many common features, there are still many differences among these. So, let's find out what those are:
@@ -39,6 +46,13 @@ Among Samsung Galaxy S21, S21 Plus, and S21 Ultra, Samsung Galaxy S21 has the lo
 Though three of these have the same design of camera and position, the real difference is in size. Galaxy S21 comes in 6.2 inches screen, Galaxy S21 Plus has a 6.7-inch screen, and Galaxy S21 Ultra has a 6.8-inch screen. Galaxy S21 Ultra comes with a wide camera bump that fits the extra sensors. Galaxy S21 Ultra fits better in hands because of its curved edges.
 
 ![samsung galaxy s21 ultra vs s20](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-20-vs-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Display:**
 
@@ -81,16 +95,17 @@ After choosing the desired file types (Photos for this case), click on the "Star
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Finish Transfer and Check
@@ -110,13 +125,6 @@ Within a short time, all your selected photos will be transferred to the Samsung
 ### Conclusion
 
 Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more updated than other models. It has the best quality camera, better battery capacity, and other new features. The design and the display are way better than the other models. After purchasing the Samsung Galaxy S21 Ultra, if you get stuck transferring your photos to the Vivo Y36 device, then you don't have to worry. We have introduced you to Dr.Fone - Phone Transfer in this article. Using this software, you can recover any files and keep data backup and restore them later. To transfer your photos to Galaxy S21 Ultra, you can use Dr.Fone Switch app by following the steps we provided. It's definitely better software than Smart Switch.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Transfer Contacts from Vivo Y36 to iPhone XS/11
 
@@ -161,13 +169,6 @@ Step 4:  In this step, you have to select the data type you want to move from y
 
 ![start to import contacts to iPhone XS (Max) from android with USB cable](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** _If it’s a used iPhone XS/11, then you can select the ‘Clear Data before Copy’ checkbox for erasing any existing data on it prior to transferring the data._
 
 Step 5: Allow some time to get the process completed. Your contacts are successfully transferred from the Android device to iPhone XS/11.
@@ -175,10 +176,10 @@ Step 5: Allow some time to get the process completed. Your contacts are successf
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to transfer contacts from Vivo Y36 to iPhone XS/11 using Move to iOS
@@ -194,13 +195,6 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![import contacts to iPhone XS (Max) from android using move to ios](https://images.wondershare.com/drfone/article/2018/01/15150785955979.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. On your Vivo Y36, click ‘Continue’ and then ‘Agree’. A prompt asking for a code will appear on your Android mobile.
 2. Get the iPhone and hit ‘Continue’ and note the displayed code. Enter this on your Vivo Y36. When both the Android and iPhone are connected to the Wi-Fi, select ‘Contacts’ from the data types and tap ‘Next’.
 
@@ -209,13 +203,6 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 1. On your Vivo Y36, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Vivo Y36 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from Vivo Y36 to iPhone XS/11 using Google account
 
@@ -248,13 +235,6 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 2. Now, open the SIM card slot of your Vivo Y36 and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your Vivo Y36 supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Transfer Data After Switching From Vivo Y36 to Latest Samsung
 
@@ -296,13 +276,6 @@ Here’s how to move data from Vivo Y36 to Samsung S23 with Wondershare Dr.Fone:
 
 Wondershare Dr.Fone Phone Transfer lets you move apps, contacts, photos, videos, music, ringtones, text messages, voice memos, call logs, bookmarks, and calendar data between Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Move Data From Vivo Y36 to Samsung Using Smart Switch
 
 Samsung’s Smart Switch app is excellent for moving data (even settings) between Android devices. However, you can only transfer settings, memos (including voice), and app data between Galaxy phones.
@@ -316,9 +289,23 @@ Here’s how to move data from Vivo Y36 to Samsung S23 with Smart Switch:
 
 ![samsung smart switch options](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
 
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
 
@@ -425,6 +412,13 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 ![moving files to an sd card](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Connect the Android to your computer with a USB cable.
 3. Tap **USB for file transfer**in the **Notification panel** and select **Transferring files / Android Auto**.
 
@@ -460,18 +454,17 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-dive-into-digital-friendship-start-your-facebook-journey/"><u>[New] Dive Into Digital Friendship Start Your Facebook Journey</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-visual-storytellers-complete-vsco-tutorial-for-2024/"><u>[New] Visual Storyteller's Complete VSCO Tutorial for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/5770hdwinossupportpackage/"><u>5770HDWinOSSupportPackage</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-s23-fe-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy S23 FE Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-digital-strategies-expert-conversion-optimization-solutions-from-cookiebot/"><u>Elevate Digital Strategies: Expert Conversion Optimization Solutions From Cookiebot</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-note-12-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi Note 12 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v29-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo V29 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-14-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi 14 Ultra to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-a79-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo A79 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi Redmi A2+ to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>In 2024, Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-fallout-eboot-3-loading-problems-top-advice-for-gamers/"><u>Resolving Fallout Eboot 3 Loading Problems: Top Advice for Gamers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-redmi-a2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Redmi A2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-secrets-of-auditory-success-on-youtube-videos/"><u>[Updated] Unlock the Secrets of Auditory Success on YouTube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-recording-success-a-step-by-step-approach-to-capturing-chats-on-messenger/"><u>2024 Approved Recording Success A Step-by-Step Approach to Capturing Chats on Messenger</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/crafting-the-perfect-zoom-call-timeline-for-2024/"><u>Crafting the Perfect Zoom Call Timeline for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-these-6-no-cost-alternates-to-openais-sora-technology-today/"><u>Discover These 6 No-Cost Alternates to OpenAI’s Sora Technology Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-freeing-up-storage-on-your-windows-11-pc/"><u>Effective Techniques for Freeing Up Storage on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13-ultra-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi 13 Ultra to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-pop-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Pop 8 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-13c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Xiaomi Redmi 13C via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-g310-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia G310 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-n55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo N55 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-for-a-quick-clean-boot-into-windows-11-os/"><u>The Ultimate Guide for a Quick Clean Boot Into Windows 11 OS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-10-essential-no-cost-vst-plugin-tools-where-to-find-them/"><u>Updated 2024 Approved Top 10 Essential No-Cost VST Plugin Tools – Where to Find Them</u></a></li>
 </ul></div>
 
