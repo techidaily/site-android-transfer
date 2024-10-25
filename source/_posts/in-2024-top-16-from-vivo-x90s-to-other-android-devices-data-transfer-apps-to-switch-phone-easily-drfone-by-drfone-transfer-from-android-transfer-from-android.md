@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 16 from Vivo X90S to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone
-date: 2024-10-14T19:45:11.888Z
-updated: 2024-10-19T18:28:08.084Z
+date: 2024-10-19T16:05:07.965Z
+updated: 2024-10-25T16:46:23.004Z
 tags: 
   - transfer
 categories:
@@ -70,19 +70,6 @@ With the help of Dr.Fone Android to Android data transfer app, you can easily sw
 
 ![xender android data transfer app](https://images.wondershare.com/drfone/article/2023/10/android-data-transfer-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Main Features of Xender
 
 1. Support multiple media file formats of documents to allow you to share them with your colleagues to boost your work.
@@ -147,6 +134,13 @@ If you want an unlimited and quick file-sharing feature to transfer data between
 
 **Download Link:** [https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere&hl=en&gl=US)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Zapya
 
 One of the high-speed file transfer apps that is being used to share files of any size in both online and offline mode is Zaypa. Files from multiple devices, including iOS, Android, macOS, and Windows, can be migrated easily with the help of this app. Due to its compatibility with multiple operating systems, people prefer to use this tool for sharing files in a secure connection.
@@ -173,13 +167,6 @@ Samsung Smart Switch is a free software application that allows users to transfe
 
 The app is user-friendly and offers a simple and efficient way to transfer data from your old device to your new one. With Samsung Smart Switch, you can start using your new device right away without losing any of your important data.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Main Features of Samsung Smart Switch
 
 - 1\. Wireless transfer: Without the digital or USB cable, you can transfer data from one Android device to another.
@@ -193,19 +180,6 @@ The app is user-friendly and offers a simple and efficient way to transfer data 
 **Download URL:** [https://www.samsung.com/us/support/owners/app/smart-switch](https://www.samsung.com/us/support/owners/app/smart-switch)
 
 ![samsung smart switch app](https://images.wondershare.com/drfone/article/2023/04/android-to-android-data-transfer-apps-to-switch-phone-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: Phone Clone
 
@@ -231,6 +205,13 @@ Copy My Data is an application that assists users like you in copying data from 
 
 ![copy my data android data transfer app](https://images.wondershare.com/drfone/article/2023/10/android-data-transfer-app-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Main Features of Copy My Data
 
 1. This app allows you to quickly share your files with the help of Google Drive for more security.
@@ -248,19 +229,6 @@ Copy My Data is an application that assists users like you in copying data from 
 If you want an app to transfer your data with lightning-fast cross-platform speed, Smart Transfer is a reliable data transfer app. Using this app, you can quickly transfer music, settings, and even applications from one Android phone to another anywhere and anytime. This app claims to provide a speed of 40 Mb/s to transfer data from one device to another.
 
 ![smart transfer android data transfer app](https://images.wondershare.com/drfone/article/2023/10/android-data-transfer-app-8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Main Features of Smart Transfer
 
@@ -307,6 +275,13 @@ This exclusive data transfer tool for Android to Android provides some prominent
 **Limitations:** It offers no phone clone feature like other Android data transfer apps.
 
 **Download Link:** [https://play.google.com/store/apps/details?id=it.medieval.blueftp&hl=en&gl=US](https://play.google.com/store/apps/details?id=it.medieval.blueftp&hl=en&gl=US)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 12: Google Drive App: Part of Google Workspace
 
@@ -384,13 +359,6 @@ In conclusion, transferring data from one Android device to another can be a dau
 
 After reviewing the top 16 apps, we recommend Dr.Fone - Phone Transfer as the most powerful software. With its one-stop mobile transfer solution, you can easily transfer all types of data, including contacts, messages, photos, videos, and music, between Android devices in just a few clicks. So, if you want a reliable and efficient way to transfer data from your old Android phone to a new one, give [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) a try.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best 3 Software to Transfer Files to/from Your Vivo X90S via a USB Cable
 
 If you are worried about deleting important information from your Vivo X90S, you may wish to simply transfer it up to your computer to keep it. Or you may simply want to [transfer the photos](https://tunesgo.wondershare.com/android/transfer-photos-from-android-to-pc.html) from your day at the beach onto your computer.
@@ -398,13 +366,6 @@ If you are worried about deleting important information from your Vivo X90S, you
 However, due to the open nature of the Google Android operating system, there are several software available that aim to help you manage your Vivo X90S through your computer. In this article, we will look at some of the best Android software management software available. Note that all the software enables you to [connect Android to PC for file transfer](https://drfone.wondershare.com/android-transfer/photos-from-android-to-computer.html), as well as allowing the selection of specific files onto your computer. But, some are better than other.
 
 ## _Wondershare Dr.Fone_
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -430,16 +391,16 @@ Step 2. Click on your Vivo X90S, such as Galaxy S22 > Export All Data among othe
 
 ![Android USB file transfer main screen](https://images.wondershare.com/drfone/guide/export-data-from-android-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3. You can select the file type you want to transfer to the computer or select all file types. Then, click "Export". Wait for the transfer process to complete.
 
 ![select files for Android USB file transfer](https://images.wondershare.com/drfone/guide/export-data-from-android-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Video Guide: How to Achieve Android USB File Transfer with PC?
 
@@ -482,6 +443,19 @@ A neat feature is the ability to uninstall apps that came preloaded on the phone
 The transfer of photo files is straightforward, and several photos can be selected from your computer to import onto your device at once, or vice versa.
 
 ![usb to android file transfer](https://images.wondershare.com/drfone/article/2018/03/transfer-photos-with-mobogenie.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -527,7 +501,21 @@ Transfer Text Messages to New Phone in 1 click!
 
 Download this tool to try transferring text messages to the new phone. Here, I'd like to give the Windows version a shot. And also, we take data transfer from Samsung to iPhone as an example.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer Text Messages to New Phone Step by Step
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1. Run this phone transfer tool on the computer
 
@@ -538,16 +526,10 @@ To begin with, install and run Dr.Fone on the computer. The primary window will 
 **Note:** To transfer data to or from iPhone (iPhone 8 Plus, iPhone X supported), iPad and iPod, you should install iTunes on the computer.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2. Connect your old and new phones to the computer
@@ -578,21 +560,16 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-adding-divisions-to-vimeos-media-shows-for-2024/"><u>[New] Adding Divisions to Vimeo's Media Shows for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-every-creators-guide-to-youtube-revenue/"><u>[New] In 2024, Every Creator's Guide to YouTube Revenue</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-navigating-the-world-of-fb-video-content-production-for-2024/"><u>[New] Navigating the World of FB Video Content Production for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-selection-cutting-edge-camera-stabilization-tech/"><u>2024 Approved Expert's Selection Cutting Edge Camera Stabilization Tech</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-edge-40-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Edge 40 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-reno-10-proplus-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo Reno 10 Pro+ 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-10-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Spark 10 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-20-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Spark 20 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-open-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus Open to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-g54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola G54 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A2 Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a15-4g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A15 4G To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y27-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y27 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/make-every-sound-count-comprehensive-guide-to-free-youtube-video-transcriptions-for-2024/"><u>Make Every Sound Count Comprehensive Guide to Free YouTube Video Transcriptions for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/k-physical-and-spiritual-potential-the-best-yoga-vlogs-out-there/"><u>Unlock Physical & Spiritual Potential The Best Yoga Vlogs Out There</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-time-reverse-video-on-instagram-secrets/"><u>Unraveling Time Reverse Video on Instagram Secrets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-beginners-tutorial-windows-movie-maker-6-installation/"><u>[New] Beginner's Tutorial Windows Movie Maker 6 Installation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-diving-deep-into-screen-technologies-projection-vs-television-in-4k/"><u>[New] In 2024, Diving Deep Into Screen Technologies Projection vs Television in 4K</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ensure-flawless-slack-conversations-best-10-free-recorder-apps-for-2024/"><u>[Updated] Ensure Flawless Slack Conversations Best 10 Free Recorder Apps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-fixing-mfplatdll-disappearance-and-related-bugs/"><u>Expert Advice: Fixing mfplat.dll Disappearance and Related Bugs</u></a></li>
+<li><a href="https://discover-help.techidaily.com/flash-weisses-bildschirmproblem-bei-windows-10-pcs-effiziente-behebungsmethoden/"><u>Flash-Weißes Bildschirmproblem Bei Windows 10 PCs: Effiziente Behebungsmethoden</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-vob-player-for-pc-and-mac/"><u>Free VOB Player for PC and Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-a58-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo A58 4G Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oppo-reno-10-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Oppo Reno 10 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-civi-3-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Civi 3 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-t2-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo T2 Pro 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-poco-m6-pro-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Poco M6 Pro 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
 </ul></div>
 

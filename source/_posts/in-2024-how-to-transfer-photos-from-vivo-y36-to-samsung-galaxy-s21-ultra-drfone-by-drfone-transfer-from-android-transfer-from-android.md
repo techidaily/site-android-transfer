@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-10-16T18:36:54.393Z
-updated: 2024-10-19T20:25:16.189Z
+date: 2024-10-20T16:46:16.014Z
+updated: 2024-10-25T16:37:07.939Z
 tags: 
   - transfer
 categories:
@@ -27,10 +27,10 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Vivo Y36 device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
@@ -48,10 +48,10 @@ Though three of these have the same design of camera and position, the real diff
 ![samsung galaxy s21 ultra vs s20](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-20-vs-21.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Display:**
@@ -95,17 +95,10 @@ After choosing the desired file types (Photos for this case), click on the "Star
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Finish Transfer and Check
@@ -169,18 +162,18 @@ Step 4:  In this step, you have to select the data type you want to move from y
 
 ![start to import contacts to iPhone XS (Max) from android with USB cable](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** _If it’s a used iPhone XS/11, then you can select the ‘Clear Data before Copy’ checkbox for erasing any existing data on it prior to transferring the data._
 
 Step 5: Allow some time to get the process completed. Your contacts are successfully transferred from the Android device to iPhone XS/11.
 
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from Vivo Y36 to iPhone XS/11 using Move to iOS
 
@@ -254,6 +247,13 @@ Samsung Smart Switch may have features exclusive to Galaxy devices (among other 
 
 The following methods will help you move data from Vivo Y36 to Samsung S23 within minutes. Each is straightforward, so your choice will depend on your preferences. Let’s dive in.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Transfer Data Using Wondershare Dr.Fone Phone Transfer
 
 Wondershare Dr.Fone is an all-in-one phone manager offering multiple tools. Besides moving data between phones, it lets you repair your Android system, recover files and passwords, remove lock screens, and erase data. You can even transfer WhatsApp, Viber, WeChat, and LINE chats and files.
@@ -289,23 +289,9 @@ Here’s how to move data from Vivo Y36 to Samsung S23 with Smart Switch:
 
 ![samsung smart switch options](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
 
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
 
@@ -330,6 +316,13 @@ Here’s how to transfer data to Samsung Galaxy S23 using Google Account synchro
 2. On your Samsung S23, go to **Settings > Google**and log into your backed-up Google Account.
 
 Everything you’ve previously backed up will automatically sync once you log into your Google Account.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Share Data via Bluetooth
 
@@ -357,6 +350,13 @@ Transferring data from Vivo Y36 to Samsung S23 is seamless with Google Drive. He
 1. Launch Google Drive on your old Android and tap **New > Upload**. The **New**button features only a **plus sign** on some devices.
 
 ![uploading data to google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. Add all folders or files you wish to transfer to your new phone.
 3. Open Google Drive on your Samsung S23 and sign into the correct account.
@@ -394,6 +394,13 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 ![choosing data to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Pick any location on your Samsung S23 phone (e.g., the **Downloads**folder for quick access) and tap **Copy**.
 
 ![transferring data to samsung s23](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-17.jpg)
@@ -411,13 +418,6 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 1. Select the desired files or folders on your old Android, tap **Move**, and choose your **SD card**.
 
 ![moving files to an sd card](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Connect the Android to your computer with a USB cable.
 3. Tap **USB for file transfer**in the **Notification panel** and select **Transferring files / Android Auto**.
@@ -454,17 +454,17 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-secrets-of-auditory-success-on-youtube-videos/"><u>[Updated] Unlock the Secrets of Auditory Success on YouTube Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-recording-success-a-step-by-step-approach-to-capturing-chats-on-messenger/"><u>2024 Approved Recording Success A Step-by-Step Approach to Capturing Chats on Messenger</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/crafting-the-perfect-zoom-call-timeline-for-2024/"><u>Crafting the Perfect Zoom Call Timeline for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-these-6-no-cost-alternates-to-openais-sora-technology-today/"><u>Discover These 6 No-Cost Alternates to OpenAI’s Sora Technology Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-freeing-up-storage-on-your-windows-11-pc/"><u>Effective Techniques for Freeing Up Storage on Your Windows 11 PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13-ultra-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi 13 Ultra to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-pop-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Pop 8 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-13c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Xiaomi Redmi 13C via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-g310-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia G310 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-n55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo N55 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-for-a-quick-clean-boot-into-windows-11-os/"><u>The Ultimate Guide for a Quick Clean Boot Into Windows 11 OS</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-10-essential-no-cost-vst-plugin-tools-where-to-find-them/"><u>Updated 2024 Approved Top 10 Essential No-Cost VST Plugin Tools – Where to Find Them</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premiere-pro-rapid-transitions/"><u>[New] Premiere Pro Rapid Transitions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-keep-up-to-date-with-youtube-community-guidelines/"><u>[Updated] Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-real-time-recording-rivals-obs-and-shadowtoolkit-for-2024/"><u>[Updated] Real-Time Recording Rivals OBS & ShadowToolKit for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a38-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A38 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-asus-rog-phone-7-ultimate-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Asus ROG Phone 7 Ultimate to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-a14-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy A14 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y77t-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y77t to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic5-ultimate-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic5 Ultimate to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nubia-red-magic-8s-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nubia Red Magic 8S Pro FRP Without Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-pathway-to-captivating-audio-on-macos-via-audacity/"><u>In 2024, The Pathway to Captivating Audio on MacOS via Audacity</u></a></li>
+<li><a href="https://fox-links.techidaily.com/must-visit-web-resources-for-text-aesthetics-and-functionality/"><u>Must-Visit Web Resources for Text Aesthetics & Functionality</u></a></li>
 </ul></div>
 

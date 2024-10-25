@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Honor 90 Lite to Gmail | Dr.fone
-date: 2024-10-14T20:49:31.361Z
-updated: 2024-10-19T17:43:30.946Z
+date: 2024-10-24T16:23:36.615Z
+updated: 2024-10-25T16:39:42.601Z
 tags: 
   - transfer
 categories:
@@ -84,6 +84,13 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
@@ -92,10 +99,10 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3. Other Ways to Backup Android Contacts
@@ -164,18 +171,18 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Honor 90 Lite to Gmail.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer Text Messages from Honor 90 Lite to New Phone
 
 _Hi, I have recently bought a new iPhone. Is there any way to transfer my text messages (Inbox and Sentbox) from my old Samsung phone to the new iPhone? I have used the Samsung Kies program to transfer my Contacts, Music, and Pictures, but there is no option within the program to transfer text messages. I would really appreciate any suggestions? How to transfer texts to a new phone? Thanks._
 
 In this article, we are going to introduce a powerful tool to solve the problem above. This tool is MoibleTrans; it will help you to easily **transfer text messages to a new phone** in 1 click.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Way to Transfer Text Messages to New Phone
 
@@ -196,13 +203,6 @@ Transfer Text Messages to New Phone in 1 click!
 Download this tool to try transferring text messages to the new phone. Here, I'd like to give the Windows version a shot. And also, we take data transfer from Samsung to iPhone as an example.
 
 ## How to Transfer Text Messages to New Phone Step by Step
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1. Run this phone transfer tool on the computer
 
@@ -227,10 +227,10 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 ![transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I Transferred Messages from Honor 90 Lite to iPhone 12/XS (Max) in Seconds
@@ -253,39 +253,19 @@ The first method to transfer text messages from Honor 90 Lite to iPhone 12/XS (M
     ![transfer messages from android to iPhone XS (Max) with move to ios](https://images.wondershare.com/drfone/article/2018/01/15150785955979.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. On your Honor 90 Lite, click ‘Continue’ and then press ‘Agree’. When prompted for a passcode, enter the one you got from iPhone 12/XS (Max).
 
     ![transfer SMS from android to iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Ensure that the Android phone is also connected to Wi-Fi. Now, click on ‘Messages’ from the ‘Data Transfer’ option. Click ‘Next’ and wait a while to finish the data transfer. Hit the ‘Done’ button afterward once the iPhone 12/XS (Max) gets synched with these messages, set up your iCloud account, and view the messages.
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
 
@@ -320,15 +300,22 @@ Note:    Selecting the ‘Clear Data before Copy’ option completely deletes
 
 ![transfer messages from android to iPhone 12/XS (Max) - source and target connected to pc](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3:  In this section, tap on ‘Messages’ and select the ones you want to selectively transfer. Hit the ‘Start Transfer’ button and then wait a while. Click ‘OK’ once the transfer process is over.
 
 ![confirm to transfer messages from android to iPhone XS (Max)](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to transfer only selected messages iPhone 12/XS (Max)
@@ -360,6 +347,13 @@ Step 3:  From the list of messages, choose the desired text messages and hit th
 
 ![transfer messages from android to iPhone XS (Max) - choose device](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 I hope, this article brought you answers to your messages and data transfer queries. From my own experience, I found Dr.Fone Toolkit as the most viable option. If you are looking for a solution that leads to no data loss, then you can go for either [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) or [Dr.Fone - Phone Manager](https://drfone.wondershare.com/iphone-transfer.html).
@@ -378,22 +372,16 @@ I hope, this article brought you answers to your messages and data transfer quer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-low-power-pc-screen-capturing-apps/"><u>[New] In 2024, Essential Low-Power PC Screen Capturing Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-techniques-to-effortlessly-record-your-instagram-experiences/"><u>[New] In 2024, Techniques to Effortlessly Record Your Instagram Experiences</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-quick-retrieval-of-hidden-reddit-threads-for-2024/"><u>[Updated] Mastering Quick Retrieval of Hidden Reddit Threads for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-a-novel-world-in-watch-dogs-legion-game-review/"><u>Discovering a Novel World in Watch Dogs: Legion - Game Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-xiaomi-redmi-k70-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Xiaomi Redmi K70.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic V2 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-lava-yuva-2-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Lava Yuva 2 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lava-blaze-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lava Blaze Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-a2plus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi A2+ to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f04-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F04 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-s18-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo S18 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-14-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 14 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-tecno-spark-10-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Tecno Spark 10 4G to iPod | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>In 2024, Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-magic-v2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor Magic V2 FRP Without Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximize-iphone-imaging-select-accessories-for-professionals-for-2024/"><u>Maximize iPhone Imaging Select Accessories for Professionals for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-cash-reviewing-gadgets-apparel-and-more-on-the-web/"><u>Yield Cash Reviewing Gadgets, Apparel, and More on the Web</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-earnings-expertise-on-streaming-services-the-ultimate-guide/"><u>[New] 2024 Approved Earnings Expertise on Streaming Services The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/expertly-curated-facebooks-1-10-plays-for-2024/"><u>Expertly Curated Facebook's #1-#10 Plays for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-message-problem-with-android-contacts-a-step-by-step-guide/"><u>Fix Your iPhone's Message Problem with Android Contacts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidden-gpus-in-winos-environments/"><u>Hidden GPUs in WINOS Environments</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-play-8t-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Play 8T to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y100t-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y100t to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-moto-g24-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola Moto G24 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-fix-issues-in-photoviewer-v8-with-stellar-repair-techniques/"><u>Step-by-Step Tutorial: Fix Issues in PhotoViewer v8 with Stellar Repair Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/4-youtube-gaming-video-ideas-to-boost-gaming-channels-for-2024/"><u>Top 14 YouTube Gaming Video Ideas to Boost Gaming Channels for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-consistency-through-masterful-use-of-luts-in-ae/"><u>Visual Consistency Through Masterful Use of LUTs in AE</u></a></li>
 </ul></div>
 

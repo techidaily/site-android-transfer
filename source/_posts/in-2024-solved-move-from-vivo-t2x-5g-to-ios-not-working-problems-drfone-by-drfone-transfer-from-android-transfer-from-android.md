@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solved Move from Vivo T2x 5G to iOS not Working Problems | Dr.fone
-date: 2024-10-16T19:00:05.386Z
-updated: 2024-10-19T16:47:00.504Z
+date: 2024-10-24T16:02:04.989Z
+updated: 2024-10-25T16:01:45.650Z
 tags: 
   - transfer
 categories:
@@ -102,10 +102,16 @@ Wi-Fi connectivity is a significant factor in ensuring data transfer is successf
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the Vivo T2x 5G devices connected to power before you start moving your content from android to iOS device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 5: Set your phone into airplane mode
@@ -114,23 +120,9 @@ When you transfer android data to iOS using the Move to iOS tool, apple recommen
 
 The best way to ensure these distractions are not happening is to turn on airplane mode on the android device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 6: Check the storage requirement
 
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 7: Disable the connection optimizer
 
@@ -143,13 +135,6 @@ You need to check whether your android device meets the minimum requirements to 
 ### Tip 9: Turn off battery optimization
 
 Turning off the battery optimization on both your Android and iOS device is a requirement when using the Move to iOS tool. The app is designed to run in the foreground, and the android user should not have other applications running. However, the phone might automatically minimize the Move to iOS app when it switches to battery optimization mode. Therefore you should ensure the feature is closed from the settings of your android device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: \[Alternative\] Move to iOS not working solved without a PC
 
@@ -200,6 +185,13 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![connect your Vivo T2x 5Gs](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Select the types of data you want to transfer, then click on the 'start transfer' option to continue. Be careful not to disconnect the Vivo T2x 5G devices until the process is complete.
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -215,6 +207,13 @@ The following steps will help you transfer data from android to an iOS device us
 
 Transferring data from android to iOS device has been made easier with the Move to iOS app. However, you need to consider the requirements for the data transfer process to complete successfully. You can also apply Dr. Fone – Phone Transfer as your recommended alternatives to transfer android data to the iOS device in the simplest way.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer Data from Vivo T2x 5G to Samsung Phone
 
 Samsung is undoubtedly the most widely used smartphone manufacturer today. Cutting edge functionalities in prices that are affordable makes Samsung a favorite. Therefore, more and more users will need to transfer data to Samsung’s devices. In this article, we are going to share how to transfer data from Motorola to Samsung, especially for **how to transfer contacts from Motorola to Samsung**. Check them out.
@@ -224,6 +223,13 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 ## Part 1: Transfer Data from Motorola to Samsung using Dr.Fone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can be used for transferring data from to phone to another phone like messages, contacts, call logs, calendars, photos, music, video, and apps. Also, you can back up your iPhone and save the data on your PC, for example, and restore it later when you wish. Basically, all your necessary data can be transferred fast from a phone to another phone, including transfer from Motorola to Samsung.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -300,10 +306,10 @@ Afterward, click "Transfer" to commence the WhatsApp transfer process. A prompt 
 ![whatsapp data transfer in process](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3. Using Official Tools to Transfer Data from Motorola to Samsung
@@ -314,6 +320,13 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 
 ![motorola to samsung data transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** On the Motorola device, tap "Send Data" and follow it by pressing "Wireless." Now move to Samsung and tap "Receive Data," then press "Galaxy/Android," and finally tap "Wireless."
 
 ![receive data on samsung](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-5.jpg)
@@ -321,13 +334,6 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 **Step 3.** Afterward, finalize the connection by selecting "Allow" on the old phone. Then, on your new phone, select the content you wish to transfer and proceed by tapping "Transfer." Once the transfer finishes, tap "Go to Home Screen" on the new phone, and you're all set to proceed.
 
 ![head to home screen after transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tip: Want to Manage Your Vivo T2x 5G Data before Transferring Data?
 
@@ -338,13 +344,6 @@ Moreover, it enables easy transfer of media files between iTunes and Android. Dr
 ![wondershare dr.fone phone manager](https://images.wondershare.com/drfone/guide/manage-android-apps-1.png)
 
 To cater for the above mentioned problems and many other, Dr.Fone - Phone Transfer was developed. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is an easy to use tool. It has been designed to assist you to in transferring data from your old phone to your new phone, including transferring contacts from Motorola to Samsung.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Migrate Android Data From Vivo T2x 5G to New Android Phone?
 
@@ -375,6 +374,13 @@ Since Google Drive is already available on all the Vivo T2x 5G devices, it can r
 8\. To migrate Android to Android, just click on the “Restore” button and move your data from your old to new device.
 
 ![restore backup from google drive](https://images.wondershare.com/drfone/article/2017/11/15113676734393.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to migrate Android data using Dr.Fone - Phone Transfer?
 
@@ -408,13 +414,6 @@ Migrate Android Data to New Android Phone in 1 Click.
 5\. After selecting the type of data you wish to move, click on the “Start Transfer” button. This will initiate the phone migration process by moving your selected content to the target device.
 
 ![transfer from android to android](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6\. Wait for a while as Dr.Fone will migrate Android device to any other phone. Don’t close this window or disconnect the Vivo T2x 5G device during this stage.
 
@@ -454,6 +453,13 @@ Helium Download URL: <https://play.google.com/store/apps/details?id=com.koushikd
 
 ![transfer apps](https://images.wondershare.com/drfone/article/2017/11/15113679896741.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Bookmarks and passwords**
 
 If you use Google Chrome to store your passwords and bookmarks, then you can also migrate Android this content. Just go to Google Settings on the Vivo T2x 5G device and turn on the option of “Smart Lock for Passwords”. In this way, you won’t have to enter your passwords over and over again.
@@ -476,16 +482,24 @@ As you can see, the manual phone migration method will consume a lot of time and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>[New] 2024 Approved Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-artisanarray-pro-online-creation-powerhouse/"><u>2024 Approved ArtisanArray Pro Online Creation Powerhouse</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pova-6-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pova 6 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40i-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40i to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo T2 Pro 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 80 Pro Straight Screen Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78t To Phone | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964442414-new-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternative-from-the-bes/"><u>New Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/secure-your-microsoft-project-and-visio-professionals-for-a-steal-only-20-avaliable-now-with-exclusive-deal-from-zdnet/"><u>Secure Your Microsoft Project and Visio Professionals for a Steal – Only $20 Avaliable Now with Exclusive Deal From ZDNet!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/strategies-to-correct-overflowing-disk-space-on-windows-10-machines/"><u>Strategies to Correct Overflowing Disk Space on Windows 10 Machines</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-9-best-features-in-the-windows-11-february-2023-update/"><u>The 9 Best Features in the Windows 11 February 2023 Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-e-commerce-hubs-for-tailored-box-creation/"><u>[New] 2024 Approved Essential E-Commerce Hubs for Tailored Box Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>[New] From Amateurs to A-Listers Top 10 Film Cameras Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-redefining-schooling-with-virtual-reality/"><u>[Updated] Redefining Schooling with Virtual Reality</u></a></li>
+<li><a href="https://win-updates.techidaily.com/cant-delete-mcafee-from-your-system-successful-steps-to-fully-eliminate-mcafee-antivirus/"><u>Can't Delete McAfee From Your System? Successful Steps to Fully Eliminate McAfee Antivirus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-z-fold-5-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy Z Fold 5 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-12-proplus-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 12 Pro+ 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-s23plus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S23+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-poco-m6-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Poco M6 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v29e-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-y200-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo Y200 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-s24-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy S24 to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-v30-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo V30 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-flip-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 Flip to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-new-frontiers-a-guide-to-metaverse-promotion/"><u>In 2024, Navigating New Frontiers A Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-bit-storage-with-3d-printed-holograms-in-common-materials-keys-addresses-up-to-576-bits-achieved/"><u>Maximizing Bit Storage with 3D-Printed Holograms in Common Materials - Keys, Addresses Up to 576 Bits Achieved!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/share-your-videos-with-ease-transferring-dvds-to-google-drive-made-simple/"><u>Share Your Videos with Ease: Transferring DVDs to Google Drive Made Simple</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stellaris-unveiled-mastering-the-cosmos-in-an-epic-strategy-adventure/"><u>Stellaris Unveiled: Mastering the Cosmos in an Epic Strategy Adventure</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
 </ul></div>
 

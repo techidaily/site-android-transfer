@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Sync Contacts from HTC U23 to Gmail | Dr.fone
-date: 2024-10-13T19:50:53.072Z
-updated: 2024-10-19T18:56:57.516Z
+date: 2024-10-24T16:12:05.101Z
+updated: 2024-10-25T16:05:38.466Z
 tags: 
   - transfer
 categories:
@@ -55,13 +55,6 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-export to vcard file](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - 8\. You will be taken to a page to select where you want the file to be saved on your PC, select the location, and click on OK to start exporting your contacts.
 
 Once your contacts have been successfully saved to your PC as a vCard or in.VCF format can be easily imported into your Gmail account right from your computer by following these steps.
@@ -91,6 +84,13 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
@@ -105,6 +105,19 @@ Smartphone users as a whole never want to lose their contacts; however, sometime
 Although there has been no record of such occurrence in the past from users who export contacts from HTC U23 to Gmail, it is still advisable to perform a backup.
 
 Another way to back up your contacts before you sync contacts from HTC U23 to Gmail can be found in this article: [Four Ways to Backup Android Contacts Easily](https://drfone.wondershare.com/contacts/backup-contacts-android.html).
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Basic Solutions to Fix Google Contacts Syncing Issues on Android
 
@@ -175,6 +188,13 @@ However, can you save all the data? Let’s find out.
 ## Can You Save Your Data After Switching From HTC U23 to Samsung S23?
 
 ![samsung galaxy s23 on a table](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can save all data after switching from HTC U23 to Samsung S23. It doesn’t matter which Android phone you’ve used before buying the latest Samsung model because you have many data transfer options.
 
@@ -260,14 +280,14 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 
 ![transferring data via bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Use Google Drive
 
@@ -279,27 +299,26 @@ Transferring data from HTC U23 to Samsung S23 is seamless with Google Drive. Her
 
 ![uploading data to google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Add all folders or files you wish to transfer to your new phone.
 3. Open Google Drive on your Samsung S23 and sign into the correct account.
 4. Select the uploaded data, tap the **kebab menu**(the three vertical dots in the top right corner), and hit **Download**.
 
 ![downloading data from google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Google Drive may limit you to 15 GB of free storage, but it’s among the best Google apps for sharing files across devices. You may already use its desktop version to collaborate on docs and spreadsheets, so why not leverage its handy mobile app?
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Transfer Data Using a USB Cable
 
@@ -324,19 +343,6 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 4. Choose the desired file manager on your new phone and browse your old Android’s internal storage.
 
 ![accessing android data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-15.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Choose folders or files to transfer, tap the **kebab menu**for more options, and select **Copy to**.
 
@@ -409,20 +415,27 @@ Between the two Android phones, display all the contents you can transfer. You c
 
 ![How to Transfer data from HTC U23 to Other Android Devices-Android to Android transfer completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-That's all. It isn't easy to transfer all your data from HTC U23 to Other Android Devices. Try [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) free to transfer Android files to your new Android phone. It is the best Android to Android data transfer tool. With it, you can transfer everything from HTC U23 to Other Android Devices.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+That's all. It isn't easy to transfer all your data from HTC U23 to Other Android Devices. Try [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) free to transfer Android files to your new Android phone. It is the best Android to Android data transfer tool. With it, you can transfer everything from HTC U23 to Other Android Devices.
 
 ## Part 2. How to Transfer Everything from HTC U23 to Other Android Devices with Google Backup
 
 No one likes to spend a lot of time on the stuff, such as transfer data from HTC U23 to Other Android Devices every time you change the phone. If you want to transfer quickly and painlessly, then here is the best which explains how to transfer data from HTC U23 to Other Android Devices using the Google Backup method. Google still has many ways to get all your stuff off your old device and add to your new device using Google Backup.
 
 ![how to transfer from HTC U23 to Other Android Devices -Google Backup](https://images.wondershare.com/drfone/article/2017/11/android-android-001.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Before taking up backup the first thing you need to do is to sign-in the Android phone using your Google account. In the setting menu, you need to search for Backup and reset mode. Make sure you have backup data and automatic restore as both are flipped on your google account. Your Google server will remember your password, so you do not need to re-enter the password every time you sign in. Google sync really very well with Android devices.
 
@@ -444,13 +457,6 @@ Transferring the contacts is the most important thing, the time has come when yo
 
 ![how to transfer from HTC U23 to Other Android Devices - Transfer Contacts](https://images.wondershare.com/drfone/article/2017/11/android-android-003.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Transfer SMS from HTC U23 to Other Android Devices
 
 You can now transfer your old SMS to the Android device easily by using this free SMS backup app, which can restore and transfer all SMS stored in XML file format, and then you can send directly to your new Android devices. Here we have used a backup app that can explain how to transfer from HTC U23 to Other Android Devices easily when connected with each other and help you out to restore the SMS messages. Note that this app won’t pay attention to which SMS already exists and which one is imported twice. Instead, you can use MobileTrans one-click app, which helps you out in resolving this problem.
@@ -458,10 +464,10 @@ You can now transfer your old SMS to the Android device easily by using this fre
 ![how to transfer from HTC U23 to Other Android Devices - Transfer SMS](https://images.wondershare.com/drfone/article/2017/11/android-android-004.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Transfer Photos from HTC U23 to Other Android Devices
@@ -500,15 +506,22 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/"><u>[New] Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-step-by-step-for-winning-anime-projects-via-movie-maker-for-2024/"><u>[New] Step-by-Step for Winning Anime Projects via Movie Maker for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-10-immersive-traits-in-filmoras-editing-software/"><u>[New] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>[Updated] Smooth Surfaces From Stability Handheld Tech for Pros</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellent-selection-of-top-8-blu-ray-player-models-for-2024/"><u>Excellent Selection of Top 8 Blu-Ray Player Models for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/green-thumb-essentials-starting-your-organic-veg-patch-the-earth-friendly-way-for-novices/"><u>Green Thumb Essentials: Starting Your Organic Veg Patch the Earth-Friendly Way for Novices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-v2-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Magic V2 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-zero-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Zero 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y100i-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y100i to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-moto-g04-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Moto G04 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-share-twitter-videos-on-facebook/"><u>[New] 2024 Approved How to Share Twitter Videos on Facebook?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-obs-preset-for-economical-machines/"><u>[New] Ideal OBS Preset for Economical Machines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>[Updated] Creating an Auditory Ambiance Choosing Background Music for Trailers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-streamline-your-tiktok-creation-process-with-zoom/"><u>[Updated] In 2024, Streamline Your TikTok Creation Process with Zoom</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-spark-20-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Spark 20?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elitepixel-recorder-winos-series-for-2024/"><u>ElitePixel Recorder WinOS Series for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-x50iplus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor X50i+ to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30-vip-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30 VIP to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-a60s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel A60s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-lava-blaze-curve-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Lava Blaze Curve 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oneplus-12r-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from OnePlus 12R to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-zte-axon-40-lite-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your ZTE Axon 40 Lite via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c110-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C110 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 6 Lite to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/retrospective-of-stop-motion-films-top-15-honorees-for-2024/"><u>Retrospective of Stop-Motion Films - Top 15 Honorees for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-graphics-card-software-for-windows-users/"><u>Step-by-Step Guide: Updating Graphics Card Software for Windows Users</u></a></li>
 </ul></div>
 

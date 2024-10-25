@@ -1,7 +1,7 @@
 ---
 title: Top 6 Ways to Transfer Text Messages from Realme 11X 5G to Other Android Devices | Dr.fone
-date: 2024-10-17T17:16:47.672Z
-updated: 2024-10-19T17:43:48.142Z
+date: 2024-10-20T16:50:20.862Z
+updated: 2024-10-25T16:36:28.529Z
 tags: 
   - transfer
 categories:
@@ -24,6 +24,13 @@ With the advancement in technology, your expectations have also increased. You h
 ## Part 1: Best free apps to transfer text messages from Realme 11X 5G to Other Android Devices
 
 When you are planning to upgrade your phone from one Android version to another, and you want to transfer all your existing SMS’s from one phone to another, then there are several free applications that are available on the Play Store that can make your life easy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. SMS Backup and Restore App
 
@@ -56,6 +63,13 @@ One of the best and easiest ways to transfer text messages from your old Android
 **Step 9 -** Select the message option from the two options displayed and click on “Restore”.
 
 ![messages transfer by sms backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
 
@@ -93,6 +107,13 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 
 ![messages transfer by smart switch 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3 -** Connect with the “Wireless” connection on both the Realme 11X 5G devices.
 
 **Step 4 -** Select the content you want to transfer to the Galaxy device and click on “Send” button to start transferring the content from one device to another.
@@ -123,13 +144,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2 -** Now, you need to connect your Realme 11X 5Gs with your PC using the USB cable to transfer the text messages from the old Android to new Android device. If the source and destination positions are not correct, do it using the Flip button available at the bottom center.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
@@ -158,25 +172,18 @@ Whether you want to transfer data, i.e. images or videos or text messages, the s
 
 ![android to android transfer models](https://images.wondershare.com/drfone/article/android-to-android-transfer-models.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Now, get into the “SMS” section from the left panel. Then, hit on the “Export” icon followed by the “Export to \[Device Name\]” option.
 
 ![android transfer export sms to android](https://images.wondershare.com/drfone/article/android-transfer-export-sms-to-android.jpg)
 
-**Step 4:** \[Optional\] Once done, repeat the process for all other data types. In a short span of time, you’ll get all your data transferred to your target device without any hassles.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step 4:** \[Optional\] Once done, repeat the process for all other data types. In a short span of time, you’ll get all your data transferred to your target device without any hassles.
 
 ### Bottom Line
 
@@ -189,10 +196,10 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 [![James Davis](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The phone industry, for years, has constantly improved on the design and development of mobile phones being released into the market. One of the major developments is the introduction of the camera to mobile phones. The ease of carriage and portability has made mobile phone cameras a preference over digital cameras. As a result we are witnessing more pictures taken with the aid of a phone. This also means most of these photos are stored on the phone memory.
@@ -204,13 +211,6 @@ Most of these photos would need to be shared with other people who are either a 
 One way of moving your photos between android devices is through the use of file transfer software. This software enables you to connect both android devices together.
 
 Using file transfer software to move your photos from one android device to another android device provides a secure and sure transfer window, ensuring your files won’t be lost. Reliable software you can use for this purpose is the [**Dr.Fone - Phone Transfer**](https://tools.techidaily.com/wondershare/drfone/phone-switch/) software. Dr.Fone - Phone Transfer file transfer software is topnotch and user friendly. This article will carefully lead you through the process of using this software.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -241,6 +241,13 @@ Using a good USB cable, connect both old and new devices to your PC. When that i
 Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to transfer photos. Go to view trabsferred photos on the destination phone until it completes.
 
 ![How to Transfer Photos from Realme 11X 5G to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Photos from Realme 11X 5G to New Android Using NFC
 
@@ -281,10 +288,10 @@ To ensure a successful transfer, make sure devices are not locked neither should
 5\. Finally, when the beaming is complete, you will hear an audio sound. This is to confirm completion of the process. Alternatively, instead of an audio confirmation, the application on your new android device to which the photos were sent will automatically launch and display the beamed content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3. Transfer Photos between Android Phones by Bluetooth
@@ -299,19 +306,6 @@ The purpose of this article is to guide you through the process of successfully 
 
 ![How to Transfer Photos from Realme 11X 5G to Other Android Devices by Bluetooth-Pair Devices](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-02.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A message will pop up on your new android device, requesting permission to pair with your Realme 11X 5G. Click "Accept “to establish connection.
 
 3\. After both devices have successfully been paired to each other, go to the folder containing the Photos your want to send to your new Android device. Select the photo or if they are more than one, long press on a photo. This will create a thumbnail. Select the photos you want to transfer and choose the share button normally depicted by this icon
@@ -319,13 +313,6 @@ A message will pop up on your new android device, requesting permission to pair 
 4\. A list of option will appear. Choose Bluetooth. This will take you back to The Bluetooth application. Click on your new android device that you have previously paired with. A Message will appear on your new device asking for permission to receive the photos from your Realme 11X 5G. Click "Accept". This will initiate the transfer process. A progress bar at the top of your screen will show you the Progress of each transfer.
 
 ![How to Transfer Photos from Realme 11X 5G to Other Android Devices by Bluetooth](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Transfer Photos from Old to New Android Phones via Device-Specific App
 
@@ -336,6 +323,13 @@ The Samsung smart switch software helps to Transfer Photos either by cable or wi
 1\. Open the switch app on both Samsung devices. On the sending device, tap “Send data” and on the receiving device, tap “Receive data”.
 
 ![How to Transfer Photos from Realme 11X 5G to Other Android Devices by Smart Switch-set Sending Device and Receiving Device](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. Now, choose either the Cable option using an OTG adapter or wireless transfer option.
 
@@ -419,22 +413,19 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-art-of-online-podcast-filming/"><u>[Updated] 2024 Approved The Art of Online Podcast Filming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beginning-with-the-meta-headset-how-to-set-up-an-oculus-questquest-2-profile/"><u>Beginning with the Meta Headset: How to Set Up an Oculus Quest/Quest 2 Profile</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-11x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme 11X 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-11-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 11 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-s17t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo S17t to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-x50iplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor X50i+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-p55plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel P55+ Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a34-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A34 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-70-lite-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 70 Lite 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-130-music-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia 130 Music to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>In 2024, Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-your-online-routine-utilizing-facebook-breaks/"><u>Mastering Your Online Routine: Utilizing Facebook Breaks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/metaverse-laughs-crafting-funny-virtual-memes/"><u>Metaverse Laughs Crafting Funny Virtual Memes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-guide-to-gopro-4k-video-enhancement-for-2024/"><u>Quick Guide to GoPro 4K Video Enhancement for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-true-worth-of-a-premium-spotify-account/"><u>The True Worth of a Premium Spotify Account</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23-for-2024/"><u>The Ultimate Guide to YouTube's Most Captivating Storytellers in '23 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovating-everyday-life-top-10-vr-accessory-guide/"><u>[New] Innovating Everyday Life Top 10 VR Accessory Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-efficient-video-trimming-methods-in-windows-11/"><u>[Updated] Efficient Video Trimming Methods in Windows 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-generating-a-timeless-tiktok-outro-feature/"><u>[Updated] Generating a Timeless TikTok Outro Feature</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-authenticating-a-step-by-step-for-youtube-users/"><u>[Updated] In 2024, Authenticating A Step-by-Step for Youtube Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pushing-limits-with-vr-which-console-and-controller-fits-best/"><u>[Updated] In 2024, Pushing Limits with VR Which Console and Controller Fits Best?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-gt-10-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix GT 10 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oneplus-ace-2v-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone OnePlus Ace 2V Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-9a-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 9A Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-s17-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo S17 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-enhancing-worker-engagement-through-thoughtful-space-configuration/"><u>In 2024, Enhancing Worker Engagement Through Thoughtful Space Configuration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-data-on-the-go-locking-down-usb-thumb-drives-with-windows-security-features/"><u>Secure Your Data on the Go: Locking Down USB Thumb Drives with Windows Security Features</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-virtual-machines-ram-shortage-on-pcs/"><u>Tackling Virtual Machine's RAM Shortage on PCs</u></a></li>
 </ul></div>
 

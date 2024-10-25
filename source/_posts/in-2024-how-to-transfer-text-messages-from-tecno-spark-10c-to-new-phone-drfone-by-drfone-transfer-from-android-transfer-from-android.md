@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Text Messages from Tecno Spark 10C to New Phone | Dr.fone
-date: 2024-10-14T18:21:51.588Z
-updated: 2024-10-19T18:31:32.174Z
+date: 2024-10-24T16:39:07.853Z
+updated: 2024-10-25T16:04:31.786Z
 tags: 
   - transfer
 categories:
@@ -41,20 +41,14 @@ Transfer Text Messages to New Phone in 1 click!
 
 Download this tool to try transferring text messages to the new phone. Here, I'd like to give the Windows version a shot. And also, we take data transfer from Samsung to iPhone as an example.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Transfer Text Messages to New Phone Step by Step
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1. Run this phone transfer tool on the computer
 
@@ -71,13 +65,6 @@ As I mentioned above, Dr.Fone lets you export SMS on the old Nokia phone, Androi
 Besides, "Flip" between two phones lets you change places of the two phones.
 
 ![connect devices to transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3. Transfer text messages to new phone
 
@@ -113,6 +100,13 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 ![How to Transfer Photos from Tecno Spark 10C to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2. Connect both phones to PC and select "Photos"
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both devices between “source” and “Destination” by using the “Flip” button.
@@ -124,6 +118,13 @@ Using a good USB cable, connect both old and new devices to your PC. When that i
 Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to transfer photos. Go to view transferred photos on the destination phone until it completes.
 
 ![How to Transfer Photos from Tecno Spark 10C to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
@@ -139,23 +140,9 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 ![Transfer Photos from Tecno Spark 10C to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
 ![Transfer data from Tecno Spark 10C to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Another method of checking is by opening the settings menu and tapping on the search icon. Type in “NFC”. If your phone is capable, it will show up. The NFC function works hand-in-hand with the android beam. NFC may not work at optimal levels if the android beam is “off”.
 
@@ -166,13 +153,6 @@ To select multiple photos, long press on a photo. Then choose the photos you wan
 Next, place both devices against each other, back to back.
 
 ![Transfer Photos from Tecno Spark 10C to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
@@ -236,13 +216,6 @@ Advantage: This is a very fast process.
 
 Disadvantage : Sometimes the contacts are not saved automatically. You have to open the name card file one by one to save them. If you have a lot of contacts, this process is very hectic and lengthy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to transfer contacts from Tecno Spark 10C to Other Android Devices using Samsung Smart Switch?
 
 Samsung launched a new app called “Smart Switch” to allow transfer of content between Android devices. Although, it does not support allAndroid devices.
@@ -297,6 +270,19 @@ Also, the software supports a wide range of devices, including the latest produc
 2. The tool enables the users to transfer within devices in a few minutes. This saves a lot of time and increases the productivity of the users.
 3. This software is operatable and provides easy navigation for each kind of user. That means you don't have to be a tech expert to run the tool.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps Involved To Transfer Apps From One Android Device to Another Using the Phone Transfer Tool
 
 Wondershare Dr.Fone – Phone Transfer provides a complete solution through a phone transfer process. You can discover the following essential steps in this **how to transfer apps to a new Android phone** procedure:
@@ -312,13 +298,6 @@ Download the Wondershare Dr.Fone toolkit by pressing the "Free Download" provide
 Start the process by connecting both Android devices to load their data onto the platform. After that, designate the "Source" and "Destination" devices for the transfer. You can also use the “Flip” button to flip the Tecno Spark 10C devices.
 
 ![set the phones position](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3: Select the Data Categories for Transfer**
 
@@ -338,6 +317,13 @@ Samsung Smart Switch allows you to quickly transfer various contents from your o
 - **Step 3:** Now, you have to tap the "Receive Data" option on your Galaxy device. Next, select the "Galaxy/Android" option as a data source, followed by the "Wireless" option. Then, you need to "Allow" the connection on the old device that this new device wants to have.
 
 ![receive data from android wirelessly](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** The Galaxy phone will subsequently ask for the data selection. There, you can go into the "Custom" option and select the "Apps" option. Next, choose the applications you want to transfer and hit the "Transfer” option. The transfer process will be complete within a few minutes. You can tap on the "Go to the Home Screen" prompt and find the apps you have just transferred.
 
@@ -363,16 +349,29 @@ There is another method that you can try to **transfer apps to a new Android pho
 
 ![choose to back up data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** Lastly, you can choose the "Apps” option to pick the apps you want on the new device. Afterward, you have to tap on the "Restore" option to restore your Google backup.
 
 ![restore all the necessary apps](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-12.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How To Transfer and Download Apps From One Phone to Another Using Play Store
 
@@ -389,6 +388,13 @@ You can also transfer apps from one phone to another using the Play Store. It's 
 - **Step 3:** You'll encounter a list of previously installed apps linked to your Google account but not currently on your new Galaxy device. Choose the desired apps and tap the “Install” button located at the top right to reinstall them.
 
 ![install previously installed apps again](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -408,20 +414,18 @@ In a nutshell, you can transfer the applications from your old Android device to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-craft-clever-comical-content-for-2024/"><u>[Updated] Craft Clever, Comical Content for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/5aac5l2v5luo5pww5o2u5ash5lu95pah5lu25lit5ogi5asn5lplush5ogv77ya5a6m5ywo5pwz56il/"><u>如何从数据备份文件中恢复信息：完全教程</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/activate-ai-search-on-microsoft-bing-an-easy-setup-tutorial/"><u>Activate AI Search on Microsoft Bing - An Easy Setup Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-inner-workings-of-eco-friendly-motorized-scooters/"><u>Exploring the Inner Workings of Eco-Friendly Motorized Scooters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/groundbreaking-biodegradable-film-technology-advice/"><u>Groundbreaking Biodegradable Film Technology Advice</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-narzo-60-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Narzo 60 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f04-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F04 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F34 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-reno-10-proplus-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Reno 10 Pro+ 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nokia-c12-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nokia C12 for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-spark-20-proplus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Spark 20 Pro+ to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y27-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y27 4G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-civi-3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Civi 3 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/nokias-latest-budget-friendly-handsets-the-enhanced-versions-of-models-207-208-with-dual-sim-capability/"><u>Nokia's Latest Budget-Friendly Handsets: The Enhanced Versions of Models 207, 208 with Dual Sim Capability</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trust-issues-with-zerogpt-and-tech-analysis-aids/"><u>Trust Issues With ZeroGPT & Tech Analysis Aids</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-high-quality-fast-downloaders-for-vimeo-content/"><u>[Updated] High-Quality, Fast Downloaders for Vimeo Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-seamless-classic-play-on-ios-with-select-ps2-emulators-for-2024/"><u>[Updated] Seamless Classic Play on iOS with Select PS2 Emulators for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-techniques-to-decrease-film-duration-on-macos-for-insta-for-2024/"><u>[Updated] Techniques to Decrease Film Duration on macOS for Insta for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-heroes-journey-compilation-a-selection-of-top-10-adventure-games/"><u>2024 Approved Heroes' Journey Compilation A Selection of Top 10 Adventure Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-x90s-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo X90S Fingerprint Lock</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-c12-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia C12 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nokia-130-music-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nokia 130 Music via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x6-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X6 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c65-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C65 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-look-microsofts-strategic-purchase-of-blizzard-and-the-evolving-role-of-ai-in-generating-visual-arts-and-translation-techniques-podcast-session/"><u>Inside Look: Microsoft's Strategic Purchase of Blizzard & The Evolving Role of AI in Generating Visual Arts & Translation Techniques - Podcast Session</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/online-video-leaderships-who-takes-the-crown-vimeo-youtubes-and-dailymotions/"><u>Online Video Leaderships Who Takes the Crown – Vimeo, YouTubes & DailyMotions?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-oneplus-12r-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after OnePlus 12R has been deleted.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-top-tier-electronics-a-deep-dive-with-toms-hardware-knowledge/"><u>Unveiling Top-Tier Electronics: A Deep Dive with Tom's Hardware Knowledge</u></a></li>
 </ul></div>
 

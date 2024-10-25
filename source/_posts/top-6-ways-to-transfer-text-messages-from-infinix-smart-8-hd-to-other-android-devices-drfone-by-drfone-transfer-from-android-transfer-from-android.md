@@ -1,7 +1,7 @@
 ---
 title: Top 6 Ways to Transfer Text Messages from Infinix Smart 8 HD to Other Android Devices | Dr.fone
-date: 2024-10-15T17:34:43.926Z
-updated: 2024-10-19T20:33:46.494Z
+date: 2024-10-20T16:14:43.000Z
+updated: 2024-10-25T16:05:43.228Z
 tags: 
   - transfer
 categories:
@@ -37,13 +37,6 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 ![messages transfer by sms backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4 -** Select where you want to create your backup. And click on “Next”.
 
 ![messages transfer by sms backup restore 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-2.jpg)
@@ -65,13 +58,6 @@ One of the best and easiest ways to transfer text messages from your old Android
 ![messages transfer by sms backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-4.jpg)
 
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Super Backup & Restore
 
@@ -97,6 +83,13 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Smart Switch (Samsung)
 
 Whether you are switching from iPhone or from any Android phone to Samsung Galaxy phone, the transfer of data like image, text messages, videos, etc. is done easily and smoothly using Samsung smart switch. In order to do so, please follow the steps discussed below on how to transfer text messages from Infinix Smart 8 HD to Other Android Devices using Smart Switch.
@@ -106,13 +99,6 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 **Step 2 -** Click on “Send” data on your old smartphone and click on “Receive” data on your new Galaxy phone.
 
 ![messages transfer by smart switch 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3 -** Connect with the “Wireless” connection on both the Infinix Smart 8 HD devices.
 
@@ -148,6 +134,13 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3 –** Simply select the files you want to transfer.
 
 ![phone switch 02](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -157,10 +150,10 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Manage Text Messages from Infinix Smart 8 HD to Other Android Devices using Dr.Fone - Phone Manager
@@ -309,13 +302,6 @@ If you use messages a lot, you'll surely want to move your messaging history fro
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you’re shifting from an Android phone to an Apple device, then this is for you! As you get your brand new iPhone 15/14/13, you may wonder how you can transfer all your data in one go to your new phone. This includes all your contacts, photos, apps, and other vital data from your Infinix Smart 8 HD. But don’t worry, for a hassle-free and easy way to transfer your data you can use the incredible [Dr.Fone Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)! You can quickly and seamlessly transfer all that important stuff to your slick new iPhone 15/14/13 in no time. So, let’s get right into it and see how you can **transfer data from Infinix Smart 8 HD to iphone 13**!
 
 First thing first, get your Infinix Smart 8 HD and new iPhone 15/14/13 ready them sufficiently charged during the transfer process.
@@ -353,27 +339,26 @@ And that's all it takes! In minutes, Dr.Fone securely transfers your essential d
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 So go ahead – move your life to your terrific new iPhone 15/14/13 in minutes with the exceptional data transfer powers of Dr. Fone's Phone Transfer tool! Bid goodbye to manual processes or slow wireless transfers. For swift, simple, and safe **Android to iOS transfer**, Dr Fone is your go-to digital companion!
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Transferring your precious data to a new iPhone 15/14/13 doesn't have to be a headache. With smart use of your SIM card, cloud storage apps like Google Photos, file transfer apps like SendAnywhere, or sophisticated switchers like [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), you can seamlessly move your contacts, photos, media files, chats, and more from **Android to iPhone**. Whether you want to transfer a few vital files or the whole data - music, movies, documents and all - you now have several failure-proof methods to choose from.
 
 So go ahead and make the switch to that new iPhone 15/14/13 without compromising any precious data. Use these time-tested techniques to swiftly move key files like WhatsApp data, photos, contacts, and different types of files from Samsung or any Android to your Apple device. Give your new iPhone a rousing welcome by easily transferring all that Android data!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Two Ways to Sync Contacts from Infinix Smart 8 HD to Gmail
 
@@ -384,15 +369,22 @@ One of the most important stuff you can keep on your phone is your contacts, the
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from Infinix Smart 8 HD to Gmail? (Easier way)
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Infinix Smart 8 HD contact details to another platform.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -414,11 +406,25 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
 
 ![sync contacts from android to gmail-export to vcard file](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - 8\. You will be taken to a page to select where you want the file to be saved on your PC, select the location, and click on OK to start exporting your contacts.
 
@@ -536,22 +542,20 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-online-income-analysis-for-youtube-stars/"><u>[New] 2024 Approved Online Income Analysis for YouTube Stars</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-bridging-the-gap-facebook-to-television-screenplay/"><u>[New] In 2024, Bridging the Gap Facebook to Television Screenplay</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1-effortless-document-conversion-how-to-transform-files-into-pdf-format/"><u>1. Effortless Document Conversion: How to Transform Files Into PDF Format</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-most-recent-amd-radeon-hd-7870-driver-updates-and-downloads-for-windows-10-systems/"><u>Get the Most Recent AMD Radeon HD 7870 Driver Updates and Downloads for Windows 10 Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/gopros-deep-sea-capturing-unforgettable-underwater-scenes/"><u>GoPro's Deep Sea Capturing Unforgettable Underwater Scenes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-100-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 100 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oneplus-12-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from OnePlus 12 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nubia-red-magic-8s-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nubia Red Magic 8S Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-12plus-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 12+ 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-z-fold-5-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy Z Fold 5 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-80-pro-straight-screen-edition-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 80 Pro Straight Screen Edition to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze Pro 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-ios-update-171-enhances-airdrop-connectivity-revamps-music-experience-and-boosts-screen-time-management/"><u>New IOS Update 17.1 Enhances AirDrop Connectivity, Revamps Music Experience & Boosts Screen Time Management</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-unveiling-the-essence-of-clubhouse-a-comprehensive-overview-for-newcomers/"><u>Updated 2024 Approved Unveiling the Essence of Clubhouse A Comprehensive Overview for Newcomers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updated-acer-touchpad-software-for-smooth-gesture-control-in-windows-10-get-it-here/"><u>Updated Acer Touchpad Software for Smooth Gesture Control in Windows 10 – Get It Here!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-getting-the-most-out-of-google-meet-for-free/"><u>[New] 2024 Approved Getting the Most Out of Google Meet (For Free)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ethical-engagement-sustainable-strategies-for-content-creeps-for-2024/"><u>[New] Ethical Engagement Sustainable Strategies for Content Creeps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-is-sns-hdr-pro-the-gold-standard-for-hdr-editors-in-2024/"><u>[New] Is SNS HDR Pro the Gold Standard for HDR Editors, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps/"><u>[New] Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>[Updated] The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enigmatic-strategy-for-impeccable-tiktok-profile-linking/"><u>Enigmatic Strategy for Impeccable TikTok Profile Linking</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a79-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo A79 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-note-30-vip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Note 30 VIP to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-google-pixel-fold-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Google Pixel Fold via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lenovo-thinkphone-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lenovo ThinkPhone to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-80-pro-straight-screen-edition-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 80 Pro Straight Screen Edition to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-how-to-use-video-titles-and-youtube-tags-for-more-views/"><u>In 2024, How to Use Video Titles and YouTube Tags for More Views?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nubia-red-magic-8s-proplus-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nubia Red Magic 8S Pro+ Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-youtube-to-mp4-get-free-hd1080p-from-facebook-vids/"><u>In 2024, YouTube-to-MP4 Get Free HD/1080P From Facebook Vids</u></a></li>
 </ul></div>
 
