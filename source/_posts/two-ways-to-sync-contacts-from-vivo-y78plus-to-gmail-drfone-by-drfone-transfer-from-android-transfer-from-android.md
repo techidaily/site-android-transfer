@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Vivo Y78+ to Gmail | Dr.fone
-date: 2024-08-24T15:01:31.359Z
-updated: 2024-08-25T15:01:31.359Z
+date: 2024-10-30T03:56:11.170Z
+updated: 2024-10-30T23:44:31.770Z
 tags: 
   - transfer
 categories:
@@ -23,8 +23,6 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 ## Part 1: How to Sync Contacts from Vivo Y78+ to Gmail? (Easier way)
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Vivo Y78+ contact details to another platform.
-
-
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -71,14 +69,12 @@ If you followed these steps, you would not only have synced your contacts with y
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2. How to Sync Contacts from Vivo Y78+ to Gmail? (Official Way)
 
 There is also a way whereby you can sync your contacts to your Gmail account on Android using just Your Vivo Y78+. You can do this simply by following these steps:
@@ -90,14 +86,24 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
 ## Part 3. Other Ways to Backup Android Contacts
@@ -166,16 +172,10 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Vivo Y78+ to Gmail.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Migrate Android Data From Vivo Y78+ to New Android Phone?
 
 While getting a brand new smartphone is certainly exciting, the process of phone migration is pretty tiresome. Too many times, users spend a lot of time and efforts to migrate Android to a new smartphone. If you wish to Android migrate to new phone without experiencing any data loss then you can take the assistance of a dedicated tool. There are plenty of ways to migrate Android to Android. In this guide, we will teach you how to migrate Android in three different ways.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to migrate Android using Google Drive?
 
 Since Google Drive is already available on all the Vivo Y78+ devices, it can readily be used to migrate Android to Android without much trouble. Firstly, you need to sync your data from the source device and later log-in to the same account to sync your new phone with the Drive. To perform phone migration using Google Drive, follow these steps:
@@ -184,9 +184,6 @@ Since Google Drive is already available on all the Vivo Y78+ devices, it can rea
 
 ![backup data with google drive](https://images.wondershare.com/drfone/article/2017/11/15113676137229.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Furthermore, you can select the kind of data you wish to sync with your Google Drive. You can simply turn on the feature for Automatic backup to make the most of the space on Google Drive.
 
 3\. Wait for a while as your device will backup its content on the Drive. You can even go to your account’s Drive to view the backup.
@@ -205,14 +202,9 @@ Since Google Drive is already available on all the Vivo Y78+ devices, it can rea
 
 ![restore backup from google drive](https://images.wondershare.com/drfone/article/2017/11/15113676734393.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to migrate Android data using Dr.Fone - Phone Transfer?
 
 One of the most secure and fastest ways to migrate Android device to another phone is by using [Dr.Fone Switch](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Compatible with all the major Android, iOS, and Windows devices, it can easily be used to perform phone migration between different platforms. The tool performs a direct phone to phone transfer. It can Android migrate to new phone all kinds of data like contacts, call logs, bookmarks, messages, photos, videos, music, and more. To migrate Android to Android with no data loss, perform these steps:
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -232,9 +224,6 @@ Migrate Android Data to New Android Phone in 1 Click.
 
 ![migrate android with Dr.Fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 3\. This will provide the following interface. As you can see, Dr.Fone will intuitively detect the source and the target device. Though, you can click on the “Flip” button to interchange the position of the Vivo Y78+ devices as well.
 
 ![connect both devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
@@ -245,14 +234,18 @@ Migrate Android Data to New Android Phone in 1 Click.
 
 ![transfer from android to android](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 6\. Wait for a while as Dr.Fone will migrate Android device to any other phone. Don’t close this window or disconnect the Vivo Y78+ device during this stage.
 
 7\. Once your Android migrate to new phone, you will be notified by displaying the following prompt.
 
 That’s it! After following these steps, you would be able to migrate Android to Android easily. Just disconnect your Vivo Y78+s safely and use them the way you like.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to migrate Android data manually?
 
@@ -278,6 +271,13 @@ The smartest way to Android migrate to new phone your media files (like photos, 
 
 ![transfer media data](https://images.wondershare.com/drfone/article/2017/11/15113677438605.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Transfer apps**
 
 You can also move your important apps while performing phone migration. There are dedicated third-party solutions that you can use for this. For instance, Helium can help you move your important apps and app data from one device to another.
@@ -294,10 +294,6 @@ If you use Google Chrome to store your passwords and bookmarks, then you can als
 
 As you can see, the manual phone migration method will consume a lot of time and effort of yours. Therefore, we recommend using Dr.Fone Switch to migrate Android to Android without any data loss. It is a highly secure and reliable tool that will let you migrate Android to any other platform without any hassle.
 
-
-
-
-
 ## How to Transfer Data After Switching From Vivo Y78+ to Latest Samsung
 
 Have you finally gotten your hands on the latest smartphone from Samsung’s flagship Galaxy S series? Whether you have the compact S23, the slightly larger S23 Plus, or the sleek S23 Ultra, you’re in for a thrilling ride of exceptional performance and vivid graphics.
@@ -310,20 +306,22 @@ However, can you save all the data? Let’s find out.
 
 ![samsung galaxy s23 on a table](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can save all data after switching from Vivo Y78+ to Samsung S23. It doesn’t matter which Android phone you’ve used before buying the latest Samsung model because you have many data transfer options.
 
 Samsung Smart Switch may have features exclusive to Galaxy devices (among other limitations), but all methods let you transfer data seamlessly from Vivo Y78+ to Samsung S23. Here’s how each works.
 
 The following methods will help you move data from Vivo Y78+ to Samsung S23 within minutes. Each is straightforward, so your choice will depend on your preferences. Let’s dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### 1\. Transfer Data Using Wondershare Dr.Fone Phone Transfer
 
 Wondershare Dr.Fone is an all-in-one phone manager offering multiple tools. Besides moving data between phones, it lets you repair your Android system, recover files and passwords, remove lock screens, and erase data. You can even transfer WhatsApp, Viber, WeChat, and LINE chats and files.
-
-
 
 Here’s how to move data from Vivo Y78+ to Samsung S23 with Wondershare Dr.Fone:
 
@@ -333,23 +331,21 @@ Here’s how to move data from Vivo Y78+ to Samsung S23 with Wondershare Dr.Fone
 ![wondershare dr.fone toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Connect your old Android and Samsung S23 to the computer with USB cables.
 4. Set the source and destination devices in Wondershare Dr.Fone Phone Transfer. The app will load data automatically.
 
 ![wondershare dr.fone phone transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select the categories to copy to Samsung S23 and click **Start Transfer**.
 
 ![data transfer with wondershare dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Wondershare Dr.Fone Phone Transfer lets you move apps, contacts, photos, videos, music, ringtones, text messages, voice memos, call logs, bookmarks, and calendar data between Android devices.
 
 ### 2\. Move Data From Vivo Y78+ to Samsung Using Smart Switch
@@ -369,9 +365,6 @@ Here’s how to move data from Vivo Y78+ to Samsung S23 with Smart Switch:
 
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
 
 ![establishing a wireless connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-5.jpg)
@@ -380,14 +373,15 @@ Here’s how to move data from Vivo Y78+ to Samsung S23 with Smart Switch:
 
 ![moving data with smart switch](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Remember to charge both phones before transferring data or connect them to a power source to ensure the process goes smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Transfer Data Using Google Account Sync
 
 Backing up your Google Account data with Google One means accessing it on any device upon login. The backup includes apps, phone settings, messages, calls, photos, videos, and your chosen Google Account data (e.g., contacts, calendar, emails, and documents).
@@ -398,16 +392,10 @@ Here’s how to transfer data to Samsung Galaxy S23 using Google Account synchro
 
 ![transferring google account data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. On your Samsung S23, go to **Settings > Google**and log into your backed-up Google Account.
 
 Everything you’ve previously backed up will automatically sync once you log into your Google Account.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Share Data via Bluetooth
 
 Bluetooth may be slower than most data-sharing methods, but its reliability is why we never have to imagine life without it. It may not support transferring settings or downloaded apps, but it’s excellent for moving all your photos, videos, music, and other files.
@@ -423,14 +411,8 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 
 ![transferring data via bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Use Google Drive
 
 Google Drive is a prominent cloud storage and file-sharing platform. You’re missing out if you don’t use it. It lets you synchronize data across devices, access files in the cloud, and create presentation slides, spreadsheets, forms, and documents (online and offline).
@@ -447,14 +429,8 @@ Transferring data from Vivo Y78+ to Samsung S23 is seamless with Google Drive. H
 
 ![downloading data from google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Google Drive may limit you to 15 GB of free storage, but it’s among the best Google apps for sharing files across devices. You may already use its desktop version to collaborate on docs and spreadsheets, so why not leverage its handy mobile app?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Transfer Data Using a USB Cable
 
 USB cables—the unsung heroes of connectivity. Like Bluetooth and Wi-Fi, we can’t imagine life without them. They’re perfect for transferring data between devices.
@@ -483,19 +459,12 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 ![choosing data to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Pick any location on your Samsung S23 phone (e.g., the **Downloads**folder for quick access) and tap **Copy**.
 
 ![transferring data to samsung s23](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-17.jpg)
 
 Moving data between phones using a USB cable is faster than Bluetooth but offers the same functionality. However, charge your devices beforehand because the data transfer may take a while (if you have many sizable files).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### 7\. Use an SD Card
 
 We can almost see you fumbling with your Samsung S23, looking for an SD or microSD card slot. Newsflash: there isn’t one. Like its predecessors, S21 and S22, the Galaxy S23 series doesn’t support expandable storage.
@@ -508,10 +477,6 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 ![moving files to an sd card](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 2. Connect the Android to your computer with a USB cable.
 3. Tap **USB for file transfer**in the **Notification panel** and select **Transferring files / Android Auto**.
 
@@ -522,22 +487,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![transferring files to a pc](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 6. Once you move the data, safely disconnect your old Android and connect your Samsung S23 to the PC.
 7. Go to the folder with your newly saved data and copy-paste it to your Samsung S23.
 
 This method is best for transferring photos, videos, and other files from an SD card you might not use anymore. After all, smartphone manufacturers increasingly ditch SD card slots for sleek, more compact designs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Switching from Vivo Y78+ to Samsung S23 is a breeze because you have many data transfer options. Besides Samsung’s Smart Switch, you can use your synced Google Account, Google Drive, Bluetooth, or a USB-C to USB-C cable. You can also migrate data from your old Android SD card to your computer before transferring it to your new phone.
 
 However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides transferring files, it features many tools for seamless phone management, making it a fantastic addition to your digital toolbox.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -551,5 +517,26 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-essential-guidelines-for-tiktok-web-on-a-mac/"><u>[New] 2024 Approved Essential Guidelines for TikTok Web on a Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-earnings-unlocked-strategies-for-content-creators/"><u>[New] 2024 Approved Vimeo Earnings Unlocked Strategies for Content Creators</u></a></li>
+<li><a href="https://win-lab.techidaily.com/anticipate-microsofts-wave-2-release-of-copilot-in-the-coming-days-key-insights-covered-by-zdnet/"><u>Anticipate Microsoft's Wave 2 Release of Copilot in the Coming Days - Key Insights Covered by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-to-bind-your-samsung-smartphone-as-a-reliable-tv-remote-control/"><u>Easy Methods to Bind Your Samsung Smartphone as a Reliable TV Remote Control</u></a></li>
+<li><a href="https://win-great.techidaily.com/enhance-your-pcs-performance-by-quickly-closing-stuck-programs-using-a-clandestine-setting-in-windows-11-as-revealed-by-zdnet/"><u>Enhance Your PC's Performance by Quickly Closing Stuck Programs Using a Clandestine Setting in Windows 11, as Revealed by ZDNET</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/ensure-audible-vids-on-tweet-platform-for-2024/"><u>Ensure Audible Vids on Tweet Platform for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C50 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-pop-7-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Pop 7 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nubia-red-magic-9-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nubia Red Magic 9 Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-find-x6-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Find X6 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-note-12-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi Note 12 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-a23-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy A23 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10c-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10C to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v27-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V27 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-12-mini-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 12 mini? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techniques-for-transcending-gpts-character-cap/"><u>Techniques for Transcending GPT’s Character Cap</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-top-10-essential-podcast-microphones/"><u>Unveiling the Top 10 Essential Podcast Microphones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027513628-xmedia-recode/"><u>XMedia Recode変更時の予期せぬエラーを解消する方法</u></a></li>
+</ul></div>
 

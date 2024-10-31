@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 6 Ways to Transfer Text Messages from Oppo A1x 5G to Other Android Devices | Dr.fone
-date: 2024-08-24T14:59:18.806Z
-updated: 2024-08-25T14:59:18.806Z
+date: 2024-10-24T16:01:33.461Z
+updated: 2024-10-30T20:47:40.339Z
 tags: 
   - transfer
 categories:
@@ -54,10 +54,6 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 2\. Super Backup & Restore
 
 Another and a simpler way to transfer text messages from one Android to another Android is by using the Super Backup & Restore app. It will not take much time of yours and will create backup in seconds. You just need to follow the steps as directed below.
@@ -66,9 +62,6 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2 -** Click on “Backup All”. Once done, now click on the “Ok” button when you receive a pop-up. It will then start taking a backup of all your text messages.
 
 ![messages transfer by super backup restore 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-2.jpg)
@@ -81,16 +74,10 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 3](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 6 -** It will start restoring all your SMS’s.
 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Smart Switch (Samsung)
 
 Whether you are switching from iPhone or from any Android phone to Samsung Galaxy phone, the transfer of data like image, text messages, videos, etc. is done easily and smoothly using Samsung smart switch. In order to do so, please follow the steps discussed below on how to transfer text messages from Oppo A1x 5G to Other Android Devices using Smart Switch.
@@ -107,9 +94,6 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 
 ![messages transfer by smart switch 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Part 2: Great software Dr.Fone - Phone Transfer to transfer text messages from Oppo A1x 5G to Other Android Devices (Recommended)
 
 Every user in this world is looking out for the easiest way to tackle the task. Let’s say that you want to transfer text messages from Oppo A1x 5G to Other Android Devices. And in order to do so, you are searching for an app which is secured, powerful, and user-friendly. Then [**Dr.Fone - Phone Transfer**](https://tools.techidaily.com/wondershare/drfone/phone-switch/) (iOS&Android) will be the best option. It is compatible across platforms like iOS and Android. Moreover, it can effectively transfer data between cross platform devices in just matter of one click.
@@ -117,8 +101,6 @@ Every user in this world is looking out for the easiest way to tackle the task. 
 #### Step by Step Tutorial
 
 Here are the steps on how you can transfer text messages from Oppo A1x 5G to Other Android Devices using Dr.Fone - Phone Transfer.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -140,9 +122,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3 –** Simply select the files you want to transfer.
 
 ![phone switch 02](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -151,12 +130,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Part 3: Manage Text Messages from Oppo A1x 5G to Other Android Devices using Dr.Fone - Phone Manager
 
 The app named Dr.Fone - Phone Manager (Android) is a smart way to transfer text messages from Oppo A1x 5G to Other Android Devices. If you are trying to transfer your files from a mobile device to a computer, from a computer to a mobile device, etc. Dr.Fone - Phone Manager is yet another powerful option available at present. You can also transfer data from iTunes backup to Android. It is fully compatible with all Android and iOS devices.
@@ -169,37 +142,32 @@ Whether you want to transfer data, i.e. images or videos or text messages, the s
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 **Step 2:** Next, once your device is detected by the tool, you need to get into the required data section from the navigation panel at the top. For instance, “Information” in this case. Meanwhile, get your target device connected to the PC too.
 
 ![android to android transfer models](https://images.wondershare.com/drfone/article/android-to-android-transfer-models.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Now, get into the “SMS” section from the left panel. Then, hit on the “Export” icon followed by the “Export to \[Device Name\]” option.
 
 ![android transfer export sms to android](https://images.wondershare.com/drfone/article/android-transfer-export-sms-to-android.jpg)
 
 **Step 4:** \[Optional\] Once done, repeat the process for all other data types. In a short span of time, you’ll get all your data transferred to your target device without any hassles.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bottom Line
 
 People take this transfer work as burdensome as it takes some additional time from their busy schedule to transfer messages from Oppo A1x 5G to Other Android Devices. But, now understanding the ways of transferring the files, it will be quite easy and faster for you to transfer messages from Oppo A1x 5G to Other Android Devices.
 
 We hope we have answered all your queries regarding phone to phone transfer in details. All the best!
 
-
-
 ## 5 Easy Ways to Copy Contacts from Oppo A1x 5G to iPhone 14 and 15
 
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Upgrading to iPhone 14 or 15 after using an Android smartphone for a long time is indeed a big leap. Why so? The simplest explanation is that these two mobile devices run on a completely different operating system. But don’t worry. With regard to data migration, the process has become much more convenient today than before. Big thanks to highly advanced technology and modern practices.
 
@@ -207,25 +175,16 @@ The contact list is among the most important data stored on our mobile phones. T
 
 In this article, we will provide a few tutorials on how to **export contacts from Oppo A1x 5G to iPhone.** We will also list down some preparation tips to help you finish the procedures smoothly. Continue reading below to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can You Copy Contacts From Oppo A1x 5G to iPhone?
 
 Data transfer doesn’t only happen when you get a new mobile device. In fact, it is actually a common procedure that many users initiate from time to time. Let’s say you’re asked to send a particular contact detail to a specific person at your place of work. Another possibility is that you prefer to view Your Oppo A1x 5Gbook from both your personal and business smartphones. That’s why having a convenient and effective means to copy contacts from Oppo A1x 5G to iPhone is very helpful. Imagine all it takes is a few taps to send your address book from one end to another.
 
 There are numerous ways to export contacts from Oppo A1x 5G to iPhone 14 or 15. But to get promising results, you definitely have to choose the best method applicable to your current situation. Take note that you’re transferring files between two devices with different operating systems. Therefore, there’s probably no direct method to commence such procedures. You have to go through a series of steps in order to copy contacts from Oppo A1x 5G to iPhone. But don’t worry. Most of them are indeed a walk in the park. No technical skills or advanced equipment are required to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 Techniques to Export Contacts From Oppo A1x 5G to iPhone 14 or iPhone 15
 
 “How do I transfer contacts from Oppo A1x 5G to iPhone 14 or iPhone 15?” As mentioned earlier, data transfer between two devices is now as easy as falling off a log. It’s no longer required to engage in manual work because most of the steps involve automation. To help you in this regard, below are the top five techniques to copy contacts from Oppo A1x 5G to iPhone. Just try to commence each solution and find the best one that brings good progress.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Import vCard to iCloud
 
 You can instantly copy contacts from Oppo A1x 5G to iPhone 14 or 15 by simply uploading your contact list to iCloud. Just make sure you’re uploading a Virtual Card File and your device is synced to your iCloud account. Here’s a quick guide on how to do it in easy steps.
@@ -234,6 +193,13 @@ You can instantly copy contacts from Oppo A1x 5G to iPhone 14 or 15 by simply up
 - **Step 2:** Click **Fix & Manage** to bring out the settings.
 
 ![contacts fix and manage](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Export to File.**
 
@@ -247,15 +213,19 @@ You can instantly copy contacts from Oppo A1x 5G to iPhone 14 or 15 by simply up
 
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** Upload the vCard to your iCloud account. Log in to icloud.com using your Apple and then click **Contacts** \> **Settings** gear icon > **Import vCard.**
 
 ![upload vcf](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-5.jpg)
 
 - **Step 7:** Lastly, sync your iPhone to iCloud and then check your contact list from the app.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Import contacts from Google account
 
 Are you using Google Contacts on your Android smartphone? Or, at the very least, do you back up your phone book to your Google account? If so, you can easily export contacts from Oppo A1x 5G to your iPhone via your Gmail account. Here’s how to do it in easy steps.
@@ -269,20 +239,12 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 
 ![mail accounts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 - **Step 4:** Select **Google.**
 - **Step 5:** Log in to your Gmail account that contains your contact list.
 - **Step 6:** The settings for your Gmail account will appear once you have successfully logged in on your iPhone. Toggle on the radio button next to **Contacts** to sync your phonebook with the new device.
 
 ![sync contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Method 3: Copy contacts from the SIM card to your iPhone
 
 Another way to export contacts from Oppo A1x 5G to iPhone is with the aid of your SIM card. Simply save your phonebook to the SIM card and import it on your iPhone. Here’s a simple guide to help you commence this procedure.
@@ -294,8 +256,12 @@ Another way to export contacts from Oppo A1x 5G to iPhone is with the aid of you
 ![contacts settings](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 - **Step 4:** Click **Import SIM Contacts.**
 
 ![import sim contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-10.jpg)
@@ -324,14 +290,9 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 - **Step 6:** On your Android smartphone, key in the code displayed on your iPhone screen.
 - **Step 7:** Choose **Contacts.** After that, wait for the data transfer to start and finish.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Copy contacts from Oppo A1x 5G to iPhone using [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 The easiest way to export contacts from Oppo A1x 5G to iPhone is by means of third-party phone transfer software. Wondershare Dr.Fone is one of the best tools that can help you a lot in this regard. Its phone transfer feature is designed to initiate and complete data migration with just the snap of a finger. Here’s a short guide on how to use it in easy steps.
-
-
 
 - **Step 1:** Download Wondershare Dr.Fone from its [official website.](https://tools.techidaily.com/wondershare/drfone/phone-switch/) Install it on your computer.
 - **Step 2:** Launch the newly installed Wondershare Dr.Fone on your desktop. Wait until the application has fully loaded.
@@ -339,17 +300,11 @@ The easiest way to export contacts from Oppo A1x 5G to iPhone is by means of thi
 
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 - **Step 4:** Connect your Android smartphone and iPhone to the computer using a data cable.
 - **Step 5:** Once the two devices have been recognized on the platform, set your Oppo A1x 5G as the **Source** and your iPhone as the **Target.** Alternatively, click the **Flip** button to specify the direction of the transfer.
 
 ![data transfer huawei and iphone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 6:** After that, choose the categories of the files you want to transfer. From there, click **Contacts** and then tap **Start Transfer** to proceed.
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
@@ -362,9 +317,6 @@ The easiest way to export contacts from Oppo A1x 5G to iPhone is by means of thi
 
 ![data transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Simple Reminders to Copy Contacts From Oppo A1x 5G to iPhone Smoothly
 
 It’s true to say that the five data transfer methods above are safe and effective. But generally speaking, we can’t deny that any process that involves the migration of data is sensitive in nature. That’s why it’s important to prepare both devices before officially initiating the data transfer process. Here are some reminders you need to keep in mind before you export contacts from Oppo A1x 5G to iPhone.
@@ -374,18 +326,10 @@ It’s true to say that the five data transfer methods above are safe and effect
 - Don’t use both devices once the data transfer has started.
 - Lastly, create a backup file for your contact list. You never know what’s going to happen with the transfer. It’s best to be prepared to avoid data loss. Don’t worry. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)has a file backup feature that can help you a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Data transfer is a sensitive procedure. That’s why it’s highly recommended to opt for a conservative yet effective migration method to prevent serious issues. The five techniques above can surely help you copy contacts from Oppo A1x 5G to iPhone 14 or any model. Just make sure to prepare your mobile devices beforehand and settle on the data transfer option suitable to your needs. For a more convenient phone transfer solution, install Wondershare Dr.Fone on your computer. It is equipped with data migration features that can help you export contacts from Oppo A1x 5G to iPhone securely.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Techniques to Transfer Data from Oppo A1x 5G to iPhone 15/14/13/12
 
 It comes as no surprise that the new iPhone 15 series is turning heads and making a splash worldwide. Well, why not? These recently launched Apple devices are packed with highly advanced features that offer an unparalleled mobile experience to everyone. Among them are the USB-C port for faster charging and the improved A16 Bionic chip for smoother performance. Therefore, it’s fair to say that any model from the iPhone 15 catalog is worthy of ultimate consideration.
@@ -394,14 +338,10 @@ Switching to a brand-new smartphone requires plenty of work. You first need to s
 
 In this article, we’ll talk about the essential factors involved in data migration of two devices with different operating systems. We will also provide a few tutorials on how to **transfer data from Oppo A1x 5G to iPhone 15** conveniently. Continue reading below to learn more.
 
-
 ## Factors to Consider When Transferring Data From Oppo A1x 5G to iPhone
 
 It’s probably true to say that data migration is a major procedure. It’s not just a simple file-sharing method that can be completed in no time. A lot of things are involved when data is transferred from one device to another. To help you understand it better, below is a list of factors affecting the quality and speed of data migration.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### File Size
 
 The size of files being transferred affects the process in general. This is because the Oppo A1x 5G device on the receiving end needs to allocate the data individually to the available space. That’s why the procedure often takes some time to complete if the volume of files is quite large. On the hand one hand, data migration gets completed in a snap if the file size is smaller.
@@ -418,9 +358,6 @@ Device storage is definitely the first thing you should check before going ahead
 
 Migrating files between two smartphones with the same operating system is convenient. It’s because these two devices share an identical data-sharing structure. On the one hand, data migration between two smartphones with different operating systems is almost similar to the former. It’s just that the steps for the latter are quite longer. But don’t sweat it. There are many tutorials that can help you transfer data from Oppo A1x 5G to iPhone 15 conveniently.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 5 Various Ways to Transfer Data From Oppo A1x 5G to iPhone 15
 
 Sharing files between Android and iOS smartphones has become a lot easier today than ever before. In fact, you can actually complete the entire process in just a matter of minutes. No need for any advanced intervention or external assistance. Just initiate the specific technique that perfectly matches your circumstances. With that said, listed below are the top five methods to transfer data from Oppo A1x 5G to iPhone 15.
@@ -448,9 +385,6 @@ Do you need to transfer contacts from Oppo A1x 5G to iPhone 15? Well, you can ea
 
 ![icloud on web](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 8:** Once the contact list has been imported successfully, check the **Contact** app on your iPhone and then find the newly uploaded contacts.
 
 ### Method 2: Transfer photos from Oppo A1x 5G to iPhone 15 using Google Photos
@@ -466,10 +400,14 @@ Google Photos is not just a mere gallery application that allows users to view m
 
 ![google photos backup](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** On your iPhone, download and install the Google Photos application. Log in to the same Gmail account you use to back up the photos on your Oppo A1x 5G device. From there, access the media files and save them to the local storage of your iPhone 15.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Transfer emails and calendar details from Oppo A1x 5G to iPhone 15 using Gmail
 
@@ -489,9 +427,6 @@ Do you use Gmail to manage your emails and organize your calendar appointments? 
 
 ![mail and calendar](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-9.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 - **Step 6:** Check your **Mail** and **Calendar** applications. Find the Gmail data you’ve just synced.
 
 ### Method 4: Transfer data from Oppo A1x 5G to iPhone 15 using Move to iOS
@@ -503,36 +438,32 @@ Move to iOS is a mobile application that automates data migration between Androi
 
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3:** Get back to your Oppo A1x 5G smartphone and then launch the newly installed Move to iOS application.
 - **Step 4:** Read Apple’s Terms and Conditions. Right after, click **Agree** to proceed.
 - **Step 5:** Click **Continue.**
 
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 6:** On the Find Your Code page, click **Continue** to connect your Oppo A1x 5G to your new iPhone 15.
 
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** Find the unique code displayed on your iPhone 15 screen. Then, enter it into your Oppo A1x 5G smartphone.
 
 ![type in code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 8:** Choose the files you want to transfer. After that, initiate the process. Wait until all the files have been transferred to your new iPhone 15.
 
 ### Method 5: Transfer data from Oppo A1x 5G to iPhone 15 using [<u>Wondershare Dr.Fone.</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 There’s no denying that the first four methods are all effective in this regard. But if you wish to opt for a more convenient option, Wondershare Dr.Fone can absolutely help you with that. It has a powerful data migration feature that can help you transfer data from Oppo A1x 5G to iPhone 15. Here’s a short guide to get you started.
-
-
 
 - **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) Then, install it on your computer.
 - **Step 2:** Launch the newly installed Wondershare Dr.Fone on your desktop. Once it fully loads up, connect your Oppo A1x 5G and iPhone 15 using a data cable.
@@ -540,9 +471,6 @@ There’s no denying that the first four methods are all effective in this regar
 
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Wondershare Dr.Fone will then ask you to nominate a **Source** and a **Target** from your two mobile devices. Set the Oppo A1x 5G as the former and the iPhone 15 as the latter. Alternatively, click the **Flip** button to modify the direction of the transfer based on your preference.
 
 ![source and target](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
@@ -552,8 +480,12 @@ There’s no denying that the first four methods are all effective in this regar
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
@@ -562,9 +494,6 @@ There’s no denying that the first four methods are all effective in this regar
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Back Up Your Oppo A1x 5G Before the Transfer
 
 Data migration by means of the five methods enumerated above is considered safe and secure. However, it doesn’t mean that implementing preventive measures against data loss is no longer necessary. Backing up your device before any major procedure is still highly recommended. That’s why don’t initiate the phone transfer without backing up your files first. Below is the guide on how to back up files using [<u>Wondershare Dr.Fone.</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
@@ -574,34 +503,28 @@ Data migration by means of the five methods enumerated above is considered safe 
 
 ![wondershare drfone backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 - **Step 4:** Wait while Wondershare Dr.Fone is backing up your files.
 
 ![backup ongoing](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 5:** After completing the backup process, click **View Backups** or **Open in Folder** to check your files.
 
 ![backup done](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Data migration is the least of your concerns when switching to a new smartphone. Why so? The simplest explanation is that there are phone transfer methods to choose from. Big thanks to modern technology and digital advancements. Refer to the provided guide below if you need to transfer data from Oppo A1x 5G to iPhone 15. One of them can help you a lot, depending on your current circumstances. Do you want a more convenient option? The phone transfer feature of [<u> Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is what you’re looking for. Download the application for free and take advantage of its all-in mobile solution features.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -615,5 +538,24 @@ Data migration is the least of your concerns when switching to a new smartphone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-checklist-for-youtube-rule-adherence/"><u>[New] 2024 Approved The Ultimate Checklist for YouTube Rule Adherence</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Fingerprint Lock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-cloud-saving-solutions-compilation/"><u>Elite Cloud Saving Solutions Compilation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/lanes-for-jumbled-youtube-playlist-arrangement/"><u>Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 5 Quickly | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s23-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S23 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-12plus-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme 12+ 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x9b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X9b to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y56-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y56 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c12-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C12 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12plus-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12+ 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-reno-11f-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo Reno 11F 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x90s-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X90S to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-100-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor 100 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/integrating-facebook-livestream-into-your-roku-setup/"><u>Integrating Facebook Livestream Into Your Roku Setup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-list-10-budget-friendly-sbd-solutions/"><u>Leading List 10 Budget-Friendly SBD Solutions</u></a></li>
+</ul></div>
 

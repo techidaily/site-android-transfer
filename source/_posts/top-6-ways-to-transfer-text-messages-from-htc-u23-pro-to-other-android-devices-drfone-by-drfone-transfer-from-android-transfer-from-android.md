@@ -1,7 +1,7 @@
 ---
 title: Top 6 Ways to Transfer Text Messages from HTC U23 Pro to Other Android Devices | Dr.fone
-date: 2024-08-24T15:00:40.108Z
-updated: 2024-08-25T15:00:40.108Z
+date: 2024-10-30T01:58:56.310Z
+updated: 2024-10-30T17:57:35.500Z
 tags: 
   - transfer
 categories:
@@ -52,6 +52,13 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 ![messages transfer by sms backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
 
 ### 2\. Super Backup & Restore
@@ -62,17 +69,10 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2 -** Click on “Backup All”. Once done, now click on the “Ok” button when you receive a pop-up. It will then start taking a backup of all your text messages.
 
 ![messages transfer by super backup restore 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3 -** Share the generated .xml file generated on the Android device where you want to restore the backup.
 
 **Step 4 -** Now download the same app on another device where you have shared the .xml file.
@@ -85,14 +85,6 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### 3\. Smart Switch (Samsung)
 
 Whether you are switching from iPhone or from any Android phone to Samsung Galaxy phone, the transfer of data like image, text messages, videos, etc. is done easily and smoothly using Samsung smart switch. In order to do so, please follow the steps discussed below on how to transfer text messages from HTC U23 Pro to Other Android Devices using Smart Switch.
@@ -103,18 +95,6 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 
 ![messages transfer by smart switch 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3 -** Connect with the “Wireless” connection on both the HTC U23 Pro devices.
 
 **Step 4 -** Select the content you want to transfer to the Galaxy device and click on “Send” button to start transferring the content from one device to another.
@@ -128,8 +108,6 @@ Every user in this world is looking out for the easiest way to tackle the task. 
 #### Step by Step Tutorial
 
 Here are the steps on how you can transfer text messages from HTC U23 Pro to Other Android Devices using Dr.Fone - Phone Transfer.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -147,31 +125,18 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 **Step 2 -** Now, you need to connect your HTC U23 Pros with your PC using the USB cable to transfer the text messages from the old Android to new Android device. If the source and destination positions are not correct, do it using the Flip button available at the bottom center.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3 –** Simply select the files you want to transfer.
 
 ![phone switch 02](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 4 -** Once you have selected the files, click on start. This will quickly and easily transfer the files from the source device to the destination device.
 
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Part 3: Manage Text Messages from HTC U23 Pro to Other Android Devices using Dr.Fone - Phone Manager
 
 The app named Dr.Fone - Phone Manager (Android) is a smart way to transfer text messages from HTC U23 Pro to Other Android Devices. If you are trying to transfer your files from a mobile device to a computer, from a computer to a mobile device, etc. Dr.Fone - Phone Manager is yet another powerful option available at present. You can also transfer data from iTunes backup to Android. It is fully compatible with all Android and iOS devices.
@@ -184,20 +149,21 @@ Whether you want to transfer data, i.e. images or videos or text messages, the s
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2:** Next, once your device is detected by the tool, you need to get into the required data section from the navigation panel at the top. For instance, “Information” in this case. Meanwhile, get your target device connected to the PC too.
 
 ![android to android transfer models](https://images.wondershare.com/drfone/article/android-to-android-transfer-models.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Now, get into the “SMS” section from the left panel. Then, hit on the “Export” icon followed by the “Export to \[Device Name\]” option.
 
 ![android transfer export sms to android](https://images.wondershare.com/drfone/article/android-transfer-export-sms-to-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4:** \[Optional\] Once done, repeat the process for all other data types. In a short span of time, you’ll get all your data transferred to your target device without any hassles.
 
 ### Bottom Line
@@ -211,6 +177,13 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 Since HTC U23 Pro is embracing Android as its operating system, transitioning from an iPhone to a HTC U23 Pro, or vice versa, can pose challenges due to the differing operating systems. But it doesn't mean impossible!
 
 If you're switching to an iPhone and need to transfer all your data, this article has you covered. We will look at ways to facilitate smooth **HTC U23 Pro to iPhone transfer** while ensuring your valuable information transfers across these devices with no problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. How to Transfer Content from HTC U23 Pro to iPhone Directly
 
@@ -241,6 +214,19 @@ After selecting the files, press "Send" and provide the necessary permissions fo
 On your iPhone, open the ShareIt app and click "Receive." This action opens all the necessary ports to receive shared files. When your HTC U23 Pro phone detects your iPhone, tap on the iPhone’s avatar to proceed with the transfer.
 
 ![HTC U23 Pro to iPhone transfer with ShareIt.](https://images.wondershare.com/drfone/article/2024/01/transfer-data-from-motorola-to-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2. Move Contents from HTC U23 Pro to iPhone via Apps & Data
 
@@ -274,8 +260,6 @@ One significant reason why data transfer from iPhone to HTC U23 Pro is tricky is
 
 Another contributing factor is the structure of the files. Android boasts a file system that is more straightforward, unlike iOS. As a solution, third-party software like Wondershare Dr.Fone offers tools like Phone Transfer to simplify the process. With Dr. Fone's Phone Transfer, you can transfer any data from HTC U23 Pro to iPhone or iPhone to HTC U23 Pro.
 
-
-
 How to make **iPhone to HTC U23 Pro data transfer** with Dr.Fone:
 
 - **Step 1:** Open Dr.Fone’s Phone Transfer tool
@@ -296,18 +280,12 @@ Proceed to select the types of data you wish to transfer. Checkmark the category
 
 ![Choose the data types for transfer.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 4:** Disable iCloud syncing
 
 Now, Dr. Fone's Phone Transfer tool should prompt a specific operation on the window. Follow the instructions to turn off iCloud syncing. Open your iPhone Settings and tap on your device’s name. Go to iCloud > Photos to disable the toggle for iCloud Photos.
 
 ![Disable iCloud syncing for your iPhone.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 5:** Monitor data transfer progress
 
 The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
@@ -341,8 +319,12 @@ Select the files you want to transfer and download them to your iPhone. Once the
 ![HTC U23 Pro to iPhone transfer via cloud services.](https://images.wondershare.com/drfone/article/2024/01/transfer-data-from-motorola-to-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Transitioning from a HTC U23 Pro device to an iPhone, or vice versa, may present challenges due to the difference in operating systems. However, with the right tools and methods, the **iPhone to HTC U23 Pro data transfer** can be done seamlessly and efficiently.
@@ -351,13 +333,13 @@ Even though HTC U23 Pro Migrate is no longer in the game, apps like ShareIt and 
 
 And for those who prefer the cloud, Dropbox and Google Drive also offer a solution. So, no matter your preference, there's a solution to ensure your data transfer moves smoothly.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2 Ways to Transfer Text Messages from HTC U23 Pro to iPhone 15/14/13/12/11/X/8/
 
 The biggest dilemma that people face when they buy a new iPhone like iPhone 14/14 Pro (Max) is how to transfer data from the Android or old iPhone. Well, transferring images, audio, videos, etc. is easy as there are lots of apps available that allow doing so.
@@ -370,11 +352,13 @@ Buying a new iPhone like iPhone 14/14 Pro (Max) is a lot easier than setting it 
 
 Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and securely? Then one-click transfer solution - Dr.Fone - Phone Transfer can help in the task. It is a powerful transfer tool that lets users transfer messages from android to iPhone real quick and without any risk. It can transfer not only text messages, but also contacts, music, images, videos, and others. With Dr.Fone - Phone Transfer, one can easily transfer phone data from an android, iOS, Symbian, etc. to other Android or iOS devices. You don’t need to install any app on the sending and receiving devices. Just connect the HTC U23 Pro devices with a USB cable simultaneously and you can transfer data between them very carefully.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 Transfer Text Messages from HTC U23 Pro to iPhone like iPhone 15/14/14 Pro (Max)
@@ -383,17 +367,11 @@ Transfer Text Messages from HTC U23 Pro to iPhone like iPhone 15/14/14 Pro (Max)
 - Move data between devices with different operating systems, i.e iOS to Android.
 - Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - Supports over 8000+ Android devices.
 - Works for all models of iPhone, iPad, and iPod.
 
 **4,053,382** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to transfer SMS from HTC U23 Pro to iPhone using Dr.Fone - Phone Transfer?
 
 Using Dr.Fone, it is possible to transfer SMS from HTC U23 Pro to iPhone in a matter of seconds. This one-click method of transferring text messages is way faster and simple than other transfer methods. Follow the steps to learn how to transfer text messages from HTC U23 Pro to iPhone with Dr.Fone - Phone Transfer:
@@ -412,19 +390,10 @@ Step 5: Now, select the data that you want to transfer by checking the respectiv
 
 ![select text messages for transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png "transfer sms from android to iphone")
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 Step 6: Finally hit the “Start Transfer” button and it will begin to transfer text messages from HTC U23 Pro to iPhone.
 
 Dr.Fone - Phone Transfer offers a safe and quick way to transfer messages from HTC U23 Pro to iPhone like iPhone 14/14 Pro (Max). Moreover, it can work both on new and old target iPhone. Dr.Fone - Phone Transfer is also compatible with a variety of iOS devices and iOS versions, so it doesn’t have any restrictions for transferring data.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 2: Transfer SMS from HTC U23 Pro to iPhone using Move to iOS app
 
 Transferring text messages from HTC U23 Pro to iPhone using Dr.Fone - Phone Transfer is the best and the fastest way. But it requires a computer and physically connecting the HTC U23 Pro devices via USB cables. What if the person doesn’t have a computer? They won’t be able to transfer any data from their old Android to a new iPhone like iPhone 14/14 Pro (Max). If you want to find another way to transfer messages and other stuff from HTC U23 Pro to iPhone, then Move to the iOS app can help in this task.
@@ -456,19 +425,26 @@ Step 5: Enter the code generated on the iPhone in the “Enter Code” screen.
 
 ![enter code](https://images.wondershare.com/drfone/article/2018/02/enter-code.JPG "enter the code to verify")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Step 6: On the Transfer Data screen, select the content to transfer and click “Next”. It will start the transfer process and will take some time to complete depending on the size of the data.
 
 ![process of transferring sms from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-to-ios.JPG "transfer to be complete in a while")
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 7: After transferring is complete, finish the iPhone device setup process.
 
 The disadvantage that this method has is that you can’t transfer messages from HTC U23 Pro to iPhone on an already set up iPhone. It only works on a new device or has to erase the data on the target device. Moreover, as it only works with all versions of iOS, the older devices can’t transfer messages through this method. They can use [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) for the task.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -482,5 +458,22 @@ The disadvantage that this method has is that you can’t transfer messages from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturecraft-in-depth-analysis-of-screen-capture-tech/"><u>[New] CaptureCraft In-Depth Analysis of Screen Capture Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-swift-and-smooth-media-navigation/"><u>[New] Expert Strategies for Swift and Smooth Media Navigation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-list-of-premier-youtube-cosmetics-experts/"><u>[New] In 2024, The Ultimate List of Premier YouTube Cosmetics Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-effortless-media-transfer-twitter-videos-on-whatsapp/"><u>[Updated] 2024 Approved Effortless Media Transfer Twitter Videos on WhatsApp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-audience-friendly-techniques-for-monitoring-facebook-live/"><u>[Updated] In 2024, Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-syncing-tunes-with-video-posts-on-facebook/"><u>[Updated] Syncing Tunes with Video Posts on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-tips-to-create-impactful-and-stunning-gopro-time-lapses/"><u>2024 Approved Pro Tips to Create Impactful and Stunning GoPro Time-Lapses</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x9b-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X9b to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 14 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-note-30-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Note 30 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oneplus-12r-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from OnePlus 12R to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c210-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C210 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-finger-sets-taking-vr-to-new-heights-for-2024/"><u>Innovative Finger Sets Taking VR to New Heights for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-secondary-shots-tips-and-tricks-for-2024/"><u>Integrating Secondary Shots Tips and Tricks for 2024</u></a></li>
+</ul></div>
 

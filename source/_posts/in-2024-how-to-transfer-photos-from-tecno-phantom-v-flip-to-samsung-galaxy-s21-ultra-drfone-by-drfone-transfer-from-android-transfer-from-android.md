@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Tecno Phantom V Flip to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-09-27T16:42:27.344Z
-updated: 2024-10-02T17:41:46.439Z
+date: 2024-10-25T00:02:14.621Z
+updated: 2024-10-31T04:02:30.603Z
 tags: 
   - transfer
 categories:
@@ -58,13 +58,6 @@ Regarding the battery performance and charging system, there are many difference
 
 In these three models, you will get 5G. So, there is no argument about this. However, Galaxy S21 Plus and S21 Ultra have been manufactured with Ultra-Wide Band (UWB) chips. It is a new feature that will provide hands-free control. Using these features, you can unlock your car or find the SmartTag tracker. Among these, S21 Ultra offers you more. It has Wi-Fi 6E compatibility, which is the fastest and lowest latency for Wi-Fi connection.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pro tips: How to Transfer Photos to S21 Ultra?
 
 Most of the time, after purchasing a new phone, we cannot transfer photos or other data to that device easily. At that moment, if you can use amazing data recovery software to transfer all your photos to the new Samsung Galaxy S21 Ultra, that would be a great solution. Well, we have the best solution for you. We are going to introduce you to an amazing software: [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a brilliant data recovery software that you can use for both iOS and Android systems. It has many amazing features. You can recover your data, transfer your photos and files, unlock Apple's ID and lock screen, repair the Android or iOS system, switch data from one phone to another phone, keep backup, restore data and erase data permanently from a device. Using this amazing software, you can transfer your photos to Samsung Galaxy S21 Ultra within one single click. Let's follow the guideline to know how to do this.
@@ -75,18 +68,18 @@ Download and install the software on your computer. Then start the Dr.Fone - Pho
 
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
 
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Start Transfer Process
 
@@ -145,13 +138,6 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 
     ![select source and destination devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the types of data you want to transfer and hit the **Start Transfer**.
 
     ![select data types to copy](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
@@ -187,6 +173,13 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
 
 Your new phone will notify you when the file transfer is complete, and you can continue using your brand-new device right where you left off with the Samsung one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Copy Data From Samsung to Pixel 8 and Pixel 8 Pro Using USB
 
 If you don’t want to transfer files over a Wi-Fi network, don’t want to waste your mobile data, or wish to complete the file transfer the old-fashioned way with a USB cable, you can follow these steps to transfer data from Samsung to Pixel:
@@ -216,6 +209,13 @@ Using a computer as an intermediary device for transferring files is another exc
 4. Select the files and folders you want to copy and transfer them to a new folder on your PC. You can then go through these files on your PC, delete what you don’t need, and organize everything before transferring the data to your new Pixel 8 device, but this is optional.
 
     ![copy data to the pc](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Disconnect the old phone from the computer.
 6. Connect your new Pixel phone to the PC.
@@ -259,6 +259,13 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 6. The new device will immediately recognize older backups.
 
     ![restore from a google drive backup](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Choose the latest backup made on your Samsung phone and tap **Restore**to copy data from Samsung to Pixel.
 
@@ -304,13 +311,6 @@ Nonetheless, a notable drawback of Move to iOS is its limitation to use only dur
 
 ![move data from android on ipad](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Launch and access the Move to iOS app on your Tecno Phantom V Flip. Tap "Continue" and grant necessary permissions when prompted. You'll be asked to enter a code displayed on your iPad.
 
 ![access move to ios on android](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-3.jpg)
@@ -320,10 +320,23 @@ Nonetheless, a notable drawback of Move to iOS is its limitation to use only dur
 ![select data to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Email
@@ -350,6 +363,19 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 
 ![upload video on drive](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Proceed to your iPad, access the App Store, and install Google Drive. Utilize the same Google account credentials employed for uploading the videos from your Tecno Phantom V Flip to sign in on your iPad.
 
 ![install the google drive app](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-8.jpg)
@@ -357,13 +383,6 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 - **Step 3.** Now, access the videos you uploaded from the Android device. Tap the ”Three Dots” icon on the video and choose the "Make available offline" option to complete the video transfer process.
 
 ![choose make available offline option](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: 2 Wired Methods To Transfer Videos From Tecno Phantom V Flip to iPad
 
@@ -382,13 +401,6 @@ This smart iPhone transfer and management solution offers myriad functionalities
 Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/phone-switch/) on your computer and connect it to your iPad and Android devices. Click the Android device from the left side panel to expand the menu. Choose "Videos" from the available choices and let Dr.Fone load all the videos available on your device.
 
 ![connect device with computer](https://images.wondershare.com/drfone/guide/connect-android-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2: Choose and Transfer Videos from Tecno Phantom V Flip to iPad**
 
@@ -414,13 +426,6 @@ Here, ensure that the Android device is on "Source" while the iPad is on the "De
 
 ![select data to start transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: iTunes
 
 Using iTunes to transfer videos from an Android device to an iPad involves a slightly indirect process. The variance in operating systems is the primary reason for this distinction. iTunes is primarily tailored for iOS devices; however, with supplemental steps, it can be utilized to transfer videos from an Android device to an iPad. Here's a detailed guide on how to leverage iTunes for video transfer:
@@ -441,6 +446,13 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 
 ![press the apply button](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, there are various methods to transfer videos from Tecno Phantom V Flip to iPad that offer distinct advantages. Wireless options like Google Drive and email are convenient. At the same time, wired methods such as using iTunes and the many capabilities of Wondershare Dr.Fone stand out. For comprehensive transfers, Dr.Fone emerges as a reliable solution. It offers versatile tools like Phone Manager and Phone Transfer, and its robust functionalities make it a recommended choice.
@@ -459,20 +471,16 @@ In conclusion, there are various methods to transfer videos from Tecno Phantom V
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-determining-the-price-to-film-a-melody-on-camera/"><u>[New] Determining the Price to Film a Melody on Camera</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-live-photography-essentials-for-iphone-users/"><u>[Updated] In 2024, Live Photography Essentials for iPhone Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-piecing-a-puzzle-of-cinematic-highlights/"><u>[Updated] In 2024, Piecing a Puzzle of Cinematic Highlights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-best-lightroom-alternatives-free-and-paid/"><u>10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-4k-perfection-selecting-youtubes-best-video-tools/"><u>2024 Approved 4K Perfection Selecting YouTube's Best Video Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-k70ewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi K70Ewith/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-g42-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia G42 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-itel-s23-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Itel S23 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-note-50-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme Note 50 by Name | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a34-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy A34 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-xr21-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia XR21 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-moto-g24-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola Moto G24 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-9a-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 9A to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-9a-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 9A to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/why-roborocks-s8-maxv-ultra-reigns-supreme-an-in-depth-review-of-the-elite-vacuum-robot-market/"><u>Why Roborock's S8 MaxV Ultra Reigns Supreme: An In-Depth Review of the Elite Vacuum Robot Market</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-crafting-captivating-igtv-cover-images-thumbnails/"><u>[Updated] In 2024, Crafting Captivating IGTV Cover Images (Thumbnails)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-x50-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor X50</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-unhandled-exception-error-0xc0000005-in-activisions-cold-war/"><u>How to Resolve the Unhandled Exception Error 0xC0000005 in Activision's Cold War</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-11x-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 11X 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x50iplus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X50i+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Premier 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-gt-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme GT 3 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/kostenlose-tools-fur-schrittweise-sicherungsprozesse-an-externes-speichermedium/"><u>Kostenlose Tools Für Schrittweise Sicherungsprozesse an Externes Speichermedium</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/saving-gifs-on-your-iphone-a-step-by-step-approach-for-2024/"><u>Saving GIFs on Your iPhone - A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ios-16-potential-discover-my-favorite-features-and-learn-how-to-utilize-them-perfectly/"><u>Unlocking iOS 16 Potential: Discover My Favorite Features & Learn How to Utilize Them Perfectly</u></a></li>
 </ul></div>
 

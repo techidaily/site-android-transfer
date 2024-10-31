@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Sync Contacts from OnePlus 12R to Gmail | Dr.fone
-date: 2024-10-12T21:01:50.016Z
-updated: 2024-10-13T17:59:58.492Z
+date: 2024-10-26T22:50:29.428Z
+updated: 2024-10-30T16:18:21.040Z
 tags: 
   - transfer
 categories:
@@ -152,16 +152,16 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from OnePlus 12R to Gmail.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Transfer Photos from OnePlus 12R to New Android?
 
 [![James Davis](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The phone industry, for years, has constantly improved on the design and development of mobile phones being released into the market. One of the major developments is the introduction of the camera to mobile phones. The ease of carriage and portability has made mobile phone cameras a preference over digital cameras. As a result we are witnessing more pictures taken with the aid of a phone. This also means most of these photos are stored on the phone memory.
 
@@ -174,10 +174,10 @@ One way of moving your photos between android devices is through the use of file
 Using file transfer software to move your photos from one android device to another android device provides a secure and sure transfer window, ensuring your files won’t be lost. Reliable software you can use for this purpose is the [**Dr.Fone - Phone Transfer**](https://tools.techidaily.com/wondershare/drfone/phone-switch/) software. Dr.Fone - Phone Transfer file transfer software is topnotch and user friendly. This article will carefully lead you through the process of using this software.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
@@ -204,11 +204,32 @@ Using a good USB cable, connect both old and new devices to your PC. When that i
 
 ![Transfer Photos from OnePlus 12R to Other Android Devices using Dr.Fone - Phone Transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3. Click "Start Transfer"
 
 Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to transfer photos. Go to view trabsferred photos on the destination phone until it completes.
 
 ![How to Transfer Photos from OnePlus 12R to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Photos from OnePlus 12R to New Android Using NFC
 
@@ -221,6 +242,13 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 1\. On your OnePlus 12R, tap on “Settings” and click on “More” located under “Wireless and Networks” .
 
 ![Transfer Photos from OnePlus 12R to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
@@ -249,10 +277,10 @@ To ensure a successful transfer, make sure devices are not locked neither should
 5\. Finally, when the beaming is complete, you will hear an audio sound. This is to confirm completion of the process. Alternatively, instead of an audio confirmation, the application on your new android device to which the photos were sent will automatically launch and display the beamed content.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3. Transfer Photos between Android Phones by Bluetooth
@@ -267,13 +295,6 @@ The purpose of this article is to guide you through the process of successfully 
 
 ![How to Transfer Photos from OnePlus 12R to Other Android Devices by Bluetooth-Pair Devices](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A message will pop up on your new android device, requesting permission to pair with your OnePlus 12R. Click "Accept “to establish connection.
 
 3\. After both devices have successfully been paired to each other, go to the folder containing the Photos your want to send to your new Android device. Select the photo or if they are more than one, long press on a photo. This will create a thumbnail. Select the photos you want to transfer and choose the share button normally depicted by this icon
@@ -281,13 +302,6 @@ A message will pop up on your new android device, requesting permission to pair 
 4\. A list of option will appear. Choose Bluetooth. This will take you back to The Bluetooth application. Click on your new android device that you have previously paired with. A Message will appear on your new device asking for permission to receive the photos from your OnePlus 12R. Click "Accept". This will initiate the transfer process. A progress bar at the top of your screen will show you the Progress of each transfer.
 
 ![How to Transfer Photos from OnePlus 12R to Other Android Devices by Bluetooth](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Transfer Photos from Old to New Android Phones via Device-Specific App
 
@@ -304,13 +318,6 @@ The Samsung smart switch software helps to Transfer Photos either by cable or wi
 3\. On the old Samsung device, select the data to be transferred to the new Samsung device. When you are done with this, your phone will notify the size and time length of the transfer.
 
 ![How to Transfer Photos from OnePlus 12R to Other Android Devices by Smart Switc-Start Transfer by Smart Switch](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Thereafter, click on “Send” to begin the transfer of data from on device to the other.
 
@@ -342,13 +349,6 @@ However, due to the open nature of the Google Android operating system, there ar
 
 ## _Wondershare Dr.Fone_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 One-Stop Solution for Android USB File Transfer
@@ -372,6 +372,13 @@ Step 1. Download Dr.Fone and install it on your computer. Connect your OnePlus 1
 Step 2. Click on your OnePlus 12R, such as Galaxy S22 > Export All Data among other options. The following main interface for Wondershare Dr.Fone will be displayed.
 
 ![Android USB file transfer main screen](https://images.wondershare.com/drfone/guide/export-data-from-android-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. You can select the file type you want to transfer to the computer or select all file types. Then, click "Export". Wait for the transfer process to complete.
 
@@ -435,13 +442,6 @@ Once connected, you will be brought to this home page, notice the options to use
 
 ![USB android file transfer](https://images.wondershare.com/drfone/article/2018/03/mobogenie-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As with Mobogenie, once you are on the software, it is fairly easy to navigate around, and you can do everything from sending SMS from your PC to transferring apps and contacts. However, a drawback is that the management of your music requires you to have all your MP3 files on your PC and move them on to the software- not extremely inconvenient, but as we will see much easier solutions exist.
 
 We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides a simple user-friendly interface that allows you to manage your OnePlus 12R with ease. You can also transfer files between Android and Mac easily.
@@ -460,20 +460,22 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-superior-cams-for-animated-storytelling-for-2024/"><u>[New] Superior Cams for Animated Storytelling for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-choose-your-vlog-aspect-on-fb-verticalhorizontal/"><u>[Updated] Choose Your Vlog Aspect on FB Vertical/Horizontal</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-90-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 90 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y78-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y78 5G PC | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40iwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40iwith/without a PC</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-convert-vimeo-footage-into-audio/"><u>In 2024, How to Convert Vimeo Footage Into Audio</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-x100-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo X100 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-the-best-livestreaming-video-tech/"><u>In 2024, In-Depth Analysis The Best Livestreaming Video Tech</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-12-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 12 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-poco-c65-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Poco C65 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-magic-5-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor Magic 5 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-c53-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme C53 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-redmi-note-12-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Redmi Note 12 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/unlocking-secret-folders-on-your-pc-a-guide-for-windows-10-and-11-users/"><u>Unlocking Secret Folders on Your PC: A Guide for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone XS Max? | Stellar</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-archive-navigation-made-simple-for-2024/"><u>[Updated] Twitter Archive Navigation Made Simple for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>2024 Approved From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-nubia-z50-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Nubia Z50 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2209823-9780007387502-celtic-moon-signs-how-the-mystical-power-of-the-druid-zodiac-can-transform-your-life/"><u>Celtic Moon Signs: How the Mystical Power of the Druid Zodiac Can Transform Your Life | Free Book</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/die-wichtigsten-kriterien-von-computersystemen-detaillierte-anleitung-zur-verstandigung-der-systemanforderungen/"><u>Die Wichtigsten Kriterien Von Computersystemen - Detaillierte Anleitung Zur Verständigung Der Systemanforderungen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s24-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S24 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a59-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A59 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-c67-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme C67 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-play-40c-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Play 40C To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-moto-g84-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola Moto G84 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y78plus-t1-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y78+ (T1) Edition to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-a05-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy A05 to iPod | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-path-profile-picture-dimensions/"><u>In 2024, Path Profile Picture Dimensions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-guide-seamless-audio-transitions/"><u>Quick Guide Seamless Audio Transitions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-potential-in-verse-gpt-3-assisted-methods/"><u>Unleash Potential in Verse: GPT-3 Assisted Methods</u></a></li>
 </ul></div>
 

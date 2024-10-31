@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Vivo Y56 5G to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2024-10-21T16:29:13.975Z
-updated: 2024-10-25T16:27:34.036Z
+date: 2024-10-27T03:43:22.790Z
+updated: 2024-10-31T05:00:02.593Z
 tags: 
   - transfer
 categories:
@@ -30,13 +30,6 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 ![samsung galaxy s21 ultra](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-s21-ultra.jpg)
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Vivo Y56 5G device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
@@ -86,31 +79,11 @@ Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the com
 
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Start Transfer Process
 
 After choosing the desired file types (Photos for this case), click on the "Start Transfer" button to start the transfer process. Keep patience until the process ends and make sure both Android and iOS devices stay connected properly during the process.
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Finish Transfer and Check
 
@@ -130,9 +103,23 @@ Within a short time, all your selected photos will be transferred to the Samsung
 
 Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more updated than other models. It has the best quality camera, better battery capacity, and other new features. The design and the display are way better than the other models. After purchasing the Samsung Galaxy S21 Ultra, if you get stuck transferring your photos to the Vivo Y56 5G device, then you don't have to worry. We have introduced you to Dr.Fone - Phone Transfer in this article. Using this software, you can recover any files and keep data backup and restore them later. To transfer your photos to Galaxy S21 Ultra, you can use Dr.Fone Switch app by following the steps we provided. It's definitely better software than Smart Switch.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Easy Ways to Copy Contacts from Vivo Y56 5G to iPhone 14 and 15
 
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Upgrading to iPhone 14 or 15 after using an Android smartphone for a long time is indeed a big leap. Why so? The simplest explanation is that these two mobile devices run on a completely different operating system. But don’t worry. With regard to data migration, the process has become much more convenient today than before. Big thanks to highly advanced technology and modern practices.
 
@@ -159,24 +146,38 @@ You can instantly copy contacts from Vivo Y56 5G to iPhone 14 or 15 by simply up
 
 ![contacts fix and manage](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Click **Export to File.**
 
 ![export to file](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Choose the contact list you want to export. Then click **Export.**
 
 ![export contact list](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Choose a specific folder where you want to save the exported VCF. Right after, click **Save.**
 
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** Upload the vCard to your iCloud account. Log in to icloud.com using your Apple and then click **Contacts** \> **Settings** gear icon > **Import vCard.**
 
@@ -192,6 +193,13 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 - **Step 2:** Click **Mail.**
 
 ![mail settings](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Accounts.**
 
@@ -229,13 +237,6 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Read the Terms and Conditions and then click **Agree.**
 - **Step 5:** On the Find Your Code page, click **Continue.**
 
@@ -244,13 +245,6 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 - **Step 5:** To proceed, make sure your iPhone is on the iOS setup page. From there, click **Move Data From Android.** Your iPhone will then show a unique code.
 
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 6:** On your Android smartphone, key in the code displayed on your iPhone screen.
 - **Step 7:** Choose **Contacts.** After that, wait for the data transfer to start and finish.
@@ -295,6 +289,13 @@ It’s true to say that the five data transfer methods above are safe and effect
 
 Data transfer is a sensitive procedure. That’s why it’s highly recommended to opt for a conservative yet effective migration method to prevent serious issues. The five techniques above can surely help you copy contacts from Vivo Y56 5G to iPhone 14 or any model. Just make sure to prepare your mobile devices beforehand and settle on the data transfer option suitable to your needs. For a more convenient phone transfer solution, install Wondershare Dr.Fone on your computer. It is equipped with data migration features that can help you export contacts from Vivo Y56 5G to iPhone securely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Ways to Transfer Music from Vivo Y56 5G to Other Android Devices Easily
 
 There can be many reasons to transfer music from Vivo Y56 5G to Other Android Devices, such as the change of the Vivo Y56 5G device since you bought a new one or want to keep music readily available on multiple devices. Therefore, if you face a dilemma over how to transfer music from one Android device to another, this is the right article for you.
@@ -333,6 +334,13 @@ If you want the Source device to be the Destination device, click on the “Flip
 **Step 3.** You can now select the files to be transferred by checking the corresponding boxes. In this case, check the Music box and then click on “Start Transfer” to transfer music from Vivo Y56 5G to Other Android Devices.
 
 ![transfer music from android to android-click on “Start Transfer”](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You should now see your music files being transferred with the overall progress displayed on a dialogue box.
 
@@ -406,13 +414,6 @@ NFC or Near Field Communication is another wireless means to transfer music from
 
 ![transfer music from android to android-click on “More Settings”](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Before you begin to transfer, you need to touch the back of both devices (whose NFC has already been turned on), you will notice that both devices vibrate upon a successful connection. This means you can now start transferring your music files.
 
 ![transfer music from android to android-start transferring your music files](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-12.jpg)
@@ -420,13 +421,6 @@ NFC or Near Field Communication is another wireless means to transfer music from
 **Step 3.** After connecting both the Vivo Y56 5G devices, you will be provided with media options of files that can be transferred. In this case, select the Music files and then click on “Transfer” to send the music files via NFC.
 
 ![transfer music from android to android-send the music files via NFC](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5. How to transfer music from Vivo Y56 5G to Other Android Devices using Google Play Music?
 
@@ -460,24 +454,15 @@ At last, we hope that you now know how to transfer music from Vivo Y56 5G to Oth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-techniques-in-xbox-gaming-recording-setup/"><u>[New] 2024 Approved Advanced Techniques in Xbox Gaming Recording Setup</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-re-image-twitter-video-portrait/"><u>[New] 2024 Approved Re-Image Twitter Video Portrait</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-simplifying-video-editing-with-windows-movie-maker-for-windows-8-users-for-2024/"><u>[Updated] Simplifying Video Editing with Windows Movie Maker for Windows 8 Users for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-chromatic-creativity-enhancing-your-craft/"><u>2024 Approved Chromatic Creativity Enhancing Your Craft</u></a></li>
-<li><a href="https://fox-search.techidaily.com/2024imap/"><u>2024年度最強IMAPメールバックアップツール：信頼性抜群の安全な選択肢</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/circling-the-globe-in-one-shot-versus-layered-visuals-for-2024/"><u>Circling the Globe in One Shot Versus Layered Visuals for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-dealing-with-internet-explorer-has-been-forced-to-close-alert/"><u>Comprehensive Fixes: Dealing With 'Internet Explorer Has Been Forced to Close' Alert</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-enhancing-your-online-experience/"><u>Cookiebot-Enabled: Enhancing Your Online Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-assistive-touch-transforms-iphones-into-essential-communication-devices/"><u>How Assistive Touch Transforms iPhones Into Essential Communication Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-100-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 100 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-phantom-v-fold-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Phantom V Fold to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-google-pixel-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Google Pixel 8 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-blade-a73-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From ZTE Blade A73 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-note-30-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Note 30 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f23-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F23 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-10-proplus-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 10 Pro+ 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s23-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S23 Ultra to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/listen-and-direct-voice-control-without-payment/"><u>Listen and Direct Voice Control Without Payment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-can-televising-streaming-services-include-facebook-content-for-2024/"><u>[Updated] Can Televising Streaming Services Include Facebook Content for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-guide-to-resolving-city-skylines-game-crashes/"><u>2024 Guide to Resolving City Skylines Game Crashes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-f5-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco F5 Pro 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-advanced-tips-for-minecraft-gaming-streams/"><u>In 2024, Advanced Tips for Minecraft Gaming Streams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-huawei-nova-y71-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Huawei Nova Y71 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-6sipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 6s/iPad/iPod</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9a-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9a to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rise-above-1000-subs-youtubing-strategies-for-mobile-creators/"><u>In 2024, Rise Above 1000 Subs YouTubing Strategies for Mobile Creators</u></a></li>
 </ul></div>
 

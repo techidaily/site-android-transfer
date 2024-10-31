@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Videos from Motorola Moto G73 5G to iPad | Dr.fone
-date: 2024-10-20T16:39:38.641Z
-updated: 2024-10-25T16:36:44.025Z
+date: 2024-10-28T00:01:26.643Z
+updated: 2024-10-31T01:53:46.154Z
 tags: 
   - transfer
 categories:
@@ -38,10 +38,10 @@ Nonetheless, a notable drawback of Move to iOS is its limitation to use only dur
 ![move data from android on ipad](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2.** Launch and access the Move to iOS app on your Motorola Moto G73 5G. Tap "Continue" and grant necessary permissions when prompted. You'll be asked to enter a code displayed on your iPad.
@@ -66,13 +66,6 @@ You can attach a maximum of 25MB-sized videos to an email. Still, it offers a st
 
 ![attach videos to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Google Drive \[Cloud Storages\]
 
 Cloud storage solutions such as Google Drive provide a practical and effective method. This process enables effortless video transfer between an Android device and an iPad. Google Drive functions as a hub for storing, sharing, and accessing files among diverse internet-connected devices.
@@ -90,13 +83,6 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 - **Step 3.** Now, access the videos you uploaded from the Android device. Tap the ”Three Dots” icon on the video and choose the "Make available offline" option to complete the video transfer process.
 
 ![choose make available offline option](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: 2 Wired Methods To Transfer Videos From Motorola Moto G73 5G to iPad
 
@@ -140,6 +126,13 @@ Here, ensure that the Android device is on "Source" while the iPad is on the "De
 
 ![select data to start transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: iTunes
 
 Using iTunes to transfer videos from an Android device to an iPad involves a slightly indirect process. The variance in operating systems is the primary reason for this distinction. iTunes is primarily tailored for iOS devices; however, with supplemental steps, it can be utilized to transfer videos from an Android device to an iPad. Here's a detailed guide on how to leverage iTunes for video transfer:
@@ -164,6 +157,13 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 
 In conclusion, there are various methods to transfer videos from Motorola Moto G73 5G to iPad that offer distinct advantages. Wireless options like Google Drive and email are convenient. At the same time, wired methods such as using iTunes and the many capabilities of Wondershare Dr.Fone stand out. For comprehensive transfers, Dr.Fone emerges as a reliable solution. It offers versatile tools like Phone Manager and Phone Transfer, and its robust functionalities make it a recommended choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 Ways To Transfer Contacts From Motorola Moto G73 5G to iPhone
 
 Transitioning from an Android to an iPhone can be an exciting move. However, the process to **transfer contacts from Motorola Moto G73 5G to iPhone** might seem daunting. Thankfully, technological advancements have introduced several hassle-free methods. With these, you can smoothly transfer contacts from an Android device to an iPhone.
@@ -171,6 +171,13 @@ Transitioning from an Android to an iPhone can be an exciting move. However, the
 This article will delve into 6 effective ways to effortlessly migrate your contacts. It ensures a smooth transition without worrying about losing essential contacts. These step-by-step solutions will guide you through the process, simplifying the task.
 
 ![transfer contacts from android to iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Author Recommendation. The Best Method to Transfer Contacts from Motorola Moto G73 5G to iPhone**
 
@@ -260,15 +267,22 @@ Importing a VCF file directly to your iPhone allows for a simple and direct tran
 
 ![email the vcf file](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Now move to your iPhone and open the mail with Contacts from the Android device. Press the attached file, choose "Share," select the "Contacts" app and tap "Add All Contacts."
 
 ![tap add all 3 contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Author Recommendation: The Best Method To Transfer Contacts From Motorola Moto G73 5G to iPhone
@@ -316,13 +330,6 @@ The first method to transfer text messages from Motorola Moto G73 5G to iPhone 1
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
 
 You can learn how to transfer messages from Motorola Moto G73 5G to iPhone 12/XS (Max) without a computer using the SMS Backup+ app. It can automatically backup the SMS, call logs, MMS using a different label in Google Calendar and Gmail. Remember that MMS can’t be restored later.
@@ -350,33 +357,39 @@ Step 1:  Download Dr.Fone - Phone Transfer on your PC and then install and laun
 
 ![export messages from android to iPhone 12/XS (Max) in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2:  Hit the ‘Switch’ tab from the Dr.Fone window. Select the Android phone as the source and iPhone 12/XS (Max) as the destination over here. Use the ‘Flip’ button in case you have altered the selection.
 
 Note:    Selecting the ‘Clear Data before Copy’ option completely deletes everything from the target.
 
 ![transfer messages from android to iPhone 12/XS (Max) - source and target connected to pc](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3:  In this section, tap on ‘Messages’ and select the ones you want to selectively transfer. Hit the ‘Start Transfer’ button and then wait a while. Click ‘OK’ once the transfer process is over.
 
 ![confirm to transfer messages from android to iPhone XS (Max)](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to transfer only selected messages iPhone 12/XS (Max)
 
 Alternatively, you can opt for [Dr.Fone - Phone Manager](https://drfone.wondershare.com/iphone-transfer.html) for selectively transferring messages from your Motorola Moto G73 5G to your iPhone. Managing your iPhone is easy with such an effective desktop tool.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
@@ -394,13 +407,6 @@ Quickly and Selectively Transfer Messages from Motorola Moto G73 5G to iPhone 12
 Step 1:  Get Dr.Fone - Phone Manager installed and launched on your PC. Now, press the ‘Phone Manager’ tab.
 
 ![selectively import messages from android to iPhone 12/XS (Max)](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Use respective USB cables to connect your Android and iPhone 12/XS (Max) with the computer and then pick Android as the source device. Then, select the ‘Information’ tab displayed on the top.
 
@@ -428,22 +434,19 @@ I hope, this article brought you answers to your messages and data transfer quer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy/"><u>[New] 2024 Approved The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-perfect-video-gear-starting-with-beginner-cameras/"><u>[New] In 2024, Perfect Video Gear Starting with Beginner Cameras</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-complete-audio-solution-for-incomplete-youtube-and-fb-sounds-for-2024/"><u>[Updated] Complete Audio Solution for Incomplete YouTube and FB Sounds for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-gaming-memories-made-easy-with-fraps/"><u>[Updated] Gaming Memories Made Easy with Fraps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fresh-download-of-tp-links-wifi-card-drivers-compatible-with-windows-oses/"><u>Fresh Download of TP-Link's WiFi Card Drivers Compatible with Windows OSes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-9a-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 9A to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-agni-2-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Agni 2 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-v30t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme V30T to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-gt-10-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix GT 10 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-v30-lite-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo V30 Lite 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-play-8t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Play 8T to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nubia-red-magic-8s-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nubia Red Magic 8S Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-asus-rog-phone-7-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Asus ROG Phone 7 to iPod | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-ultra-thin-tech-samsung-leads-with-mass-production-of-groundbreaking-worlds-thinnest-lpddr5x-ram/"><u>Pioneering Ultra-Thin Tech: Samsung Leads with Mass Production of Groundbreaking 'World's Thinnest' LPDDR5X RAM</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-smart-tech-for-crypto-conversation-top-8-tools-guide/"><u>Synthesizing Smart Tech for Crypto Conversation – Top 8 Tools Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pixelated-palaces-6-basic-mc-homes-for-neophytes/"><u>[Updated] 2024 Approved Pixelated Palaces 6 Basic MC Homes for Neophytes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-affordable-path-to-4k-top-budget-cameras-(1k-for-2024/"><u>[Updated] Affordable Path to 4K Top Budget Cameras (<$1K) for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-hush-the-hubbub-innovative-methods-for-diminishing-noise-in-microphones/"><u>2024 Approved Hush the Hubbub Innovative Methods for Diminishing Noise in Microphones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-gt-10-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix GT 10 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-reno-8t-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Reno 8T in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s24-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S24 Ultra to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12-pro-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12 Pro 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-google-pixel-8-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Google Pixel 8 Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-blaze-curve-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Blaze Curve 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v30-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V30 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g54-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G54 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ios-gamers-top-5-ps2-emulators-unveiled/"><u>In 2024, IOS Gamers' Top 5 PS2 Emulators Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premium-mac-graphics-collector/"><u>Premium Mac Graphics Collector</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Videos from Itel A05s to iPad | Dr.fone
-date: 2024-10-19T16:27:08.213Z
-updated: 2024-10-25T16:32:54.898Z
+date: 2024-10-27T09:17:42.009Z
+updated: 2024-10-31T05:45:59.507Z
 tags: 
   - transfer
 categories:
@@ -32,6 +32,13 @@ Nonetheless, a notable drawback of Move to iOS is its limitation to use only dur
 
 ![move data from android on ipad](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Launch and access the Move to iOS app on your Itel A05s. Tap "Continue" and grant necessary permissions when prompted. You'll be asked to enter a code displayed on your iPad.
 
 ![access move to ios on android](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-3.jpg)
@@ -39,19 +46,6 @@ Nonetheless, a notable drawback of Move to iOS is its limitation to use only dur
 - **Step 3.** Input the code and wait until the connection is established between both devices. After the transfer screen emerges on the Android device, select the desired videos and other data for transfer, then tap "Continue." This action will initiate the transfer process, which may require some time to finish. As the data transfer is complete, hit the "Done" button to end the process.
 
 ![select data to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Email
 
@@ -63,23 +57,9 @@ You can attach a maximum of 25MB-sized videos to an email. Still, it offers a st
 
 ![compose a new email](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Provide either the email address linked to the iPad or the recipient's email address. Once done, hit the "Send" icon to send an email with the attached videos. Access the email app on your iPad and find the email that includes the attached video. Download or open the attached video file directly from the email.
 
 ![attach videos to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Google Drive \[Cloud Storages\]
 
@@ -100,10 +80,10 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 ![choose make available offline option](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: 2 Wired Methods To Transfer Videos From Itel A05s to iPad
@@ -148,13 +128,6 @@ Here, ensure that the Android device is on "Source" while the iPad is on the "De
 
 ![select data to start transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: iTunes
 
 Using iTunes to transfer videos from an Android device to an iPad involves a slightly indirect process. The variance in operating systems is the primary reason for this distinction. iTunes is primarily tailored for iOS devices; however, with supplemental steps, it can be utilized to transfer videos from an Android device to an iPad. Here's a detailed guide on how to leverage iTunes for video transfer:
@@ -168,10 +141,10 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 ![add file or folder to itunes library](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3.** Connect your computer to the iPad using a USB cable to enable iTunes recognition of your iPad. Click on the iPad icon positioned at the top-left corner of iTunes. Next, navigate to the "Movies" tab located in the left sidebar to continue the process.
@@ -181,6 +154,13 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 - **Step 4.** Select the "Sync Movies" option by checking the corresponding box and pick out the specific videos you wish to move to your iPad. Afterward, proceed by clicking the "Apply" button to commence the transfer process of the chosen videos from iTunes to your iPad.
 
 ![press the apply button](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -193,6 +173,13 @@ A lot of people switch from Itel A05s to iPhone due to numerous reasons. For exa
 ## Part 1: The best Android to iPhone contacts transfer software: Dr.Fone - Phone Transfer \[iPhone 15 Included\]
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is undoubtedly the best Android to iPhone contacts transfer software that you can use. Since it is compatible with all the leading versions of iOS and Android (including iOS 16 and Android 13), you won’t face any issues using it. It follows an intuitive process and has a user-friendly interface. Here are some other features of this reliable Android to iPhone contacts transfer software.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -217,13 +204,6 @@ Now, select the data you wish to move. Enable “Contacts” and click on the �
 
 All of this makes Dr.Fone - Phone Transfer the best Android to iPhone contacts transfer software that you can use. However, if you are looking for alternative methods, you can go through the next section.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Top 4 Android to iPhone contacts transfer Apps \[iPhone 15 Included\]
 
 Dr.Fone is the fastest tool to transfer all kinds of data from one device to another. Nevertheless, if you want to try some other Android to iPhone contacts transfer app, you can give these options a try.
@@ -241,6 +221,13 @@ If you want to [back up your contacts](https://drfone.wondershare.com/contacts/i
 
 ![My Contacts - Phonebook Backup & Transfer App](https://images.wondershare.com/drfone/article/2018/01/15156707953169.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Move to iOS
 
 Move to iOS is the official app developed by Apple to help users switch from an Android to an iOS device. Since Apple develops it, it is a highly secure Android to iPhone contacts transfer app. After maintaining a secure private WiFi direct connection, you can easily transfer your data.
@@ -254,6 +241,13 @@ Move to iOS is the official app developed by Apple to help users switch from an 
 
 ![android to iphone contacts transfer app - move to ios](https://images.wondershare.com/drfone/article/2018/01/15156708208549.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Contacts Transfer Backup Sync & Dialer: InTouchApp
 
 Ideally, the InTouchApp is a smart contact management tool that can be used to add “context” to your contact list. You can use it to describe your contacts, search them easily, set reminders, and more. You can also use InTouch as an Android to iPhone contacts transfer app since it supports cross-platform syncing.
@@ -266,13 +260,6 @@ Ideally, the InTouchApp is a smart contact management tool that can be used to a
 [Get it here](https://www.intouchapp.com/)
 
 ![android to iphone contacts transfer app - InTouchApp](https://images.wondershare.com/drfone/article/2018/01/15156708422050.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. SHAREit
 
@@ -347,6 +334,13 @@ Transferring the contacts is the most important thing, the time has come when yo
 
 ![how to transfer from Itel A05s to Other Android Devices - Transfer Contacts](https://images.wondershare.com/drfone/article/2017/11/android-android-003.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Transfer SMS from Itel A05s to Other Android Devices
 
 You can now transfer your old SMS to the Android device easily by using this free SMS backup app, which can restore and transfer all SMS stored in XML file format, and then you can send directly to your new Android devices. Here we have used a backup app that can explain how to transfer from Itel A05s to Other Android Devices easily when connected with each other and help you out to restore the SMS messages. Note that this app won’t pay attention to which SMS already exists and which one is imported twice. Instead, you can use MobileTrans one-click app, which helps you out in resolving this problem.
@@ -389,20 +383,21 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-reanimated-ruin-renderer-for-2024/"><u>[New] Reanimated Ruin Renderer for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-turbocharged-triumphs-unveiling-five-pinnacle-racer-simulators/"><u>[Updated] In 2024, Turbocharged Triumphs Unveiling Five Pinnacle Racer Simulators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterful-movies-on-the-move-optical-image-correction-tech-leaders/"><u>[Updated] Masterful Movies on the Move Optical Image Correction Tech Leaders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-advanced-mp4-encoder-for-social-sharing/"><u>2024 Approved Advanced MP4 Encoder for Social Sharing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-tackle-unavailable-previews-on-windows-outlook-email/"><u>How to Tackle Unavailable Previews on Windows Outlook Email</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-x-flip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo X Flip to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-magic-6-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor Magic 6 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-13c-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi 13C 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-30-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 30 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-huawei-p60-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Huawei P60 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-itel-p55-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Itel P55? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inspire-humorous-graphics-for-online-platform-for-2024/"><u>Inspire Humorous Graphics for Online Platform for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/tutorial-simple-pour-utiliser-le-pilote-image-disque-win32-sous-windows-10-x64/"><u>Tutorial Simple Pour Utiliser Le Pilote Image Disque Win32 Sous Windows 10 (X64)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windowsmacmp3-cd/"><u>「Windows/MacのコンピュータにおいてMP3再生法 - CD再生問題解決方法詳細」</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unhacked-url-retrieving-lost-facebook-links/"><u>2024 Approved Unhacked URL Retrieving Lost Facebook Links</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-creative-power-for-youtube-intros-in-imovie/"><u>2024 Approved Unlocking Creative Power for YouTube Intros in iMovie</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-on-fixing-your-iphones-tethered-internet-connection-issues/"><u>Expert Advice on Fixing Your iPhone's Tethered Internet Connection Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-g310-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia G310 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme Narzo 60 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y78plus-t1-edition-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y78+ (T1) Edition Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-x100-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo X100 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v29e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V29e</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p55-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P55 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-red-magic-9-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nubia Red Magic 9 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-the-meta-search-realm-key-definitions-and-advanced-seo-techniques-for-optimized-visibility/"><u>Mastering the Meta Search Realm: Key Definitions and Advanced SEO Techniques for Optimized Visibility</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-11-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme 11 5G</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728476829830-usbwindows-11/"><u>USBメモリをWindows 11で使えない場合、どうすれば良いか：改めて考える方法</u></a></li>
 </ul></div>
 

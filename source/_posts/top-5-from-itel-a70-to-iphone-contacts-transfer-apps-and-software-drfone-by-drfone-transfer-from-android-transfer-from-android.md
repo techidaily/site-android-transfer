@@ -1,7 +1,7 @@
 ---
 title: Top 5 from Itel A70 to iPhone Contacts Transfer Apps and Software | Dr.fone
-date: 2024-10-24T16:28:19.425Z
-updated: 2024-10-25T16:08:22.426Z
+date: 2024-10-24T16:16:23.217Z
+updated: 2024-10-30T19:45:14.508Z
 tags: 
   - transfer
 categories:
@@ -34,13 +34,6 @@ Best Android to iPhone Contacts Transfer Software
 - Supports iOS devices that run the latest iOS  ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
 **3981454** people have downloaded it
@@ -54,6 +47,13 @@ Now, select the data you wish to move. Enable “Contacts” and click on the �
 ![tranfer contacts from android to iphone using Dr.Fone](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 All of this makes Dr.Fone - Phone Transfer the best Android to iPhone contacts transfer software that you can use. However, if you are looking for alternative methods, you can go through the next section.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Top 4 Android to iPhone contacts transfer Apps \[iPhone 15 Included\]
 
@@ -72,13 +72,6 @@ If you want to [back up your contacts](https://drfone.wondershare.com/contacts/i
 
 ![My Contacts - Phonebook Backup & Transfer App](https://images.wondershare.com/drfone/article/2018/01/15156707953169.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Move to iOS
 
 Move to iOS is the official app developed by Apple to help users switch from an Android to an iOS device. Since Apple develops it, it is a highly secure Android to iPhone contacts transfer app. After maintaining a secure private WiFi direct connection, you can easily transfer your data.
@@ -92,6 +85,19 @@ Move to iOS is the official app developed by Apple to help users switch from an 
 
 ![android to iphone contacts transfer app - move to ios](https://images.wondershare.com/drfone/article/2018/01/15156708208549.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Contacts Transfer Backup Sync & Dialer: InTouchApp
 
 Ideally, the InTouchApp is a smart contact management tool that can be used to add “context” to your contact list. You can use it to describe your contacts, search them easily, set reminders, and more. You can also use InTouch as an Android to iPhone contacts transfer app since it supports cross-platform syncing.
@@ -104,6 +110,13 @@ Ideally, the InTouchApp is a smart contact management tool that can be used to a
 [Get it here](https://www.intouchapp.com/)
 
 ![android to iphone contacts transfer app - InTouchApp](https://images.wondershare.com/drfone/article/2018/01/15156708422050.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. SHAREit
 
@@ -122,28 +135,21 @@ Boasting an impressive number of over 1 billion downloads, SHAREit is one of the
 
 After learning about these top 5 Android to iPhone contacts transfer software, you can easily complete the Itel A70 device transition without any data loss. Out of all the alternatives, we recommend Dr.Fone - Phone Transfer. It provides the fastest and most secure option to move your content directly from one device to another with a single click. Go ahead and give it a try to move from Itel A70 to iPhone (iPhone 15 included) in a few minutes while keeping your data intact.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Transfer Data from Itel A70 to Any iOS Devices
 
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you are a proud owner of smartphones running on two different operating systems such as Windows and iOS, you might face the challenging task of transferring the data from your **Windows phone to iPhone**. Transferring the data between the two devices running the OS of the different platforms is not as easy as it is when you have devices with a common platform. This article aims to guide you through two simple routes that you can follow to transfer the data stored in your Windows phone such as **Itel A70 to iPhone** or other iOS devices. You don't need to worry about how to transfer from Itel A70 to iPhone or How to transfer contacts from Itel A70 to iPhone anymore after reading this article. Read them on.
 
 - 1\. You can rely on some program/online service/website such as Outlook, CSV file format, Google Contacts, etc.
 - 2\. You may experience issues while transferring data from your Itel A70 phone to iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Transfer Data Wirelessly via Microsoft ID
 
@@ -217,10 +223,10 @@ Cons:
 2. You cannot transfer photos and media files by following this method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Transfer Data Using PhoneCopy
@@ -303,6 +309,13 @@ The archived data is auto-deleted from the PhoneCopy server after one month when
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) lets you transfer data from Itel A70 to iPhone or iPhone to Android in 1 Click. It supports almost all mobiles, including iPhone, Android Samsung, LG, Sony, HTC, etc. Dr.Fone - Phone Transfer can transfer music, videos, contacts, messages, call logs, and apps between mobiles. If you want to transfer data between Android and iPhone, it must be the best solution for you. Try it free. Follow the steps below to know **how to transfer data between Android and iPhone**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Data between Android and iPhone in One Click.
@@ -324,28 +337,35 @@ Launch Dr.Fone. You will see "Phone Transfer". Click it.
 
 ![transfer from lumia to iPHone- download mobiletrans](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2. Connect Phones and select files**
 
 Connect your Android and iPhone. Dr.Fone will detect it soon. Then select the files and click Start Transfer. It can transfer almost all files, contacts, apps, messages, photos, music, videos, etc. If you just want to transfer contacts from Itel A70 to iPhone, then it is also ok. Just check the Contacts option to transfer contacts from Itel A70 to iPhone easily.
 
 ![transfer from lumia to iPHone- start transfer](https://images.wondershare.com/drfone/drfone/phone-switch-android-to-ios-01.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Regardless of the fact that many free solutions are there that can help you **transfer data from your Itel A70 to iPhone**. If you also have an Android device, the Dr.Fone - Phone Transfer always has an upper hand when it comes to providing hassle-free migration between iPhone and Android devices.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best 3 Software to Transfer Files to/from Your Itel A70 via a USB Cable
 
@@ -379,23 +399,9 @@ Step 2. Click on your Itel A70, such as Galaxy S22 > Export All Data among other
 
 ![Android USB file transfer main screen](https://images.wondershare.com/drfone/guide/export-data-from-android-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3. You can select the file type you want to transfer to the computer or select all file types. Then, click "Export". Wait for the transfer process to complete.
 
 ![select files for Android USB file transfer](https://images.wondershare.com/drfone/guide/export-data-from-android-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Video Guide: How to Achieve Android USB File Transfer with PC?
 
@@ -473,21 +479,17 @@ We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-launching-a-lucrative-channel-youtubes-most-accessible-biz-setups/"><u>[Updated] 2024 Approved Launching a Lucrative Channel YouTube's Most Accessible Biz Setups</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-best-10-websites-for-professional-vectors/"><u>[Updated] Explore Best 10 Websites for Professional Vectors</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-sync-sony-console-and-earpieces/"><u>Bluetooth Sync: Sony Console & Earpieces</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Lava Blaze 2 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-phone-without-google-account-by-drfone-android/"><u>How to Unlock Meizu Phone without Google Account?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-10c-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 10C to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-sony-xperia-5-v-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Sony Xperia 5 V to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y100t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y100t to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y55s-5g-2023-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y55s 5G (2023) to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-v29-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo V29 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a78-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A78 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-2-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 2 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/master-the-art-of-fast-internet-sharing-using-d-links-powerline-technology-your-step-by-step-guide/"><u>Master the Art of Fast Internet Sharing Using D-Link's Powerline Technology - Your Step by Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-on-shortening-your-zoom-captures-managing-both-online-streams-and-offline-archives/"><u>Step-by-Step Guide on Shortening Your Zoom Captures - Managing Both Online Streams and Offline Archives</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-se-2022-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone SE (2022) screen lock</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>[New] 2024 Approved Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-presentation-adding-textures-to-your-project/"><u>[Updated] Perfecting Presentation Adding Textures to Your Project</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-marvel-discovering-the-top-under-200-android-device-with-an-eye-catching-design-exclusive-review-by-zdnet/"><u>Affordable Marvel: Discovering the Top Under-$200 Android Device with an Eye-Catching Design - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/dayz-low-fps-woes-learn-swift-techniques-for-smooth-gaming-now/"><u>DayZ Low FPS Woes? Learn Swift Techniques for Smooth Gaming Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-camon-20-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Camon 20 Quickly | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-gt-neo-5-se-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme GT Neo 5 SE to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-lava-storm-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Lava Storm 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-10-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 10 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-s18-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo S18 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-n3-flip-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo Find N3 Flip to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/optimizing-your-play-experience-fixing-cities-skylines-2-crashes-on-windows/"><u>Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-full-audio-capability-on-your-iphone-fixing-muffled-and-noisy-interference/"><u>Restore Full Audio Capability on Your iPhone: Fixing Muffled and Noisy Interference</u></a></li>
 </ul></div>
 
