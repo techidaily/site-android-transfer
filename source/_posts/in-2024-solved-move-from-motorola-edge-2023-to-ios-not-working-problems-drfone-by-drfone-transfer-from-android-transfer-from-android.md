@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solved Move from Motorola Edge 2023 to iOS not Working Problems | Dr.fone
-date: 2024-08-24T14:49:53.206Z
-updated: 2024-08-25T14:49:53.206Z
+date: 2024-11-01T04:52:27.184Z
+updated: 2024-11-05T20:33:06.119Z
 tags: 
   - transfer
 categories:
@@ -90,15 +90,16 @@ Most of the 'move to iOS' problems are related to Wi-Fi connection issues, andro
 Restarting your devices is the essential thing to do when troubleshooting the Move to iOS problems. It is a great way o eliminate minor issues during data transfer from android to iOS devices. The process can resolve the Move to iOS stuck on connecting to iPhone issues. A simple restart will eliminate the bugs and any cached error in the Motorola Edge 2023 devices.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 2: Clear all running apps
 
 It is recommended to avoid using the android device o run applications when using the Move to iOS app. Since the app runs in the foreground, you should ensure all other apps in the android are disabled before starting the data transfer process. Notifications and incoming calls are likely to interfere with the process; therefore, users must ensure such distraction is not happening by disabling such apps.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Tip 3: Make sure the Wi-Fi connection is turned on
 
 Wi-Fi connectivity is a significant factor in ensuring data transfer is successful. Since Move to iOS relies on Wi-Fi, you should ensure it Is turned on and is stable. The iPhone usually creates a private network for the android device to connect. Please turn on the Wi-Fi connection on your android to make it ready to connect to the iPhone's private network. This will make it possible to send the Move to iOS code to initiate the data transfer process.
@@ -108,8 +109,12 @@ Wi-Fi connectivity is a significant factor in ensuring data transfer is successf
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the Motorola Edge 2023 devices connected to power before you start moving your content from android to iOS device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 5: Set your phone into airplane mode
 
 When you transfer android data to iOS using the Move to iOS tool, apple recommends that you turn off your mobile data. Some android devices can switch from Wi-Fi to mobile data when the connection tends to drop on either side using the smart switch feature. This can interfere with the transfer process. Similarly, it could be useful if incoming calls were prevented to avoid interfering with the data transfer process. All mediums of connectivity are disabled except for the connection between the android and iOS devices through the iPhones Wi-Fi network.
@@ -117,30 +122,30 @@ When you transfer android data to iOS using the Move to iOS tool, apple recommen
 The best way to ensure these distractions are not happening is to turn on airplane mode on the android device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 6: Check the storage requirement
 
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 7: Disable the connection optimizer
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 8: Check the compatibility of your devices
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Tip 9: Turn off battery optimization
 
 Turning off the battery optimization on both your Android and iOS device is a requirement when using the Move to iOS tool. The app is designed to run in the foreground, and the android user should not have other applications running. However, the phone might automatically minimize the Move to iOS app when it switches to battery optimization mode. Therefore you should ensure the feature is closed from the settings of your android device.
@@ -150,8 +155,6 @@ Turning off the battery optimization on both your Android and iOS device is a re
 An alternative solution to Move to iOS not working problem is to use [Dr. Fone – Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html). The software can transfer all types of data from android to iOS devices quickly. Here, you will select the type of data you need and begin moving in a single click.
 
 Most importantly, the programs transfer data at a very high speed compared to other alternatives. You can also use the software to [transfer social apps](https://drfone.wondershare.com/whatsapp/transfer-whatsapp-messages-from-android-to-iphone.html) and retain the important history of apps like WhatsApp, Wechat, Viber, Line, or Kik.
-
-
 
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
@@ -180,8 +183,12 @@ You need to login to your iCloud account on android to download data, or you can
     ![wait for the process](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 - Wait for the data transfer process to complete.
 
 To transfer content from your iPhone to Android device directly, open Dr. Fone – Phone Transfer on android and tap 'import from a USB cable.' Use the iOS-to-android cable to connect your iOS and Android devices.
@@ -190,9 +197,6 @@ Dr. Fone – Phone Transfer will begin to scan data on your iPhone. The time wil
 
 Tap on 'start importing' once all data has been detected.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Part 4: \[Alternative\] Move to iOS not working solved with a PC
 
 The following steps will help you transfer data from android to an iOS device using a PC.
@@ -203,19 +207,27 @@ The following steps will help you transfer data from android to an iOS device us
 ![connect your Motorola Edge 2023s](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 - Select the types of data you want to transfer, then click on the 'start transfer' option to continue. Be careful not to disconnect the Motorola Edge 2023 devices until the process is complete.
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - If you want to clear the destination phone's data before transferring data, ensure you check the 'clear data before copy' box.
 - All the data you selected will be transferred successfully in a few minutes.
 
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
@@ -230,8 +242,6 @@ Are you switching your phone to the latest iPhone 14 or 15 and wondering how to 
 Transferring your messages allows you to keep your important messages intact, preserving cherished conversations and important information. Be it a heartfelt message from a loved one or crucial details in a business conversation, some of your text messages must hold significant sentimental and practical value.
 
 This article will guide you through effective and easy methods to **transfer texts from Motorola Edge 2023 to iPhone**. Let's explore together the best ways to transfer texts and overcome the hurdles that come with this process.
-
-
 
 When it comes to seamlessly transferring SMS from Motorola Edge 2023 to iPhone, Apple's official app, "Move to iOS," can be a reliable and straightforward solution. This app is designed to streamline the transfer process, allowing you to move not only your text messages but also other essential data to your iPhone.
 
@@ -254,8 +264,6 @@ If you're looking for a swift and reliable way to move text messages from Motoro
 
 Packed with a user-friendly interface, this software streamlines the process, ensuring a quick and efficient transfer of your messages through its Phone Transfer feature. Dr.Fone Phone Transfer supports seamless data transfer between Android and iOS devices and vice versa. It also regularly updates so that compatibility won't be an issue.
 
-
-
 ### How to transfer texts from Motorola Edge 2023 to iPhone with Dr.Fone
 
 - **Step 1:** Open Wondershare Dr.Fone from its [official website](https://tools.techidaily.com/wondershare/drfone/phone-switch/), and find the phone transfer tool.
@@ -268,26 +276,14 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3:** Choose text messages as data types for transfer. Proceed to select the types of data you wish to transfer. Checkmark the text messages category and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Monitor music transfer progress. The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshoot Why I Can’t Transfer Texts from Motorola Edge 2023 to iPhone
 
 Even with the reliable methods mentioned earlier, there may be instances where you encounter difficulties in transferring texts from your Android to your iPhone. Don't worry; we've got you covered with solutions to common issues that might hinder a smooth transfer.
@@ -310,10 +306,6 @@ Users may encounter situations where only some content is transferred, or the iO
 
 For this issue, you can consider erasing your iOS device and starting the transfer again. Make sure that the available space on your iPhone accommodates the Android content. Delete unnecessary data or apps on your iPhone to free up space if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Bonus: How to Back Up Messages with Google Drive
 
 In addition to seamless transfers between devices, backing up your text messages becomes equally important. Fortunately, Google Drive offers a convenient solution by allowing you to back up your messages with ease. Turning on backup on Google Drive ensures that your valuable SMS history remains safe and accessible whenever you need it.
@@ -325,21 +317,13 @@ In addition to seamless transfers between devices, backing up your text messages
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Switching phones to the latest model is an exciting occurrence. However, the challenge of transferring crucial data, especially text messages, from an Android to a new iPhone can be challenging.
 
 Fortunately, armed with the insights from this article, we've delved into two effective methods for seamlessly transferring text messages: using Apple's official "Move to iOS" app and leveraging third-party software like Wondershare Dr.Fone. With these methods, you can bid farewell to any complications associated with message transfers.
-
-
 
 ## 2 Ways to Transfer Text Messages from Motorola Edge 2023 to iPhone 15/14/13/12/11/X/8/
 
@@ -348,29 +332,23 @@ The biggest dilemma that people face when they buy a new iPhone like iPhone 14/1
 Aside from this, it is also important that they can transfer messages and contacts to their new phone like iPhone 14/14 Pro (Max). But the process of how to transfer text messages from Motorola Edge 2023 to iPhone can get a little more tricky than transferring other data. But don’t worry, as there are some ways available that allow easy transferring of messages from Motorola Edge 2023 to iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: One-click solution to transfer text messages from Motorola Edge 2023 to iPhone
 
 Buying a new iPhone like iPhone 14/14 Pro (Max) is a lot easier than setting it up. Media files like music, images, and video clips are a lot easier to transfer cross-platform. But the part of migrating contacts and text messages especially gets tricky cross-platform due to poor compatibility between Android and iPhone. Though is possible to transfer text messages from android to iPhone, the process can be slower and will need several workarounds than normal.
 
 Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and securely? Then one-click transfer solution - Dr.Fone - Phone Transfer can help in the task. It is a powerful transfer tool that lets users transfer messages from android to iPhone real quick and without any risk. It can transfer not only text messages, but also contacts, music, images, videos, and others. With Dr.Fone - Phone Transfer, one can easily transfer phone data from an android, iOS, Symbian, etc. to other Android or iOS devices. You don’t need to install any app on the sending and receiving devices. Just connect the Motorola Edge 2023 devices with a USB cable simultaneously and you can transfer data between them very carefully.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -395,6 +373,13 @@ Step 2: Then connect both the Motorola Edge 2023 devices i.e. Android and iPhone
 
 ![launch the tool and connect devices](https://images.wondershare.com/drfone/guide/drfone-home.png "first screen of Dr.Fone")
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Click on the Switch option on the Dr.Fone utility home screen and it will take you to Dr.Fone - Phone Transfer interface.
 
 Step 4: Both the Android and iPhone will be displayed on the next screen. Select the Android device as the Source and iPhone as the destination using the Flip button.
@@ -406,8 +391,6 @@ Step 5: Now, select the data that you want to transfer by checking the respectiv
 Step 6: Finally hit the “Start Transfer” button and it will begin to transfer text messages from Motorola Edge 2023 to iPhone.
 
 Dr.Fone - Phone Transfer offers a safe and quick way to transfer messages from Motorola Edge 2023 to iPhone like iPhone 14/14 Pro (Max). Moreover, it can work both on new and old target iPhone. Dr.Fone - Phone Transfer is also compatible with a variety of iOS devices and iOS versions, so it doesn’t have any restrictions for transferring data.
-
-
 
 ## Part 2: Transfer SMS from Motorola Edge 2023 to iPhone using Move to iOS app
 
@@ -444,17 +427,9 @@ Step 6: On the Transfer Data screen, select the content to transfer and click �
 
 ![process of transferring sms from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-to-ios.JPG "transfer to be complete in a while")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 7: After transferring is complete, finish the iPhone device setup process.
 
 The disadvantage that this method has is that you can’t transfer messages from Motorola Edge 2023 to iPhone on an already set up iPhone. It only works on a new device or has to erase the data on the target device. Moreover, as it only works with all versions of iOS, the older devices can’t transfer messages through this method. They can use [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) for the task.
-
-
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -468,5 +443,19 @@ The disadvantage that this method has is that you can’t transfer messages from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-master-the-art-of-cutting-with-vivacuts-full-review-2024/"><u>[New] Master the Art of Cutting with VivaCut's Full Review 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-precise-screen-recording-on-dell-laptops-for-2024/"><u>[New] Step-by-Step Precise Screen Recording on Dell Laptops for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-s3700-update-a-new-chapter-in-playback/"><u>2024 Approved Sony S3700 Update A New Chapter in Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-game-with-this-superb-cost-free-sound-altering-app/"><u>Enhance Your Game with This Superb, Cost-Free Sound Altering App</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-razr-40-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Razr 40 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-infinix-zero-30-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Infinix Zero 30 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-f04-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy F04 Data? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-lock-up-sea-of-thieves-troubleshooting-guide/"><u>Overcoming Launch Lock-Up: Sea of Thieves Troubleshooting Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-showdown-after-effects-vs-adobe-premiere-pro-for-2024/"><u>Updated The Ultimate Showdown After Effects vs Adobe Premiere Pro for 2024</u></a></li>
+</ul></div>
 

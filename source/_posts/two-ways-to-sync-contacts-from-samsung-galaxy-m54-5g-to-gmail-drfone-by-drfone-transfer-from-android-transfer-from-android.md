@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Samsung Galaxy M54 5G to Gmail | Dr.fone
-date: 2024-08-24T14:53:13.688Z
-updated: 2024-08-25T14:53:13.688Z
+date: 2024-11-02T23:12:18.643Z
+updated: 2024-11-05T21:59:34.752Z
 tags: 
   - transfer
 categories:
@@ -24,8 +24,6 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Samsung Galaxy M54 5G contact details to another platform.
 
-
-
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 One-Stop Solution to Sync Contacts from Samsung Galaxy M54 5G to Gmail
@@ -46,11 +44,25 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
 
 ![sync contacts from android to gmail-export to vcard file](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - 8\. You will be taken to a page to select where you want the file to be saved on your PC, select the location, and click on OK to start exporting your contacts.
 
@@ -62,6 +74,13 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
@@ -71,8 +90,12 @@ If you followed these steps, you would not only have synced your contacts with y
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2. How to Sync Contacts from Samsung Galaxy M54 5G to Gmail? (Official Way)
 
 There is also a way whereby you can sync your contacts to your Gmail account on Android using just Your Samsung Galaxy M54 5G. You can do this simply by following these steps:
@@ -84,17 +107,11 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
 ## Part 3. Other Ways to Backup Android Contacts
@@ -105,9 +122,6 @@ Although there has been no record of such occurrence in the past from users who 
 
 Another way to back up your contacts before you sync contacts from Samsung Galaxy M54 5G to Gmail can be found in this article: [Four Ways to Backup Android Contacts Easily](https://drfone.wondershare.com/contacts/backup-contacts-android.html).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Part 4. Basic Solutions to Fix Google Contacts Syncing Issues on Android
 
 In the above parts, you have learned how to transfer contacts from Samsung Galaxy M54 5G to Gmail. So what if your contacts have, for some reason, refused to sync? Well, don't panic; here are some of the possible fixes for the problem.
@@ -166,12 +180,13 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Samsung Galaxy M54 5G to Gmail.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Transfer Contacts from Samsung Galaxy M54 5G to Outlook
 
 _I would like to export/edit my contacts that are on My Samsung Galaxy M54 5G and get them onto my computer for a back, to edit them, to input/import them into Outlook. Can this be done and how? Is there something I can download or a backup assistant?_
@@ -179,8 +194,6 @@ _I would like to export/edit my contacts that are on My Samsung Galaxy M54 5G an
 With lots of contacts on your Samsung Galaxy M54 5G, you may want to transfer these contacts from Samsung Galaxy M54 5G to Outlook for backup. This way, when you get a new Android phone or when you lose contacts by accident, you can quickly get them back.
 
 To sync Android to Outlook, I highly recommend an Android manager: [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). This program empowers you to transfer contacts on your Samsung Galaxy M54 5G to Outlook 2003/2007/2010/2013 easily and effortlessly.
-
-
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -199,17 +212,18 @@ One Stop Solution to Transfer Contacts from Samsung Galaxy M54 5G to Outlook
 Now, I’d like to introduce you how to transfer Android contacts to Outlook. Download this free trial version on your computer. Then check out the easy steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1. Connect Android phone with a computer and run Dr.Fone
 
 To start with, connect your Samsung Galaxy M54 5G with a computer either via a USB cable. Run Dr.Fone on your computer and choose Transfer fron the main window Then, your Samsung Galaxy M54 5G will be detected instantly. After that, the primary window will appears like the screenshot shows below.
 
 ![android to outlook](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2. Android to Outlook sync
 
 Then, click "Contacts" under "Information" panel on the top. In the contact management window, choose the contacts that you want to export. Click "Export" button. When the drop-down menu pops up, you can either click "Export selected contacts to computer" or "Export all contacts to computer". After that, click "to Outlook Express" or "to Outlook 2003/2007/2010/2013". Then, the contract transferring begins. Be sure your Samsung Galaxy M54 5G is connected all the time.
@@ -228,8 +242,6 @@ Transferring your messages allows you to keep your important messages intact, pr
 
 This article will guide you through effective and easy methods to **transfer texts from Samsung Galaxy M54 5G to iPhone**. Let's explore together the best ways to transfer texts and overcome the hurdles that come with this process.
 
-
-
 When it comes to seamlessly transferring SMS from Samsung Galaxy M54 5G to iPhone, Apple's official app, "Move to iOS," can be a reliable and straightforward solution. This app is designed to streamline the transfer process, allowing you to move not only your text messages but also other essential data to your iPhone.
 
 To use this Move to iOS app, you need to download it from the Google Play Store first on your Samsung Galaxy M54 5G. Then, follow the steps to **transfer SMS from Samsung Galaxy M54 5G to iPhone** here:
@@ -245,16 +257,11 @@ To use this Move to iOS app, you need to download it from the Google Play Store 
 
 ![move data from android with move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How To Move Text Messages From Samsung Galaxy M54 5G to iPhone Quickly with Computer
 
 If you're looking for a swift and reliable way to move text messages from Samsung Galaxy M54 5G to iPhone, third-party software like Wondershare Dr.Fone can be the perfect go-to solution.
 
 Packed with a user-friendly interface, this software streamlines the process, ensuring a quick and efficient transfer of your messages through its Phone Transfer feature. Dr.Fone Phone Transfer supports seamless data transfer between Android and iOS devices and vice versa. It also regularly updates so that compatibility won't be an issue.
-
-
 
 ### How to transfer texts from Samsung Galaxy M54 5G to iPhone with Dr.Fone
 
@@ -268,23 +275,14 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 3:** Choose text messages as data types for transfer. Proceed to select the types of data you wish to transfer. Checkmark the text messages category and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 4:** Monitor music transfer progress. The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshoot Why I Can’t Transfer Texts from Samsung Galaxy M54 5G to iPhone
 
 Even with the reliable methods mentioned earlier, there may be instances where you encounter difficulties in transferring texts from your Android to your iPhone. Don't worry; we've got you covered with solutions to common issues that might hinder a smooth transfer.
@@ -318,19 +316,27 @@ In addition to seamless transfers between devices, backing up your text messages
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Switching phones to the latest model is an exciting occurrence. However, the challenge of transferring crucial data, especially text messages, from an Android to a new iPhone can be challenging.
 
 Fortunately, armed with the insights from this article, we've delved into two effective methods for seamlessly transferring text messages: using Apple's official "Move to iOS" app and leveraging third-party software like Wondershare Dr.Fone. With these methods, you can bid farewell to any complications associated with message transfers.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -344,5 +350,20 @@ Fortunately, armed with the insights from this article, we've delved into two ef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-building-a-solid-foundation-youtube-video-script-basics/"><u>[New] 2024 Approved Building a Solid Foundation YouTube Video Script Basics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-reimagine-the-way-you-take-notes-with-mematic/"><u>[New] 2024 Approved Reimagine the Way You Take Notes with Mematic</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enhance-tv-screens-with-automatic-loops-of-youtube/"><u>[New] Enhance TV Screens With Automatic Loops of YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-sound-recording-with-studio-mac-guide/"><u>[Updated] In 2024, Sound Recording with Studio Mac Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-ps4ps5-voice-modification-handbook/"><u>[Updated] The Ultimate PS4/PS5 Voice Modification Handbook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-youtube-content-for-igtv-success/"><u>[Updated] Transforming YouTube Content for IGTV Success</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-narzo-n53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Narzo N53 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-gt-3-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme GT 3 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-itel-p55-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Itel P55 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-se-2022-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone SE (2022) to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-yuva-3-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Yuva 3 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g24-power-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G24 Power to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-slow-motion-spectrum-comprehensive-slomo-app-review-2024/"><u>The Slow Motion Spectrum Comprehensive SloMo App Review, 2024</u></a></li>
+</ul></div>
 
