@@ -1,7 +1,7 @@
 ---
 title: Top 5 from Meizu 21 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone
-date: 2024-11-04T17:35:28.901Z
-updated: 2024-11-05T23:34:26.228Z
+date: 2024-11-13T12:15:59.688Z
+updated: 2024-11-16T10:09:34.568Z
 tags: 
   - transfer
 categories:
@@ -52,6 +52,13 @@ All of this makes Dr.Fone - Phone Transfer the best Android to iPhone contacts t
 
 Dr.Fone is the fastest tool to transfer all kinds of data from one device to another. Nevertheless, if you want to try some other Android to iPhone contacts transfer app, you can give these options a try.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. My Contacts - Phonebook Backup & Transfer App
 
 If you want to [back up your contacts](https://drfone.wondershare.com/contacts/iphone-android-contacts-backup-apps.html) list and move it from one device to another, you can try My Contacts. This Android to iPhone contacts transfer app works on Android and iOS devices like iPhone 15, iPhone 13, 12 Pro, 12 Pro Max. It will also keep your contacts safe on the cloud. Therefore, you can first copy your contacts from Meizu 21 Pro to My Contacts and later use its app on your iPhone to extract them.
@@ -78,13 +85,6 @@ Move to iOS is the official app developed by Apple to help users switch from an 
 
 ![android to iphone contacts transfer app - move to ios](https://images.wondershare.com/drfone/article/2018/01/15156708208549.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Contacts Transfer Backup Sync & Dialer: InTouchApp
 
 Ideally, the InTouchApp is a smart contact management tool that can be used to add “context” to your contact list. You can use it to describe your contacts, search them easily, set reminders, and more. You can also use InTouch as an Android to iPhone contacts transfer app since it supports cross-platform syncing.
@@ -97,6 +97,13 @@ Ideally, the InTouchApp is a smart contact management tool that can be used to a
 [Get it here](https://www.intouchapp.com/)
 
 ![android to iphone contacts transfer app - InTouchApp](https://images.wondershare.com/drfone/article/2018/01/15156708422050.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. SHAREit
 
@@ -113,6 +120,13 @@ Boasting an impressive number of over 1 billion downloads, SHAREit is one of the
 
 ![android to iphone contacts transfer app - shareit](https://images.wondershare.com/drfone/article/2018/01/15156708565360.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After learning about these top 5 Android to iPhone contacts transfer software, you can easily complete the Meizu 21 Pro device transition without any data loss. Out of all the alternatives, we recommend Dr.Fone - Phone Transfer. It provides the fastest and most secure option to move your content directly from one device to another with a single click. Go ahead and give it a try to move from Meizu 21 Pro to iPhone (iPhone 15 included) in a few minutes while keeping your data intact.
 
 ## 5 Ways to Move Contacts From Meizu 21 Pro to iPhone (13/14/15)
@@ -127,6 +141,13 @@ In this article, we will provide some methods on **how to transfer contacts from
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/61_ifX2Jm6s"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Can You Move Contacts From Meizu 21 Pro to iPhone (13/14/15)?
 
 There’s no denying that the phonebook is one of the most important files on our mobile phones. Without this, it will be much harder to communicate with others who don’t use the internet for messaging and calls. That’s why it’s highly recommended to prioritize the contact list when initiating sensitive procedures like phone transfers. You must do your best to keep the files safe while the process is ongoing.
@@ -138,6 +159,13 @@ Another thing, you can certainly move contacts from Meizu 21 Pro to iPhone (13/1
 ## Part 2: 5 Tips on How to Transfer Contacts From Meizu 21 Pro to iPhone (13/14/15)?
 
 As previously mentioned, it’s very simple to move your contacts from Meizu 21 Pro to iPhone (13/14/15). There are numerous ways to do that in easy steps. Five of them are enumerated below. Check each tutorial on how to share contacts from Meizu 21 Pro to iPhone and find the best one for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Move contacts from Meizu 21 Pro to iPhone (13/14/15) via SIM card
 
@@ -220,13 +248,6 @@ The first four data migration methods are very helpful. It provides an effective
 
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Nominate your Android smartphone as the Source and your iPhone as Target. Alternatively, click Flip to modify the direction of the transfer according to your preference.
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
@@ -238,6 +259,13 @@ The first four data migration methods are very helpful. It provides an effective
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. Should you wish to terminate the progress midway, simply click Cancel.
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** After completing the process, click OK to wrap it up.
 
@@ -310,13 +338,6 @@ Now, select the type of data you want to transfer, which, in your case, is “Co
 
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 4. Finalize the Contact Transfer Process
 
 After you turn off iCloud syncing on your iOS device, a notification will indicate the successful execution of the process once it is complete. Tap the “OK” button to close the window promptly.
@@ -327,13 +348,6 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1. Use NameDrop
 
 Apple has introduced a new feature in the latest iPhones named NameDrop. The feature allows you to share your contact card with another person by tapping the two iPhones together. The step-by-step guide to move contacts between iPhone and iPhone using “NameDrop" is below.
@@ -341,13 +355,6 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 - **Step 1.** Start by holding your iPhone's display a few centimeters from the top of the other person's iPhone. Keep both devices close until "NameDrop" appears on both screens.
 
 ![place iphone near each other](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
 
@@ -364,6 +371,13 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 - **Step 1.** First, you need to access the "Settings" of your old iPhone and tap on the "Apple ID" on the top. There, continue with the "iCloud" option and tap on "Show All" to display all features.
 
 ![choose contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
@@ -392,13 +406,6 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
 
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2. Use the VCF File
 
@@ -448,16 +455,16 @@ The Google account transfer method can also transfer between Android and Android
 
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1. Enable iPhone Sync Feature
 
@@ -476,13 +483,6 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Meizu 21 Pro.
 
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2. Import the VCF File
 
@@ -518,22 +518,17 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-streaming-fb-video-content-on-television-devices/"><u>[New] Streaming FB Video Content On Television Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-square-video-production-masterclass-in-imovie-for-social-media/"><u>[Updated] Square Video Production Masterclass in iMovie for Social Media</u></a></li>
-<li><a href="https://win-help.techidaily.com/free-automatic-image-syncing-tool-ultrafast-file-transfers-with-precision/"><u>Free Automatic Image Syncing Tool - UltraFast File Transfers with Precision</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-105-classic-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia 105 Classic to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-f04-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy F04 to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-find-n3-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo Find N3 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G04 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-note-30-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Note 30 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-a56s-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo A56s 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-s18-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo S18 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-play-8t-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor Play 8T to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/microsoft-surface-laptop-go-critique-affordable-innovation-meets-portability-in-a-sleek-ultrabook-design/"><u>Microsoft Surface Laptop Go Critique: Affordable Innovation Meets Portability in a Sleek Ultrabook Design</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/tagging-towards-triumph-the-best-instagram-hashtags/"><u>Tagging Towards Triumph The Best Instagram Hashtags</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-your-broadcasts-with-manycam-advanced-virtual-camera-software-for-live-streamers/"><u>Transform Your Broadcasts with ManyCam: Advanced Virtual Camera Software for Live Streamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-speaker-distortion-on-windows-11-and-7-a-comprehensive-guide/"><u>Troubleshooting Speaker Distortion on Windows 11 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-x9a-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor X9a FRP Bypass</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-stardew-upgrades-ranked-7-14/"><u>Ultimate Stardew Upgrades Ranked #7-14</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-dimming-down-audio-levels-seamlessly/"><u>[New] 2024 Approved Dimming Down Audio Levels Seamlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-the-aspect-ratio-maze-for-twitter-media/"><u>[New] 2024 Approved Navigating the Aspect Ratio Maze for Twitter Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srgb-advantages-over-regular-rgb/"><u>[New] Srgb Advantages Over Regular Rgb</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-online-presence-yt-descriptive-insights/"><u>2024 Approved Streamline Your Online Presence YT Descriptive Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-ways-to-unlock-iphone-x-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Best ways to unlock iPhone X screen lock</u></a></li>
+<li><a href="https://facebook.techidaily.com/essentials-of-message-icons-on-social-media-platforms-like-fb/"><u>Essentials of Message Icons on Social Media Platforms Like FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-femininity-top-10-ladies-whove-captured-youtube-audiences/"><u>Fierce Femininity Top 10 Ladies Who've Captured YouTube Audiences</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-a78-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo A78 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-infinix-note-30-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Infinix Note 30 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y78t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y78t to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to Gmail | Dr.fone</u></a></li>
 </ul></div>
 
