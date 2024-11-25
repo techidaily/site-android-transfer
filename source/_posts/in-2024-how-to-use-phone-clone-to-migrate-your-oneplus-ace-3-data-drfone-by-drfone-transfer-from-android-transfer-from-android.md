@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 3 Data? | Dr.fone
-date: 2024-11-11T04:56:33.531Z
-updated: 2024-11-16T06:53:35.186Z
+date: 2024-11-19T18:21:17.294Z
+updated: 2024-11-25T17:13:32.567Z
 tags: 
   - transfer
 categories:
@@ -48,18 +48,15 @@ Here are the steps to be followed for Phone Clone OnePlus to transfer your data 
 
 ![phone clone for android](https://images.wondershare.com/drfone/article/2017/11/15114845572594.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Open the app on the old phone. Click on the old phone button. Select the wi-fi network created in the 2nd step and enter the password that you received in the 2nd step.
 
 ![phone clone for android](https://images.wondershare.com/drfone/article/2017/11/15114845727821.jpg)
 
 4\. Once connected, click the number of tabs on the old phone that you want to send to a new phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to use Phone Clone for iPhone
 
@@ -74,10 +71,7 @@ Now, let us take a look at how you can use Phone Clone OnePlus app without spend
 ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114843873925.jpg) ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114844142055.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Go to the wi-fi setting of the old iPhone and connect to the Wifi network mentioned in step 2. Open the app on the old iPhone and click on next to complete the connection.
@@ -85,6 +79,10 @@ Now, let us take a look at how you can use Phone Clone OnePlus app without spend
 4\. Once connected, click on the tabs presented in the old iPhone and select the tab that you want to send to the new iPhone.
 
 ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114844384504.jpg) ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114844869032.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Best Phone Clone alternative: Dr.Fone - Phone Transfer to migrate iPhone/Android data
 
@@ -102,6 +100,11 @@ Some of the pros of Dr.Fone - Phone Transfer are as follows:
 - Move data between devices with different operating systems, i.e. iOS to Android.
 - Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
 **3981454** people have downloaded it
@@ -119,6 +122,10 @@ Now let us take a look at how to use Dr. Fone to transfer data between mobiles:
 2\. Connect both the mobile to the computer and select the send and receive side on the computer
 
 ![connect two devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Select the files and then click on "Start transfer" to complete the transfer process
 
@@ -138,6 +145,11 @@ However, if your cherished iPod is showing signs of wear or experiencing issues,
 - [Part 1. Transfer Music from iPod to Android via Bluetooth](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part2)
 - [Part 2. How to Transfer Music from OnePlus Ace 3 to iPod with Move to iOS App](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part3)![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)
 - [Part 3. How To Transfer Music From iPod to Android/Android to iPod With Easy Software](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - [Conclusion](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part5)
 
 ## Can I Transfer iPod Music to Android?
@@ -147,6 +159,10 @@ However, if your cherished iPod is showing signs of wear or experiencing issues,
 One of the most straightforward ways to transfer music from your iPod to an Android device is by using Bluetooth. It's worth noting that Bluetooth transfer capability is present in all iPod Touch models but not in older iPod models. Bluetooth support for iPod Touch was introduced with the 2nd Generation and iOS 3.0, while iPod Nano gained support from the 7th Generation onward.
 
 Alternatively, other methods involve employing a dedicated app and third-party software as an intermediary. Rest assured; the upcoming sections will comprehensively cover these approaches, providing you with the necessary guidance for a smooth music transfer process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Transfer Music from iPod to Android via Bluetooth
 
@@ -206,20 +222,6 @@ Allow the app to complete the transfer process. Once the transfer is complete, y
 
 ![Android to iPod transfer via Move to iOS.](https://images.wondershare.com/drfone/article/2023/12/transfer-music-from-android-to-ipod-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. How To Transfer Music From iPod to Android/Android to iPod With Easy Software
 
 Now, for a more comprehensive and versatile solution, using software like Wondershare Dr.Fone provides a streamlined process to transfer music not only from OnePlus Ace 3 to iPod but also from iPod to Android.
@@ -266,13 +268,6 @@ Now, Dr. Fone's Phone Transfer tool should prompt a specific operation on the wi
 
 ![Disable iCloud syncing.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Monitor data transfer progress
 
 The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
@@ -280,10 +275,7 @@ The progress of the data transfer will be displayed in a pop-up window. Once com
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -344,13 +336,6 @@ Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Sa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
 One-click to transfer WhatsApp messages from OnePlus Ace 3 to iPhone
@@ -371,6 +356,10 @@ Begin by opening Wondershare Dr.Fone on your computer and proceed to link your M
 
 ![choose the whatsapp transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Assign Correct Positions to Motorola and Samsung Devices**
 
 Now, you need to assign the Motorola and Samsung devices to their respective positions. Here, the Motorola phone should be in the "Source" position. In the same way, the Samsung device needs to be in the "Destination" position. Use the "Flip" button in case the assigned positions are incorrect.
@@ -382,13 +371,6 @@ Now, you need to assign the Motorola and Samsung devices to their respective pos
 Afterward, click "Transfer" to commence the WhatsApp transfer process. A prompt will appear asking whether you want to back up WhatsApp data on the destination device. After making your choice, wait for the transfer process to finish, which will take only a few moments.
 
 ![whatsapp data transfer in process](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Using Official Tools to Transfer Data from Motorola to Samsung
 
@@ -414,6 +396,10 @@ Moreover, it enables easy transfer of media files between iTunes and Android. Dr
 
 ![wondershare dr.fone phone manager](https://images.wondershare.com/drfone/guide/manage-android-apps-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To cater for the above mentioned problems and many other, Dr.Fone - Phone Transfer was developed. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is an easy to use tool. It has been designed to assist you to in transferring data from your old phone to your new phone, including transferring contacts from Motorola to Samsung.
 
 <ins class="adsbygoogle"
@@ -430,24 +416,16 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-full-picture-of-ustream-and-analogous-services/"><u>[Updated] The Full Picture of Ustream & Analogous Services</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725284662279-cddvd/"><u>如何快速複製CD/DVD到電腦的最佳技巧和指引</u></a></li>
-<li><a href="https://win-online.techidaily.com/1726223797485-m4a-mp3/"><u>無損將 M4A 轉為 MP3：最快速優化技巧 | 免費指南</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xs-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computer-hardware-with-tom-a-comprehensive-resource/"><u>Expert Insights on Computer Hardware with Tom - A Comprehensive Resource</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210105852-9781528767026-how-to-choose-vocations-from-the-hand-with-66-illustrations-and-charts/"><u>How To Choose Vocations from the Hand - With 66 Illustrations and Charts | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-nord-3-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Nord 3 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s17e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo S17e to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y78t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y78t to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-find-x6-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Find X6 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-g13-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto G13 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-10t-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme 10T 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-v30-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo V30 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-edge-40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Edge 40 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-find-n3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo Find N3 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-x50i-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor X50i to Gmail | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/quick-tips-for-effortlessly-opening-zip-and-rar-compressed-file-collections/"><u>Quick Tips for Effortlessly Opening ZIP and RAR Compressed File Collections</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/revolutionary-ideas-to-empower-your-webcam/"><u>Revolutionary Ideas to Empower Your Webcam</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unbound-zen-audio-releases/"><u>Unbound Zen Audio Releases</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-initiating-your-online-journey-a-step-by-step-guide-to-youtube/"><u>[New] 2024 Approved Initiating Your Online Journey A Step-by-Step Guide to YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-rising-stars-in-digital-domain/"><u>[Updated] In 2024, Rising Stars in Digital Domain</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-techniques-for-safe-youtube-audio-extraction-at-no-cost/"><u>[Updated] In 2024, Techniques for Safe YouTube Audio Extraction at No Cost</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-next-level-ai-companions-for-your-smartphone-beyond-chatgpt/"><u>8 Next-Level AI Companions for Your Smartphone Beyond ChatGPT</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-e13-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto E13 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-10-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 10 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-find-x7-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Find X7 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-poco-x6-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Poco X6 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 7 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-crafting-youtube-content-in-sony-vegas/"><u>In 2024, Step-by-Step Crafting YouTube Content in Sony Vegas</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138618845-9781510720862-the-big-book-of-ufo-facts-figures-truth/"><u>The Big Book of UFO Facts, Figures & Truth | Free Book</u></a></li>
 </ul></div>
 

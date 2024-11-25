@@ -1,7 +1,7 @@
 ---
 title: Top 6 Ways to Transfer Text Messages from ZTE Nubia Z60 Ultra to Other Android Devices | Dr.fone
-date: 2024-11-09T23:24:08.199Z
-updated: 2024-11-15T19:14:44.386Z
+date: 2024-11-23T17:27:33.691Z
+updated: 2024-11-25T19:29:38.412Z
 tags: 
   - transfer
 categories:
@@ -20,13 +20,6 @@ With the advancement in technology, your expectations have also increased. You h
 
 When you are planning to upgrade your phone from one Android version to another, and you want to transfer all your existing SMS’s from one phone to another, then there are several free applications that are available on the Play Store that can make your life easy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. SMS Backup and Restore App
 
 One of the best and easiest ways to transfer text messages from your old Android device to new Android device is by using the SMS Backup and Restore App available on the Play Store. You don’t have to worry about any data cable connections. It just needs data connection and your attention. In order to transfer text messages from ZTE Nubia Z60 Ultra to Other Android Devices, follow the below-mentioned steps.
@@ -38,6 +31,10 @@ One of the best and easiest ways to transfer text messages from your old Android
 **Step 3 -** Select Messages from the options you receive on the next tab and click on “Next”.
 
 ![messages transfer by sms backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4 -** Select where you want to create your backup. And click on “Next”.
 
@@ -85,13 +82,6 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Smart Switch (Samsung)
 
 Whether you are switching from iPhone or from any Android phone to Samsung Galaxy phone, the transfer of data like image, text messages, videos, etc. is done easily and smoothly using Samsung smart switch. In order to do so, please follow the steps discussed below on how to transfer text messages from ZTE Nubia Z60 Ultra to Other Android Devices using Smart Switch.
@@ -102,6 +92,10 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 
 ![messages transfer by smart switch 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3 -** Connect with the “Wireless” connection on both the ZTE Nubia Z60 Ultra devices.
 
 **Step 4 -** Select the content you want to transfer to the Galaxy device and click on “Send” button to start transferring the content from one device to another.
@@ -109,10 +103,7 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 ![messages transfer by smart switch 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Great software Dr.Fone - Phone Transfer to transfer text messages from ZTE Nubia Z60 Ultra to Other Android Devices (Recommended)
@@ -122,13 +113,6 @@ Every user in this world is looking out for the easiest way to tackle the task. 
 #### Step by Step Tutorial
 
 Here are the steps on how you can transfer text messages from ZTE Nubia Z60 Ultra to Other Android Devices using Dr.Fone - Phone Transfer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -146,9 +130,17 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2 -** Now, you need to connect your ZTE Nubia Z60 Ultras with your PC using the USB cable to transfer the text messages from the old Android to new Android device. If the source and destination positions are not correct, do it using the Flip button available at the bottom center.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3 –** Simply select the files you want to transfer.
 
@@ -173,13 +165,6 @@ Whether you want to transfer data, i.e. images or videos or text messages, the s
 **Step 2:** Next, once your device is detected by the tool, you need to get into the required data section from the navigation panel at the top. For instance, “Information” in this case. Meanwhile, get your target device connected to the PC too.
 
 ![android to android transfer models](https://images.wondershare.com/drfone/article/android-to-android-transfer-models.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Now, get into the “SMS” section from the left panel. Then, hit on the “Export” icon followed by the “Export to \[Device Name\]” option.
 
@@ -209,6 +194,10 @@ The first thing is to install and run Dr.Fone on your computer. When its primary
 
 ![How to Transfer data from ZTE Nubia Z60 Ultra to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2. Get Both Android Devices Connected
 
 Connect your two Android devices to the computer via USB cables. After recognized, your ZTE Nubia Z60 Ultras will be listed res on both sides of the window.
@@ -224,10 +213,7 @@ Between the two Android phones, display all the contents you can transfer. You c
 That's all. It isn't easy to transfer all your data from ZTE Nubia Z60 Ultra to Other Android Devices. Try [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) free to transfer Android files to your new Android phone. It is the best Android to Android data transfer tool. With it, you can transfer everything from ZTE Nubia Z60 Ultra to Other Android Devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Everything from ZTE Nubia Z60 Ultra to Other Android Devices with Google Backup
@@ -250,24 +236,25 @@ This one is the best to transfer the data such as photos, videos, songs, and oth
 
 When you have bought a new device, then certainly there is a need to transfer your data such as Contacts, SMS, Photos, Music, Apps, and more other documents using different methods. Your device data can also be transferred from Android smartphones to iPhone and vice versa. If you need to have a fast and easy way to transfer the data, you can try with Dr.Fone - Phone Transfer. Here we also have a list of a few different ways which can be used easily without any restrictions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Transfer Contacts from ZTE Nubia Z60 Ultra to Other Android Devices
 
 Transferring the contacts is the most important thing, the time has come when you do not need to face the painstaking process of copying each contact with the hand. Now you can transfer the contacts easier along with cloud synchronization. It’s one of the easiest ways to keep your contacts up-to-date and sync it with your Google account. Transfer the contacts and sync it on that registered account. Similarly, when you buy a new device, open your Google account on your new device and copy all the saved contacts from that account onto your new device.
 
 ![how to transfer from ZTE Nubia Z60 Ultra to Other Android Devices - Transfer Contacts](https://images.wondershare.com/drfone/article/2017/11/android-android-003.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Transfer SMS from ZTE Nubia Z60 Ultra to Other Android Devices
 
 You can now transfer your old SMS to the Android device easily by using this free SMS backup app, which can restore and transfer all SMS stored in XML file format, and then you can send directly to your new Android devices. Here we have used a backup app that can explain how to transfer from ZTE Nubia Z60 Ultra to Other Android Devices easily when connected with each other and help you out to restore the SMS messages. Note that this app won’t pay attention to which SMS already exists and which one is imported twice. Instead, you can use MobileTrans one-click app, which helps you out in resolving this problem.
 
 ![how to transfer from ZTE Nubia Z60 Ultra to Other Android Devices - Transfer SMS](https://images.wondershare.com/drfone/article/2017/11/android-android-004.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices
 
@@ -276,10 +263,7 @@ You can use Dr.Fone - Phone Transfer, which can help you in how to transfer from
 ![how to transfer from ZTE Nubia Z60 Ultra to Other Android Devices - Transfer Photos](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices
@@ -307,16 +291,19 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-playlist-best-sandbox-game-choices/"><u>[New] The Ultimate Playlist Best Sandbox Game Choices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-best-practices-for-documenting-chat-history-on-whatsapp/"><u>[Updated] In 2024, Best Practices for Documenting Chat History on WhatsApp</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-less-loved-aspects-of-virtual-worlds/"><u>2024 Approved The Less-Loved Aspects of Virtual Worlds</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epic-deal-alert-grab-the-amazing-8tb-samsung-t5-ssd-steeply-discounted-by-36-on-amazon-post-prime-day-coverage/"><u>Epic Deal Alert: Grab the Amazing 8TB Samsung T5 SSD - Steeply Discounted by 36% on Amazon Post-Prime Day Coverage</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>In 2024, Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools/"><u>In 2024, Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x8b-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X8b to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-zero-30-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix Zero 30 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-nokia-c32-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Nokia C32 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-motorola-moto-g24-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Motorola Moto G24 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-youtube-to-wav-file-4-best-free-convert-solutions/"><u>[Updated] 2024 Approved YouTube to WAV File 4 Best Free Convert Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-and-powerful-discover-the-ultimate-non-thinkpad-non-macbook-productivity-laptop-on-sale-zdnet/"><u>Affordable and Powerful: Discover the Ultimate Non-ThinkPad, Non-MacBook Productivity Laptop on Sale | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-the-operating-principles-of-electric-cycles/"><u>An In-Depth Look at the Operating Principles of Electric Cycles</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-pixar-and-nvidias-unprecedented-partnership-will-transform-3d-video-creation-into-a-monumental-venture-zdnet-insights/"><u>How Apple, Pixar, and Nvidia's Unprecedented Partnership Will Transform 3D Video Creation Into a Monumental Venture | ZDNet Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-13-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi 13 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-v-purse-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor V Purse to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Asus ROG Phone 7 Ultimate to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-smart-8-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Smart 8 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-t2-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo T2 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F34 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-audacitys-paudio-error-on-w10w11-systems/"><u>Resolving Audacity's PAudio Error on W10/W11 Systems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-to-downloading-videos-from-pornerbros/"><u>Step-by-Step Guide to Downloading Videos From Pornerbros</u></a></li>
 </ul></div>
 
