@@ -1,7 +1,7 @@
 ---
 title: Solved Move from Nokia G310 to iOS not Working Problems | Dr.fone
-date: 2024-11-29T16:42:40.635Z
-updated: 2024-12-05T17:00:47.342Z
+date: 2024-12-06T17:22:09.817Z
+updated: 2024-12-11T17:19:32.939Z
 tags: 
   - transfer
 categories:
@@ -84,6 +84,10 @@ While the Move to iOS app can be easy to use, you need to know a couple of thing
 - Check the capacity of the transferred content, whether it will fit the new iOS device.
 - Update chrome on android to the latest version to transfer bookmarks
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 9 Tips about moving to iOS not working problems
 
 Even though Move to iOS is a useful tool for android users willing to transfer content to the iOS device, there are several instances where it fails to work correctly. The app will show a message indicating the type of error you are experiencing during the transfer process.
@@ -93,10 +97,6 @@ Most of the 'move to iOS' problems are related to Wi-Fi connection issues, andro
 ### Tip 1: Restart both your devices
 
 Restarting your devices is the essential thing to do when troubleshooting the Move to iOS problems. It is a great way o eliminate minor issues during data transfer from android to iOS devices. The process can resolve the Move to iOS stuck on connecting to iPhone issues. A simple restart will eliminate the bugs and any cached error in the Nokia G310 devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 2: Clear all running apps
 
@@ -124,10 +124,6 @@ Before you begin transferring android data to iOS devices, check the size of all
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 8: Check the compatibility of your devices
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
@@ -135,6 +131,10 @@ You need to check whether your android device meets the minimum requirements to 
 ### Tip 9: Turn off battery optimization
 
 Turning off the battery optimization on both your Android and iOS device is a requirement when using the Move to iOS tool. The app is designed to run in the foreground, and the android user should not have other applications running. However, the phone might automatically minimize the Move to iOS app when it switches to battery optimization mode. Therefore you should ensure the feature is closed from the settings of your android device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: \[Alternative\] Move to iOS not working solved without a PC
 
@@ -168,6 +168,10 @@ You need to login to your iCloud account on android to download data, or you can
 
     ![wait for the process](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Wait for the data transfer process to complete.
 
 To transfer content from your iPhone to Android device directly, open Dr. Fone – Phone Transfer on android and tap 'import from a USB cable.' Use the iOS-to-android cable to connect your iOS and Android devices.
@@ -175,6 +179,10 @@ To transfer content from your iPhone to Android device directly, open Dr. Fone �
 Dr. Fone – Phone Transfer will begin to scan data on your iPhone. The time will depend on the content on the iPhone.
 
 Tap on 'start importing' once all data has been detected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: \[Alternative\] Move to iOS not working solved with a PC
 
@@ -189,6 +197,10 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - If you want to clear the destination phone's data before transferring data, ensure you check the 'clear data before copy' box.
 - All the data you selected will be transferred successfully in a few minutes.
 
@@ -199,10 +211,6 @@ The following steps will help you transfer data from android to an iOS device us
 ## Conclusion
 
 Transferring data from android to iOS device has been made easier with the Move to iOS app. However, you need to consider the requirements for the data transfer process to complete successfully. You can also apply Dr. Fone – Phone Transfer as your recommended alternatives to transfer android data to the iOS device in the simplest way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Ways To Teach You To Transfer Files from Nokia G310 to Other Android Devices Easily
 
@@ -223,6 +231,10 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 ****Step 2:**** Now, press the “Share” icon and select “Bluetooth.” Choose your new Android device from the available devices on the next screen.
 
 ![choose the bluetooth option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** Move to your new Android phone and hit “Accept” to start the transfer process. The transfer time will be depended on the size of the files.
 
@@ -258,10 +270,6 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 ![tap on the nearby share](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pros and Cons
 
 | Pros | Cons |
@@ -274,13 +282,13 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 Using Nearby Share is recommended when you don't have access to a computer or the internet, and you need to share large files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Transfer Files Between Android by USB Cable
 
 If you have access to a computer, you can use it to ****transfer files from Nokia G310 to Other Android Devices****. All you need is a USB cable, and you are set. In this method, you will first copy data from the old phone to the computer and then copy it to the new phone from the computer. It works by default on Windows, but for Mac, you need Android File Transfer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Instructions To Transfer Files by USB Cable
 
@@ -300,10 +308,6 @@ If you have access to a computer, you can use it to ****transfer files from Noki
 | · It is a reliable and secure method. | · It only works well on Windows; on Mac, it becomes a hassle. |
 | · Only a USB cable is needed to transfer the data. |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best For
 
 Using a USB cable is best for transferring data when you have large files and don’t have any better options.
@@ -322,6 +326,10 @@ Google Account is another great way for ****Android-to-Android file transfer***
 
 ![choose the old android backup](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros and Cons
 
 | Pros | Cons |
@@ -335,7 +343,7 @@ Google Account is another great way for ****Android-to-Android file transfer***
 Using Google Account to transfer files from Nokia G310 to Other Android Devices is best when you still haven’t set up the new Android device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Best choice: The Fastest Way to Transfer Files from Nokia G310 to Other Android Devices with Dr.Fone
@@ -365,15 +373,15 @@ For transferring data from the old Android device to the new one, the old device
 
 ![choose the data to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3: Select the Desired Data and Complete the Transfer Process****
 
 Now select the data you want to transfer and click “Start Transfer” to begin the transfer process. In case you want to delete data on the new device, select “Clear Data before Copy” before pressing “Start Transfer.”
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -449,10 +457,6 @@ Locate the uploaded photos in Google Drive on your iPad. Tap on each photo or se
 
 ![Transfer photos with Google Drive.](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-android-to-ipad-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3. How to Share Pics From iPhone to Android with Dr.Fone
 
 In addition to transferring photos from Nokia G310 to iPad, you might also be interested in sharing pictures from iPhone to Android. Although both iPad and iPhone belong to the same Apple ecosystem, they function on slightly distinct operating systems— iPads utilize iPadOS, whereas iPhones operate on iOS.
@@ -492,10 +496,6 @@ After connecting them, the platform will identify the connected devices and load
 Proceed to select the types of data you wish to transfer. Checkmark photos and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
 ![Choose the data types for transfer.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** Disable iCloud syncing
 
@@ -551,18 +551,20 @@ Although they work in different operating systems, transferring photos between A
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/the-fellowship-of-the-ring-to-return-of-the-king-how-to-properly-enjoy-the-lord-of-the-rings-trilogy/"><u>‘The Fellowship of the Ring’ to ‘Return of the King’: How to Properly Enjoy The Lord of the Rings Trilogy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-streamline-filmmaking-install-xps-media-tools-for-2024/"><u>[New] Streamline Filmmaking Install XP's Media Tools for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-explore-the-pinnacle-of-hydro-interactive-games-for-2024/"><u>[Updated] Explore the Pinnacle of Hydro Interactive Games for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correct-transaction-queuing-problem/"><u>Correct Transaction Queuing Problem</u></a></li>
-<li><a href="https://article-tips.techidaily.com/expedited-files-scanning-on-windows-os-for-2024/"><u>Expedited Files Scanning on Windows OS for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a58-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A58 4G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-c32-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia C32 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-itel-p55t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Itel P55T to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-itel-p40plus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Itel P40+ to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-editing-your-screenshots-on-microsofts-latest-os/"><u>Step-by-Step Guide: Editing Your Screenshots on Microsoft's Latest OS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210669422-9798887620169-the-power-of-crystal-healing/"><u>The Power of Crystal Healing | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932817-9781912230792-the-temple-and-the-grail/"><u>The Temple and the Grail | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-panoramapro-x7-zoom-and-refine-photos-effortlessly/"><u>[New] PanoramaPro X7 Zoom & Refine Photos Effortlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-addressed-discrepancy-in-shorts-showcase/"><u>[Updated] Addressed Discrepancy in Shorts Showcase</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-detailed-look-into-youtubes-featured-community-dialogue/"><u>2024 Approved Detailed Look Into YouTube's Featured Community Dialogue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-hl-l2360dw-driver-downloads-fast-and-easy-installation-guide/"><u>Brother HL-L2360DW Driver Downloads: Fast and Easy Installation Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-how-to-deactivate-the-accessibility-shortcut-sticky-keys-in-windows-os/"><u>Easy Steps: How to Deactivate the Accessibility Shortcut 'Sticky Keys' In Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/game-on-with-the-samsung-ue590-a-freesync-dream-tv-review/"><u>Game On with the Samsung UE590 A FreeSync Dream TV Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-c51-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco C51 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-11x-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme 11X 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oneplus-nord-n30-se-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from OnePlus Nord N30 SE to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y55s-5g-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y55s 5G (2023) to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-tips-for-a-smooth-uninterrupted-experience-in-gta-5/"><u>Master Tips for a Smooth, Uninterrupted Experience in GTA 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/"><u>PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17t Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 

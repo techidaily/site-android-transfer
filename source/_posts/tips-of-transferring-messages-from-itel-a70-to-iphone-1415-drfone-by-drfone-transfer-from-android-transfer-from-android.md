@@ -1,7 +1,7 @@
 ---
 title: Tips of Transferring Messages from Itel A70 to iPhone 14/15 | Dr.fone
-date: 2024-11-28T17:03:40.792Z
-updated: 2024-12-05T17:11:10.738Z
+date: 2024-12-10T17:28:04.385Z
+updated: 2024-12-11T17:30:20.601Z
 tags: 
   - transfer
 categories:
@@ -52,10 +52,6 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 .
 
 - **Step 2:** Specify the source and destination devices. After connecting to your devices, Dr.Fone will identify the connected devices and load their data onto the platform. Choose your Android as the Source device and your iPhone as the Destination device to set the transfer path. Use the Flip button if necessary to alter the transfer direction.
@@ -65,6 +61,10 @@ Packed with a user-friendly interface, this software streamlines the process, en
 - **Step 3:** Choose text messages as data types for transfer. Proceed to select the types of data you wish to transfer. Checkmark the text messages category and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Monitor music transfer progress. The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
@@ -104,7 +104,7 @@ In addition to seamless transfers between devices, backing up your text messages
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
@@ -189,10 +189,6 @@ Now to proceed, first of all, you need to do some settings on your iPhone device
 
 ![how to transfer photos from android to iphone-app and data](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-6.jpg) ![how to transfer photos from android to iphone-move data from android](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The next step is to take your Itel A70 to complete the transfer process with the “Move to iOS” app.
 
 - **Step 2:** Switch to your Itel A70, open the Google Play Store, and search for the ‘Move to iOS’ app.
@@ -201,19 +197,23 @@ The next step is to take your Itel A70 to complete the transfer process with the
 
 ![how to transfer photos from android to iphone-move from android to ios](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** On your Itel A70, enter the 12-digit code of the iPhone. This is so that the ‘Move to iOS’ app knows which iOS device it has to transfer the data to.
 
 ![how to transfer photos from android to iphone-enrer the code](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Before the transfer starts, you will be asked several questions, like do you want to transfer Google Account information, Bookmarks, etc. Now, since you only wish to videos and photos, deselect the other options except ‘Camera Roll.’
 
 The above process to **transfer pictures from Itel A70 to iPhone** is suitable for mobile users who are unwilling to invest money in software. However, the method is not perfect because it is time-consuming. The transaction can neither be done quickly nor can it be done with a single click.
 
 **Note:** This solution only works when you set up the iPhone. If the iPhone is already set up, you need to factory reset it and set it up to restore photos with this App. If you'd like to save existing data after transferring, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a good solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Transfer Photos from Itel A70 to iPhone via Bluetooth
 
@@ -233,7 +233,7 @@ Bluetooth is an excellent option to transfer photos and videos across both Andro
 It is important to note that the rate of data transfer on Bluetooth is heavily dependent on the version of Bluetooth you use. For example, if you use Bluetooth 2.x data transfer happens at 0.25 MB/s, whereas Bluetooth 5.x transfers data at 6 MB/s.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Transfer Photos from Itel A70 to iPhone Using Google Drive?
@@ -249,7 +249,7 @@ Soon the file will get uploaded.
 ![how to transfer photos from android to iphone-use google drive](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, move to your iPhone.
@@ -261,6 +261,10 @@ Now, move to your iPhone.
 **Step 3:** Open the Drive (you must log in with the same Google ID). There you will see all the uploaded media files (Photos). Now, select ‘Save Image’ or ‘Save Video’ depending on your file type.
 
 This way takes some manual steps. If you want a one-click solution, try [Dr.Fone - Phone Transfer (iOS&Android)](https://tools.techidaily.com/wondershare/drfone/phone-switch/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. How to Transfer Photos from Itel A70 to iPhone Via Email?
 
@@ -274,9 +278,17 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 ![select photos to transfer](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Then log in using the same email account on your iPhone. After logging in, access the email with your photos and download the attachments to complete the photo transfer.
 
 ![receive on other end and download](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Top 3 Android to iPhone Photo Transfer Apps
 
@@ -289,10 +301,6 @@ PhotoSync is a free photo-sharing app available on both Android and iOS devices.
 You can extract videos and photos directly from the camera and transfer them to another device. You can even access the photos/videos via a web browser. PhotoSync is regularly updated with features to make the experience better support for RAW files and preserves for EXIF-data.
 
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Photo Transfer
 
@@ -316,13 +324,13 @@ _Hi, I have recently bought a new iPhone. Is there any way to transfer my text m
 
 In this article, we are going to introduce a powerful tool to solve the problem above. This tool is MoibleTrans; it will help you to easily **transfer text messages to a new phone** in 1 click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Way to Transfer Text Messages to New Phone
 
 After getting a new phone, you may transfer text messages with important or sensitive information from the old phone to a new one. Therefore, you can read the text messages on your new phone. To transfer text messages to a new phone, you highly recommend you a one-click phone transfer tool - [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It's mainly used to help you transfer data between phones and tablets running iOS, Symbian and Android. With its help, you can transfer all text messages on your old Android phone, Nokia phone, and iPhone to the new Android phone or iPhone in one click.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -337,10 +345,6 @@ Transfer Text Messages to New Phone in 1 click!
 **3,053,460** people have downloaded it
 
 Download this tool to try transferring text messages to the new phone. Here, I'd like to give the Windows version a shot. And also, we take data transfer from Samsung to iPhone as an example.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Transfer Text Messages to New Phone Step by Step
 
@@ -359,10 +363,6 @@ As I mentioned above, Dr.Fone lets you export SMS on the old Nokia phone, Androi
 Besides, "Flip" between two phones lets you change places of the two phones.
 
 ![connect devices to transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3. Transfer text messages to new phone
 
@@ -384,19 +384,19 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-gameplay-streaming-tools-revealed-obs-or-fraps/"><u>[Updated] Gameplay Streaming Tools Revealed OBS or Fraps?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-obs-studio-vs-bandicam-a-comprehensive-performance-review/"><u>[Updated] OBS Studio Vs. Bandicam A Comprehensive Performance Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976993955-challenges-include-cavitation-erosion-and-maintaining-stable-two-phase-flow-patterns/"><u>Challenges Include Cavitation, Erosion, and Maintaining Stable Two-Phase Flow Patterns</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/elevate-your-video-storytelling-on-tiktok-with-5-key-caption-techniques-for-2024/"><u>Elevate Your Video Storytelling on TikTok With 5 Key Caption Techniques for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27s-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27s to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-s24plus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy S24+ to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-pop-7-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Pop 7 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-a79-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo A79 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-spark-10-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 10 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-14-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 14 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-messages-recovery-recover-deleted-messages-from-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>Motorola Razr 40 Ultra Messages Recovery - Recover Deleted Messages from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/perfect-digital-viewing-strategies-to-elevate-in-house-reception-via-antennas/"><u>Perfect Digital Viewing: Strategies to Elevate In-House Reception via Antennas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-accessories-to-enhance-your-sj4000/"><u>The Ultimate List of Accessories to Enhance Your SJ4000</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-facetimes-role-in-modern-communication-best-practices-for-recording-calls/"><u>[New] In 2024, FaceTime's Role in Modern Communication Best Practices for Recording Calls</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-maximizing-your-influence-a-selection-of-expert-instagram-analytics-software/"><u>[Updated] 2024 Approved Maximizing Your Influence A Selection of Expert Instagram Analytics Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-essential-open-video-players-across-operating-systems/"><u>[Updated] In 2024, Essential Open Video Players Across Operating Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>2024 Approved The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-income-leap-at-500-subs-count/"><u>2024 Approved YouTube's Income Leap at 500 Subs Count</u></a></li>
+<li><a href="https://article-files.techidaily.com/choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display/"><u>Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-biometric-systems-an-in-depth-explanation-for-beginners/"><u>Decoding Biometric Systems: An In-Depth Explanation for Beginners</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y36i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y36i to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-12r-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus 12R to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-13-proplus-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 13 Pro+ 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-8-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 8 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-redmi-note-12r-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi Redmi Note 12R to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-your-iphone-photo-mosaic-skills/"><u>Perfect Your iPhone Photo Mosaic Skills</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-resolving-the-dreaded-error-28-on-your-pc-a-step-by-step-guide/"><u>Troubleshooting and Resolving the Dreaded Error 28 on Your PC: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 6 Ways to Transfer Text Messages from Samsung Galaxy XCover 7 to Other Android Devices | Dr.fone
-date: 2024-12-04T16:39:32.367Z
-updated: 2024-12-05T16:26:17.912Z
+date: 2024-12-06T16:47:39.423Z
+updated: 2024-12-11T16:15:32.562Z
 tags: 
   - transfer
 categories:
@@ -59,6 +59,10 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Super Backup & Restore
 
 Another and a simpler way to transfer text messages from one Android to another Android is by using the Super Backup & Restore app. It will not take much time of yours and will create backup in seconds. You just need to follow the steps as directed below.
@@ -83,6 +87,14 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Smart Switch (Samsung)
 
 Whether you are switching from iPhone or from any Android phone to Samsung Galaxy phone, the transfer of data like image, text messages, videos, etc. is done easily and smoothly using Samsung smart switch. In order to do so, please follow the steps discussed below on how to transfer text messages from Samsung Galaxy XCover 7 to Other Android Devices using Smart Switch.
@@ -106,6 +118,10 @@ Every user in this world is looking out for the easiest way to tackle the task. 
 #### Step by Step Tutorial
 
 Here are the steps on how you can transfer text messages from Samsung Galaxy XCover 7 to Other Android Devices using Dr.Fone - Phone Transfer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -134,10 +150,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 **Step 4 -** Once you have selected the files, click on start. This will quickly and easily transfer the files from the source device to the destination device.
 
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Manage Text Messages from Samsung Galaxy XCover 7 to Other Android Devices using Dr.Fone - Phone Manager
 
@@ -204,7 +216,7 @@ On your iPhone, open the ShareIt app and click "Receive." This action opens all 
 ![Samsung Galaxy XCover 7 to iPhone transfer with ShareIt.](https://images.wondershare.com/drfone/article/2024/01/transfer-data-from-motorola-to-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2. Move Contents from Samsung Galaxy XCover 7 to iPhone via Apps & Data
@@ -234,7 +246,7 @@ For more details, follow the instructions below:
     ![Samsung Galaxy XCover 7 to iPhone transfer via Move to iOS.](https://images.wondershare.com/drfone/article/2024/01/transfer-data-from-motorola-to-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How To Make iPhone to Samsung Galaxy XCover 7 Data Transfer Using Easy Software
@@ -270,7 +282,7 @@ Now, Dr. Fone's Phone Transfer tool should prompt a specific operation on the wi
 ![Disable iCloud syncing for your iPhone.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 5:** Monitor data transfer progress
@@ -278,6 +290,10 @@ Now, Dr. Fone's Phone Transfer tool should prompt a specific operation on the wi
 The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Do Samsung Galaxy XCover 7 to iPhone Data Transfer Using Dropbox/Google Drive
 
@@ -363,10 +379,6 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 ![enable the nearby share option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 3:**** After selecting the required files, press the “Share” button and select “Nearby Share” from the options. It will detect nearby devices and select your new Android device once it appears. A prompt will appear on both phones with a matching PIN. Accept the files on the new phone to start the transfer process.
 
 ![tap on the nearby share](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-6.jpg)
@@ -378,10 +390,6 @@ Nearby Share is a method developed by Google to ****share files between Android 
 | · It is a fast and secure way of transferring files between Android devices. | · You can only send limited types of files through this method. |
 | · You do not need Wi-Fi to use this feature. | · This feature consumes a lot of battery if you use it for a long time or transfer large-size files. |
 | · Nearby Share is available on a wide range of Android devices. |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best For
 
@@ -396,10 +404,6 @@ If you have access to a computer, you can use it to ****transfer files from Sams
 ****Step 1:**** First, connect your old Android phone to your computer using a USB cable. A prompt will appear on your asking for the USB purpose. Here, select “File Transfer/Android Auto.” It will give your computer access to the phone data.
 
 ![choose file transfer android auto option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 2:**** Now copy all the data you want to transfer to your computer and disconnect the old device. Afterward, connect the new Android device to the computer, give access permission, and copy the data you took from the old phone to the new phone.
 
@@ -439,13 +443,13 @@ Google Account is another great way for ****Android-to-Android file transfer***
 | · Using Google Account is also secure, as your backup is encrypted. | · It requires you to use the same Google Account on both devices. |
 | · The devices don’t need to be near each other. |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best For
 
 Using Google Account to transfer files from Samsung Galaxy XCover 7 to Other Android Devices is best when you still haven’t set up the new Android device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: Best choice: The Fastest Way to Transfer Files from Samsung Galaxy XCover 7 to Other Android Devices with Dr.Fone
 
@@ -457,6 +461,10 @@ Want to find the best and ****fast way to transfer files from Samsung Galaxy XC
 - This tool allows you to transfer, back up, and restore your entire WhatsApp data from chats to emojis to locations.
 - If you have lost your phone data, you can recover it back using the Dr.Fone app safely and quickly.
 - With this tool, you can also repair system issues in your device in a secure environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Transfer Files from Samsung Galaxy XCover 7 to Other Android Devices With Dr.Fone
 
@@ -480,10 +488,6 @@ Now select the data you want to transfer and click “Start Transfer” to begin
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pros and Cons
 
 | Pros | Cons |
@@ -491,10 +495,6 @@ Now select the data you want to transfer and click “Start Transfer” to begin
 | · It can transfer over 15 types of data from one phone to another. | · You will need a computer to transfer data through Dr.Fone |
 | · The transfer process of this method is extremely fast and gets completed within minutes. | · It also needs USB cables to connect your Samsung Galaxy XCover 7s. |
 | · You do not need the internet to use this method. |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best For
 
@@ -518,20 +518,20 @@ To summarize, while it may seem troublesome to ****transfer files from Samsung G
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mov-file-handling-best-practices-on-windows-10-systems/"><u>[Updated] .mov File Handling Best Practices on Windows 10 Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-partition-performance-topping-recorder-showdown/"><u>[Updated] 2024 Approved Partition Performance Topping Recorder Showdown</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>[Updated] 2024 Approved Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-effective-spending-tips-for-youtubers-for-2024/"><u>[Updated] Effective Spending Tips for YouTubers for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-your-pcs-communication-latest-pl2303-usb-serial-driver-updates-for-windows-computers/"><u>Enhance Your PC's Communication - Latest PL2303 USB Serial Driver Updates for Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-premier-pro-freezing-issues-on-windows-11-and-10/"><u>Fixing Premier Pro Freezing Issues on Windows 11 and 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-magic-6-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor Magic 6 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-c12-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia C12</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-google-pixel-8-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Google Pixel 8 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-n55-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme Narzo N55 FRP Locks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-note-12-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi Note 12 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g04-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G04 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pop-7-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pop 7 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-video-revenue-playbook-dm-vs-yo-edition/"><u>[New] The Complete Video Revenue Playbook Dm Vs. Yo Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-samsung-galaxy-watch-7-official-details-on-costs-unveiling-schedule-and-specifications/"><u>Discover the Samsung Galaxy Watch 7 - Official Details on Costs, Unveiling Schedule, and Specifications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-22-squashed-activation-achieved/"><u>Error 22 Squashed; Activation Achieved</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-gionee-f3-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Gionee F3 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-12-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 12 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-amo-6978-driver-troubleshooting-guide/"><u>HP OfficeJet Pro Amo 6978 Driver Troubleshooting Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G04 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-smart-8-plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Smart 8 Plus to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-motorola-g54-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Motorola G54 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x90s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X90S to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-guide-to-advanced-techniques-in-youtube-video-editing/"><u>In 2024, The Ultimate Guide to Advanced Techniques in YouTube Video Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/seamless-connectivity-guide-checking-if-your-computer-recognizes-the-printer-expert-advice-by-yl-software/"><u>Seamless Connectivity Guide: Checking if Your Computer Recognizes the Printer – Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-overwatch-audio-lag-issues-expert-solutions-and-tips/"><u>Solving Overwatch Audio Lag Issues: Expert Solutions & Tips!</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-handheld-console-unpacked/"><u>Sony’s Handheld Console Unpacked</u></a></li>
 </ul></div>
 

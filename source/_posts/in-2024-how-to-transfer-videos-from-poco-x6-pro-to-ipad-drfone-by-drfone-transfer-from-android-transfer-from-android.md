@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Videos from Poco X6 Pro to iPad | Dr.fone
-date: 2024-12-03T16:45:53.293Z
-updated: 2024-12-05T16:56:23.719Z
+date: 2024-12-05T17:29:05.142Z
+updated: 2024-12-11T16:30:12.955Z
 tags: 
   - transfer
 categories:
@@ -55,6 +55,10 @@ You can attach a maximum of 25MB-sized videos to an email. Still, it offers a st
 
 ![compose a new email](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Provide either the email address linked to the iPad or the recipient's email address. Once done, hit the "Send" icon to send an email with the attached videos. Access the email app on your iPad and find the email that includes the attached video. Download or open the attached video file directly from the email.
 
 ![attach videos to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-6.jpg)
@@ -82,7 +86,7 @@ Nevertheless, a drawback to this method is the restricted complimentary storage 
 Having explored wireless methods, let's shift our focus to wired methods. Wired connections provide a reliable and direct approach to data transfer. They ensure stability and potentially faster speeds compared to wireless alternatives. Here, we'll explore two wired methods that use physical connections to **transfer videos from Poco X6 Pro to iPad**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Wondershare Dr.Fone
@@ -123,6 +127,10 @@ Here, ensure that the Android device is on "Source" while the iPad is on the "De
 
 ![select data to start transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: iTunes
 
 Using iTunes to transfer videos from an Android device to an iPad involves a slightly indirect process. The variance in operating systems is the primary reason for this distinction. iTunes is primarily tailored for iOS devices; however, with supplemental steps, it can be utilized to transfer videos from an Android device to an iPad. Here's a detailed guide on how to leverage iTunes for video transfer:
@@ -135,9 +143,17 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 
 ![add file or folder to itunes library](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Connect your computer to the iPad using a USB cable to enable iTunes recognition of your iPad. Click on the iPad icon positioned at the top-left corner of iTunes. Next, navigate to the "Movies" tab located in the left sidebar to continue the process.
 
 ![choose the movies option](https://images.wondershare.com/drfone/article/2023/12/transfer-videos-from-android-to-ipad-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Select the "Sync Movies" option by checking the corresponding box and pick out the specific videos you wish to move to your iPad. Afterward, proceed by clicking the "Apply" button to commence the transfer process of the chosen videos from iTunes to your iPad.
 
@@ -146,6 +162,10 @@ Using iTunes to transfer videos from an Android device to an iPad involves a sli
 ## Conclusion
 
 In conclusion, there are various methods to transfer videos from Poco X6 Pro to iPad that offer distinct advantages. Wireless options like Google Drive and email are convenient. At the same time, wired methods such as using iTunes and the many capabilities of Wondershare Dr.Fone stand out. For comprehensive transfers, Dr.Fone emerges as a reliable solution. It offers versatile tools like Phone Manager and Phone Transfer, and its robust functionalities make it a recommended choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Solved] Move from Poco X6 Pro to iOS not Working Problems
 
@@ -236,6 +256,10 @@ Wi-Fi connectivity is a significant factor in ensuring data transfer is successf
 
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the Poco X6 Pro devices connected to power before you start moving your content from android to iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 5: Set your phone into airplane mode
 
 When you transfer android data to iOS using the Move to iOS tool, apple recommends that you turn off your mobile data. Some android devices can switch from Wi-Fi to mobile data when the connection tends to drop on either side using the smart switch feature. This can interfere with the transfer process. Similarly, it could be useful if incoming calls were prevented to avoid interfering with the data transfer process. All mediums of connectivity are disabled except for the connection between the android and iOS devices through the iPhones Wi-Fi network.
@@ -245,6 +269,10 @@ The best way to ensure these distractions are not happening is to turn on airpla
 ### Tip 6: Check the storage requirement
 
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 7: Disable the connection optimizer
 
@@ -290,10 +318,6 @@ You need to login to your iCloud account on android to download data, or you can
 
     ![wait for the process](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Wait for the data transfer process to complete.
 
 To transfer content from your iPhone to Android device directly, open Dr. Fone – Phone Transfer on android and tap 'import from a USB cable.' Use the iOS-to-android cable to connect your iOS and Android devices.
@@ -310,10 +334,6 @@ The following steps will help you transfer data from android to an iOS device us
 - Connect your iOS and Android devices to the computer. You can always use the 'flip' option to change the source and destination devices.
 
 ![connect your Poco X6 Pros](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Select the types of data you want to transfer, then click on the 'start transfer' option to continue. Be careful not to disconnect the Poco X6 Pro devices until the process is complete.
 
@@ -340,10 +360,6 @@ This article will delve into 6 effective ways to effortlessly migrate your conta
 
 **Author Recommendation. The Best Method to Transfer Contacts from Poco X6 Pro to iPhone**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 1: Wondershare Dr.Fone
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a powerful and user-friendly tool. It simplifies the process of transferring contacts from an Android device to an iPhone. Dr.Fone offers a robust phone transfer feature that can transfer your contacts and other data in minutes. With its user-friendly interface, the process involves straightforward clicks. This powerful tool efficiently moves data between devices operating on different systems, such as iOS and Android.
@@ -364,10 +380,6 @@ On your computer, download and install the latest version of Wondershare Dr.Fone
 
 ![choose phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2: Connect Devices and Complete Contacts Transfer**
 
 Once devices are detected by Wondershare Dr.Fone, ensure that they are correctly assigned. The Android device will be at the "Source" location. In the same way, assign the "Destination" position to the iPhone. Choose the “Contacts” category among the data options and click “Start Transfer.” Allow the process a few moments to complete.
@@ -382,17 +394,9 @@ The Move to iOS app is a dedicated solution provided by Apple. It is specificall
 
 ![tap move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Proceed by tapping “Continue” on both your devices and consenting to the terms and conditions. Follow it by tapping “Next” and insert the code from the iPhone to the Move to iOS app to establish a connection. From the available data transfer options, ensure to choose "Contacts." Now, follow the on-screen prompts to complete the transfer process.
 
 ![transfer contacts using move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 3: Sync Contacts to Google Account
 
@@ -401,10 +405,6 @@ Syncing contacts to a Google account serves as a convenient method. It can autom
 - **Step 1.** Access the Google Contacts app on your Poco X6 Pro and tap on the “Profile” icon at the top right corner. Following this, access the "Contacts Settings" option followed by "Google Contacts sync settings."
 
 ![choose google contacts sync settings](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Next, you need to select "Also sync device contacts." On the following screen, ensure "Automatically back up & sync device contacts" is toggled on. Now, move to your iPhone and access the Settings app.
 
@@ -422,12 +422,16 @@ Transferring contacts using a SIM card provides a basic yet effective method. Th
 
 ![export contacts to sim](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** After it is done, insert the SIM card into the iPhone and open Settings. Move to "Contacts" and press "Import SIM Contacts" on the next screen to complete the process of moving contacts from a SIM card on an iPhone or email.
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 5: Sync Using iTunes/Finder
@@ -453,10 +457,6 @@ Importing a VCF file directly to your iPhone allows for a simple and direct tran
 - **Step 2.** Now move to your iPhone and open the mail with Contacts from the Android device. Press the attached file, choose "Share," select the "Contacts" app and tap "Add All Contacts."
 
 ![tap add all 3 contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Author Recommendation: The Best Method To Transfer Contacts From Poco X6 Pro to iPhone
 
@@ -490,16 +490,16 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premier-slow-motion-capture-apps-androidios-devices/"><u>[New] Premier Slow Motion Capture Apps Android/iOS Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-settled-silent-shorter-showcase-ended/"><u>2024 Approved Settled Silent Shorter Showcase Ended</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/assessing-the-valkyrie-vind-sl125-aesthetic-appeal-vs-lackluster-performance-metrics/"><u>Assessing the Valkyrie Vind SL125 - Aesthetic Appeal Vs. Lackluster Performance Metrics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-mix-fold-3-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Mix Fold 3 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-find-x7-ultra-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo Find X7 Ultra to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-90-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 90 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-x5-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco X5 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 4G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-wma-audiovideo-files-to-avi-quickly-and-for-free-simpleconverters/"><u>Transform Your WMA Audio/Video Files to AVI Quickly & for Free - SimpleConverters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-display-settings-in-windows-operations/"><u>Troubleshooting Display Settings in Windows Operations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-dialing-in-on-youtube-success-identifying-ranks-boosters/"><u>[New] 2024 Approved Dialing in on YouTube Success Identifying Ranks Boosters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instawisdom-100-powerful-caption-examples-for-self-expression/"><u>[New] In 2024, InstaWisdom 100 Powerful Caption Examples for Self-Expression</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-playback-in-reverse-the-ultimate-youtube-playlist-technique/"><u>[Updated] Playback in Reverse The Ultimate YouTube Playlist Technique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-anthropics-ai-prompt-vault/"><u>Harnessing Anthropic's AI Prompt Vault</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-google-pixel-8-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Google Pixel 8 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-itel-p55plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Itel P55+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-note-30-vip-racing-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Note 30 VIP Racing Edition to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m34-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M34 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-approach-to-preserving-your-ps4-experience/"><u>In 2024, The Ultimate Approach to Preserving Your PS4 Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-new-reads-best-french-novels-for-beginners/"><u>Navigating New Reads: Best French Novels for Beginners</u></a></li>
+<li><a href="https://win-superb.techidaily.com/setting-up-grsync-on-windows-installation-and-alternatives-guide/"><u>Setting up Grsync on Windows - Installation & Alternatives Guide</u></a></li>
 </ul></div>
 
