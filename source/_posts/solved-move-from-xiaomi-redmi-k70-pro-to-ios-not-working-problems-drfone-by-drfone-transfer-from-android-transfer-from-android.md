@@ -1,7 +1,7 @@
 ---
 title: Solved Move from Xiaomi Redmi K70 Pro to iOS not Working Problems | Dr.fone
-date: 2024-12-09T17:32:37.586Z
-updated: 2024-12-11T16:25:18.136Z
+date: 2024-12-12T17:41:55.060Z
+updated: 2024-12-17T16:41:38.050Z
 tags: 
   - transfer
 categories:
@@ -107,7 +107,7 @@ Wi-Fi connectivity is a significant factor in ensuring data transfer is successf
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the Xiaomi Redmi K70 Pro devices connected to power before you start moving your content from android to iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 5: Set your phone into airplane mode
@@ -120,6 +120,10 @@ The best way to ensure these distractions are not happening is to turn on airpla
 
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 7: Disable the connection optimizer
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
@@ -128,13 +132,13 @@ Android devices with connection optimizers will switch between different connect
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 9: Turn off battery optimization
 
 Turning off the battery optimization on both your Android and iOS device is a requirement when using the Move to iOS tool. The app is designed to run in the foreground, and the android user should not have other applications running. However, the phone might automatically minimize the Move to iOS app when it switches to battery optimization mode. Therefore you should ensure the feature is closed from the settings of your android device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: \[Alternative\] Move to iOS not working solved without a PC
 
@@ -189,16 +193,20 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - If you want to clear the destination phone's data before transferring data, ensure you check the 'clear data before copy' box.
 - All the data you selected will be transferred successfully in a few minutes.
 
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -239,10 +247,6 @@ In the Move to iOS app, choose "Photos" to transfer your images. Then, tap "Cont
 Allow the app to complete the transfer process. Once the transfer is complete, you will be prompted to finish setting up your iPad. Follow the instructions to complete the setup process.
 
 ![Transfer photos from Xiaomi Redmi K70 Pro to iPad.](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-android-to-ipad-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Photos from Xiaomi Redmi K70 Pro to iPad Using Cloud Services (Google Drive)
 
@@ -307,7 +311,7 @@ Proceed to select the types of data you wish to transfer. Checkmark photos and c
 ![Choose the data types for transfer.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Disable iCloud syncing
@@ -316,19 +320,11 @@ Now, Dr. Fone's Phone Transfer tool should prompt you to disable iCloud syncing.
 
 ![Disable iCloud syncing.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Monitor data transfer progress
 
 The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Mistakes to Avoid When Transferring Photos from Xiaomi Redmi K70 Pro to iPad/iPhone
 
@@ -366,10 +362,6 @@ With the advancement in technology, your expectations have also increased. You h
 
 When you are planning to upgrade your phone from one Android version to another, and you want to transfer all your existing SMS’s from one phone to another, then there are several free applications that are available on the Play Store that can make your life easy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. SMS Backup and Restore App
 
 One of the best and easiest ways to transfer text messages from your old Android device to new Android device is by using the SMS Backup and Restore App available on the Play Store. You don’t have to worry about any data cable connections. It just needs data connection and your attention. In order to transfer text messages from Xiaomi Redmi K70 Pro to Other Android Devices, follow the below-mentioned steps.
@@ -382,13 +374,13 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 ![messages transfer by sms backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4 -** Select where you want to create your backup. And click on “Next”.
 
 ![messages transfer by sms backup restore 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5 -** Once you click on next, you will be prompted to select one option from Hourly, Weekly or Daily which will set the frequency of the backup. Click on “Back Up Now” to start taking the backup of SMS.
 
@@ -406,6 +398,10 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 ![messages transfer by sms backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
 
 ### 2\. Super Backup & Restore
@@ -415,10 +411,6 @@ Another and a simpler way to transfer text messages from one Android to another 
 **Step 1 -** Open the app and click on “SMS”.
 
 ![messages transfer by super backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2 -** Click on “Backup All”. Once done, now click on the “Ok” button when you receive a pop-up. It will then start taking a backup of all your text messages.
 
@@ -431,6 +423,10 @@ Another and a simpler way to transfer text messages from one Android to another 
 **Step 5 -** Click on “SMS”, then click on the “Restore” button. It will ask you to select the .xml file which you had saved in step #3.
 
 ![messages transfer by super backup restore 3](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6 -** It will start restoring all your SMS’s.
 
@@ -484,6 +480,10 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![phone switch 02](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4 -** Once you have selected the files, click on start. This will quickly and easily transfer the files from the source device to the destination device.
 
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
@@ -530,24 +530,15 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-your-signature-starts-here-free-modifiable-logos-to-define-brands/"><u>[New] Your Signature Starts Here Free, Modifiable Logos to Define Brands</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-metaverse-shenanigans-a-treasury-of-hilarity-and-creative-memes/"><u>[Updated] Metaverse Shenanigans A Treasury of Hilarity and Creative Memes</u></a></li>
-<li><a href="https://games-able.techidaily.com/astro-artisan-reviewing-exciting-computing-trends/"><u>Astro Artisan: Reviewing Exciting Computing Trends</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/audioadventurers-venturing-without-dacast-for-2024/"><u>AudioAdventurers Venturing Without DaCast for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/customizing-ae-title-designs/"><u>Customizing AE Title Designs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13 Ultra to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-phantom-v-fold-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Phantom V Fold to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y55s-5g-2023-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y55s 5G (2023) to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-f14-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy F14 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-12-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus 12 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-infinix-hot-30i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Infinix Hot 30i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-nord-ce-3-lite-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus Nord CE 3 Lite 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g13-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G13 for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g23-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G23 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-s23-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy S23 to iPod | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-13-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-seamless-switching-between-screens-with-chromes-pip/"><u>In 2024, Seamless Switching Between Screens with Chrome's PIP</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 14 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-web-archival-a-step-by-step-guide-to-using-the-wayback-machine/"><u>Mastering Web Archival: A Step-by-Step Guide to Using the Wayback Machine</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-10-ultimate-simulators-for-androids-gb-games-for-2024/"><u>[New] 10 Ultimate Simulators for Android's GB Games for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-audiovisual-expertise-selecting-top-video-minds/"><u>[New] Audiovisual Expertise Selecting Top Video Minds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-crafting-a-captivated-audience-in-3-steps/"><u>[Updated] Crafting a Captivated Audience in 3 Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-craft-and-modify-iphone-motion-videos-reducing-pace-effectively/"><u>[Updated] How to Craft & Modify iPhone Motion Videos Reducing Pace Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-your-go-to-youtube-video-downloaders-on-android-platform/"><u>Choosing Your Go-To YouTube Video Downloaders on Android Platform</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-14-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 14 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a1x-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A1x 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-105-classic-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia 105 Classic to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-magic-v2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Magic V2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s18e-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S18e to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
 

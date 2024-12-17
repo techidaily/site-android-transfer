@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Vivo Y100t to Gmail | Dr.fone
-date: 2024-11-20T19:06:21.415Z
-updated: 2024-11-25T16:24:34.366Z
+date: 2024-12-15T22:51:34.558Z
+updated: 2024-12-17T21:38:39.048Z
 tags: 
   - transfer
 categories:
@@ -84,6 +84,10 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
 ## Part 3. Other Ways to Backup Android Contacts
@@ -93,10 +97,6 @@ Smartphone users as a whole never want to lose their contacts; however, sometime
 Although there has been no record of such occurrence in the past from users who export contacts from Vivo Y100t to Gmail, it is still advisable to perform a backup.
 
 Another way to back up your contacts before you sync contacts from Vivo Y100t to Gmail can be found in this article: [Four Ways to Backup Android Contacts Easily](https://drfone.wondershare.com/contacts/backup-contacts-android.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Basic Solutions to Fix Google Contacts Syncing Issues on Android
 
@@ -159,10 +159,6 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
 ## How to Transfer Data from Vivo Y100t to Any iOS Devices
 
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you are a proud owner of smartphones running on two different operating systems such as Windows and iOS, you might face the challenging task of transferring the data from your **Windows phone to iPhone**. Transferring the data between the two devices running the OS of the different platforms is not as easy as it is when you have devices with a common platform. This article aims to guide you through two simple routes that you can follow to transfer the data stored in your Windows phone such as **Vivo Y100t to iPhone** or other iOS devices. You don't need to worry about how to transfer from Vivo Y100t to iPhone or How to transfer contacts from Vivo Y100t to iPhone anymore after reading this article. Read them on.
 
@@ -341,19 +337,15 @@ Launch Dr.Fone. You will see "Phone Transfer". Click it.
 
 ![transfer from lumia to iPHone- download mobiletrans](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Connect Phones and select files**
 
 Connect your Android and iPhone. Dr.Fone will detect it soon. Then select the files and click Start Transfer. It can transfer almost all files, contacts, apps, messages, photos, music, videos, etc. If you just want to transfer contacts from Vivo Y100t to iPhone, then it is also ok. Just check the Contacts option to transfer contacts from Vivo Y100t to iPhone easily.
 
 ![transfer from lumia to iPHone- start transfer](https://images.wondershare.com/drfone/drfone/phone-switch-android-to-ios-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -383,6 +375,10 @@ Tagging your photos is a versatile way to categorize and organize them based on 
 
 Make it a habit to create separate folders for different events, locations, or time periods. This organization method helps you maintain a clear structure for your photo collection. For example, you might have folders for vacations, family gatherings, or special occasions. Organizing photos this way simplifies navigation and ensures that each set of pictures is kept properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rename Your Photo
 
 Give your photos descriptive and unique filenames that reflect either their content or context. Organizing your files by their respective labels helps you find them easily instead of relying solely on visual cues. Consider including dates, locations, or key details in the filenames to make your photos easily identifiable.
@@ -400,6 +396,10 @@ If you're an Apple user, you can easily transfer photos from your phone to your 
 - **Step 1:** First and foremost, make sure that your iPhone is syncing your photos to iCloud. To check it, go to **Settings** \> **Apple ID** \> **iCloud** \> **Photos.** Toggle on the radio button next to **Sync This iPhone.**
 
 ![icloud photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** On your computer, launch the **Browser.**
 - **Step 3:** Visit icloud.com. Once it fully loads up, click **Sign In.** Log in to the **Apple ID** account you’re currently using on your iPhone.
@@ -428,10 +428,6 @@ Google Photos is simply the iCloud’s substitute for Android smartphone. Like i
 
 ![chrome photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Click the images you want to save on your computer. From there, click the **Three-dotted** menu icon. Find and click **Download** or press **SHIFT + D** on your keyboard.
 
 ![download google photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-6.jpg)
@@ -453,11 +449,7 @@ Does your laptop have a Bluetooth connectivity feature? If so, try to use it for
 ![bluetooth photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Email the photos from the phone to the laptop
@@ -474,13 +466,13 @@ If you’re only sending a few photos to your laptop, emailing them from your sm
 ![download email photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **NOTE:** How to copy files from your phone to your laptop without USB? This data migration technique also works in this regard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Transfer photos from phone to laptop using AirDrop
@@ -497,6 +489,10 @@ Are you using an iPhone and a Macbook? No problem. You may use AirDrop to move y
 - **Step 5:** Select your Macbook as the recipient.
 - **Step 6:** On your Macbook, click **Accept.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## BONUS TIP: How to Copy Files From One Smartphone to Another?
 
 As a bonus, it is important to know that transferring files from one device to another in a secure environment is significant. It safely copies the documents and lowers the risk of data loss and corruption.
@@ -508,6 +504,10 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 - **Step 1:** Open Wondershare Dr.Fone on your computer and navigate to the Toolbox section. Select the **Phone Transfer** tool.
 
 ![wondershare dr.fone ios phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Once opened, set the **Source and Destination** devices for the data transfer. Use the **Flip** button to change the transfer direction between the Vivo Y100t devices.
 
@@ -526,7 +526,7 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 ![wondershare dr.fone ios transfer complete](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -547,17 +547,17 @@ Navigating the digital landscape of photo organization and transfer has become i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-mastering-video-cuts-the-essential-guide-for-windows-11-users-for-2024/"><u>[New] Mastering Video Cuts The Essential Guide for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-dark-side-of-digital-content-profitability-for-2024/"><u>[New] The Dark Side of Digital Content Profitability for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-protecting-data-while-transforming-youtube-videos-into-mp3-files/"><u>2024 Approved Protecting Data While Transforming YouTube Videos Into MP3 Files</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-infinix-hot-30i-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Infinix Hot 30i</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-huawei-nova-y71-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Huawei Nova Y71 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-f34-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy F34 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-10t-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme 10T 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-huawei-nova-y71-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Huawei Nova Y71 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-ready-set-resize-transformative-techniques-for-macs-instagram-content/"><u>In 2024, Ready, Set, Resize Transformative Techniques for Mac's Instagram Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-psd-drop-shadows/"><u>In 2024, Top-Tier PSD Drop Shadows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pros-tips-capturing-slow-motion-on-gopro-hero-10-for-2024/"><u>Pro's Tips Capturing Slow Motion on GoPro Hero 10 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sound-excellence-on-a-shoestring-superior-asmr-mics-affordably/"><u>Sound Excellence on a Shoestring - Superior ASMR Mics Affordably</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cutting-edge-video-meeting-techniques-on-slack-plus-filmora/"><u>[New] In 2024, Cutting-Edge Video Meeting Techniques on Slack + Filmora</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/chord-powered-communication-science-backed-music-learning-techniques/"><u>Chord-Powered Communication: Science Backed Music Learning Techniques</u></a></li>
+<li><a href="https://discover-best.techidaily.com/complete-tutorial-on-recording-both-video-and-audio-from-your-pc-display/"><u>Complete Tutorial on Recording Both Video & Audio From Your PC Display</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-f34-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy F34 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-stopping-auto-game-lists-in-win11/"><u>Mastering the Art of Stopping Auto-Game Lists in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-apples-new-frontier-smartwatch-showdown-series-nine-vs-ultra-version/"><u>Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/planification-optimale-de-la-coordination-synchrone-guide-dexcellence-pour-les-equipes-productives/"><u>Planification Optimale De La Coordination Synchrone : Guide D'excellence Pour Les Équipes Productives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-f54-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy F54 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/swiftly-share-your-fb-films-in-whatsapp-messages-for-2024/"><u>Swiftly Share Your FB Films in WhatsApp Messages for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y78-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y78 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-f14-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy F14 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

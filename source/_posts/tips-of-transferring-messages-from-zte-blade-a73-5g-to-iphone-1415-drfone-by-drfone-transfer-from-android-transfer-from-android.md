@@ -1,7 +1,7 @@
 ---
 title: Tips of Transferring Messages from ZTE Blade A73 5G to iPhone 14/15 | Dr.fone
-date: 2024-11-12T06:25:02.495Z
-updated: 2024-11-15T16:14:24.931Z
+date: 2024-12-15T18:46:29.029Z
+updated: 2024-12-17T16:47:36.388Z
 tags: 
   - transfer
 categories:
@@ -61,6 +61,10 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Troubleshoot Why I Can’t Transfer Texts from ZTE Blade A73 5G to iPhone
 
 Even with the reliable methods mentioned earlier, there may be instances where you encounter difficulties in transferring texts from your Android to your iPhone. Don't worry; we've got you covered with solutions to common issues that might hinder a smooth transfer.
@@ -96,6 +100,10 @@ In addition to seamless transfers between devices, backing up your text messages
 
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Switching phones to the latest model is an exciting occurrence. However, the challenge of transferring crucial data, especially text messages, from an Android to a new iPhone can be challenging.
@@ -109,6 +117,10 @@ You might be wondering, what is the Move to iOS? If you are an android user and 
 To use the app, install it on your android device first. The transfer process requires following several simple steps to move to iOS. The app seems easy to use the tool, but newbies must learn about the Move to iOS guidelines to complete the process. With this tool, you will transfer various android data such as camera photos, contacts, message history, mail accounts, calendars, and videos.
 
 ![move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Move to iOS app works on android version 4.0 or higher. You can transfer data to any iPhone in a relatively straightforward process. Also, beware that the Move to iOS will work only when setting up a new iPhone or iPad.
 
@@ -175,16 +187,13 @@ Even though Move to iOS is a useful tool for android users willing to transfer c
 
 Most of the 'move to iOS' problems are related to Wi-Fi connection issues, android and iOS versions, space requirements, connection optimizers, and application issues. Nevertheless, you will need to find a solution to these problems to transfer your data successfully from android to iOS devices. This section will discuss possible solutions to the errors that occasionally appear when moving android data to iOS devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Restart both your devices
 
 Restarting your devices is the essential thing to do when troubleshooting the Move to iOS problems. It is a great way o eliminate minor issues during data transfer from android to iOS devices. The process can resolve the Move to iOS stuck on connecting to iPhone issues. A simple restart will eliminate the bugs and any cached error in the ZTE Blade A73 5G devices.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 2: Clear all running apps
 
@@ -212,6 +221,10 @@ Before you begin transferring android data to iOS devices, check the size of all
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 8: Check the compatibility of your devices
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
@@ -220,25 +233,11 @@ You need to check whether your android device meets the minimum requirements to 
 
 Turning off the battery optimization on both your Android and iOS device is a requirement when using the Move to iOS tool. The app is designed to run in the foreground, and the android user should not have other applications running. However, the phone might automatically minimize the Move to iOS app when it switches to battery optimization mode. Therefore you should ensure the feature is closed from the settings of your android device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: \[Alternative\] Move to iOS not working solved without a PC
 
 An alternative solution to Move to iOS not working problem is to use [Dr. Fone – Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html). The software can transfer all types of data from android to iOS devices quickly. Here, you will select the type of data you need and begin moving in a single click.
 
 Most importantly, the programs transfer data at a very high speed compared to other alternatives. You can also use the software to [transfer social apps](https://drfone.wondershare.com/whatsapp/transfer-whatsapp-messages-from-android-to-iphone.html) and retain the important history of apps like WhatsApp, Wechat, Viber, Line, or Kik.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
@@ -274,6 +273,10 @@ Dr. Fone – Phone Transfer will begin to scan data on your iPhone. The time wil
 
 Tap on 'start importing' once all data has been detected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: \[Alternative\] Move to iOS not working solved with a PC
 
 The following steps will help you transfer data from android to an iOS device using a PC.
@@ -306,13 +309,6 @@ The phone industry, for years, has constantly improved on the design and develop
 
 Most of these photos would need to be shared with other people who are either a part of the photo or you would want to transfer them to your new android device. Most users are at a loss about how to transfer their photos from one android device to another. There are several ways to do that successfully without the risk of losing your priced photos. And in this article we have outlined several ways through which you can transfer your photos from your ZTE Blade A73 5G to your new android device.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. Transfer Photos from ZTE Blade A73 5G to New Android with a File Transfer Software
 
 One way of moving your photos between android devices is through the use of file transfer software. This software enables you to connect both android devices together.
@@ -344,10 +340,7 @@ Using a good USB cable, connect both old and new devices to your PC. When that i
 ![Transfer Photos from ZTE Blade A73 5G to Other Android Devices using Dr.Fone - Phone Transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3. Click "Start Transfer"
@@ -360,6 +353,10 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 ![Transfer Photos from ZTE Blade A73 5G to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Near Field Communication(NFC) is a technology that supports Android Beam and is ideal for transferring data between android devices by just pressing their backs together. It is a fast and simple program that requires both devices to NFC-capable. This means they are able to communicate with each other when their fields are near. This communication is made possible through radio frequencies. Most devices have NFC hardware integrated underneath their panel.
 
 NFC can be found in almost every android device. In the past, it was easy to identify devices with NFC as such devices usually had NFC printed somewhere in the back of the ZTE Blade A73 5G devices, most tines on the battery pack. But since most android devices don’t have a removable back, there is an alternative to checking if your device is NFC enabled.
@@ -367,13 +364,6 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 1\. On your ZTE Blade A73 5G, tap on “Settings” and click on “More” located under “Wireless and Networks” .
 
 ![Transfer Photos from ZTE Blade A73 5G to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
@@ -395,11 +385,19 @@ To Transfer Photos from your ZTE Blade A73 5G to a new android device, ensure bo
 
 ![Transfer Photos from ZTE Blade A73 5G to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To begin beaming, you must touch the screen on your ZTE Blade A73 5G from where the photos are been sent. A sound will alert you that beaming has started.
 
 To ensure a successful transfer, make sure devices are not locked neither should the screen be turned off. Also both devices should be kept back-to-back throughout the duration of the transfer.
 
 5\. Finally, when the beaming is complete, you will hear an audio sound. This is to confirm completion of the process. Alternatively, instead of an audio confirmation, the application on your new android device to which the photos were sent will automatically launch and display the beamed content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Transfer Photos between Android Phones by Bluetooth
 
@@ -421,13 +419,6 @@ A message will pop up on your new android device, requesting permission to pair 
 
 ![How to Transfer Photos from ZTE Blade A73 5G to Other Android Devices by Bluetooth](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4. Transfer Photos from Old to New Android Phones via Device-Specific App
 
 **Samsung Smart Switch**
@@ -443,13 +434,6 @@ The Samsung smart switch software helps to Transfer Photos either by cable or wi
 3\. On the old Samsung device, select the data to be transferred to the new Samsung device. When you are done with this, your phone will notify the size and time length of the transfer.
 
 ![How to Transfer Photos from ZTE Blade A73 5G to Other Android Devices by Smart Switc-Start Transfer by Smart Switch](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Thereafter, click on “Send” to begin the transfer of data from on device to the other.
 
@@ -487,17 +471,16 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/error-local-printer-service-unavailable-on-pc/"><u>[ERROR] Local Printer Service Unavailable on PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-revive-playstation-classics-the-5-best-android-emulation-software/"><u>[New] 2024 Approved Revive PlayStation Classics The 5 Best Android Emulation Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-the-switch-making-your-graphic-style-a-sticker-on-every-platform/"><u>[New] Master the Switch Making Your Graphic Style a Sticker on Every Platform</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-advancements-in-camm2-faster-speed-reduced-size-and-enhanced-upgradability/"><u>Discovering the Advancements in CAMM2: Faster Speed, Reduced Size & Enhanced Upgradability!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f04-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F04 to Protect Your Individual Information</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-nostalgia-bites-the-best-kiddie-games-ever/"><u>In 2024, Nostalgia Bites The Best Kiddie Games Ever</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-smart-7-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Smart 7 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-nokia-c22-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Nokia C22 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-c12-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia C12 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-z-flip-5-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy Z Flip 5 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-v30-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo V30 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-on-the-google-pixelbook-go-excellent-chromebook-at-a-pricey-tag/"><u>The Ultimate Review on the Google Pixelbook Go: Excellent Chromebook at a Pricey Tag</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>[New] 2024 Approved Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-securing-premium-image-on-zoom-via-strategic-filters-for-2024/"><u>[New] Securing Premium Image on Zoom via Strategic Filters for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-start-streaming-sports-a-mac-based-channel-guide/"><u>[Updated] Start Streaming Sports A Mac-Based Channel Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-images-into-dynamic-visual-stories/"><u>2024 Approved Transform Your Images Into Dynamic Visual Stories</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-vivo-y78plus-t1-edition-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Vivo Y78+ (T1) Edition to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-poco-c50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Poco C50 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-g2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo G2 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-social-footprints-how-to-pinpoint-people-who-shared-your-post-on-facebook/"><u>Navigating Social Footprints: How to Pinpoint People Who Shared Your Post on Facebook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-redmi-note-13-pro-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi Redmi Note 13 Pro 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-rectifying-windows-non-operational-charmap/"><u>Swiftly Rectifying Windows' Non-Operational CharMap</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oneplus-nord-n30-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from OnePlus Nord N30 5G to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

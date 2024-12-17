@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from OnePlus 11R to Gmail | Dr.fone
-date: 2024-11-09T00:57:46.019Z
-updated: 2024-11-15T16:09:53.851Z
+date: 2024-12-10T23:06:17.164Z
+updated: 2024-12-17T16:25:21.811Z
 tags: 
   - transfer
 categories:
@@ -44,13 +44,6 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
@@ -86,23 +79,13 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
@@ -197,10 +180,7 @@ To use this Move to iOS app, you need to download it from the Google Play Store 
 ![move data from android with move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Move Text Messages From OnePlus 11R to iPhone Quickly with Computer
@@ -215,6 +195,10 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 .
 
 - **Step 2:** Specify the source and destination devices. After connecting to your devices, Dr.Fone will identify the connected devices and load their data onto the platform. Choose your Android as the Source device and your iPhone as the Destination device to set the transfer path. Use the Flip button if necessary to alter the transfer direction.
@@ -224,6 +208,10 @@ Packed with a user-friendly interface, this software streamlines the process, en
 - **Step 3:** Choose text messages as data types for transfer. Proceed to select the types of data you wish to transfer. Checkmark the text messages category and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Monitor music transfer progress. The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
@@ -251,13 +239,6 @@ Users may encounter situations where only some content is transferred, or the iO
 
 For this issue, you can consider erasing your iOS device and starting the transfer again. Make sure that the available space on your iPhone accommodates the Android content. Delete unnecessary data or apps on your iPhone to free up space if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus: How to Back Up Messages with Google Drive
 
 In addition to seamless transfers between devices, backing up your text messages becomes equally important. Fortunately, Google Drive offers a convenient solution by allowing you to back up your messages with ease. Turning on backup on Google Drive ensures that your valuable SMS history remains safe and accessible whenever you need it.
@@ -284,13 +265,6 @@ You might be wondering, what is the Move to iOS? If you are an android user and 
 To use the app, install it on your android device first. The transfer process requires following several simple steps to move to iOS. The app seems easy to use the tool, but newbies must learn about the Move to iOS guidelines to complete the process. With this tool, you will transfer various android data such as camera photos, contacts, message history, mail accounts, calendars, and videos.
 
 ![move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Move to iOS app works on android version 4.0 or higher. You can transfer data to any iPhone in a relatively straightforward process. Also, beware that the Move to iOS will work only when setting up a new iPhone or iPad.
 
@@ -343,10 +317,7 @@ The circumstances can be frustrating as the transfer process will not be complet
 ![move to ios not working](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 While the Move to iOS app can be easy to use, you need to know a couple of things before transferring.
@@ -358,11 +329,19 @@ While the Move to iOS app can be easy to use, you need to know a couple of thing
 - Check the capacity of the transferred content, whether it will fit the new iOS device.
 - Update chrome on android to the latest version to transfer bookmarks
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 9 Tips about moving to iOS not working problems
 
 Even though Move to iOS is a useful tool for android users willing to transfer content to the iOS device, there are several instances where it fails to work correctly. The app will show a message indicating the type of error you are experiencing during the transfer process.
 
 Most of the 'move to iOS' problems are related to Wi-Fi connection issues, android and iOS versions, space requirements, connection optimizers, and application issues. Nevertheless, you will need to find a solution to these problems to transfer your data successfully from android to iOS devices. This section will discuss possible solutions to the errors that occasionally appear when moving android data to iOS devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 1: Restart both your devices
 
@@ -380,11 +359,19 @@ Wi-Fi connectivity is a significant factor in ensuring data transfer is successf
 
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the OnePlus 11R devices connected to power before you start moving your content from android to iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 5: Set your phone into airplane mode
 
 When you transfer android data to iOS using the Move to iOS tool, apple recommends that you turn off your mobile data. Some android devices can switch from Wi-Fi to mobile data when the connection tends to drop on either side using the smart switch feature. This can interfere with the transfer process. Similarly, it could be useful if incoming calls were prevented to avoid interfering with the data transfer process. All mediums of connectivity are disabled except for the connection between the android and iOS devices through the iPhones Wi-Fi network.
 
 The best way to ensure these distractions are not happening is to turn on airplane mode on the android device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 6: Check the storage requirement
 
@@ -393,6 +380,10 @@ Before you begin transferring android data to iOS devices, check the size of all
 ### Tip 7: Disable the connection optimizer
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 8: Check the compatibility of your devices
 
@@ -460,13 +451,6 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 ## Conclusion
@@ -487,22 +471,18 @@ Transferring data from android to iOS device has been made easier with the Move 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-comprehensive-guide-to-farming-on-ginger-islet/"><u>[New] 2024 Approved The Comprehensive Guide to Farming on Ginger Islet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb/"><u>[Updated] 2024 Approved Decoding Inverse Image Retrieval for Social Networks, Focusing on FB</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-top-20-engaging-tiktok-captions-for-viral-success/"><u>[Updated] In 2024, Top 20 Engaging TikTok Captions for Viral Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/add-videos-to-youtube-playlist/"><u>Add Videos to YouTube Playlist</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-solutions-how-to-restore-functionality-and-sound-in-stereo-receivers/"><u>DIY Solutions: How to Restore Functionality and Sound in Stereo Receivers</u></a></li>
-<li><a href="https://win11.techidaily.com/ideal-windows-encryption-tools-list-149-chars/"><u>Ideal Windows Encryption Tools List (149 Chars)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-lava-blaze-2-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Lava Blaze 2 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-infinix-note-30-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Infinix Note 30 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-100-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor 100 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-hot-40-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Hot 40 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-tecno-pova-5-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Tecno Pova 5 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-m14-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy M14 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-zte-nubia-z60-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from ZTE Nubia Z60 Ultra to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-spark-10-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Spark 10 4G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-data/"><u>Undelete lost data from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/evisiting-youtubes-archive-two-proven-watch-strategies-for-2024/"><u>[New] Revisiting Youtube's Archive Two Proven Watch Strategies for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-protective-recording-strategies-to-mask-personal-information/"><u>[Updated] 2024 Approved Protective Recording Strategies to Mask Personal Information</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>[Updated] Visual Harmony on Screen Mastering Zoom's Edge Magic for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-note-12-proplus-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi Note 12 Pro+ 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-note-50-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme Note 50 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-apple-ipad-air-2019-your-ideal-companion-for-multimedia-mastery/"><u>In-Depth Analysis: The Apple iPad Air (2019) - Your Ideal Companion for Multimedia Mastery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-power-supplies-for-gopro-hero5-genuine-and-3rd-party/"><u>Premium Power Supplies for GoPro Hero5 Genuine and 3Rd-Party</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-v29-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo V29 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-c51-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme C51 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-motorola-moto-g84-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Motorola Moto G84 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

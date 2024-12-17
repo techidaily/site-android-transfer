@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Nokia C02 to Gmail | Dr.fone
-date: 2024-12-04T16:33:36.102Z
-updated: 2024-12-11T17:07:42.805Z
+date: 2024-12-14T20:23:52.689Z
+updated: 2024-12-17T22:54:16.815Z
 tags: 
   - transfer
 categories:
@@ -24,6 +24,10 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from Nokia C02 to Gmail? (Easier way)
 
@@ -49,10 +53,6 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
@@ -73,10 +73,6 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
@@ -92,14 +88,14 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
@@ -175,6 +171,10 @@ Recently, I got a new iPhone 12/XS (Max) with so much excitement. But, the one t
 
 Well! If you are in a similar situation as me, then I would recommend you go through this article. I have finally opted to import SMS to iPhone 12/XS (Max) from Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Apps to Transfer Messages from Nokia C02 to iPhone 12/XS (Max) without Computer
 
 ### How to transfer Android messages to iPhone 12/XS (Max) using Move to iOS app
@@ -192,16 +192,12 @@ The first method to transfer text messages from Nokia C02 to iPhone 12/XS (Max) 
 
     ![transfer SMS from android to iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Ensure that the Android phone is also connected to Wi-Fi. Now, click on ‘Messages’ from the ‘Data Transfer’ option. Click ‘Next’ and wait a while to finish the data transfer. Hit the ‘Done’ button afterward once the iPhone 12/XS (Max) gets synched with these messages, set up your iCloud account, and view the messages.
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
@@ -214,10 +210,6 @@ You can learn how to transfer messages from Nokia C02 to iPhone 12/XS (Max) with
 2. Download SMS Backup+ on your Nokia C02 from Google Play Store and launch it. Tap ‘Connect’ choose the recently used Gmail account. Now, allow the app to backup the SMS to your Gmail account and hit ‘Backup’.
 
     ![transfer messages from android to iPhone XS (Max) using sms backup](https://images.wondershare.com/drfone/article/2018/08/sms-backup.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Now, since you’ve backed up your messages to Gmail, you can simply access and view them from any device. Simply launch Gmail with the same account, and you’ll be able to get hold of all your messages right on your iPhone 12/XS (Max).
 
@@ -241,6 +233,10 @@ Note:    Selecting the ‘Clear Data before Copy’ option completely deletes
 
 ![transfer messages from android to iPhone 12/XS (Max) - source and target connected to pc](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3:  In this section, tap on ‘Messages’ and select the ones you want to selectively transfer. Hit the ‘Start Transfer’ button and then wait a while. Click ‘OK’ once the transfer process is over.
 
 ![confirm to transfer messages from android to iPhone XS (Max)](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
@@ -248,6 +244,10 @@ Step 3:  In this section, tap on ‘Messages’ and select the ones you want to
 ### How to transfer only selected messages iPhone 12/XS (Max)
 
 Alternatively, you can opt for [Dr.Fone - Phone Manager](https://drfone.wondershare.com/iphone-transfer.html) for selectively transferring messages from your Nokia C02 to your iPhone. Managing your iPhone is easy with such an effective desktop tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
@@ -274,13 +274,17 @@ Step 3:  From the list of messages, choose the desired text messages and hit th
 
 ![transfer messages from android to iPhone XS (Max) - choose device](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 I hope, this article brought you answers to your messages and data transfer queries. From my own experience, I found Dr.Fone Toolkit as the most viable option. If you are looking for a solution that leads to no data loss, then you can go for either [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) or [Dr.Fone - Phone Manager](https://drfone.wondershare.com/iphone-transfer.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips of Transferring Messages from Nokia C02 to iPhone 14/15
 
@@ -311,6 +315,10 @@ If you're looking for a swift and reliable way to move text messages from Nokia 
 
 Packed with a user-friendly interface, this software streamlines the process, ensuring a quick and efficient transfer of your messages through its Phone Transfer feature. Dr.Fone Phone Transfer supports seamless data transfer between Android and iOS devices and vice versa. It also regularly updates so that compatibility won't be an issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to transfer texts from Nokia C02 to iPhone with Dr.Fone
 
 - **Step 1:** Open Wondershare Dr.Fone from its [official website](https://tools.techidaily.com/wondershare/drfone/phone-switch/), and find the phone transfer tool.
@@ -332,7 +340,7 @@ Packed with a user-friendly interface, this software streamlines the process, en
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Troubleshoot Why I Can’t Transfer Texts from Nokia C02 to iPhone
@@ -368,15 +376,7 @@ In addition to seamless transfers between devices, backing up your text messages
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -398,16 +398,20 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-crafting-allure-in-online-visuals-for-beauty-for-2024/"><u>[Updated] Crafting Allure in Online Visuals for Beauty for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g-5g-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G 5G (2023) to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-m6-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco M6 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-13-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 13 Pro SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lava-blaze-2-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lava Blaze 2 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras/"><u>In 2024, Elevating Your Vlogs A List of the Top 12 Professional Cameras</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 VIP Racing Edition to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-p55plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel P55+ to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-comprehensive-analysis-of-the-cambridge-auditory-experience-cxu-device/"><u>New In 2024, The Comprehensive Analysis of the Cambridge Auditory Experience CXU Device</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-steam-library-accessibility-issues-on-windows-11/"><u>Streamlining Steam Library Accessibility Issues on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essence-of-time-stretching-detailed-review-of-slomo-2e1924/"><u>The Essence of Time Stretching Detailed Review of SloMo, 2E1924</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-expertise-in-editing-how-to-add-descriptive-texts-to-videos-for-2024/"><u>[New] Expertise in Editing How to Add Descriptive Texts to Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dont-skip-the-savings-commit-to-regular-windows-backup/"><u>Don't Skip the Savings: Commit to Regular Windows Backup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnites-ls-0013-problem-heres-your-complete-solution/"><u>Fortnite's LS-0013 Problem? Here's Your Complete Solution</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-vip-racing-edition-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 VIP Racing Edition to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oppo-reno-8t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Oppo Reno 8T to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-gt-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme GT 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-v29-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo V29 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-nokia-130-music-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Nokia 130 Music to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-g54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola G54 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y78t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y78t to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/optimizing-video-playback-for-engaged-audiences-for-2024/"><u>Optimizing Video Playback for Engaged Audiences for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/renew-your-email-on-proton-vpn-debunking-myths-the-authenticity-of-the-chatgpt-window-tool/"><u>Renew Your Email on Proton VPN - Debunking Myths: The Authenticity of the ChatGPT Window Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-to-overcome-typing-latency-in-windows-10-systems/"><u>Solutions to Overcome Typing Latency in Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-checklist-for-assembling-an-unbeatable-gaming-rig-insights/"><u>The Complete Checklist for Assembling an Unbeatable Gaming Rig - Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-ub400-bluetooth-adapter-driver-download-and-update/"><u>TP-Link UB400 Bluetooth Adapter Driver Download & Update</u></a></li>
 </ul></div>
 

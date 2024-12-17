@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Phone Clone to Migrate Your ZTE Nubia Z60 Ultra Data? | Dr.fone
-date: 2024-08-09T23:30:53.639Z
-updated: 2024-08-10T23:30:53.639Z
+date: 2024-12-16T22:02:53.337Z
+updated: 2024-12-17T22:37:00.114Z
 tags: 
   - transfer
 categories:
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 
 Dr.Fone - Phone Transfer
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Best Tool to Migrate Huawei Phone Data
 
 - Transfers any data between devices.
@@ -28,9 +25,6 @@ Dr.Fone - Phone Transfer
 
 [Watch Video Tutorial](https://drfone.wondershare.com/phone-clone/huawei-phone-clone.html#video-article-bannner)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 [![Selena Lee](https://drfone.wondershare.com/images/selena-lee.png)](https://drfone.wondershare.com/author/selena-lee/)
 
 The rapid change in the mobile models has made it difficult for us to keep up with the trend. For some, while it might be a matter of owing only the best mobile, for others it’s a matter of enjoying the best of the world at each point of time. Thereby they try to keep up with the mobile trend by getting their hands on the latest mobile whenever possible whether iOS or Android. In such a scenario it becomes difficult to transfer data from one to another. But here is some mobile technology such as Phone Clone that will change it forever. So, let us see how you can use it to your advantage to transfer your valuable information.
@@ -52,24 +46,18 @@ Here are the steps to be followed for Phone Clone ZTE to transfer your data from
 
 2\. Open the app on the new phone. Click on the new phone button. A Wi-Fi will be created whose password will be displayed at the time of creation. You will need that password in the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![phone clone for android](https://images.wondershare.com/drfone/article/2017/11/15114845572594.jpg)
 
 3\. Open the app on the old phone. Click on the old phone button. Select the wi-fi network created in the 2nd step and enter the password that you received in the 2nd step.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![phone clone for android](https://images.wondershare.com/drfone/article/2017/11/15114845727821.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Once connected, click the number of tabs on the old phone that you want to send to a new phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Part 2: How to use Phone Clone for iPhone
 
 The best part of the Huawei Phone Clone is that it supports not only Android but it also supports the iPhone. All the things that you can do while transferring data from one Android to another, you can achieve the same feat while transferring data from one iPhone to another iPhone. It is especially useful when you get that big update to your iPhone version, and most of the apps get useless due to the drastic hardware and software change in old and new iPhones. Thinking about changing your old iPhone to a new one could have been disastrous if not catastrophic if personal data could not have been transferable from one mobile to another. Phone Clone by Huawei lets you simply achieve the task while at the same time saving you a lot of data and time
@@ -81,6 +69,10 @@ Now, let us take a look at how you can use Phone Clone ZTE app without spending 
 2\. Open the app for the new iPhone. Click on the send button. A Wi-Fi hotspot will be created, displaying its name and password.
 
 ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114843873925.jpg) ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114844142055.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Go to the wi-fi setting of the old iPhone and connect to the Wifi network mentioned in step 2. Open the app on the old iPhone and click on next to complete the connection.
 
@@ -96,11 +88,6 @@ Dr.Fone provides one of the best options to switch personal data from one phone 
 
 Some of the pros of Dr.Fone - Phone Transfer are as follows:
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 1-Click Phone-to-Phone Transfer
@@ -121,9 +108,6 @@ Now let us take a look at how to use Dr. Fone to transfer data between mobiles:
 
 1\. Launch the Dr.Fone app on the computer and select Phone Transfer.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![clone phone with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2\. Connect both the mobile to the computer and select the send and receive side on the computer
@@ -136,13 +120,8 @@ Now let us take a look at how to use Dr. Fone to transfer data between mobiles:
 
 The best part of Dr.Fone is that you can try it free of cost to check if it suits your requirements. We are sure that its jaw-dropping feature will leave an impression on your mind.
 
-
-
 We hope that you learned some of the phone clone methods and applications that you can use to transfer your information from an old phone to a new phone. Use the methods mentioned above and be sure that you are on the safer and faster side of transferring data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android?
 
 [![James Davis](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -152,19 +131,15 @@ The phone industry, for years, has constantly improved on the design and develop
 Most of these photos would need to be shared with other people who are either a part of the photo or you would want to transfer them to your new android device. Most users are at a loss about how to transfer their photos from one android device to another. There are several ways to do that successfully without the risk of losing your priced photos. And in this article we have outlined several ways through which you can transfer your photos from your ZTE Nubia Z60 Ultra to your new android device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1. Transfer Photos from ZTE Nubia Z60 Ultra to New Android with a File Transfer Software
 
 One way of moving your photos between android devices is through the use of file transfer software. This software enables you to connect both android devices together.
 
 Using file transfer software to move your photos from one android device to another android device provides a secure and sure transfer window, ensuring your files won’t be lost. Reliable software you can use for this purpose is the [**Dr.Fone - Phone Transfer**](https://tools.techidaily.com/wondershare/drfone/phone-switch/) software. Dr.Fone - Phone Transfer file transfer software is topnotch and user friendly. This article will carefully lead you through the process of using this software.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
@@ -181,40 +156,27 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 #### Step 1. Click on “Switch” module after you open Dr.Fone toolkit
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 #### Step 2. Connect both phones to PC and select "Photos"
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both device between “source” and “Destination” by using the “Flip” button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices using Dr.Fone - Phone Transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
 #### Step 3. Click "Start Transfer"
 
 Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to transfer photos. Go to view trabsferred photos on the destination phone until it completes.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Part 2. How to Transfer Photos from ZTE Nubia Z60 Ultra to New Android Using NFC
 
 ![Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Near Field Communication(NFC) is a technology that supports Android Beam and is ideal for transferring data between android devices by just pressing their backs together. It is a fast and simple program that requires both devices to NFC-capable. This means they are able to communicate with each other when their fields are near. This communication is made possible through radio frequencies. Most devices have NFC hardware integrated underneath their panel.
 
@@ -236,10 +198,11 @@ To Transfer Photos from your ZTE Nubia Z60 Ultra to a new android device, ensure
 
 2\. Next, place both devices against each other, back to back.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
@@ -265,6 +228,10 @@ The purpose of this article is to guide you through the process of successfully 
 
 ![How to Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices by Bluetooth-Pair Devices](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A message will pop up on your new android device, requesting permission to pair with your ZTE Nubia Z60 Ultra. Click "Accept “to establish connection.
 
 3\. After both devices have successfully been paired to each other, go to the folder containing the Photos your want to send to your new Android device. Select the photo or if they are more than one, long press on a photo. This will create a thumbnail. Select the photos you want to transfer and choose the share button normally depicted by this icon
@@ -273,9 +240,6 @@ A message will pop up on your new android device, requesting permission to pair 
 
 ![How to Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices by Bluetooth](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Transfer Photos from Old to New Android Phones via Device-Specific App
 
 **Samsung Smart Switch**
@@ -312,23 +276,27 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 
 3\. Click on “Restore” to retrieve data from previous backups after selecting the backup file you want.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Transfer Photos from ZTE Nubia Z60 Ultra to Other Android Devices by Huawei Suite](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-huaweisuite.jpg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry
 
 Today’s world is full of technological benefits. Transferring data from one part of the world to another can be done in the blink of an eye. Transferring data from one phone to another should be that simple right? Well, it is if you are using devices with the same OS. But, what should you do if you want to transfer data from, let’s say, Android to BlackBerry? Don’t worry. It is possible, and we will guide you step by step through the entire process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1: Issues about transferring data from ZTE Nubia Z60 Ultra to BlackBerry
 
 When transferring data from ZTE Nubia Z60 Ultra to BlackBerry, you can’t use Bluetooth or a third party software that will help you speed up the process. And unfortunately, you will sometimes wish that you can speed up this process. You can try to manually transfer data from ZTE Nubia Z60 Ultra to a computer, and then from a computer to BlackBerry, but this process can take hours. It is boring to transfer the files from one place to another, and the time it takes is a real pain in the neck. And also, it is impossible to transfer apps from ZTE Nubia Z60 Ultra to BlackBerry because of different operating systems. Sometimes, not even all photos, videos and music files will be compatible. But, luckily, the BlackBerry developers have thought of a one way, which is simpler than the manual transfer mentioned above, to transfer your data from ZTE Nubia Z60 Ultra to BlackBerry. It takes less time, but you still need to do some work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to transfer data from ZTE Nubia Z60 Ultra to Blackberry (Free)
 
@@ -336,9 +304,6 @@ The BlackBerry developers have thought of an app that will help you transfer you
 
 From the Home screen of your BlackBerry tap the ‘BlackBerry World’.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-01](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry02.jpg)
 
 Then, tap the search box and enter ‘Device Switch’. After the ZTE Nubia Z60 Ultra device shows up, tap it.
@@ -351,9 +316,6 @@ Then, you should be able to see the ‘Download’ button on the right side. Tap
 
 Once the download is done, ‘Open’ button will appear. Tap it.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-04](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry09.jpg)
 
 You should read through the top half of the screen, and make sure that the preferred options are checked. Once you finish reading, click ‘OK’.
@@ -366,22 +328,16 @@ After pressing OK, swipe left. A new screen will show up. You will have the opti
 
 Then, download the ZTE Nubia Z60 Ultra device Switch application from Google Play on your ZTE Nubia Z60 Ultra. When the application is installed, open it, tap next and then RIM BlackBerry Device. Note the PIN code and enter it on your BlackBerry when prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-07](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-08](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
 
 Make sure that the preferred sync options are checked on the Android device and then tap ‘Next.’ These two devices will establish a connection using the same Wi-Fi network. Once that happens, the transfer process will begin. The process may take a while. It depends on the amount of data which is being moved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-09](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry07.jpg)
 
 Once the transfer is done, tap finish. And that is it! The content from the Android device was successfully transferred to your BlackBerry device.
@@ -393,8 +349,6 @@ The Device Switch app is very reliable. But, there is one downside. You cannot t
 ## Part 3: Transfer data from ZTE Nubia Z60 Ultra to Blackberry by Dr.Fone (Fast, easy and safe)
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can transfer all kinds of data including text messages, call logs, contacts, and of course, photos, videos and music. The software does not only enable transfer between Android, iOS and Symbian, but also restores data from iTunes, iCloud, kies and BlackBerry backup files. It supports more than 3000 phones currently, from all manufacturers.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -413,9 +367,6 @@ How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry With 1-Click
 
 **Step 1:** In order to transfer data from Android phone to BlackBerry, you are supposed to download and install Dr.Fone fisrt. And then launch Mobiletrans and select the "Phone Transfer" mode.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Connect both your ZTE Nubia Z60 Ultra and BlackBerry phone to your computer. On the window below, you can click the "Flip" button on the program in order to switch the destination and source phones, please make sure that the BlackBerry phone is the destination. Then you can select the contents you'd like to transfer.
@@ -424,22 +375,7 @@ How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry With 1-Click
 
 **Step 3:** After you select the transfer contents, just click "Start Transfer". Then the program MobileTrans will start to transfer data from ZTE Nubia Z60 Ultra to BlackBerry. After a few minutes, the process will finish.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer from Windows phone to Android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -453,5 +389,19 @@ How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry With 1-Click
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-music-library-top-6-free-ios-apps-for-audio-conversion/"><u>[New] 2024 Approved Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>[New] In 2024, Capturing Motion Setting up a Timelapse on an iPad</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[Updated] In 2024, Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-5-free-video-players-vlc-or-mpc-winner/"><u>[Updated] Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-duel-of-the-camcorders-gopros-black-versus-sony-fdr-x1000v/"><u>2024 Approved Duel of the Camcorders GoPro's Black Versus Sony FDR-X1000V</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y78-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y78 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-90-lite-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor 90 Lite via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-asus-rog-phone-8-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Asus ROG Phone 8 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-g24-power-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola G24 Power to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-procedures-for-powertoys-in-win11/"><u>Installation Procedures for PowerToys in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-become-a-pro-in-playing-royal-match/"><u>Step-by-Step Instructions to Become a Pro in Playing Royal Match</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/which-is-better-for-you-exploring-the-differences-between-ipad-pro-and-macbook-pro/"><u>Which Is Better for You? Exploring the Differences Between iPad Pro & MacBook Pro</u></a></li>
+</ul></div>
 

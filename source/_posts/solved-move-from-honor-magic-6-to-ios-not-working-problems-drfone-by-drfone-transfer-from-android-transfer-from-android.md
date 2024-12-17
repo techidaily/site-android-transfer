@@ -1,7 +1,7 @@
 ---
 title: Solved Move from Honor Magic 6 to iOS not Working Problems | Dr.fone
-date: 2024-11-13T11:41:18.208Z
-updated: 2024-11-15T16:44:53.211Z
+date: 2024-12-15T19:44:00.965Z
+updated: 2024-12-17T22:54:59.742Z
 tags: 
   - transfer
 categories:
@@ -101,6 +101,10 @@ Wi-Fi connectivity is a significant factor in ensuring data transfer is successf
 
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the Honor Magic 6 devices connected to power before you start moving your content from android to iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 5: Set your phone into airplane mode
 
 When you transfer android data to iOS using the Move to iOS tool, apple recommends that you turn off your mobile data. Some android devices can switch from Wi-Fi to mobile data when the connection tends to drop on either side using the smart switch feature. This can interfere with the transfer process. Similarly, it could be useful if incoming calls were prevented to avoid interfering with the data transfer process. All mediums of connectivity are disabled except for the connection between the android and iOS devices through the iPhones Wi-Fi network.
@@ -172,13 +176,6 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![connect your Honor Magic 6s](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Select the types of data you want to transfer, then click on the 'start transfer' option to continue. Be careful not to disconnect the Honor Magic 6 devices until the process is complete.
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -189,6 +186,10 @@ The following steps will help you transfer data from android to an iOS device us
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -255,13 +256,6 @@ Samsung Smart Switch allows you to quickly transfer various contents from your o
 
 ![receive data from android wirelessly](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** The Galaxy phone will subsequently ask for the data selection. There, you can go into the "Custom" option and select the "Apps" option. Next, choose the applications you want to transfer and hit the "Transfer” option. The transfer process will be complete within a few minutes. You can tap on the "Go to the Home Screen" prompt and find the apps you have just transferred.
 
 ![select apps to start transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-7.jpg)
@@ -290,13 +284,6 @@ There is another method that you can try to **transfer apps to a new Android pho
 
 ![restore all the necessary apps](https://images.wondershare.com/drfone/article/2023/12/transfer-apps-to-new-android-phone-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How To Transfer and Download Apps From One Phone to Another Using Play Store
 
 You can also transfer apps from one phone to another using the Play Store. It's more like downloading apps and a time-consuming procedure. This manual method uses the Play Store to detect applications not installed on your new Galaxy device. Then, after the detection process, you can download those applications. The “**how to transfer apps to new Android phone**” method includes some steps that are described below.
@@ -317,6 +304,10 @@ You can also transfer apps from one phone to another using the Play Store. It's 
 
 In a nutshell, you can transfer the applications from your old Android device to a new Galaxy phone using various methods. We have described these effective methods through which you can easily transfer your old apps. However, the Wondershare Dr.Fone – Phone Transfer method stands out as the best technique to **transfer apps to new Android phone**s. The software allows the transfer process to be implemented in simple steps that require a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Ways To Transfer Contacts From Honor Magic 6 to iPhone
 
 Transitioning from an Android to an iPhone can be an exciting move. However, the process to **transfer contacts from Honor Magic 6 to iPhone** might seem daunting. Thankfully, technological advancements have introduced several hassle-free methods. With these, you can smoothly transfer contacts from an Android device to an iPhone.
@@ -324,13 +315,6 @@ Transitioning from an Android to an iPhone can be an exciting move. However, the
 This article will delve into 6 effective ways to effortlessly migrate your contacts. It ensures a smooth transition without worrying about losing essential contacts. These step-by-step solutions will guide you through the process, simplifying the task.
 
 ![transfer contacts from android to iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Author Recommendation. The Best Method to Transfer Contacts from Honor Magic 6 to iPhone**
 
@@ -344,6 +328,10 @@ This article will delve into 6 effective ways to effortlessly migrate your conta
 2. The Phone Transfer of Wondershare Dr.Fone is fully compatible with over 8000 devices from all major brands.
 3. Wondershare Dr.Fone enables the transfer of up to 15 different file types between phones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Transfer Contacts From Honor Magic 6 to iPhone via Wondershare Dr.Fone
 
 Follow these simplified steps for **how to transfer contacts from Honor Magic 6 to iPhone** using Wondershare Dr.Fone:
@@ -355,16 +343,7 @@ On your computer, download and install the latest version of Wondershare Dr.Fone
 ![choose phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2: Connect Devices and Complete Contacts Transfer**
@@ -398,10 +377,7 @@ Syncing contacts to a Google account serves as a convenient method. It can autom
 ![enable automatically backup and sync option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3.** Go to the “Settings” app and locate the “Contacts” settings. Proceed by scrolling to locate “Accounts” and then tap on it. Afterwards, choose “Add Account” and sign in with your Google Account. Once logged in, make sure to enable the “Contacts” option.
@@ -417,15 +393,16 @@ Transferring contacts using a SIM card provides a basic yet effective method. Th
 ![export contacts to sim](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2.** After it is done, insert the SIM card into the iPhone and open Settings. Move to "Contacts" and press "Import SIM Contacts" on the next screen to complete the process of moving contacts from a SIM card on an iPhone or email.
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5: Sync Using iTunes/Finder
 
@@ -447,9 +424,17 @@ Importing a VCF file directly to your iPhone allows for a simple and direct tran
 
 ![email the vcf file](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Now move to your iPhone and open the mail with Contacts from the Android device. Press the attached file, choose "Share," select the "Contacts" app and tap "Add All Contacts."
 
 ![tap add all 3 contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Author Recommendation: The Best Method To Transfer Contacts From Honor Magic 6 to iPhone
 
@@ -462,13 +447,6 @@ It simplifies the transfer process with its intuitive interface and dependable p
 3. **Reliability and Security:** With a solid reputation in data management software, Wondershare Dr.Fone ensures the security and integrity of your data. It prioritizes privacy and reliability during the transfer process.
 4. **Cross-Platform Compatibility:** Fone supports transfers between different operating systems. That makes it an ideal choice when migrating from Honor Magic 6 to iOS devices like iPhones.
 5. **Efficiency and Speed:** The software streamlines the transfer process to an excellent measure. It saves valuable time by swiftly migrating contacts and other data without data loss or errors.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -490,19 +468,18 @@ You can opt for the user-friendly interface of Wondershare Dr.Fone, the official
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-key-strategies-for-professional-video-production-via-nvidia/"><u>[New] Key Strategies for Professional Video Production via NVIDIA</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-potential-skyrocketing-youtube-audience/"><u>[Updated] Unleash Your Potential Skyrocketing YouTube Audience</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-youtube-meets-facebook-1080p-live-mastery-guide/"><u>2024 Approved YouTube Meets Facebook 1080P Live Mastery Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-a-course-for-revenue-with-ytp2024-insights/"><u>Charting a Course for Revenue with YTP2024 Insights</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comment-cloner-un-systeme-sur-du-materiel-different-avec-une-reussite-garantie-au-demarrage/"><u>Comment Cloner Un Système Sur Du Matériel Différent Avec Une Réussite Garantie Au Démarrage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m14-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy M14 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-spark-10-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Tecno Spark 10 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-x7b-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor X7b to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-nord-ce-3-lite-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Nord CE 3 Lite 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-reno-11-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Reno 11 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-8-sites-to-get-free-green-screen-backgrounds-and-footage/"><u>In 2024, Top 8 Sites to Get Free Green Screen Backgrounds and Footage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-hardware-excellence/"><u>Tom's Tech Insights: Your Guide to Hardware Excellence</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-magic-vs-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor Magic Vs 2 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-errgfxstate-error-in-red-dead-redemption-2-step-by-step-guide/"><u>Ultimate Fixes for ERR_GFX_STATE Error in Red Dead Redemption 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transforming-your-reel-game-on-instagram-in-days/"><u>[New] 2024 Approved Transforming Your Reel Game on Instagram in Days</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-transformative-content-blocks-enhanced-youtube-decks/"><u>2024 Approved Transformative Content Blocks Enhanced Youtube Decks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-poco-f5-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Poco F5 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-12r-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 12R Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-lava-yuva-2-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Lava Yuva 2 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-oneplus-ace-2-pro-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from OnePlus Ace 2 Pro to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-s18-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo S18 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/sicuro-backup-dei-tuoi-dati-ios-con-aomei-fonebackup-procedura-semplice-e-facile/"><u>Sicuro Backup Dei Tuoi Dati iOS Con AOMEI FoneBackup - Procedura Semplice E Facile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/simple-screenshot-pro-on-windows-10/"><u>Simple Screenshot Pro on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/slide-show-must-haves-for-iphone-models-787-pro-max/"><u>Slide Show Must-Haves for iPhone Models 7/8/7 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-huawei-nova-y71-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Huawei Nova Y71 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ubisoft-connect-error-solved-tips-and-tricks-for-a-smooth-gaming-experience-2024-edition/"><u>Ubisoft Connect Error Solved: Tips and Tricks for a Smooth Gaming Experience, 2024 Edition.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-channel-harmony-matching-your-narrative-with-the-right-mic-for-2024/"><u>YouTube Channel Harmony Matching Your Narrative With the Right Mic for 2024</u></a></li>
 </ul></div>
 

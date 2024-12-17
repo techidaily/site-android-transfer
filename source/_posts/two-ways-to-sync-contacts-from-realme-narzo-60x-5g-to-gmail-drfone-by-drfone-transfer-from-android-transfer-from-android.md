@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Realme Narzo 60x 5G to Gmail | Dr.fone
-date: 2024-12-05T16:44:08.070Z
-updated: 2024-12-11T17:38:06.440Z
+date: 2024-12-16T20:33:32.446Z
+updated: 2024-12-17T22:18:18.889Z
 tags: 
   - transfer
 categories:
@@ -19,6 +19,10 @@ If you have ever lost your phone, you will agree that getting all the informatio
 One of the most important stuff you can keep on your phone is your contacts, the information about the people in your life, as well as their phone numbers. This can prove to be the most difficult data to get back after a phone is lost. Therefore, this article will tell you ways to keep your contacts updated by synchronizing contacts from Realme Narzo 60x 5G to Google mail account. As with almost everything in the tech world, there is more than one way to skin a cat, and this is especially true about synchronizing contacts on Android phones.
 
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from Realme Narzo 60x 5G to Gmail? (Easier way)
 
@@ -79,20 +83,12 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Other Ways to Backup Android Contacts
 
@@ -172,6 +168,10 @@ In this article, we’ll talk about the essential factors involved in data migra
 
 It’s probably true to say that data migration is a major procedure. It’s not just a simple file-sharing method that can be completed in no time. A lot of things are involved when data is transferred from one device to another. To help you understand it better, below is a list of factors affecting the quality and speed of data migration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### File Size
 
 The size of files being transferred affects the process in general. This is because the Realme Narzo 60x 5G device on the receiving end needs to allocate the data individually to the available space. That’s why the procedure often takes some time to complete if the volume of files is quite large. On the hand one hand, data migration gets completed in a snap if the file size is smaller.
@@ -201,6 +201,10 @@ Do you need to transfer contacts from Realme Narzo 60x 5G to iPhone 15? Well, yo
 
 ![fix and manage](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Export to File.**
 
 ![export to file](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-2.jpg)
@@ -209,6 +213,10 @@ Do you need to transfer contacts from Realme Narzo 60x 5G to iPhone 15? Well, yo
 - **Step 5:** Then, click **Save.**
 
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Launch the **Browser** app on your Realme Narzo 60x 5G smartphone.
 - **Step 7:** Visit icloud.com and then log in to the iCloud account you’re currently using on your iPhone 15. From there, import the VCF file.
@@ -271,13 +279,13 @@ Move to iOS is a mobile application that automates data migration between Androi
 
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Find the unique code displayed on your iPhone 15 screen. Then, enter it into your Realme Narzo 60x 5G smartphone.
 
 ![type in code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** Choose the files you want to transfer. After that, initiate the process. Wait until all the files have been transferred to your new iPhone 15.
 
@@ -303,10 +311,6 @@ There’s no denying that the first four methods are all effective in this regar
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
@@ -320,6 +324,10 @@ Data migration by means of the five methods enumerated above is considered safe 
 
 ![wondershare drfone backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
@@ -331,6 +339,10 @@ Data migration by means of the five methods enumerated above is considered safe 
 - **Step 5:** After completing the backup process, click **View Backups** or **Open in Folder** to check your files.
 
 ![backup done](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -377,19 +389,15 @@ You can instantly copy contacts from Realme Narzo 60x 5G to iPhone 14 or 15 by s
 
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Upload the vCard to your iCloud account. Log in to icloud.com using your Apple and then click **Contacts** \> **Settings** gear icon > **Import vCard.**
 
 ![upload vcf](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** Lastly, sync your iPhone to iCloud and then check your contact list from the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Import contacts from Google account
 
@@ -400,10 +408,6 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 
 ![mail settings](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Click **Accounts.**
 
 ![mail accounts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-7.jpg)
@@ -413,14 +417,6 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 - **Step 6:** The settings for your Gmail account will appear once you have successfully logged in on your iPhone. Toggle on the radio button next to **Contacts** to sync your phonebook with the new device.
 
 ![sync contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Copy contacts from the SIM card to your iPhone
 
@@ -457,6 +453,10 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** On your Android smartphone, key in the code displayed on your iPhone screen.
 - **Step 7:** Choose **Contacts.** After that, wait for the data transfer to start and finish.
 
@@ -475,13 +475,13 @@ The easiest way to export contacts from Realme Narzo 60x 5G to iPhone is by mean
 
 ![data transfer huawei and iphone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** After that, choose the categories of the files you want to transfer. From there, click **Contacts** and then tap **Start Transfer** to proceed.
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7:** Wait while the data transfer is ongoing. Avoid using both your devices during the process to avoid unwanted disruptions.
 
@@ -518,14 +518,18 @@ Data transfer is a sensitive procedure. That’s why it’s highly recommended t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-freezing-points-to-inviting-landscapes/"><u>[New] 2024 Approved From Freezing Points to Inviting Landscapes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-solutions-for-persistent-issues-with-macx-dvd-ripper-pro-full-movie-rip-failures-and-performance-lag/"><u>1. Solutions for Persistent Issues with MacX DVD Ripper Pro: Full Movie Rip Failures and Performance Lag</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-htc-u23-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From HTC U23 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s23-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S23 Phone? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-framefraction-review/"><u>In 2024, FrameFraction Review</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-x-fold-2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo X Fold 2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-redmi-a2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi Redmi A2 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C12 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/prime-16-video-openers-to-surge-your-traffic/"><u>Prime 16 Video Openers to Surge Your Traffic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-15-best-tools-to-capture-classroom-learning-moments/"><u>[New] 2024 Approved 15 Best Tools to Capture Classroom Learning Moments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-effortless-repetition-replay-your-youtube-videos-via-tv-connection/"><u>[New] 2024 Approved Effortless Repetition Replay Your YouTube Videos via TV Connection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-zero-cost-youtube-meetings-easy-to-host/"><u>[New] Zero Cost Youtube Meetings Easy to Host</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-choices-pro-shake-free-cameras-for-video-streams/"><u>[Updated] In 2024, Top Choices Pro Shake-Free Cameras for Video Streams</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-matching-made-easy-tips-and-tricks-for-final-cut-pro-users/"><u>Color Matching Made Easy Tips and Tricks for Final Cut Pro Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-mini-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 mini Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hungarian-languages-for-romantic-dialogue/"><u>Hungarian Languages for Romantic Dialogue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y27-4g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y27 4G Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-moto-g84-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Moto G84 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-nokia-c110-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Nokia C110 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-commanders-compendium-top-11-ww2-games/"><u>The Ultimate Commander’s Compendium: Top 11 WW2 Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-11x-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme 11X 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-y78t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo Y78t to Gmail | Dr.fone</u></a></li>
 </ul></div>
 
