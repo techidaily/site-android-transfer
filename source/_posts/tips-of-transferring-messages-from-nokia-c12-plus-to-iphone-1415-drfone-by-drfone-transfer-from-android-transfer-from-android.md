@@ -1,7 +1,7 @@
 ---
 title: Tips of Transferring Messages from Nokia C12 Plus to iPhone 14/15 | Dr.fone
-date: 2024-12-11T19:25:30.776Z
-updated: 2024-12-17T21:40:07.681Z
+date: 2024-12-21T13:59:26.800Z
+updated: 2024-12-26T01:56:17.311Z
 tags: 
   - transfer
 categories:
@@ -46,10 +46,6 @@ If you're looking for a swift and reliable way to move text messages from Nokia 
 
 Packed with a user-friendly interface, this software streamlines the process, ensuring a quick and efficient transfer of your messages through its Phone Transfer feature. Dr.Fone Phone Transfer supports seamless data transfer between Android and iOS devices and vice versa. It also regularly updates so that compatibility won't be an issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to transfer texts from Nokia C12 Plus to iPhone with Dr.Fone
 
 - **Step 1:** Open Wondershare Dr.Fone from its [official website](https://tools.techidaily.com/wondershare/drfone/phone-switch/), and find the phone transfer tool.
@@ -69,6 +65,10 @@ Packed with a user-friendly interface, this software streamlines the process, en
 - **Step 4:** Monitor music transfer progress. The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshoot Why I Can’t Transfer Texts from Nokia C12 Plus to iPhone
 
@@ -93,7 +93,7 @@ Users may encounter situations where only some content is transferred, or the iO
 For this issue, you can consider erasing your iOS device and starting the transfer again. Make sure that the available space on your iPhone accommodates the Android content. Delete unnecessary data or apps on your iPhone to free up space if needed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: How to Back Up Messages with Google Drive
@@ -123,15 +123,15 @@ To use the app, install it on your android device first. The transfer process re
 
 ![move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Move to iOS app works on android version 4.0 or higher. You can transfer data to any iPhone in a relatively straightforward process. Also, beware that the Move to iOS will work only when setting up a new iPhone or iPad.
 
 Besides knowing what the content that Moves to iOS tool can transfer, you might be wondering how long the process can take. Depending on the content you want to transfer, the process generally takes around 10 – 30 minutes. However, other factors can determine the time the app will take to move content to iOS. They include the speed of the network, patency of the transmission process, and Wi-Fi stability.
 
 ![android move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Move to iOS not working problem lists
 
@@ -196,10 +196,6 @@ Most of the 'move to iOS' problems are related to Wi-Fi connection issues, andro
 
 Restarting your devices is the essential thing to do when troubleshooting the Move to iOS problems. It is a great way o eliminate minor issues during data transfer from android to iOS devices. The process can resolve the Move to iOS stuck on connecting to iPhone issues. A simple restart will eliminate the bugs and any cached error in the Nokia C12 Plus devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 2: Clear all running apps
 
 It is recommended to avoid using the android device o run applications when using the Move to iOS app. Since the app runs in the foreground, you should ensure all other apps in the android are disabled before starting the data transfer process. Notifications and incoming calls are likely to interfere with the process; therefore, users must ensure such distraction is not happening by disabling such apps.
@@ -212,6 +208,10 @@ Wi-Fi connectivity is a significant factor in ensuring data transfer is successf
 
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the Nokia C12 Plus devices connected to power before you start moving your content from android to iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 5: Set your phone into airplane mode
 
 When you transfer android data to iOS using the Move to iOS tool, apple recommends that you turn off your mobile data. Some android devices can switch from Wi-Fi to mobile data when the connection tends to drop on either side using the smart switch feature. This can interfere with the transfer process. Similarly, it could be useful if incoming calls were prevented to avoid interfering with the data transfer process. All mediums of connectivity are disabled except for the connection between the android and iOS devices through the iPhones Wi-Fi network.
@@ -223,12 +223,16 @@ The best way to ensure these distractions are not happening is to turn on airpla
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 7: Disable the connection optimizer
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 8: Check the compatibility of your devices
 
@@ -245,7 +249,7 @@ An alternative solution to Move to iOS not working problem is to use [Dr. Fone �
 Most importantly, the programs transfer data at a very high speed compared to other alternatives. You can also use the software to [transfer social apps](https://drfone.wondershare.com/whatsapp/transfer-whatsapp-messages-from-android-to-iphone.html) and retain the important history of apps like WhatsApp, Wechat, Viber, Line, or Kik.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
@@ -260,11 +264,19 @@ Move/Transfer Android data from Computer to iPod/iPhone/iPad without iTunes
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Here is how to transfer data from iOS to android device without a PC
 
 You need to login to your iCloud account on android to download data, or you can use the iOS-to-android adapter to connect your iPhone to android to transfer data directly.
 
 ![ios-to-android adapter](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Use the following simple steps.**
 
@@ -273,10 +285,6 @@ You need to login to your iCloud account on android to download data, or you can
 - Select from the list of data detected from iCloud and tap on start importing.
 
     ![wait for the process](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Wait for the data transfer process to complete.
 
@@ -320,10 +328,6 @@ However, if your cherished iPod is showing signs of wear or experiencing issues,
 - [Part 1. Transfer Music from iPod to Android via Bluetooth](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part2)
 - [Part 2. How to Transfer Music from Nokia C12 Plus to iPod with Move to iOS App](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part3)![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)
 - [Part 3. How To Transfer Music From iPod to Android/Android to iPod With Easy Software](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - [Conclusion](https://drfone.wondershare.com/transfer/transfer-music-from-android-to-ipod.html#part5)
 
@@ -421,6 +425,10 @@ Make a connection between your iPod and your Nokia C12 Plus on your computer. La
 
 ![Music data transfer with Dr.Fone.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Specify the source and destination devices
 
 After connecting them, the platform will identify the connected devices and load their data. Choose the Source and Destination devices to set the transfer path. Use the Flip button to alter the transfer direction (for example, when you want to transfer from Nokia C12 Plus to iPod instead).
@@ -433,10 +441,6 @@ Proceed to select the types of data you wish to transfer. Checkmark music and cl
 
 ![Choose the data types for transfer.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Disable iCloud syncing
 
 Now, Dr. Fone's Phone Transfer tool should prompt a specific operation on the window. Follow the instructions to turn off iCloud syncing.
@@ -448,10 +452,6 @@ Now, Dr. Fone's Phone Transfer tool should prompt a specific operation on the wi
 The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -473,18 +473,19 @@ On the other hand, there are also apps like Move to iOS and [Dr.Fone Basic](http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included-for-2024/"><u>[New] How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?) For 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-complete-look-at-youtube-tvs-content-library/"><u>[New] The Complete Look at YouTube TV's Content Library</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-harness-googles-potential-for-your-podcasts/"><u>[Updated] 2024 Approved How to Harness Google’s Potential for Your Podcasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-dominating-the-igtv-space-a-guide-to-massive-viewership-growth/"><u>[Updated] In 2024, Dominating the IGTV Space A Guide to Massive Viewership Growth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-resolving-the-steam-disk-write-error-on-your-pc/"><u>Comprehensive Solutions for Resolving the Steam Disk Write Error on Your PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2010-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2010</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a60-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A60 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-asus-rog-phone-8-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Asus ROG Phone 8 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-vip-racing-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 VIP Racing Edition to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p55t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P55T to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-narrative-on-film-for-2024/"><u>The Art of Narrative on Film for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-techniques-for-high-resolution-webcam-videos-for-2024/"><u>Top Techniques for High-Resolution WebCam Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>[Updated] 2024 Approved Perfect Meeting Aesthetics How to Blur Video Backgrounds</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevating-engagement-strategic-use-of-youtube-titles/"><u>[Updated] Elevating Engagement Strategic Use of Youtube Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s23-tactical-edition-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S23 Tactical Edition Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-becoming-a-final-cut-pro-expert-your-quick-reference/"><u>In 2024, Becoming a Final Cut Pro Expert – Your Quick Reference</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-dial-up-the-impact-with-50-free-branding-graphics/"><u>In 2024, Dial Up the Impact with 50 FREE Branding Graphics!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-f15-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy F15 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-x100-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo X100 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>In 2024, Revolutionize Your Console Proven Strategies for Clear Gaming Recordings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y36-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y36 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oneplus-12-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from OnePlus 12 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-x50i-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor X50i to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-online-video-editors-for-chromebook-users-for-2024/"><u>Top-Rated Online Video Editors for Chromebook Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-chatgpt-dialogues-expert-techniques-unveiled/"><u>Transform ChatGPT Dialogues: Expert Techniques Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unrivaled-4k-gaming-laptops-the-best-of-both-worlds/"><u>Unrivaled 4K Gaming Laptops - The Best of Both Worlds</u></a></li>
 </ul></div>
 

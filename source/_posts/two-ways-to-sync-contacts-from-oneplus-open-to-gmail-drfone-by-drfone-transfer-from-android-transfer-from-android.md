@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from OnePlus Open to Gmail | Dr.fone
-date: 2024-08-09T23:23:35.670Z
-updated: 2024-08-10T23:23:35.670Z
+date: 2024-12-24T01:23:29.691Z
+updated: 2024-12-25T23:47:29.253Z
 tags: 
   - transfer
 categories:
@@ -20,14 +20,9 @@ One of the most important stuff you can keep on your phone is your contacts, the
 
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Sync Contacts from OnePlus Open to Gmail? (Easier way)
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your OnePlus Open contact details to another platform.
-
-
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -47,9 +42,6 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 - 3\. Connect your phone to your PC via a USB cable. Ensure that USB debugging is enabled on your phone
 - 4\. Now click on the "Information" tab at the top of the interface of the software.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
@@ -68,21 +60,26 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. How to Sync Contacts from OnePlus Open to Gmail? (Official Way)
 
 There is also a way whereby you can sync your contacts to your Gmail account on Android using just Your OnePlus Open. You can do this simply by following these steps:
@@ -97,9 +94,6 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
@@ -112,9 +106,6 @@ Although there has been no record of such occurrence in the past from users who 
 
 Another way to back up your contacts before you sync contacts from OnePlus Open to Gmail can be found in this article: [Four Ways to Backup Android Contacts Easily](https://drfone.wondershare.com/contacts/backup-contacts-android.html).
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4. Basic Solutions to Fix Google Contacts Syncing Issues on Android
 
 In the above parts, you have learned how to transfer contacts from OnePlus Open to Gmail. So what if your contacts have, for some reason, refused to sync? Well, don't panic; here are some of the possible fixes for the problem.
@@ -173,8 +164,6 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from OnePlus Open to Gmail.
 
-
-
 ## 5 Ways to Transfer Music from OnePlus Open to Other Android Devices Easily
 
 There can be many reasons to transfer music from OnePlus Open to Other Android Devices, such as the change of the OnePlus Open device since you bought a new one or want to keep music readily available on multiple devices. Therefore, if you face a dilemma over how to transfer music from one Android device to another, this is the right article for you.
@@ -185,11 +174,6 @@ So, keep reading to know about five different ways that will help you transfer y
 
 The transfer of all music files from one Android phone to another with a single click of the mouse has never been easier. The switch feature on [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) program has made this action a lot simpler and even faster to transfer music from OnePlus Open to Other Android Devices. It can also transfer other file formats such as other multimedia files, contacts, text messages, call logs, including apps and app data files.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Music from OnePlus Open to Other Android Devices in 1 Click Directly!
@@ -207,9 +191,6 @@ Here are the few simple steps required to be carefully followed to transfer musi
 
 **Step 1.** The first step is to download the Dr.Fone software from its official website and then run the installer wizard. Once the installation is complete, launch the program.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer music from android to android-launch the program](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Now, connect both the Android phones via a good USB cable to the PC. Thereafter, go to the Dr.Fone program's main interface and click on the “Switch” button. You will see the two devices connected with the Source device on the left and the Destination device on the right on the next screen.
@@ -226,13 +207,9 @@ You should now see your music files being transferred with the overall progress 
 
 There you go; within a few seconds, your music files will be transferred successfully.
 
-
-
 ## Part 2. How to Transfer Music from OnePlus Open to Other Android Devices Selectively?
 
 Another way to transfer music from OnePlus Open to Other Android Devices is by using the transfer feature on [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). As the name implies, this feature can be used to transfer files from one Android device to another by selecting the particular music file one by one instead of choosing an entire music file.
-
-
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -254,19 +231,11 @@ Here are a few easy steps to follow on how to transfer music from OnePlus Open t
 
 **Step 2.** The moment all the audio files or music files on the connected device are displayed on the Dr.Fone software screen. You can scroll down and select each file you wish to copy or select an entire folder from the left side pane.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer music from android to android-select each file you wish to copy](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-01.jpg)
 
 **Step 3.** After selecting the music files, you wish to copy, click on the “Export” button on the app and then select “Export to Device”. You will see the other device connected; there, click on the OnePlus Open device's name to begin the transfer process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![transfer music from android to android-click on the “Export” button](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-02.jpg)
-
-
 
 ## Part 3. How to transfer music from OnePlus Open to Other Android Devices using Bluetooth?
 
@@ -280,18 +249,12 @@ Bluetooth transfer is one of the oldest methods that can be used to transfer mus
 
 **Method 2:** Go to “Connection” from the Settings Menu on your OnePlus Open, and then in the Connections options, you will see “Bluetooth”. Make sure it is switched on. Also, ensure that the phone’s Bluetooth visibility is enabled so that your device can be seen and easily paired with the other device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![transfer music from android to android-Go to “Connection”](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-8.jpg)
 
 **Step 2.** Now, switch on the Bluetooth for the destination device as well. Once done, search for your device’s Bluetooth name on the phone and click to pair both Bluetooth devices together.
 
 Mostly, you will be provided with a pair confirmation code that will be displayed on both devices. Click OK to pair both devices successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer music from android to android-pair both devices](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-9.jpg)
 
 **Step 3.** The final step is to head to the File Manager app on your phone or go to your Music Player, select the music file you wish to transfer, and then click on your device's Share button or logo.
@@ -300,14 +263,8 @@ Here, scroll until you see the “Bluetooth” option. You will be immediately p
 
 This is how you can transfer music files from OnePlus Open to Other Android Devices using Bluetooth.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer music from android to android-use Bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4. How to transfer music from OnePlus Open to Other Android Devices using NFC?
 
 NFC or Near Field Communication is another wireless means to transfer music from OnePlus Open to Other Android Devices. Although, unlike Bluetooth, this method requires contact between the two devices making the transfer.
@@ -322,12 +279,21 @@ NFC or Near Field Communication is another wireless means to transfer music from
 
 ![transfer music from android to android-start transferring your music files](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** After connecting both the OnePlus Open devices, you will be provided with media options of files that can be transferred. In this case, select the Music files and then click on “Transfer” to send the music files via NFC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![transfer music from android to android-send the music files via NFC](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. How to transfer music from OnePlus Open to Other Android Devices using Google Play Music?
 
@@ -343,15 +309,14 @@ Note: You need a Google account to be able to make use of this service
 
 ![transfer music from android to android-Select From Your Computer](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** After the upload has been completed, download the “Google Play Music” app on your other Android phone and then log in to the app with the same Google credentials. You will see all the recently uploaded tracks on your Google Play account. You can now stream or download them easily.
 
 At last, we hope that you now know how to transfer music from OnePlus Open to Other Android Devices devices safely and securely through the above article. In fact, you have got two very good options to perform the transfer in the form of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) and [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). Well, choose the most convenient one for you and make sure that you proceed with the guided steps mentioned for each way.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## How to Transfer Contacts from OnePlus Open to iPhone XS/11
 
 When it comes to transferring contacts from OnePlus Open to iPhone XS/11, we play enough care to not mess with the process.
@@ -360,14 +325,9 @@ Though, there are numerous ways to [switch to a new iPhone](https://drfone.wonde
 
 In this article, we are going to introduce 4 vital solutions to make your transition from OnePlus Open to iPhone a smooth sail.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## How to transfer contacts from OnePlus Open to iPhone XS/11 in one click
 
 If you want to import contacts to iPhone XS/11 from Android in a single click, there is no better solution than [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Not only contacts but a wide range of device data can be transferred from your Android to an iPhone with this tool. Photos, music, text messages, videos, etc. are a few of them.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -394,13 +354,14 @@ Step 3:  Once the OnePlus Open devices get detected, you need to select Android
 
 ![import contacts to iPhone XS (Max) from android - specify source and target devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** _In case of a wrong selection, you can tap the ‘Flip’ button and change the selection._
 
 Step 4:  In this step, you have to select the data type you want to move from your OnePlus Open to the iPhone XS/11, i.e. ‘Contacts’. Now, push the ‘Start Transfer’ button consecutively to initiate the transfer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start to import contacts to iPhone XS (Max) from android with USB cable](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 **Note:** _If it’s a used iPhone XS/11, then you can select the ‘Clear Data before Copy’ checkbox for erasing any existing data on it prior to transferring the data._
@@ -429,9 +390,6 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 1. On your OnePlus Open, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer contacts from OnePlus Open to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 ## How to transfer contacts from OnePlus Open to iPhone XS/11 using Google account
@@ -444,23 +402,22 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to transfer contacts from OnePlus Open to iPhone XS/11 using SIM card
 
 As you know the SIM card itself can hold a certain number of contacts, depending on the carrier and phone make and model.
@@ -468,16 +425,12 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 1. Open the ‘Contacts’ app and click on ‘More’. Go to the ‘Import/Export’ or simply ‘Export Contacts’ option there.
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer contacts from OnePlus Open to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
 2. Now, open the SIM card slot of your OnePlus Open and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your OnePlus Open supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -491,5 +444,22 @@ As you know the SIM card itself can hold a certain number of contacts, depending
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>[New] Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-learn-to-navigate-large-tiktok-files-editing-made-simple-and-swift/"><u>[Updated] 2024 Approved Learn to Navigate Large TikTok Files Editing Made Simple and Swift</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-illuminate-focus-leading-lines-in-iphone-composition/"><u>[Updated] In 2024, Illuminate Focus Leading Lines in iPhone Composition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-long-lasting-friendship-on-snapchat-ideas-and-insights/"><u>[Updated] In 2024, Long-Lasting Friendship on Snapchat Ideas and Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toolwiz-photography-companion-a-thorough-2023-breakdown/"><u>[Updated] Toolwiz Photography Companion A Thorough 2023 Breakdown</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-100-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor 100 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-redmi-12-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi Redmi 12 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-y77t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo Y77t to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-lava-blaze-2-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Blaze 2? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-x50-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor X50 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-s23-fe-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy S23 FE to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-s23-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy S23 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-c53-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme C53 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-gt-neo-5-se-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme GT Neo 5 SE to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
 

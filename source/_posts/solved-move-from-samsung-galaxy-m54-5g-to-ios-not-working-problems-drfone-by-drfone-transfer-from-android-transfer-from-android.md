@@ -1,7 +1,7 @@
 ---
 title: Solved Move from Samsung Galaxy M54 5G to iOS not Working Problems | Dr.fone
-date: 2024-12-13T16:58:46.971Z
-updated: 2024-12-17T22:34:00.916Z
+date: 2024-12-25T03:19:51.335Z
+updated: 2024-12-25T21:54:32.476Z
 tags: 
   - transfer
 categories:
@@ -93,13 +93,13 @@ Restarting your devices is the essential thing to do when troubleshooting the Mo
 
 It is recommended to avoid using the android device o run applications when using the Move to iOS app. Since the app runs in the foreground, you should ensure all other apps in the android are disabled before starting the data transfer process. Notifications and incoming calls are likely to interfere with the process; therefore, users must ensure such distraction is not happening by disabling such apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 3: Make sure the Wi-Fi connection is turned on
 
 Wi-Fi connectivity is a significant factor in ensuring data transfer is successful. Since Move to iOS relies on Wi-Fi, you should ensure it Is turned on and is stable. The iPhone usually creates a private network for the android device to connect. Please turn on the Wi-Fi connection on your android to make it ready to connect to the iPhone's private network. This will make it possible to send the Move to iOS code to initiate the data transfer process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Plug both devices to power
 
@@ -115,6 +115,10 @@ The best way to ensure these distractions are not happening is to turn on airpla
 
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 7: Disable the connection optimizer
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
@@ -123,19 +127,23 @@ Android devices with connection optimizers will switch between different connect
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 9: Turn off battery optimization
 
 Turning off the battery optimization on both your Android and iOS device is a requirement when using the Move to iOS tool. The app is designed to run in the foreground, and the android user should not have other applications running. However, the phone might automatically minimize the Move to iOS app when it switches to battery optimization mode. Therefore you should ensure the feature is closed from the settings of your android device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: \[Alternative\] Move to iOS not working solved without a PC
 
 An alternative solution to Move to iOS not working problem is to use [Dr. Fone – Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html). The software can transfer all types of data from android to iOS devices quickly. Here, you will select the type of data you need and begin moving in a single click.
 
 Most importantly, the programs transfer data at a very high speed compared to other alternatives. You can also use the software to [transfer social apps](https://drfone.wondershare.com/whatsapp/transfer-whatsapp-messages-from-android-to-iphone.html) and retain the important history of apps like WhatsApp, Wechat, Viber, Line, or Kik.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
@@ -149,15 +157,15 @@ Move/Transfer Android data from Computer to iPod/iPhone/iPad without iTunes
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here is how to transfer data from iOS to android device without a PC
 
 You need to login to your iCloud account on android to download data, or you can use the iOS-to-android adapter to connect your iPhone to android to transfer data directly.
 
 ![ios-to-android adapter](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Use the following simple steps.**
 
@@ -166,10 +174,6 @@ You need to login to your iCloud account on android to download data, or you can
 - Select from the list of data detected from iCloud and tap on start importing.
 
     ![wait for the process](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Wait for the data transfer process to complete.
 
@@ -199,10 +203,6 @@ The following steps will help you transfer data from android to an iOS device us
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Transferring data from android to iOS device has been made easier with the Move to iOS app. However, you need to consider the requirements for the data transfer process to complete successfully. You can also apply Dr. Fone – Phone Transfer as your recommended alternatives to transfer android data to the iOS device in the simplest way.
@@ -218,6 +218,10 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 ## Part 1: How to Sync Contacts from Samsung Galaxy M54 5G to Gmail? (Easier way)
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Samsung Galaxy M54 5G contact details to another platform.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -264,7 +268,7 @@ If you followed these steps, you would not only have synced your contacts with y
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How to Sync Contacts from Samsung Galaxy M54 5G to Gmail? (Official Way)
@@ -368,7 +372,7 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 ![enable the bluetooth option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Step 2:**** Now, press the “Share” icon and select “Bluetooth.” Choose your new Android device from the available devices on the next screen.
@@ -409,6 +413,10 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 ![tap on the nearby share](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros and Cons
 
 | Pros | Cons |
@@ -434,6 +442,10 @@ If you have access to a computer, you can use it to ****transfer files from Sams
 ****Step 2:**** Now copy all the data you want to transfer to your computer and disconnect the old device. Afterward, connect the new Android device to the computer, give access permission, and copy the data you took from the old phone to the new phone.
 
 ![access the android data](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -461,10 +473,6 @@ Google Account is another great way for ****Android-to-Android file transfer***
 
 ![choose the old android backup](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pros and Cons
 
 | Pros | Cons |
@@ -480,10 +488,6 @@ Using Google Account to transfer files from Samsung Galaxy M54 5G to Other Andro
 ## Part 5: Best choice: The Fastest Way to Transfer Files from Samsung Galaxy M54 5G to Other Android Devices with Dr.Fone
 
 Want to find the best and ****fast way to transfer files from Samsung Galaxy M54 5G to Other Android Devices****? If you don’t want to go through any time-consuming or complex transfer process, we recommend you use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a complete toolbox for smartphones and includes all the necessary solutions. Regarding Android data transfer, it can quickly transfer data between 8000+ Android devices, including the latest ones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Dr.Fone
 
@@ -513,10 +517,6 @@ For transferring data from the old Android device to the new one, the old device
 Now select the data you want to transfer and click “Start Transfer” to begin the transfer process. In case you want to delete data on the new device, select “Clear Data before Copy” before pressing “Start Transfer.”
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -548,18 +548,18 @@ To summarize, while it may seem troublesome to ****transfer files from Samsung G
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-free-photo-enhancer-online-and-app-for-mobile-phone-for-2024/"><u>[New] Free Photo Enhancer Online and App for Mobile Phone for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pixel-capture-reimagined/"><u>[New] Pixel Capture Reimagined</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-screenshot-savvy-free-high-quality-capturing-tools-for-both-oses-for-2024/"><u>[New] Screenshot Savvy Free, High-Quality Capturing Tools for Both OSes for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-pinpointing-your-place-in-youtubes-varied-landscapes-for-2024/"><u>[Updated] Pinpointing Your Place in YouTube's Varied Landscapes for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/captured-words-top-10-mobile-writing-tools-for-images-for-2024/"><u>Captured Words Top 10 Mobile Writing Tools for Images for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-overlay-functionality-post-malfunction/"><u>Guidelines for Restoring Overlay Functionality Post Malfunction</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-asus-rog-phone-7-ultimate-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Asus ROG Phone 7 Ultimate Screen | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-c67-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme C67 4G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-c12-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia C12 Pro to Gmail | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-performance-the-advantages-of-the-expanded-screen-in-apples-iphone-12-pro-max-review/"><u>Maximizing Performance: The Advantages of the Expanded Screen in Apple's iPhone 12 Pro Max Review</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Redmi Note 12 Pro+ 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-tecno-camon-20-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Tecno Camon 20 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-does-task-manager-list-unrelated-processes-under-microsoft-edge/"><u>Why Does Task Manager List Unrelated Processes Under Microsoft Edge?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-zoom-sessions-with-video-filters-a-guide/"><u>[New] Enhancing Zoom Sessions with Video Filters A Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-persistent-screen-recording-device/"><u>[New] In 2024, Persistent Screen Recording Device</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-uncover-vanished-watch-video-preview/"><u>[Updated] In 2024, Uncover Vanished Watch Video Preview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/allinone-vmix-companion/"><u>AllInOne VMix Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-auto-gpts-performance-absent-gpt-4-should-you-use-it-now/"><u>Assessing Auto-GPT's Performance Absent GPT-4: Should You Use It Now?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-no-cost-video-format-changers-on-the-go-your-guide-for-android-devices/"><u>Best No-Cost Video Format Changers on the Go: Your Guide for Android Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a54-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy A54 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic-vs-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic Vs 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-motorola-g24-power-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Motorola G24 Power to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-t2-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo T2 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-sony-xperia-1-v-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Sony Xperia 1 V To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-configuring-failover-cluster-manager-efficiently/"><u>Step-by-Step Guide: Configuring Failover Cluster Manager Efficiently</u></a></li>
 </ul></div>
 
