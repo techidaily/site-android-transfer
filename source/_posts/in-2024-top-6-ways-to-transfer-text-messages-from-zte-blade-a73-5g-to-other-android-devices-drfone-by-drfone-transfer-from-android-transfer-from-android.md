@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 6 Ways to Transfer Text Messages from ZTE Blade A73 5G to Other Android Devices | Dr.fone
-date: 2025-01-03T22:04:42.338Z
-updated: 2025-01-04T18:48:07.728Z
+date: 2025-01-09T17:22:41.249Z
+updated: 2025-01-11T16:42:01.284Z
 tags: 
   - transfer
 categories:
@@ -32,13 +32,13 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 ![messages transfer by sms backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4 -** Select where you want to create your backup. And click on “Next”.
 
 ![messages transfer by sms backup restore 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5 -** Once you click on next, you will be prompted to select one option from Hourly, Weekly or Daily which will set the frequency of the backup. Click on “Back Up Now” to start taking the backup of SMS.
 
@@ -58,6 +58,10 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Super Backup & Restore
 
 Another and a simpler way to transfer text messages from one Android to another Android is by using the Super Backup & Restore app. It will not take much time of yours and will create backup in seconds. You just need to follow the steps as directed below.
@@ -65,6 +69,10 @@ Another and a simpler way to transfer text messages from one Android to another 
 **Step 1 -** Open the app and click on “SMS”.
 
 ![messages transfer by super backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2 -** Click on “Backup All”. Once done, now click on the “Ok” button when you receive a pop-up. It will then start taking a backup of all your text messages.
 
@@ -91,6 +99,10 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 **Step 2 -** Click on “Send” data on your old smartphone and click on “Receive” data on your new Galaxy phone.
 
 ![messages transfer by smart switch 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3 -** Connect with the “Wireless” connection on both the ZTE Blade A73 5G devices.
 
@@ -126,10 +138,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3 –** Simply select the files you want to transfer.
 
 ![phone switch 02](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -137,10 +145,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 **Step 4 -** Once you have selected the files, click on start. This will quickly and easily transfer the files from the source device to the destination device.
 
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Manage Text Messages from ZTE Blade A73 5G to Other Android Devices using Dr.Fone - Phone Manager
 
@@ -158,13 +162,13 @@ Whether you want to transfer data, i.e. images or videos or text messages, the s
 
 ![android to android transfer models](https://images.wondershare.com/drfone/article/android-to-android-transfer-models.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now, get into the “SMS” section from the left panel. Then, hit on the “Export” icon followed by the “Export to \[Device Name\]” option.
 
 ![android transfer export sms to android](https://images.wondershare.com/drfone/article/android-transfer-export-sms-to-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** \[Optional\] Once done, repeat the process for all other data types. In a short span of time, you’ll get all your data transferred to your target device without any hassles.
 
@@ -199,7 +203,7 @@ Before we move on to see how to transfer data we will first see why someone woul
 Moving on, in the subsequent section, we will understand how to use Phone Clone ZTE.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to use Phone Clone for Android?
@@ -218,11 +222,11 @@ Here are the steps to be followed for Phone Clone ZTE to transfer your data from
 
 ![phone clone for android](https://images.wondershare.com/drfone/article/2017/11/15114845727821.jpg)
 
-4\. Once connected, click the number of tabs on the old phone that you want to send to a new phone.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4\. Once connected, click the number of tabs on the old phone that you want to send to a new phone.
 
 ## Part 2: How to use Phone Clone for iPhone
 
@@ -273,13 +277,13 @@ Now let us take a look at how to use Dr. Fone to transfer data between mobiles:
 
 ![clone phone with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Connect both the mobile to the computer and select the send and receive side on the computer
 
 ![connect two devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Select the files and then click on "Start transfer" to complete the transfer process
 
@@ -288,10 +292,6 @@ Now let us take a look at how to use Dr. Fone to transfer data between mobiles:
 The best part of Dr.Fone is that you can try it free of cost to check if it suits your requirements. We are sure that its jaw-dropping feature will leave an impression on your mind.
 
 We hope that you learned some of the phone clone methods and applications that you can use to transfer your information from an old phone to a new phone. Use the methods mentioned above and be sure that you are on the safer and faster side of transferring data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top 5 from ZTE Blade A73 5G to iPhone Contacts Transfer Apps and Software
 
@@ -310,10 +310,6 @@ Best Android to iPhone Contacts Transfer Software
 - Supports iOS devices that run the latest iOS  ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
 **3981454** people have downloaded it
@@ -322,15 +318,15 @@ Using this Android to iPhone contacts transfer software is pretty easy. Launch t
 
 ![best android to iphone contacts transfer software](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, select the data you wish to move. Enable “Contacts” and click on the “Start Transfer” button to initiate the process. Your contacts would be moved from your Android to an iOS device like iPhone 15/14/13 within a few seconds.
 
 ![tranfer contacts from android to iphone using Dr.Fone](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 All of this makes Dr.Fone - Phone Transfer the best Android to iPhone contacts transfer software that you can use. However, if you are looking for alternative methods, you can go through the next section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Top 4 Android to iPhone contacts transfer Apps \[iPhone 15 Included\]
 
@@ -375,6 +371,10 @@ Ideally, the InTouchApp is a smart contact management tool that can be used to a
 
 ![android to iphone contacts transfer app - InTouchApp](https://images.wondershare.com/drfone/article/2018/01/15156708422050.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. SHAREit
 
 Boasting an impressive number of over 1 billion downloads, SHAREit is one of the best ways to move your data from one platform to another. This Android to iPhone contacts transfer app claims to be 200 times faster than Bluetooth and establishes a secure Wi-Fi-direct connection to transfer your data.
@@ -406,20 +406,19 @@ After learning about these top 5 Android to iPhone contacts transfer software, y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-a-complete-breakdown-of-what-pfp-means-on-tiktok/"><u>[New] A Complete Breakdown of What PFP Means on TikTok</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-prime-gopro-editing-software-for-iosandroid-users/"><u>[New] Prime GoPro Editing Software for iOS/Android Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-visual-producer-studio/"><u>[Updated] 2024 Approved Visual Producer Studio</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boost-your-videos-popularity-on-youtube/"><u>[Updated] In 2024, Boost Your Video's Popularity on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-spots-for-digital-3d-glamour-text-artistry/"><u>2024 Approved Leading Spots for Digital 3D Glamour Text Artistry</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-virtual-meeting-mastery-how-to-navigate-effortlessly-through-zoom-sessions/"><u>2024 Approved Virtual Meeting Mastery How to Navigate Effortlessly Through Zoom Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fraudgpt-detection-tips-to-keep-you-secure-online/"><u>FraudGPT Detection: Tips to Keep You Secure Online</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-narzo-60x-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme Narzo 60x 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-pop-8-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Pop 8 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-s17-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo S17 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze 2 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a38-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A38 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-f15-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy F15 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-m34-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy M34 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-reactivating-your-screens-night-light-feature-on-windows/"><u>Solution Guide: Reactivating Your Screen's Night Light Feature on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-eco-friendly-visual-effects-aids-for-2024/"><u>[New] Pioneering Eco-Friendly Visual Effects Aids for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-facebooks-in-app-video-preferences/"><u>[New] Unlocking Facebook's In-App Video Preferences</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-hevc-media-player-for-windows-10-watch-high-efficiency-video-coding-content-seamlessly/"><u>Best Free HEVC Media Player for Windows 10: Watch High-Efficiency Video Coding Content Seamlessly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-on-calls-for-japanese-enthusiasts/"><u>Essential On-Calls for Japanese Enthusiasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-meizu-21-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Meizu 21 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-edge-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Edge 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-magic-5-lite-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor Magic 5 Lite to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-proplus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 Pro+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-10t-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme 10T 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-paid-access-to-chatgpt-justified/"><u>Is Paid Access to ChatGPT Justified?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-device-configuration-how-to-optimize-sound-and-audio-settings-in-windows-control-panel-expert-advice-by-yl-software/"><u>Mastering Device Configuration: How to Optimize Sound & Audio Settings in Windows Control Panel - Expert Advice by YL Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-10-animated-text-software-for-stunning-visuals/"><u>New Discover the Best 10 Animated Text Software for Stunning Visuals</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
 
