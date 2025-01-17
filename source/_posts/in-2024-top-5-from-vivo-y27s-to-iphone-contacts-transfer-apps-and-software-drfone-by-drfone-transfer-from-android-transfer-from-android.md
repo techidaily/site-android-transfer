@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 5 from Vivo Y27s to iPhone Contacts Transfer Apps and Software | Dr.fone
-date: 2025-01-05T16:18:34.043Z
-updated: 2025-01-11T17:13:49.501Z
+date: 2025-01-12T05:19:47.191Z
+updated: 2025-01-16T20:29:26.249Z
 tags: 
   - transfer
 categories:
@@ -65,10 +65,6 @@ If you want to [back up your contacts](https://drfone.wondershare.com/contacts/i
 
 ![My Contacts - Phonebook Backup & Transfer App](https://images.wondershare.com/drfone/article/2018/01/15156707953169.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Move to iOS
 
 Move to iOS is the official app developed by Apple to help users switch from an Android to an iOS device. Since Apple develops it, it is a highly secure Android to iPhone contacts transfer app. After maintaining a secure private WiFi direct connection, you can easily transfer your data.
@@ -82,6 +78,10 @@ Move to iOS is the official app developed by Apple to help users switch from an 
 
 ![android to iphone contacts transfer app - move to ios](https://images.wondershare.com/drfone/article/2018/01/15156708208549.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Contacts Transfer Backup Sync & Dialer: InTouchApp
 
 Ideally, the InTouchApp is a smart contact management tool that can be used to add “context” to your contact list. You can use it to describe your contacts, search them easily, set reminders, and more. You can also use InTouch as an Android to iPhone contacts transfer app since it supports cross-platform syncing.
@@ -94,6 +94,10 @@ Ideally, the InTouchApp is a smart contact management tool that can be used to a
 [Get it here](https://www.intouchapp.com/)
 
 ![android to iphone contacts transfer app - InTouchApp](https://images.wondershare.com/drfone/article/2018/01/15156708422050.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. SHAREit
 
@@ -110,15 +114,7 @@ Boasting an impressive number of over 1 billion downloads, SHAREit is one of the
 
 ![android to iphone contacts transfer app - shareit](https://images.wondershare.com/drfone/article/2018/01/15156708565360.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After learning about these top 5 Android to iPhone contacts transfer software, you can easily complete the Vivo Y27s device transition without any data loss. Out of all the alternatives, we recommend Dr.Fone - Phone Transfer. It provides the fastest and most secure option to move your content directly from one device to another with a single click. Go ahead and give it a try to move from Vivo Y27s to iPhone (iPhone 15 included) in a few minutes while keeping your data intact.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Ways to Move Contacts From Vivo Y27s to iPhone (13/14/15)
 
@@ -144,10 +140,6 @@ Another thing, you can certainly move contacts from Vivo Y27s to iPhone (13/14/1
 
 As previously mentioned, it’s very simple to move your contacts from Vivo Y27s to iPhone (13/14/15). There are numerous ways to do that in easy steps. Five of them are enumerated below. Check each tutorial on how to share contacts from Vivo Y27s to iPhone and find the best one for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Move contacts from Vivo Y27s to iPhone (13/14/15) via SIM card
 
 Do you store your contact list on your SIM card? If so, moving them to your new mobile device is indeed a walk in the park. Just insert the SIM card from your Vivo Y27s into your iPhone. After that, copy the contact information to the local storage of your new smartphone. Don’t sweat it. You can do it in easy steps. Here’s how to transfer contacts from Vivo Y27s to iPhone via SIM card.
@@ -158,12 +150,16 @@ Do you store your contact list on your SIM card? If so, moving them to your new 
 ![contacts settings](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** From there, click Import SIM Contacts.
 
 ![import sim contacts](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Move contacts from Vivo Y27s to iPhone (13/14/15) using Move to iOS
 
@@ -174,10 +170,6 @@ Move to iOS is an Android mobile application that aids in the data transfer betw
 
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Going back to your Android smartphone, click Continue.
 
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-4.jpg)
@@ -186,6 +178,10 @@ Move to iOS is an Android mobile application that aids in the data transfer betw
 - **Step 5:** On the Find Your Code page, click Continue.
 
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Check the code on your iPhone and then enter it on your Vivo Y27s. Right after, choose the data you want to transfer. Then, click Next to start the process.
 
@@ -206,10 +202,6 @@ Do you have a Gmail account? If so, you can use it to sync your Android contacts
 - **Step 5:** Log in to the Gmail account that contains your contact backup. After that, toggle on the radio radio next to Contacts.
 
 ![sync contacts](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Move contacts from Vivo Y27s to iPhone (13/14/15) via iCloud
 
@@ -249,21 +241,17 @@ The first four data migration methods are very helpful. It provides an effective
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. Should you wish to terminate the progress midway, simply click Cancel.
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** After completing the process, click OK to wrap it up.
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## EXTRA TIP: How to Back Up Your Contacts?
 
@@ -278,9 +266,17 @@ As a safety measure, it’s best to back up your contacts first before the trans
 
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Wait while Wondershare Dr.Fone is backing up your contacts.
 
 ![backup ongoing](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** After completing the process, click Open in Folder or View Backups to review the files.
 
@@ -348,6 +344,10 @@ Locate the uploaded photos in Google Drive on your iPad. Tap on each photo or se
 
 ![Transfer photos with Google Drive.](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-android-to-ipad-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to Share Pics From iPhone to Android with Dr.Fone
 
 In addition to transferring photos from Vivo Y27s to iPad, you might also be interested in sharing pictures from iPhone to Android. Although both iPad and iPhone belong to the same Apple ecosystem, they function on slightly distinct operating systems— iPads utilize iPadOS, whereas iPhones operate on iOS.
@@ -394,15 +394,15 @@ Now, Dr. Fone's Phone Transfer tool should prompt you to disable iCloud syncing.
 
 ![Disable iCloud syncing.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Monitor data transfer progress
 
 The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Mistakes to Avoid When Transferring Photos from Vivo Y27s to iPad/iPhone
 
@@ -446,18 +446,19 @@ Although they work in different operating systems, transferring photos between A
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-navigating-srt-in-windows-macos-environments-for-2024/"><u>[New] Navigating SRT in Windows, macOS Environments for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-selecting-the-superior-cloud-vaults-for-your-digital-needs/"><u>[New] Selecting the Superior Cloud Vaults for Your Digital Needs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sdr-vs-hdr-embracing-hdr-for-enhanced-video-production/"><u>2024 Approved SDR vs HDR Embracing HDR for Enhanced Video Production</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v27-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V27</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-neo-5-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT Neo 5 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor 90 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nokia-c12-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nokia C12 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-y200e-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo Y200e 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-v29-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo V29 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-c300-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia C300 to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-g24-power-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola G24 Power To Phone | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-16-essentials-expert-tips-for-enhancing-your-iphones-new-features-at-the-lock-screen-gizmodaily/"><u>IOS 16 Essentials: Expert Tips for Enhancing Your iPhone's New Features at the Lock Screen | GizmoDaily</u></a></li>
-<li><a href="https://win-studio.techidaily.com/microsoft-recall-ai-vulnerability-exposed-by-ethical-hacking-group-no-rocket-science-involved-zdnet/"><u>Microsoft Recall AI Vulnerability Exposed by Ethical Hacking Group – No Rocket Science Involved | ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-gadgets-for-capturing-zoom-sessions/"><u>[New] Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>2024 Approved Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-specialist-a-step-by-step-journey-through-adobe-ps-background-removal-techniques-for-2024/"><u>From Novice to Specialist A Step-by-Step Journey Through Adobe PS Background Removal Techniques for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-11-pro-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 11 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-asus-rog-phone-7-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Asus ROG Phone 7 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-itel-a70-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Itel A70 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v27-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V27 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-itel-p55-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Itel P55 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 12</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pop-8-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pop 8 To Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pets-in-focus-the-rise-of-cost-effective-pet-cameras/"><u>Pets in Focus: The Rise of Cost-Effective Pet Cameras</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-for-confirming-youtube-identity-for-2024/"><u>Steps for Confirming YouTube Identity for 2024</u></a></li>
 </ul></div>
 
