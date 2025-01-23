@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from ZTE Nubia Flip 5G to Gmail | Dr.fone
-date: 2025-01-11T21:34:28.313Z
-updated: 2025-01-16T20:09:00.261Z
+date: 2025-01-19T22:40:51.361Z
+updated: 2025-01-22T22:27:32.665Z
 tags: 
   - transfer
 categories:
@@ -19,6 +19,10 @@ If you have ever lost your phone, you will agree that getting all the informatio
 One of the most important stuff you can keep on your phone is your contacts, the information about the people in your life, as well as their phone numbers. This can prove to be the most difficult data to get back after a phone is lost. Therefore, this article will tell you ways to keep your contacts updated by synchronizing contacts from ZTE Nubia Flip 5G to Google mail account. As with almost everything in the tech world, there is more than one way to skin a cat, and this is especially true about synchronizing contacts on Android phones.
 
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from ZTE Nubia Flip 5G to Gmail? (Easier way)
 
@@ -60,21 +64,17 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Sync Contacts from ZTE Nubia Flip 5G to Gmail? (Official Way)
 
@@ -93,7 +93,7 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
@@ -176,6 +176,10 @@ Since Google Drive is already available on all the ZTE Nubia Flip 5G devices, it
 
 ![backup data with google drive](https://images.wondershare.com/drfone/article/2017/11/15113676137229.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Furthermore, you can select the kind of data you wish to sync with your Google Drive. You can simply turn on the feature for Automatic backup to make the most of the space on Google Drive.
 
 3\. Wait for a while as your device will backup its content on the Drive. You can even go to your account’s Drive to view the backup.
@@ -185,10 +189,6 @@ Since Google Drive is already available on all the ZTE Nubia Flip 5G devices, it
 5\. Agree to the terms and conditions and sign-in to your Google account. Make sure this is the same account that is linked to your source device.
 
 ![setup google account on new phone](https://images.wondershare.com/drfone/article/2017/11/15113676517143.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6\. As you would sign-in to the account, it will display a list of available backup files. Simply select the recent backup file.
 
@@ -232,7 +232,7 @@ Migrate Android Data to New Android Phone in 1 Click.
 ![transfer from android to android](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. Wait for a while as Dr.Fone will migrate Android device to any other phone. Don’t close this window or disconnect the ZTE Nubia Flip 5G device during this stage.
@@ -240,6 +240,10 @@ Migrate Android Data to New Android Phone in 1 Click.
 7\. Once your Android migrate to new phone, you will be notified by displaying the following prompt.
 
 That’s it! After following these steps, you would be able to migrate Android to Android easily. Just disconnect your ZTE Nubia Flip 5Gs safely and use them the way you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to migrate Android data manually?
 
@@ -251,6 +255,10 @@ To migrate Android device’s crucial content like its contacts, Google Fit data
 
 ![transfer contacts, gmail, fit data](https://images.wondershare.com/drfone/article/2017/11/15113677017088.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **SMS transfer**
 
 There are plenty of ways to move your messages from one device to another. Just download a reliable SMS Backup & Restore app from Google Play store and sync your messages. Install the app on the new device to complete phone migration.
@@ -258,10 +266,6 @@ There are plenty of ways to move your messages from one device to another. Just 
 SMS Backup & Restore Download URL: <https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en>
 
 ![SMS Backup & Restore app](https://images.wondershare.com/drfone/article/2017/11/15113677212146.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Media content**
 
@@ -284,10 +288,6 @@ If you use Google Chrome to store your passwords and bookmarks, then you can als
 ![transfer bookmarks and passwords](https://images.wondershare.com/drfone/article/2017/11/15113677792528.jpg)
 
 As you can see, the manual phone migration method will consume a lot of time and effort of yours. Therefore, we recommend using Dr.Fone Switch to migrate Android to Android without any data loss. It is a highly secure and reliable tool that will let you migrate Android to any other platform without any hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips of Transferring Messages from ZTE Nubia Flip 5G to iPhone 14/15
 
@@ -312,10 +312,6 @@ To use this Move to iOS app, you need to download it from the Google Play Store 
 
 ![move data from android with move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Move Text Messages From ZTE Nubia Flip 5G to iPhone Quickly with Computer
 
 If you're looking for a swift and reliable way to move text messages from ZTE Nubia Flip 5G to iPhone, third-party software like Wondershare Dr.Fone can be the perfect go-to solution.
@@ -327,6 +323,10 @@ Packed with a user-friendly interface, this software streamlines the process, en
 - **Step 1:** Open Wondershare Dr.Fone from its [official website](https://tools.techidaily.com/wondershare/drfone/phone-switch/), and find the phone transfer tool.
 
 ![Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 .
 
@@ -375,14 +375,14 @@ In addition to seamless transfers between devices, backing up your text messages
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -405,17 +405,22 @@ Fortunately, armed with the insights from this article, we've delved into two ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-innovating-conference-calls-with-google-meet-backdrop-shuffling-for-2024/"><u>[New] Innovating Conference Calls with Google Meet Backdrop Shuffling for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-key-elements-to-consider-in-asmr-video-watching/"><u>2024 Approved Key Elements to Consider in ASMR Video Watching</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-tiktok-pro-editors-playbook/"><u>2024 Approved Maximize Your TikTok Pro Editor's Playbook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-metaverse-adventures-to-share-with-pals/"><u>Best Metaverse Adventures to Share with Pals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-how-ram-timing-influences-computer-efficiency/"><u>Exploring How RAM Timing Influences Computer Efficiency</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-lava-blaze-2-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Lava Blaze 2 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-f34-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy F34 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-90-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 90 Lite to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a54-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A54 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-link-growth-tactics-with-massmailer-software-unveiled-techniques/"><u>Mastering Link Growth Tactics with MassMailer Software: Unveiled Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-s17-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo S17 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-lenovo-screen-recording-a-quick-guide/"><u>[New] In 2024, Lenovo Screen Recording A Quick Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unleash-your-potential-with-top-igtv-creators-for-2024/"><u>[New] Unleash Your Potential with Top IGTV Creators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-framemaster-top-screen-recorder-reviews-of-the-year/"><u>[Updated] FrameMaster Top Screen Recorder Reviews of the Year</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-iphone-savvy-techniques-for-storing-and-streaming-animated-images/"><u>2024 Approved IPhone-Savvy Techniques for Storing and Streaming Animated Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-make-every-story-stand-out-6-top-rated-apps-for-android-and-iphone/"><u>2024 Approved Make Every Story Stand Out 6 Top-Rated Apps for Android & iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sony-fdr-x1000-videography-complete-review-edition/"><u>2024 Approved Sony FDR-X1000 Videography - Complete Review Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-f34-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy F34 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-free-registry-optimizers-for-windows-top-picks-inside/"><u>Discover the Leading Free Registry Optimizers for Windows - Top Picks Inside!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-x7b-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor X7b Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-f23-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo F23 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-sony-xperia-10-v-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Sony Xperia 10 V to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-y100a-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo Y100A to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-m6-pro-4g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco M6 Pro 4G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-infinix-hot-40-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Infinix Hot 40 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-pop-8-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Pop 8 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y78plus-t1-edition-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y78+ (T1) Edition to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-reno-8t-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Reno 8T 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

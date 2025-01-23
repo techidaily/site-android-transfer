@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 6 Ways to Transfer Text Messages from Honor 80 Pro Straight Screen Edition to Other Android Devices | Dr.fone
-date: 2025-01-14T03:26:40.368Z
-updated: 2025-01-17T01:57:47.568Z
+date: 2025-01-16T12:21:49.746Z
+updated: 2025-01-22T19:56:45.054Z
 tags: 
   - transfer
 categories:
@@ -32,6 +32,10 @@ One of the best and easiest ways to transfer text messages from your old Android
 
 ![messages transfer by sms backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4 -** Select where you want to create your backup. And click on “Next”.
 
 ![messages transfer by sms backup restore 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-2.jpg)
@@ -51,10 +55,6 @@ One of the best and easiest ways to transfer text messages from your old Android
 **Step 9 -** Select the message option from the two options displayed and click on “Restore”.
 
 ![messages transfer by sms backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Upon completion of the process, transfer of messages from one Android to another Android phone is carried out successfully.
 
@@ -83,11 +83,11 @@ Another and a simpler way to transfer text messages from one Android to another 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Smart Switch (Samsung)
@@ -100,11 +100,19 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 
 ![messages transfer by smart switch 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3 -** Connect with the “Wireless” connection on both the Honor 80 Pro Straight Screen Edition devices.
 
 **Step 4 -** Select the content you want to transfer to the Galaxy device and click on “Send” button to start transferring the content from one device to another.
 
 ![messages transfer by smart switch 2](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Great software Dr.Fone - Phone Transfer to transfer text messages from Honor 80 Pro Straight Screen Edition to Other Android Devices (Recommended)
 
@@ -138,10 +146,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![phone switch 02](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4 -** Once you have selected the files, click on start. This will quickly and easily transfer the files from the source device to the destination device.
 
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
@@ -166,10 +170,6 @@ Whether you want to transfer data, i.e. images or videos or text messages, the s
 
 ![android transfer export sms to android](https://images.wondershare.com/drfone/article/android-transfer-export-sms-to-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** \[Optional\] Once done, repeat the process for all other data types. In a short span of time, you’ll get all your data transferred to your target device without any hassles.
 
 ### Bottom Line
@@ -183,6 +183,10 @@ We hope we have answered all your queries regarding phone to phone transfer in d
 If you are worried about deleting important information from your Honor 80 Pro Straight Screen Edition, you may wish to simply transfer it up to your computer to keep it. Or you may simply want to [transfer the photos](https://tunesgo.wondershare.com/android/transfer-photos-from-android-to-pc.html) from your day at the beach onto your computer.
 
 However, due to the open nature of the Google Android operating system, there are several software available that aim to help you manage your Honor 80 Pro Straight Screen Edition through your computer. In this article, we will look at some of the best Android software management software available. Note that all the software enables you to [connect Android to PC for file transfer](https://drfone.wondershare.com/android-transfer/photos-from-android-to-computer.html), as well as allowing the selection of specific files onto your computer. But, some are better than other.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## _Wondershare Dr.Fone_
 
@@ -215,7 +219,7 @@ Step 3. You can select the file type you want to transfer to the computer or sel
 ![select files for Android USB file transfer](https://images.wondershare.com/drfone/guide/export-data-from-android-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Guide: How to Achieve Android USB File Transfer with PC?
@@ -225,6 +229,10 @@ Step 3. You can select the file type you want to transfer to the computer or sel
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 Wondershare Dr.Fone also features other helpful tools, such as the De-Duplicate option, which automatically scans all your contacts for any repetitions, which is always a nuisance (you often end up with duplicate contacts if you sync your contacts with Facebook, as well as already having them on your device, for example).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mobogenie Android USB File Transfer
 
@@ -252,10 +260,6 @@ As with other data management software, you can download and install apps onto y
 
 ![usb android file transfer](https://images.wondershare.com/drfone/article/2018/03/download-app-with-mobogenie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 A neat feature is the ability to uninstall apps that came preloaded on the phone as often we find ourselves with apps that we never use that we cannot delete.
 
 ![use transfer android file](https://images.wondershare.com/drfone/article/2018/03/uninstall-app-with-mobogenie.jpg)
@@ -263,10 +267,6 @@ A neat feature is the ability to uninstall apps that came preloaded on the phone
 The transfer of photo files is straightforward, and several photos can be selected from your computer to import onto your device at once, or vice versa.
 
 ![usb to android file transfer](https://images.wondershare.com/drfone/article/2018/03/transfer-photos-with-mobogenie.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features:**
 
@@ -296,10 +296,6 @@ Many people assume that copying your files to a computer is a bit of a hassle. W
 
 In this article, we will provide a short guide on how to organize your computer files easily and quickly. We will also list down a few tutorials on **how to transfer photos from your phone to your laptop without USB.** Continue reading below to learn more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Organize the Photos on Your Computer
 
 While smartphones offer convenience for snapping photos on the go, viewing your pictures is doubtlessly much better on a computer. Why not? Computers apparently have larger screens that increase image quality to another level. However, finding a specific photo in your desktop storage can be a daunting experience if your files are unorganized. Don’t worry. Listed below are some useful organization techniques that can help you a lot in this regard.
@@ -321,6 +317,10 @@ Make it a habit to create separate folders for different events, locations, or t
 Give your photos descriptive and unique filenames that reflect either their content or context. Organizing your files by their respective labels helps you find them easily instead of relying solely on visual cues. Consider including dates, locations, or key details in the filenames to make your photos easily identifiable.
 
 **NOTE:** By incorporating these organization techniques, you can surely enjoy your memory collection on the larger canvas of your computer screen. Take advantage of these methods to transform your digital photo library into a well-ordered and easily accessible archive. Moreover, these are prerequisites for the tutorials on how to transfer photos from your phone to your laptop without USB.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Transfer Photos From Phone to Laptop Without USB in Easy Steps
 
@@ -364,10 +364,6 @@ Google Photos is simply the iCloud’s substitute for Android smartphone. Like i
 - **Step 5:** Click the images you want to save on your computer. From there, click the **Three-dotted** menu icon. Find and click **Download** or press **SHIFT + D** on your keyboard.
 
 ![download google photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **NOTE:** How to transfer videos from your phone to your laptop without USB? This data migration technique also works in this regard.
 
@@ -426,6 +422,10 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 
 ![wondershare dr.fone ios phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Once opened, set the **Source and Destination** devices for the data transfer. Use the **Flip** button to change the transfer direction between the Honor 80 Pro Straight Screen Edition devices.
 
 ![wondershare dr.fone ios data source](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
@@ -460,15 +460,22 @@ Navigating the digital landscape of photo organization and transfer has become i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-the-rules-of-youtube-video-documentation/"><u>[Updated] In 2024, Navigating the Rules of YouTube Video Documentation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-mysteries-of-io-video-capture/"><u>[Updated] Unveiling the Mysteries of IO Video Capture</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apple-iphone-15-pro-unboxed-discovering-the-innovative-features-and-capabilities-inside/"><u>Apple iPhone 15 Pro Unboxed: Discovering the Innovative Features and Capabilities Inside</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50s-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50S Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-x9b-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor X9b to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-find-x7-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo Find X7 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-hot-30i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Hot 30i to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock HTC Phone without Any Data Loss</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-the-wirecast-experience-and-its-rivals/"><u>In 2024, Unpacking the WireCast Experience & Its Rivals</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/match-your-mentality-unveil-your-youtuber-type-through-6-quizzes-for-2024/"><u>Match Your Mentality Unveil Your YouTuber Type Through 6 Quizzes for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-beginners-guide-to-quantum-hdr-systems/"><u>[New] A Beginner’s Guide to Quantum HDR Systems</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-direct-sync-tweeting-videos-effortlessly-to-instagram-stories/"><u>[New] Direct Sync Tweeting Videos Effortlessly to Instagram Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fficiently-removing-youtube-channels-a-device-centric-approach-for-2024/"><u>[New] Efficiently Removing Youtube Channels A Device-Centric Approach for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-pulse-finder-your-free-online-music-buddy/"><u>[New] The Pulse Finder – Your Free, Online Music Buddy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/9-effective-techniques-for-converting-mpeg-files-to-mp4-format-on-windows-10-and-11-and-macos/"><u>9 Effective Techniques for Converting MPEG Files to MP4 Format on Windows (10 & 11) and macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-maintain-hid-standard-compliance-with-mouse-driver-updates/"><u>How to Maintain HID Standard Compliance with Mouse Driver Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-master-free-online-and-offline-text-animations-for-2024/"><u>How to Master Free Online & Offline Text Animations for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturing-sound-on-mac-an-audacity-tutorial/"><u>In 2024, Capturing Sound on Mac An Audacity Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nubia-red-magic-9-proplus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nubia Red Magic 9 Pro+ to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-f04-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy F04 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-s17-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo S17 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y200-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y200 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-huawei-nova-y91-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Huawei Nova Y91 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-x100-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo X100 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-glare-on-lenovo-monitors/"><u>Restoring Lost Glare on Lenovo Monitors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-gionee-f3-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Gionee F3 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-note-50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme Note 50 to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

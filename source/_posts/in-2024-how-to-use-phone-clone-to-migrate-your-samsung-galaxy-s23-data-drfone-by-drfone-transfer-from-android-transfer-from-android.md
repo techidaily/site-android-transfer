@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy S23 Data? | Dr.fone
-date: 2025-01-15T02:33:42.893Z
-updated: 2025-01-17T04:09:32.563Z
+date: 2025-01-21T00:07:59.092Z
+updated: 2025-01-23T07:06:13.022Z
 tags: 
   - transfer
 categories:
@@ -32,10 +32,6 @@ Dr.Fone - Phone Transfer
 
 [![Selena Lee](https://drfone.wondershare.com/images/selena-lee.png)](https://drfone.wondershare.com/author/selena-lee/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The rapid change in the mobile models has made it difficult for us to keep up with the trend. For some, while it might be a matter of owing only the best mobile, for others it’s a matter of enjoying the best of the world at each point of time. Thereby they try to keep up with the mobile trend by getting their hands on the latest mobile whenever possible whether iOS or Android. In such a scenario it becomes difficult to transfer data from one to another. But here is some mobile technology such as Phone Clone that will change it forever. So, let us see how you can use it to your advantage to transfer your valuable information.
 
 Before we move on to see how to transfer data we will first see why someone would like to migrate the information from old phone to new phone:
@@ -44,10 +40,6 @@ Before we move on to see how to transfer data we will first see why someone woul
 - \- To back up all the info in both the phone
 
 Moving on, in the subsequent section, we will understand how to use Phone Clone Samsung.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to use Phone Clone for Android?
 
@@ -84,10 +76,6 @@ Now, let us take a look at how you can use Phone Clone Samsung app without spend
 4\. Once connected, click on the tabs presented in the old iPhone and select the tab that you want to send to the new iPhone.
 
 ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114844384504.jpg) ![phone clone for iphone](https://images.wondershare.com/drfone/article/2017/11/15114844869032.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Best Phone Clone alternative: Dr.Fone - Phone Transfer to migrate iPhone/Android data
 
@@ -128,6 +116,10 @@ Now let us take a look at how to use Dr. Fone to transfer data between mobiles:
 
 ![transfer data from phone to phone](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The best part of Dr.Fone is that you can try it free of cost to check if it suits your requirements. We are sure that its jaw-dropping feature will leave an impression on your mind.
 
 We hope that you learned some of the phone clone methods and applications that you can use to transfer your information from an old phone to a new phone. Use the methods mentioned above and be sure that you are on the safer and faster side of transferring data.
@@ -153,6 +145,10 @@ Since Google Drive is already available on all the Samsung Galaxy S23 devices, i
 5\. Agree to the terms and conditions and sign-in to your Google account. Make sure this is the same account that is linked to your source device.
 
 ![setup google account on new phone](https://images.wondershare.com/drfone/article/2017/11/15113676517143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6\. As you would sign-in to the account, it will display a list of available backup files. Simply select the recent backup file.
 
@@ -211,6 +207,10 @@ To migrate Android device’s crucial content like its contacts, Google Fit data
 
 ![transfer contacts, gmail, fit data](https://images.wondershare.com/drfone/article/2017/11/15113677017088.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **SMS transfer**
 
 There are plenty of ways to move your messages from one device to another. Just download a reliable SMS Backup & Restore app from Google Play store and sync your messages. Install the app on the new device to complete phone migration.
@@ -218,10 +218,6 @@ There are plenty of ways to move your messages from one device to another. Just 
 SMS Backup & Restore Download URL: <https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en>
 
 ![SMS Backup & Restore app](https://images.wondershare.com/drfone/article/2017/11/15113677212146.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Media content**
 
@@ -236,10 +232,6 @@ You can also move your important apps while performing phone migration. There ar
 Helium Download URL: <https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en>
 
 ![transfer apps](https://images.wondershare.com/drfone/article/2017/11/15113679896741.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Bookmarks and passwords**
 
@@ -266,7 +258,7 @@ It’s probably true to say that data migration is a major procedure. It’s not
 The size of files being transferred affects the process in general. This is because the Samsung Galaxy S23 device on the receiving end needs to allocate the data individually to the available space. That’s why the procedure often takes some time to complete if the volume of files is quite large. On the hand one hand, data migration gets completed in a snap if the file size is smaller.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### File Type
@@ -298,10 +290,18 @@ Do you need to transfer contacts from Samsung Galaxy S23 to iPhone 15? Well, you
 
 ![export to file](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Choose the specific account that contains the contact list you want to export.
 - **Step 5:** Then, click **Save.**
 
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Launch the **Browser** app on your Samsung Galaxy S23 smartphone.
 - **Step 7:** Visit icloud.com and then log in to the iCloud account you’re currently using on your iPhone 15. From there, import the VCF file.
@@ -322,10 +322,6 @@ Google Photos is not just a mere gallery application that allows users to view m
 - **Step 3:** Click **Back Up Now.** At this point, Google Photos will back up your local photos to the Google servers.
 
 ![google photos backup](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** On your iPhone, download and install the Google Photos application. Log in to the same Gmail account you use to back up the photos on your Samsung Galaxy S23 device. From there, access the media files and save them to the local storage of your iPhone 15.
 
@@ -368,10 +364,6 @@ Move to iOS is a mobile application that automates data migration between Androi
 
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** Find the unique code displayed on your iPhone 15 screen. Then, enter it into your Samsung Galaxy S23 smartphone.
 
 ![type in code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-13.jpg)
@@ -388,13 +380,25 @@ There’s no denying that the first four methods are all effective in this regar
 
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Wondershare Dr.Fone will then ask you to nominate a **Source** and a **Target** from your two mobile devices. Set the Samsung Galaxy S23 as the former and the iPhone 15 as the latter. Alternatively, click the **Flip** button to modify the direction of the transfer based on your preference.
 
 ![source and target](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Select the specific categories of files you want to transfer. Right after, click **Start Transfer** to proceed.
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
 
@@ -405,7 +409,7 @@ There’s no denying that the first four methods are all effective in this regar
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Back Up Your Samsung Galaxy S23 Before the Transfer
@@ -429,10 +433,6 @@ Data migration by means of the five methods enumerated above is considered safe 
 
 ![backup done](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Data migration is the least of your concerns when switching to a new smartphone. Why so? The simplest explanation is that there are phone transfer methods to choose from. Big thanks to modern technology and digital advancements. Refer to the provided guide below if you need to transfer data from Samsung Galaxy S23 to iPhone 15. One of them can help you a lot, depending on your current circumstances. Do you want a more convenient option? The phone transfer feature of [<u> Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is what you’re looking for. Download the application for free and take advantage of its all-in mobile solution features.
@@ -451,19 +451,18 @@ Data migration is the least of your concerns when switching to a new smartphone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-flawless-soundscapes-in-the-world-of-social-media-videos/"><u>[New] 2024 Approved Flawless Soundscapes in the World of Social Media Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-pathfinder-wrath-of-the-righteous-keeps-crashing/"><u>[SOLVED] Pathfinder: Wrath of the Righteous Keeps Crashing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-text-plugins-for-after-effects-for-2024/"><u>[Updated] Best Text Plugins For After Effects for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screenrecording-excellence-in-newsoftvision-10plus/"><u>[Updated] ScreenRecording Excellence in NewSoftVision 10+</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-groundbreaking-final-cut-pro-extensions/"><u>2024 Approved 10 Groundbreaking Final Cut Pro Extensions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206686906-easily-restore-charging-on-your-laptop-solutions-at-hand/"><u>Easily Restore Charging on Your Laptop - Solutions at Hand!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a05s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A05s to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-play-40c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Play 40C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-4g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 4G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-ace-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Ace 2 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/inancial-framework-of-youtube-snippet-creation/"><u>The Financial Framework of YouTube Snippet Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamline-skype-calls-with-effective-recording-techniques/"><u>[New] 2024 Approved Streamline Skype Calls with Effective Recording Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-photography-choices-for-sharpest-4k-reflections/"><u>[New] In 2024, Top Photography Choices for Sharpest 4K Reflections</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-to-install-and-repair-tiny-tinas-calamitous-reign-on-pc/"><u>A Comprehensive Guide to Install and Repair Tiny Tina's Calamitous Reign on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cheerful-media-extractor-analysis-for-2024/"><u>Cheerful Media Extractor Analysis for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-insights-into-the-upcoming-microsoft-build-when-to-tune-in-and-reasons-for-excitement-zdnet-coverage/"><u>Exclusive Insights Into the Upcoming Microsoft Build - When to Tune In and Reasons for Excitement | ZDNET Coverage.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-narzo-n53-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme Narzo N53 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-s17-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo S17 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-file-relocation-expert-tips-for-seamless-transfers-within-windows-11/"><u>Mastering File Relocation: Expert Tips for Seamless Transfers Within Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-is-a-wi-fi-mesh-network-solution-right-for-you/"><u>Pros and Cons: Is a Wi-Fi Mesh Network Solution Right for You?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-f23-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo F23 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-elevated-processor-load-after-software-update/"><u>Troubleshooting Elevated Processor Load After Software Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-z-flip-5-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy Z Flip 5 to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

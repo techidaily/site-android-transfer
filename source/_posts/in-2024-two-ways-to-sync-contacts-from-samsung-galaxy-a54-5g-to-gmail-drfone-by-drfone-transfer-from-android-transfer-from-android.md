@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Sync Contacts from Samsung Galaxy A54 5G to Gmail | Dr.fone
-date: 2025-01-16T00:52:53.142Z
-updated: 2025-01-17T00:12:52.511Z
+date: 2025-01-20T23:03:55.001Z
+updated: 2025-01-23T10:48:48.808Z
 tags: 
   - transfer
 categories:
@@ -70,7 +70,7 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
@@ -87,10 +87,6 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 - 4\. Choose your Gmail account from the email accounts setup page.
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
@@ -165,13 +161,13 @@ It can sometimes be bewildering and baffling when people probably lose their pho
 
 Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html) for smoothly exporting contacts from Samsung Galaxy A54 5G to Gmail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Easy Ways to Copy Contacts from Samsung Galaxy A54 5G to iPhone 14 and 15
 
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Upgrading to iPhone 14 or 15 after using an Android smartphone for a long time is indeed a big leap. Why so? The simplest explanation is that these two mobile devices run on a completely different operating system. But don’t worry. With regard to data migration, the process has become much more convenient today than before. Big thanks to highly advanced technology and modern practices.
 
@@ -186,16 +182,12 @@ Data transfer doesn’t only happen when you get a new mobile device. In fact, i
 There are numerous ways to export contacts from Samsung Galaxy A54 5G to iPhone 14 or 15. But to get promising results, you definitely have to choose the best method applicable to your current situation. Take note that you’re transferring files between two devices with different operating systems. Therefore, there’s probably no direct method to commence such procedures. You have to go through a series of steps in order to copy contacts from Samsung Galaxy A54 5G to iPhone. But don’t worry. Most of them are indeed a walk in the park. No technical skills or advanced equipment are required to complete the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Techniques to Export Contacts From Samsung Galaxy A54 5G to iPhone 14 or iPhone 15
 
 “How do I transfer contacts from Samsung Galaxy A54 5G to iPhone 14 or iPhone 15?” As mentioned earlier, data transfer between two devices is now as easy as falling off a log. It’s no longer required to engage in manual work because most of the steps involve automation. To help you in this regard, below are the top five techniques to copy contacts from Samsung Galaxy A54 5G to iPhone. Just try to commence each solution and find the best one that brings good progress.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Import vCard to iCloud
 
@@ -206,13 +198,13 @@ You can instantly copy contacts from Samsung Galaxy A54 5G to iPhone 14 or 15 by
 
 ![contacts fix and manage](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Export to File.**
 
 ![export to file](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Choose the contact list you want to export. Then click **Export.**
 
@@ -237,6 +229,10 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 
 ![mail settings](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Accounts.**
 
 ![mail accounts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-7.jpg)
@@ -246,6 +242,10 @@ Are you using Google Contacts on your Android smartphone? Or, at the very least,
 - **Step 6:** The settings for your Gmail account will appear once you have successfully logged in on your iPhone. Toggle on the radio button next to **Contacts** to sync your phonebook with the new device.
 
 ![sync contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Copy contacts from the SIM card to your iPhone
 
@@ -261,10 +261,6 @@ Another way to export contacts from Samsung Galaxy A54 5G to iPhone is with the 
 
 ![import sim contacts](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Once completed, check the **Contacts** app and find the newly imported directories.
 
 ### Method 4: Export contacts from Samsung Galaxy A54 5G to iPhone using Move to iOS
@@ -278,7 +274,7 @@ Move to iOS is an Android mobile application you can use to migrate your files t
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/copy-contacts-from-huawei-to-iphone-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Read the Terms and Conditions and then click **Agree.**
@@ -313,7 +309,7 @@ The easiest way to export contacts from Samsung Galaxy A54 5G to iPhone is by me
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 7:** Wait while the data transfer is ongoing. Avoid using both your devices during the process to avoid unwanted disruptions.
@@ -323,10 +319,6 @@ The easiest way to export contacts from Samsung Galaxy A54 5G to iPhone is by me
 - **Step 8:** After completing the process, click **OK** to wrap it up. Check your iPhone contacts afterward and find the newly imported contacts from your old Android phone.
 
 ![data transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Simple Reminders to Copy Contacts From Samsung Galaxy A54 5G to iPhone Smoothly
 
@@ -354,6 +346,10 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 ![samsung galaxy s21 ultra](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-s21-ultra.jpg)
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Samsung Galaxy A54 5G device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
@@ -409,6 +405,10 @@ After choosing the desired file types (Photos for this case), click on the "Star
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4: Finish Transfer and Check
 
 Within a short time, all your selected photos will be transferred to the Samsung Galaxy S21 Ultra. Then disconnect the Samsung Galaxy A54 5G devices and check if everything is okay.
@@ -441,18 +441,19 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-capture-screens-in-windows-8-4-methods/"><u>[New] Capture Screens in Windows 8 4 Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-journey-mastering-the-art-of-gs-with-kinemaster/"><u>[New] Step-by-Step Journey Mastering the Art of GS with KineMaster</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-accelerate-follower-count-key-strategies-unlocked/"><u>[Updated] 2024 Approved Accelerate Follower Count Key Strategies Unlocked</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-how-to-choose-the-best-lipo-battery-for-your-drone/"><u>[Updated] How to Choose the Best LiPo Battery for Your Drone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-volume-effective-fixes-for-no-audio-issues-in-borderlands-3-on-pc/"><u>Boosting Volume: Effective Fixes for No Audio Issues in Borderlands 3 on PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-magic5-ultimate-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Magic5 Ultimate to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-11-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus 11 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-a79-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo A79 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y02t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y02T to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/lenovo-ideapad-110s-windows-10/"><u>Lenovo IdeaPad 110S Windows 10 初期設定手順 - 詳しく見て</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-video-how-to-flip-a-clip-in-final-cut-pro/"><u>Transform Your Video How to Flip a Clip in Final Cut Pro</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/understanding-which-file-structures-are-recognized-and-managed/"><u>Understanding Which File Structures Are Recognized and Managed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-unlimited-data-keep-essential-lists-for-2024/"><u>[New] Mastering Unlimited Data Keep Essential Lists for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premiere-pro-mastering-full-screen-views-for-2024/"><u>[New] Premiere Pro Mastering Full-Screen Views for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-10-essential-cam-shields-for-privacy/"><u>[Updated] 10 Essential Cam Shields for Privacy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-5-display-choices-for-ps5-gamers/"><u>[Updated] Leading 5 Display Choices for PS5 Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-analysis-dji-inspire-1-unveiled-for-2024/"><u>Comprehensive Analysis DJI Inspire 1 Unveiled for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/criacr-bluetooth-fm-transmitter-cp24-review-compact-but-flawed/"><u>Criacr Bluetooth FM Transmitter CP24 Review: Compact but Flawed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oneplus-nord-n30-se-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from OnePlus Nord N30 SE to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y100i-power-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y100i Power 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>In 2024, Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>In 2024, The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-reno-8t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Reno 8T to Gmail | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-13-ultra-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi 13 Ultra to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-m34-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy M34 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-zero-price-screen-capture-software-for-windows-10-users-for-2024/"><u>Top 5 Zero Price Screen Capture Software for Windows 10 Users for 2024</u></a></li>
 </ul></div>
 
