@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos From Vivo Y36 to Samsung Galaxy S21 Ultra | Dr.fone
-date: 2025-01-16T06:02:43.004Z
-updated: 2025-01-22T16:32:05.390Z
+date: 2025-01-26T01:26:35.223Z
+updated: 2025-01-30T19:37:44.735Z
 tags: 
   - transfer
 categories:
@@ -26,10 +26,6 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Vivo Y36 device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
 We all know how amazing the Samsung Galaxy S21 series is. Their features and quality make us fall in love with these devices. Though Samsung Galaxy S21, S21+, and S21 Ultra have many common features, there are still many differences among these. So, let's find out what those are:
@@ -44,15 +40,15 @@ Though three of these have the same design of camera and position, the real diff
 
 ![samsung galaxy s21 ultra vs s20](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-20-vs-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Display:**
 
 As mentioned, the difference of screen measurements. Besides this, there are some other differences in the display. Galaxy S21 and S21 Plus come in FHD resolution displays, where Galaxy S21 Ultra has QHD resolution. That means you can see the details on the Galaxy S21 Ultra. Galaxy S21 and S21 Plus change the refresh rate between 48Hz and 120Hz, where Galaxy S21 Ultra can go 10Hz and 120Hz.
 
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Camera:**
 
@@ -76,25 +72,21 @@ Download and install the software on your computer. Then start the Dr.Fone - Pho
 
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
 
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Start Transfer Process
 
 After choosing the desired file types (Photos for this case), click on the "Start Transfer" button to start the transfer process. Keep patience until the process ends and make sure both Android and iOS devices stay connected properly during the process.
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Finish Transfer and Check
 
@@ -109,10 +101,6 @@ Within a short time, all your selected photos will be transferred to the Samsung
 - Smart Switch has a low-speed transfer problem. It shows up when you transfer data with wireless connectivity.
 - After transferring the data, the smart switch does not back up the data. It is quite hard to recover the data using this app.
 - Using the Smart Switch app, you can only transfer the data from Samsung to Samsung. You can't use it for other devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -208,7 +196,7 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to transfer contacts from Vivo Y36 to iPhone XS/11 using SIM card
@@ -219,10 +207,6 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
 ![transfer contacts from Vivo Y36 to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
 2. Now, open the SIM card slot of your Vivo Y36 and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
@@ -237,9 +221,17 @@ What about files on your old Android? Can you transfer data after **switching fr
 
 However, can you save all the data? Let’s find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can You Save Your Data After Switching From Vivo Y36 to Samsung S23?
 
 ![samsung galaxy s23 on a table](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can save all data after switching from Vivo Y36 to Samsung S23. It doesn’t matter which Android phone you’ve used before buying the latest Samsung model because you have many data transfer options.
 
@@ -282,6 +274,10 @@ Here’s how to move data from Vivo Y36 to Samsung S23 with Smart Switch:
 
 ![samsung smart switch options](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
 
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
@@ -290,15 +286,15 @@ Here’s how to move data from Vivo Y36 to Samsung S23 with Smart Switch:
 
 ![establishing a wireless connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Choose the desired data using your Samsung S23, tap **Transfer**, then **Go to the Home screen**once everything is on your new phone.
 
 ![moving data with smart switch](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-6.jpg)
 
 Remember to charge both phones before transferring data or connect them to a power source to ensure the process goes smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Transfer Data Using Google Account Sync
 
@@ -329,11 +325,11 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 
 ![transferring data via bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Use Google Drive
 
@@ -387,10 +383,6 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 Moving data between phones using a USB cable is faster than Bluetooth but offers the same functionality. However, charge your devices beforehand because the data transfer may take a while (if you have many sizable files).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Use an SD Card
 
 We can almost see you fumbling with your Samsung S23, looking for an SD or microSD card slot. Newsflash: there isn’t one. Like its predecessors, S21 and S22, the Galaxy S23 series doesn’t support expandable storage.
@@ -408,6 +400,10 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 
 ![choosing a usb for file transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to **This PC**in **File Explorer** and open your phone under **Devices and drives**.
 5. Right-click the folders or files you wish to move, select **Copy**, and paste them to any location on your computer.
 
@@ -417,6 +413,10 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 7. Go to the folder with your newly saved data and copy-paste it to your Samsung S23.
 
 This method is best for transferring photos, videos, and other files from an SD card you might not use anymore. After all, smartphone manufacturers increasingly ditch SD card slots for sleek, more compact designs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -438,14 +438,21 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/cutting-transportation-expenses-uber-or-cab/"><u>Cutting Transportation Expenses: Uber or Cab?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/error-404-missing-page-notification/"><u>Error 404: Missing Page Notification</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-secret-messaging-safety-questioned/"><u>Facebook's Secret Messaging Safety Questioned</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-mix-fold-3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Mix Fold 3 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-huawei-nova-y71-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Huawei Nova Y71 Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-vivo-s17t-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Vivo S17t to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-narzo-60-pro-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme Narzo 60 Pro 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-face-off-apples-ipad-pro-m4-versus-macbook-air-m3-a-detailed-comparison/"><u>The Ultimate Face-Off: Apple's iPad Pro (M4) Versus MacBook Air (M3) - A Detailed Comparison</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-get-snapchat-on-mac/"><u>[New] 2024 Approved How to Get Snapchat on Mac?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-boost-your-view-count-explore-these-12-effective-youtube-strategies-for-2024/"><u>[New] Boost Your View Count Explore These 12 Effective YouTube Strategies for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-5-screen-selections-for-ps5-enthusiasts/"><u>[New] In 2024, Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-schnelle-und-einfache-methoden-zum-ubertragen-von-dateien-von-ihrem-iphone-auf-den-pc-eine-umfassende-anleitung/"><u>5 Schnelle Und Einfache Methoden Zum Übertragen Von Dateien Von Ihrem iPhone Auf Den PC: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78t to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-spark-10c-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Spark 10C to iPad | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-poco-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Poco Phone Forgot Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-find-x7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Find X7 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-gionee-f3-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Gionee F3 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x6-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X6 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-social-media-seas-to-boost-follower-count-for-2024/"><u>Navigating the Social Media Seas to Boost Follower Count for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1728483917822-pcwindows-11/"><u>PC用にWindows 11で外付けドライブ上のデータを移動する正しい方法</u></a></li>
 </ul></div>
 

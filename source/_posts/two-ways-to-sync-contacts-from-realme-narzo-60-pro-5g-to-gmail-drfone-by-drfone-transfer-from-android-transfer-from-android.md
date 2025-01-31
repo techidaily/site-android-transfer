@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Realme Narzo 60 Pro 5G to Gmail | Dr.fone
-date: 2025-01-18T02:13:27.563Z
-updated: 2025-01-22T23:00:28.283Z
+date: 2025-01-24T21:13:28.543Z
+updated: 2025-01-30T18:22:55.066Z
 tags: 
   - transfer
 categories:
@@ -21,7 +21,7 @@ One of the most important stuff you can keep on your phone is your contacts, the
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from Realme Narzo 60 Pro 5G to Gmail? (Easier way)
@@ -48,15 +48,15 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
 
 ![sync contacts from android to gmail-export to vcard file](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - 8\. You will be taken to a page to select where you want the file to be saved on your PC, select the location, and click on OK to start exporting your contacts.
 
@@ -68,10 +68,6 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
@@ -79,10 +75,6 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
 Thus, by using Dr.Fone - Phone Manager (Android), you can not only easily transfer contacts from the phone to the Gmail account but also keep them safe from any data loss.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How to Sync Contacts from Realme Narzo 60 Pro 5G to Gmail? (Official Way)
 
@@ -100,10 +92,6 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
 ## Part 3. Other Ways to Backup Android Contacts
@@ -113,6 +101,10 @@ Smartphone users as a whole never want to lose their contacts; however, sometime
 Although there has been no record of such occurrence in the past from users who export contacts from Realme Narzo 60 Pro 5G to Gmail, it is still advisable to perform a backup.
 
 Another way to back up your contacts before you sync contacts from Realme Narzo 60 Pro 5G to Gmail can be found in this article: [Four Ways to Backup Android Contacts Easily](https://drfone.wondershare.com/contacts/backup-contacts-android.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Basic Solutions to Fix Google Contacts Syncing Issues on Android
 
@@ -182,7 +174,7 @@ If you are a proud owner of smartphones running on two different operating syste
 - 2\. You may experience issues while transferring data from your Realme Narzo 60 Pro 5G phone to iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Transfer Data Wirelessly via Microsoft ID
@@ -332,9 +324,17 @@ Only up to 500 contacts, SMS, tasks, and notes can be synched while using the Ba
 
 The archived data is auto-deleted from the PhoneCopy server after one month when using the Basic version, and after 1 year when using the Premium version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: Best Way to Transfer data between Android and iPhone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) lets you transfer data from Realme Narzo 60 Pro 5G to iPhone or iPhone to Android in 1 Click. It supports almost all mobiles, including iPhone, Android Samsung, LG, Sony, HTC, etc. Dr.Fone - Phone Transfer can transfer music, videos, contacts, messages, call logs, and apps between mobiles. If you want to transfer data between Android and iPhone, it must be the best solution for you. Try it free. Follow the steps below to know **how to transfer data between Android and iPhone**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -357,15 +357,15 @@ Launch Dr.Fone. You will see "Phone Transfer". Click it.
 
 ![transfer from lumia to iPHone- download mobiletrans](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2. Connect Phones and select files**
 
 Connect your Android and iPhone. Dr.Fone will detect it soon. Then select the files and click Start Transfer. It can transfer almost all files, contacts, apps, messages, photos, music, videos, etc. If you just want to transfer contacts from Realme Narzo 60 Pro 5G to iPhone, then it is also ok. Just check the Contacts option to transfer contacts from Realme Narzo 60 Pro 5G to iPhone easily.
 
 ![transfer from lumia to iPHone- start transfer](https://images.wondershare.com/drfone/drfone/phone-switch-android-to-ios-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -380,10 +380,6 @@ In this article, we are going to introduce a powerful tool to solve the problem 
 ## Best Way to Transfer Text Messages to New Phone
 
 After getting a new phone, you may transfer text messages with important or sensitive information from the old phone to a new one. Therefore, you can read the text messages on your new phone. To transfer text messages to a new phone, you highly recommend you a one-click phone transfer tool - [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It's mainly used to help you transfer data between phones and tablets running iOS, Symbian and Android. With its help, you can transfer all text messages on your old Android phone, Nokia phone, and iPhone to the new Android phone or iPhone in one click.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -409,6 +405,10 @@ To begin with, install and run Dr.Fone on the computer. The primary window will 
 
 **Note:** To transfer data to or from iPhone (iPhone 8 Plus, iPhone X supported), iPad and iPod, you should install iTunes on the computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Connect your old and new phones to the computer
 
 As I mentioned above, Dr.Fone lets you export SMS on the old Nokia phone, Android phone and even iPhone, and then copy them to your new iPhone or Android phone. So, connect two phones to do the SMS transfer to the computer with USB cables. After detected, the old phone is shown on the left, named as the source phone, and the new Android phone or iPhone, the destination phone appears on the right.
@@ -418,11 +418,11 @@ Besides, "Flip" between two phones lets you change places of the two phones.
 ![connect devices to transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3. Transfer text messages to new phone
@@ -445,16 +445,16 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-gauging-storage-capacity-for-full-length-films/"><u>[Updated] Gauging Storage Capacity for Full-Length Films</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-rapidly-discover-friends-for-2024/"><u>[Updated] The Ultimate Guide to Rapidly Discover Friends for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/delving-into-tseries-streaming-revenue-model-on-youtube/"><u>Delving Into TSeries' Streaming Revenue Model on YouTube</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/direct-transfer-techniques-camera-roll-images-to-snapchat/"><u>Direct Transfer Techniques Camera Roll Images to Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-daily-use-to-extraordinary-experiences-phones-into-vr-for-2024/"><u>From Daily Use to Extraordinary Experiences Phones Into VR for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-v30-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme V30 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v27e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo V27e to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>In 2024, The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-s23-tactical-edition-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy S23 Tactical Edition to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-gtx-980-ti-drivers-for-enhanced-gaming-performance-free-download/"><u>Latest Nvidia GTX 980 Ti Drivers for Enhanced Gaming Performance - Free Download</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-oppo-a1-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Oppo A1 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-perfect-plays-in-a-minute-tiktok-templates-for-stellar-videos/"><u>[Updated] 2024 Approved Perfect Plays in a Minute TikTok Templates for Stellar Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>[Updated] In 2024, Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-prodigy-machines-top-quality-computers-available/"><u>2024 Approved Prodigy Machines Top-Quality Computers Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-brother-mfc-7360n-driver-update-and-downloads-for-windows-10-8-and-e/"><u>Easy Installation: Brother MFC-7360N Driver Update & Downloads for Windows 10, 8 & E</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-itel-p40-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Itel P40 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-htc-u23-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from HTC U23 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a78-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A78 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-t2x-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo T2x 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-comprehensive-review-affordable-excellence-in-the-rexing-v1-invisible-dashcam/"><u>The Comprehensive Review: Affordable Excellence in the Rexing V1 Invisible Dashcam</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/titre-guide-rapide-et-simple-installer-server-2019-avec-un-disque-bootable/"><u>Titre : Guide Rapide Et Simple: Installer Server 2019 Avec Un Disque Bootable</u></a></li>
 </ul></div>
 

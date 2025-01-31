@@ -1,7 +1,7 @@
 ---
 title: Solved Move from Oppo A38 to iOS not Working Problems | Dr.fone
-date: 2025-01-16T09:39:06.044Z
-updated: 2025-01-23T00:42:38.153Z
+date: 2025-01-27T16:49:02.626Z
+updated: 2025-01-31T00:31:32.423Z
 tags: 
   - transfer
 categories:
@@ -102,6 +102,10 @@ It is recommended to avoid using the android device o run applications when usin
 
 Wi-Fi connectivity is a significant factor in ensuring data transfer is successful. Since Move to iOS relies on Wi-Fi, you should ensure it Is turned on and is stable. The iPhone usually creates a private network for the android device to connect. Please turn on the Wi-Fi connection on your android to make it ready to connect to the iPhone's private network. This will make it possible to send the Move to iOS code to initiate the data transfer process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 4: Plug both devices to power
 
 You should ensure that both the android and iOS devices have sufficient power to run through the entire data transfer process. If you doubt the power consumption, keep the Oppo A38 devices connected to power before you start moving your content from android to iOS device.
@@ -112,13 +116,13 @@ When you transfer android data to iOS using the Move to iOS tool, apple recommen
 
 The best way to ensure these distractions are not happening is to turn on airplane mode on the android device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 6: Check the storage requirement
 
 Before you begin transferring android data to iOS devices, check the size of all content including the external micro SD card, to determine whether it fits into the new iOS device. If the content is larger than the destination storage, you will obviously encounter an error during the transfer process. You need to delete the content you don't need to transfer from your android device before getting started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 7: Disable the connection optimizer
 
@@ -190,15 +194,7 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -209,6 +205,10 @@ Transferring data from android to iOS device has been made easier with the Move 
 Android, which is developed by the Google, has a very strong mobile operating system. It is totally based on the Linux kernel and specially designed for touch screen mobile devices such as smartphones and tablets. And these Android mobiles are used by millions of people. Some of the users might feel the need to transfer their contacts from one Android device to another due to up gradation or changing of the mobile. There are many methods which can help transfer contacts from Oppo A38 to Other Android Devices.
 
 So for all those who want to know how to transfer contacts from Oppo A38 to Other Android Devices, keep reading to know more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to transfer contacts from Oppo A38 to Other Android Devices using Dr.Fone toolkit?
 
@@ -244,11 +244,11 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 ![How to Transfer Photos from Oppo A38 to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
@@ -276,6 +276,10 @@ Next, place both devices against each other, back to back.
 
 ![Transfer Photos from Oppo A38 to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
 Now, on your old android device, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
@@ -289,10 +293,6 @@ To ensure a successful transfer, make sure devices are not locked neither should
 Finally, when the beaming is complete, you will hear an audio sound. This is to confirm the completion of the process. Alternatively, instead of an audio confirmation, the application on your new android device to which the photos were sent will automatically launch and display the beamed content.
 
 Now, we’ll discuss how to transfer contacts from one Android to another with the help of a SIM card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to transfer contacts from Oppo A38 to Other Android Devices using SIM card?
 
@@ -358,10 +358,6 @@ To transfer contacts from Oppo A38 to Other Android Devices via this app, follow
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Now connect with your old device by opening the app on your old Android mobile. This will prompt to enter the pin number as displayed. Enter the same and hit “Connect” to start the process.
 
 5\. Now, select “Contact” on your old device and tap “Send”.
@@ -379,7 +375,7 @@ Thus, these were the four best options that you can use to transfer contacts fro
 Today’s world is full of technological benefits. Transferring data from one part of the world to another can be done in the blink of an eye. Transferring data from one phone to another should be that simple right? Well, it is if you are using devices with the same OS. But, what should you do if you want to transfer data from, let’s say, Android to BlackBerry? Don’t worry. It is possible, and we will guide you step by step through the entire process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Issues about transferring data from Oppo A38 to BlackBerry
@@ -394,10 +390,6 @@ From the Home screen of your BlackBerry tap the ‘BlackBerry World’.
 
 ![transfer data from Oppo A38 to BlackBerry-01](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, tap the search box and enter ‘Device Switch’. After the Oppo A38 device shows up, tap it.
 
 ![transfer data from Oppo A38 to BlackBerry-02](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry03.jpg)
@@ -405,6 +397,10 @@ Then, tap the search box and enter ‘Device Switch’. After the Oppo A38 devic
 Then, you should be able to see the ‘Download’ button on the right side. Tap it, and wait for the app to download. You may be prompted to enter the login information for your BlackBerry ID account.
 
 ![transfer data from Oppo A38 to BlackBerry-03](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once the download is done, ‘Open’ button will appear. Tap it.
 
@@ -414,17 +410,21 @@ You should read through the top half of the screen, and make sure that the prefe
 
 ![transfer data from Oppo A38 to BlackBerry-05](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After pressing OK, swipe left. A new screen will show up. You will have the option to choose the Oppo A38 device you are switching data from. Make sure to click Android.
 
 ![transfer data from Oppo A38 to BlackBerry-06](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, download the Oppo A38 device Switch application from Google Play on your Oppo A38. When the application is installed, open it, tap next and then RIM BlackBerry Device. Note the PIN code and enter it on your BlackBerry when prompted.
 
 ![transfer data from Oppo A38 to BlackBerry-07](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![transfer data from Oppo A38 to BlackBerry-08](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
 
@@ -437,10 +437,6 @@ Once the transfer is done, tap finish. And that is it! The content from the Andr
 ![transfer data from Oppo A38 to BlackBerry-10](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry08.jpg)
 
 The Device Switch app is very reliable. But, there is one downside. You cannot transfer all file types using it, and the process may take a lot of time sometimes. But, we have found an even easier way. It is software called Dr.Fone - Phone Transfer. Keep reading to find out more about it!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Transfer data from Oppo A38 to Blackberry by Dr.Fone (Fast, easy and safe)
 
@@ -473,6 +469,10 @@ How to Transfer Data from Oppo A38 to BlackBerry With 1-Click
 
 ![transfer from Windows phone to Android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -487,18 +487,17 @@ How to Transfer Data from Oppo A38 to BlackBerry With 1-Click
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-beginners-blueprint-for-winning-animation-in-windows/"><u>[New] The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website/"><u>[Updated] 2024 Approved Quick Tips for Seamless Embedding of YouTube Playlists on a Website</u></a></li>
-<li><a href="https://fox-info.techidaily.com/box-opening-marketing-mastery/"><u>Box-Opening Marketing Mastery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capture-comprehensive-screen-shot-for-2024/"><u>Capture Comprehensive Screen Shot for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722988506423-cyberpunk-2077-overheating-issues-heres-the-solution-for-lowering-cpu-load/"><u>Cyberpunk 2077 Overheating Issues? Here’s the Solution for Lowering CPU Load</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-effortlessly-communicate-with-text-on-the-ipad/"><u>How to Effortlessly Communicate with Text on the iPad</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-12-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme 12 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y100-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y100 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-yuva-3-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Yuva 3 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-poco-c65-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Poco C65 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-samsung-galaxy-f15-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Samsung Galaxy F15 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-nokia-c12-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Nokia C12 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-play-7t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor Play 7T to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-and-compare-20plus-best-free-video-editors-for-ios/"><u>[Updated] In 2024, Explore and Compare 20+ Best Free Video Editors for iOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr/"><u>2024 Approved Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016270780-defeat-no-sound-glitch-in-battlefield-4-with-these-pro-solutions/"><u>Defeat No-Sound Glitch in Battlefield 4 with These Pro Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-huawei-nova-y91-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Huawei Nova Y91 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-hot-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Hot 30 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-60-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo 60 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-100-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a60s-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A60s to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a58-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A58 4G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-sony-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Sony</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 </ul></div>
 

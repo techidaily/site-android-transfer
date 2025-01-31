@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from Oppo A1x 5G to Other Android Devices? | Dr.fone
-date: 2024-09-07T15:57:54.895Z
-updated: 2024-09-08T15:57:54.895Z
+date: 2025-01-28T00:29:43.040Z
+updated: 2025-01-30T22:57:37.973Z
 tags: 
   - transfer
 categories:
@@ -34,18 +34,6 @@ Connect your two Android devices to the computer via USB cables. After recognize
 
 ![How to Transfer data from Oppo A1x 5G to Other Android Devices-start to transfer contacts from Oppo A1x 5G to Other Android Devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 3. Transfer Contacts, Photos, Videos, Music, SMS, Call Logs, Calendar and Apps from Oppo A1x 5G to Other Android Devices
 
 Between the two Android phones, display all the contents you can transfer. You can uncheck any content you dislike to transfer. Then, click Start Transfer to transfer files from Oppo A1x 5G to another Android Phone quickly.
@@ -53,27 +41,11 @@ Between the two Android phones, display all the contents you can transfer. You c
 ![How to Transfer data from Oppo A1x 5G to Other Android Devices-Android to Android transfer completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 That's all. It isn't easy to transfer all your data from Oppo A1x 5G to Other Android Devices. Try [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) free to transfer Android files to your new Android phone. It is the best Android to Android data transfer tool. With it, you can transfer everything from Oppo A1x 5G to Other Android Devices.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Transfer Everything from Oppo A1x 5G to Other Android Devices with Google Backup
 
 No one likes to spend a lot of time on the stuff, such as transfer data from Oppo A1x 5G to Other Android Devices every time you change the phone. If you want to transfer quickly and painlessly, then here is the best which explains how to transfer data from Oppo A1x 5G to Other Android Devices using the Google Backup method. Google still has many ways to get all your stuff off your old device and add to your new device using Google Backup.
@@ -82,18 +54,6 @@ No one likes to spend a lot of time on the stuff, such as transfer data from Opp
 
 Before taking up backup the first thing you need to do is to sign-in the Android phone using your Google account. In the setting menu, you need to search for Backup and reset mode. Make sure you have backup data and automatic restore as both are flipped on your google account. Your Google server will remember your password, so you do not need to re-enter the password every time you sign in. Google sync really very well with Android devices.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How to Transfer Data from Oppo A1x 5G to Other Android Devices with Bluetooth
 
 Users feel good while setting up a new Android device. But we also know that your data is sensitive, so there would be one thing that would bother you is how to [transfer data from Oppo A1x 5G to Other Android Devices using Bluetooth](https://drfone.wondershare.com/transfer/how-to-transfer-contacts-from-android-to-android-using-bluetooth.html). Don’t worry. Here’s an easy way that would help you out to transfer all the data safely by simply using Bluetooth. You have to connect both the Oppo A1x 5G devices and enable the Bluetooth.
@@ -102,12 +62,6 @@ Users feel good while setting up a new Android device. But we also know that you
 
 This one is the best to transfer the data such as photos, videos, songs, and other files. You have to discover the Oppo A1x 5G device and connect them through the wireless Bluetooth exchange data method. Allow your destination device to detect its presence and attempt to establish the connection between them. Once both devices are paired with Bluetooth, exchange the data, which include files, songs, ringtones, photos and videos. Note that Bluetooth can’t transfer text messages, contacts, call history or Apps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Tips about how to transfer from Oppo A1x 5G to Other Android Devices
 
 When you have bought a new device, then certainly there is a need to transfer your data such as Contacts, SMS, Photos, Music, Apps, and more other documents using different methods. Your device data can also be transferred from Android smartphones to iPhone and vice versa. If you need to have a fast and easy way to transfer the data, you can try with Dr.Fone - Phone Transfer. Here we also have a list of a few different ways which can be used easily without any restrictions.
@@ -118,38 +72,18 @@ Transferring the contacts is the most important thing, the time has come when yo
 
 ![how to transfer from Oppo A1x 5G to Other Android Devices - Transfer Contacts](https://images.wondershare.com/drfone/article/2017/11/android-android-003.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Transfer SMS from Oppo A1x 5G to Other Android Devices
 
 You can now transfer your old SMS to the Android device easily by using this free SMS backup app, which can restore and transfer all SMS stored in XML file format, and then you can send directly to your new Android devices. Here we have used a backup app that can explain how to transfer from Oppo A1x 5G to Other Android Devices easily when connected with each other and help you out to restore the SMS messages. Note that this app won’t pay attention to which SMS already exists and which one is imported twice. Instead, you can use MobileTrans one-click app, which helps you out in resolving this problem.
 
 ![how to transfer from Oppo A1x 5G to Other Android Devices - Transfer SMS](https://images.wondershare.com/drfone/article/2017/11/android-android-004.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Transfer Photos from Oppo A1x 5G to Other Android Devices
 
 You can use Dr.Fone - Phone Transfer, which can help you in how to transfer from Oppo A1x 5G to Other Android Devices easily. You simply have to install the tool, connect your Oppo A1x 5G, and share your data such as photos, movies, and other files directly from Oppo A1x 5G to the other Android devices. Try it free.
 
 ![how to transfer from Oppo A1x 5G to Other Android Devices - Transfer Photos](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Transfer Music from Oppo A1x 5G to Other Android Devices
 
 We all love music and have collected the music according to our choice. Mostly we store the MP3 files that appear on your computer after you connect your smartphone. Firstly you need to download the Android File Transfer app if you’re a mac user or else use Bluetooth File Transfer that saves these files on your computer, and then you can transfer to another device. Instead, you can use MobileTrans tool, which can easily resolve your problem of how to transfer everything from Oppo A1x 5G to Other Android Devices with few clicks only.
@@ -157,41 +91,23 @@ We all love music and have collected the music according to our choice. Mostly w
 ![how to transfer from Oppo A1x 5G to Other Android Devices -Transfer Music](https://images.wondershare.com/drfone/article/2017/11/android-android-006.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Transfer Apps from Oppo A1x 5G to Other Android Devices
 
 There are many apps that you require to transfer from your old phone to a new device, but here we have a Helium backup tool that can explain how to transfer from Oppo A1x 5G to Other Android Devices apps easily and do not require to be rooted. It can transfer the tool which can come in a free trial version and also support SD card and PC. You can automatically schedule the backup and can sync your Oppo A1x 5Gs.
 
 ![how to transfer from Oppo A1x 5G to Other Android Devices -Transfer Apps](https://images.wondershare.com/drfone/article/2017/11/android-android-007.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 I hope we were able to make you understand how to **transfer everything from Oppo A1x 5G to Other Android Devices** using third-party tools. We recommend using Dr.Fone - Phone Transfer, which works as the all-in-one tool and transfers all your data within few clicks only, including contacts, SMS, Photos, Music, Videos, Apps, etc.
 
 Why not download it have a try? If this guide helps, don't forget to share it with your friends.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Copy Data from Samsung to Pixel 8 and Pixel 8 Pro
 
 Getting a new phone is incredibly exciting, but once you realize how much data you need to transfer, the experience can take a sudden turn for the worse. Fortunately, there are now multiple ways to transfer data from your old phone to a new device, and we’re here to help you with these.
@@ -203,8 +119,6 @@ Today’s article will teach you how to **transfer data from a Samsung to a Goog
 ![wondershare dr.fone phone transfer app](https://images.wondershare.com/drfone/images2023/home/part-banner-img-768.png)
 
 While a third-party data transfer app might not be your first thought, they’re undoubtedly worth checking out as they can make the entire experience flow much more seamlessly. Wondershare Dr.Fone is one such app, and it’s a toolkit designed to help you manage your Oppo A1x 5G] and other smartphones and make the most out of your journey. It has been on the market for over 17 years, meaning it’s reliable, trustworthy, and highly efficient.
-
-
 
 On top of effortless file transfers between phones, the toolkit also offers numerous advanced phone features, such as:
 
@@ -223,22 +137,14 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 
     ![start the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the **Source**device (Samsung) and your **Destination** device (Pixel 8/Pixel 8 Pro). You can also use the **Flip** option to switch the file transfer’s direction if you ever need to.
 
     ![select source and destination devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select the types of data you want to transfer and hit the **Start Transfer**.
 
     ![select data types to copy](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
@@ -246,6 +152,10 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 6. The progress bar will appear. You can click the **Cancel** button if you wish to pause the process.
 
 ![data transfer progress bar](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. You’ll be notified when the process is complete. Tap **OK**.
 
@@ -266,12 +176,6 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
 
     ![use the cloud restore option](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select which apps and types of data you want to transfer to it and tap **Restore**.
 
     ![restore specific file types](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-10.jpg)
@@ -280,12 +184,6 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
 
 Your new phone will notify you when the file transfer is complete, and you can continue using your brand-new device right where you left off with the Samsung one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Copy Data From Samsung to Pixel 8 and Pixel 8 Pro Using USB
 
 If you don’t want to transfer files over a Wi-Fi network, don’t want to waste your mobile data, or wish to complete the file transfer the old-fashioned way with a USB cable, you can follow these steps to transfer data from Samsung to Pixel:
@@ -301,16 +199,14 @@ If you don’t want to transfer files over a Wi-Fi network, don’t want to wast
 
     ![transfer data from samsung to pixel](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Follow the rest of the on-screen instructions and transfer data between your old and new phones.
 
 Give your phones a few minutes to transfer data from Samsung to Pixel, and remember that it can even take several hours, depending on your phone’s internal storage size and filled space. The built-in file transfer app will notify you once it completes everything.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transfer Files to Pixel 8 and Pixel 8 Pro via PC
 
 Using a computer as an intermediary device for transferring files is another excellent idea, and it’ll even let you organize your old phone’s data before you copy it to your new device. You’ll need to follow these steps to transfer data from your old phone to your PC and from your PC to your new Pixel 8/8 Pro device:
@@ -345,6 +241,10 @@ Here’s what you’ll need to do:
 
     ![copy data with quick switch adapter](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once the process is complete, click **Next** \> **Done**.
 
 Before you start the file transfer process using a Quick Switch, you should ensure both devices are fully charged. Furthermore, you should also update your Samsung device to the latest software version to avoid potential transfer issues, such as data corruption or incomplete transfers.
@@ -356,6 +256,10 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 1. Using your old Samsung phone, navigate to **Settings**\> **Accounts and Backup**\> **Back up data** under **Google Drive**.
 
     ![back up google drive data](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Change the **Backup details**and add the types of data you want to back up.
 3. Hit the **Back up now**button and give your phone time to upload everything to Google Drive. You can watch the progress at the top of your screen.
@@ -369,12 +273,6 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 
 It’s worth noting that Google Drive users aren’t limited to 15 GB of storage space, as paid plans also include 100 GB and 200 GB options for a few dollars per month, making this type of transfer incredibly efficient.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transfer Data From Samsung to Google Pixel 8, 8 Pro Using Email
 
 Although it’s not as effective as the abovementioned methods, email is also an option for transferring data between phones. Using it is as straightforward as sending emails, meaning that this method is effortless, and anyone can do it. Here’s how:
@@ -384,32 +282,16 @@ Although it’s not as effective as the abovementioned methods, email is also an
 
     ![transfer data via email attachments](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Launch the email app on your new Google Pixel 8 or 8 Pro device.
 4. Download the email attachments you’ve just sent.
 
 Please note that while email providers like Gmail, Yahoo, or Hotmail might not have restrictions on the number of files you can send, they do restrict emails to 25MB in size. It essentially means that this method will work for smaller files but isn’t viable if you need to transfer large sets of data.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Transferring data from one smartphone to another can be challenging, especially if you’re new to the whole thing or do it manually. To help you out, we’ve prepared the top seven methods for handling data transfers from Samsung to Google Pixel, which include the built-in data transfer tool during device setup, USB cables, Quick Switch adapter, Google Drive, email, and a dedicated third-party app – Wondershare Dr.Fone.
 
 As you can see, it’s your safest bet, ensuring the most straightforward and fastest data transfer between your old and new device. This way, you won’t need to organize and transfer anything manually or risk losing data, and Wondershare Dr.Fone can be used even after the initial device setup.
-
-
-
-
 
 ## How to Transfer Contacts from Oppo A1x 5G to Other Android Devices Devices?
 
@@ -417,24 +299,10 @@ Android, which is developed by the Google, has a very strong mobile operating sy
 
 So for all those who want to know how to transfer contacts from Oppo A1x 5G to Other Android Devices, keep reading to know more.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to transfer contacts from Oppo A1x 5G to Other Android Devices using Dr.Fone toolkit?
 
 One of the most popular toolkit to transfer contacts from Oppo A1x 5G to Other Android Devices is the [Dr.Fone toolkit - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This is a revolutionary application for your entire backup and restores solutions. This application supports over 8000+ Android devices worldwide and with its advanced features, the application allows the user to take backup and restore by selecting their needs and requirements.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
@@ -453,12 +321,6 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 ![How to Transfer Photos from Oppo A1x 5G to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2. Connect both phones to PC and select "Photos"
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both devices between “source” and “Destination” by using the “Flip” button.
@@ -471,20 +333,8 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 ![How to Transfer Photos from Oppo A1x 5G to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
 ![Transfer Photos from Oppo A1x 5G to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
@@ -497,12 +347,6 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 ![Transfer Photos from Oppo A1x 5G to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
 ![Transfer data from Oppo A1x 5G to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
@@ -517,17 +361,15 @@ Next, place both devices against each other, back to back.
 
 ![Transfer Photos from Oppo A1x 5G to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
 Now, on your old android device, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
 
 ![Transfer Photos from Oppo A1x 5G to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To begin beaming, you must touch the screen on your old android device from where the photos are been sent. A sound will alert you that beaming has started.
 
@@ -537,18 +379,6 @@ Finally, when the beaming is complete, you will hear an audio sound. This is to 
 
 Now, we’ll discuss how to transfer contacts from one Android to another with the help of a SIM card.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to transfer contacts from Oppo A1x 5G to Other Android Devices using SIM card?
 
 Here are the steps which will help you.
@@ -561,34 +391,20 @@ Here are the steps which will help you.
 
 ![export to sim card](https://images.wondershare.com/drfone/article/2017/05/14945039336575.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now, pull the SIM card out and insert in on your new device.
 
 • Here follow the same steps above and on “Import / Export” option, choose “Import”. Then it will ask for the option to import from. Choose “SIM Card” here. Now, all your contacts will be imported to your phone memory from the SIM card.
 
 ![import from sim card](https://images.wondershare.com/drfone/article/2017/05/14945040941310.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Advantages: This process is easy to use and can be done without any PC.
 
 Disadvantage: It can only transfer the contacts up to the SIM capacity that is 200 to 250 in one time. If you have lots of contacts, it is impossible to transfer by this method.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to transfer contacts from Oppo A1x 5G to Other Android Devices using Bluetooth or Wi-Fi Direct?
 
 To transfer contacts from Oppo A1x 5G to Other Android Devices using Bluetooth or Wi-Fi Direct is one of the easiest methods. For this method, make sure that you should enable “Bluetooth” or “Wi-Fi Direct” on both the Android devices.
@@ -607,12 +423,6 @@ The steps:
 
 ![wifi direct](https://images.wondershare.com/drfone/article/2017/05/14945041942239.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This method is simple and easy to use.
 
 There is yet another method to transfer contacts from Oppo A1x 5G to Other Android Devices using Samsung’s own app “Smart Switch”.
@@ -621,12 +431,6 @@ Advantage: This is a very fast process.
 
 Disadvantage : Sometimes the contacts are not saved automatically. You have to open the name card file one by one to save them. If you have a lot of contacts, this process is very hectic and lengthy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to transfer contacts from Oppo A1x 5G to Other Android Devices using Samsung Smart Switch?
 
 Samsung launched a new app called “Smart Switch” to allow transfer of content between Android devices. Although, it does not support allAndroid devices.
@@ -655,7 +459,6 @@ Disadvantages: This app is not supported on all the Android devices.  Also, the
 
 Thus, these were the four best options that you can use to transfer contacts from Oppo A1x 5G to Other Android Devices. However, in our experience, the first method, the Dr.Fone toolkit- Android data backup and restore is by far the best and most secured among all solutions for transferring contacts from Oppo A1x 5G to Other Android Devices. So, if you do not want to lose any data while transfer or worry about the security, use the Dr.Fone toolkit for the best result.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -668,11 +471,26 @@ Thus, these were the four best options that you can use to transfer contacts fro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-detox-how-to-turn-off-youtube-on-computers-and-phones-for-2024/"><u>[New] Digital Detox How to Turn Off Youtube on Computers and Phones for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-art-of-capturing-imagination-best-shot-tips/"><u>[New] The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>[Updated] Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-resolution-for-kernelbasedll-system-errors/"><u>Effortless Resolution for KernelBase.dll System Errors!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-huawei-nova-y71-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Huawei Nova Y71 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a58-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A58 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-edge-40-neo-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Edge 40 Neo to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-a2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi A2 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-g310-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia G310 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi Civi 3 Disney 100th Anniversary Edition to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-100-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 100 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-20-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark 20 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-a34-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy A34 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c12-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C12 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-productivity-with-three-virtual-macbook-screens-save-20-on-xr-glasses-this-amazon-prime-day-zdnet/"><u>Maximize Productivity with Three Virtual MacBook Screens - Save 20% on XR Glasses This Amazon Prime Day | ZDNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-transform-your-videos-top-free-and-paid-android-video-editing-apps/"><u>New In 2024, Transform Your Videos Top Free and Paid Android Video Editing Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transcodificar-video-de-mp4-a-formato-mxf-sin-coste-alguno-con-movavi/"><u>Transcodificar Video De MP4 a Formato MXF Sin Coste Alguno Con Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wma-to-mp4-4/"><u>WMA to MP4 無料変換アプリ 最適解の上位4つ選びます</u></a></li>
+</ul></div>
 

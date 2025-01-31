@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Photos from Vivo X90S to Laptop Without USB | Dr.fone
-date: 2025-01-17T06:19:55.290Z
-updated: 2025-01-23T10:05:59.802Z
+date: 2025-01-24T00:04:48.316Z
+updated: 2025-01-30T23:16:20.783Z
 tags: 
   - transfer
 categories:
@@ -67,10 +67,6 @@ If you're an Apple user, you can easily transfer photos from your phone to your 
 
 **NOTE:** How to transfer videos from your phone to your laptop without USB? This data migration technique also works in this regard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Transfer photos from phone to laptop using Google Photos
 
 Google Photos is simply the iCloud’s substitute for Android smartphone. Like iCloud, you can sync your Android photos to Google Photos and access them from your computer. Don’t worry. It’s very easy to facilitate. Here’s how to transfer photos from your phone to your laptop without USB using Google Photos.
@@ -86,7 +82,7 @@ Google Photos is simply the iCloud’s substitute for Android smartphone. Like i
 ![chrome photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 5:** Click the images you want to save on your computer. From there, click the **Three-dotted** menu icon. Find and click **Download** or press **SHIFT + D** on your keyboard.
@@ -155,7 +151,7 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 ![wondershare dr.fone ios data source](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** Set the transfer direction from Vivo X90S to iOS. Select the specific data types you want to transfer. Checkmark the desired items and click **Start Transfer**.
@@ -174,6 +170,10 @@ Suppose you’re upgrading to an IOS device and need a quick way to transfer fil
 
 Navigating the digital landscape of photo organization and transfer has become increasingly vital in our fast-paced era. This article showcased various wireless methods, from iCloud to Bluetooth, and offered a step-by-step guide on how to transfer photos from phone to laptop without USB cables. As a valuable bonus, Wondershare Dr.Fone emerges as a trustworthy solution for efficiently transferring photos and files between mobile devices, ensuring a hassle-free experience. As we approach the holiday season, where memories are plentiful, having a reliable tool like Wondershare Dr.Fone can enhance the management of our digital archives, making it easier to cherish and share moments with friends and family.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Two Ways to Sync Contacts from Vivo X90S to Gmail
 
 If you have ever lost your phone, you will agree that getting all the information that used to be on your misplaced device back can be a very trouble-laden venture, which can sometimes end in heartbreak.
@@ -181,6 +181,10 @@ If you have ever lost your phone, you will agree that getting all the informatio
 One of the most important stuff you can keep on your phone is your contacts, the information about the people in your life, as well as their phone numbers. This can prove to be the most difficult data to get back after a phone is lost. Therefore, this article will tell you ways to keep your contacts updated by synchronizing contacts from Vivo X90S to Google mail account. As with almost everything in the tech world, there is more than one way to skin a cat, and this is especially true about synchronizing contacts on Android phones.
 
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from Vivo X90S to Gmail? (Easier way)
 
@@ -222,16 +226,12 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
@@ -382,6 +382,10 @@ Download SHAREit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 
 ![launch shareit app](https://images.wondershare.com/drfone/article/2017/11/15115448962938.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. This will further let you select the data files that you wish to transfer. Click on the “Next” option after selecting your content.
 
 4\. Bring the target device in close proximity to the sender and launch the app. Mark it as a receiving device.
@@ -393,6 +397,10 @@ Download SHAREit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 6\. As the connection is made, you can select the receiving device on the source phone. This will initiate the cloning of your data.
 
 ![clone android phone with shareit](https://images.wondershare.com/drfone/article/2017/11/15115449339643.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Clone Android phone using CLONEit
 
@@ -411,10 +419,6 @@ Download CLONEit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 4\. You need to confirm the connection request by tapping on the “Ok” button of the prompt.
 
 ![confirm connection](https://images.wondershare.com/drfone/article/2017/11/15115450159334.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. Once the connection has been established, you can clone Android phone easily. Just go to the source device (sender) and select the data that you wish to transfer.
 
@@ -448,10 +452,6 @@ Download Phone Clone: <https://play.google.com/store/apps/details?id=com.hicloud
 
 ![clone android phone with phone clone app](https://images.wondershare.com/drfone/article/2017/11/15115448476323.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: Clone Android phone using Google Drive
 
 Google Drive is ideally used to store data on the cloud. However, it can also be used to back up and restore your data. Even though Google Drive transfers the data wirelessly, it consumes a substantial amount of data usage. Also, the process is not as fast or smooth as other options. Nevertheless, you can learn how to clone Android phone using Google Drive by following these steps:
@@ -462,15 +462,15 @@ Google Drive is ideally used to store data on the cloud. However, it can also be
 
 ![backup android with google drive](https://images.wondershare.com/drfone/article/2017/11/15115452026138.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. After taking a complete backup of your data, turn on your brand-new Android to perform its setup.
 
 4\. Log in using the credentials of your Google Account. Make sure that the account should be linked to your previous device.
 
 ![log in google account on target phone](https://images.wondershare.com/drfone/article/2017/11/15115452302774.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. After signing in, the Vivo X90S device will automatically sync to the account and identify the backup files. Simply select the most recent backup file.
 
@@ -491,12 +491,16 @@ Using Bluetooth for cloning an Android phone is not the most efficient method. I
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Is Android phone clone safe?
 
 Cloning an Android phone using reputable and trusted methods, apps, or tools is generally safe. Nonetheless, it is of utmost importance to exercise prudence and employ trustworthy software to safeguard your personal data. Be sure to obtain apps and tools exclusively from reputable sources, such as the Google Play Store, and adhere to the best data security practices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Can I clone between different Android phone models or brands?
 
@@ -507,10 +511,6 @@ The ability to clone between different Android phone models or brands depends on
 Before commencing the cloning procedure for your Vivo X90S, creating a backup of your device's data is crucial. It can be accomplished by using either the integrated backup feature or a trustworthy third-party app.
 
 This precautionary step guarantees the safety of your data should any issues arise during the cloning procedure. Moreover, it's imperative to verify that both devices are running the most up-to-date software updates and application versions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -530,15 +530,22 @@ Now, when you know six different ways to clone Android phone, you can easily mov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-mood-matcher-auditory-selection-for-videos-for-2024/"><u>[New] Mood Matcher Auditory Selection for Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-understanding-aspect-ratio-regulations-on-twitter/"><u>[Updated] Understanding Aspect Ratio Regulations on Twitter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>2024 Approved Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725285639494-digiarty/"><u>跟進 Digiarty 合作計劃 - 建立長久成功的網路商機</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-note-50-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme Note 50 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-gt-10-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix GT 10 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-gt-neo-5-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme GT Neo 5 Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-m34-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy M34 Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-motorola-moto-g84-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Motorola Moto G84 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/softening-playlist-sounds-on-pcmac-systems-for-2024/"><u>Softening Playlist Sounds on PC/Mac Systems for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revamp-your-photos-is-pickup-a-game-changer-for-android-users/"><u>[New] Revamp Your Photos Is PickUp a Game-Changer for Android Users?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>[Updated] The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-zoom-webinar-basics-for-beginners-and-those-new-to-virtual-events-for-2024/"><u>[Updated] Zoom Webinar Basics for Beginners & Those New to Virtual Events for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-macstreaming-avoiding-common-pitfalls-in-mixer/"><u>2024 Approved Pioneering MacStreaming Avoiding Common Pitfalls in Mixer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adobes-art-of-amusement-and-jest/"><u>Adobe's Art of Amusement and Jest</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertir-un-fichier-3gp-a-fichier-m4a-gratuitement-en-ligne-movavi-conversion/"><u>Convertir Un Fichier 3GP À Fichier M4A Gratuitement en Ligne - Movavi Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-comparativa-para-freemake-video-converter-descubre-caracteristicas-e-informacion-precio/"><u>Guía Comparativa Para Freemake Video Converter - Descubre Características E Información Precio</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nokia-g42-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nokia G42 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-a24-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy A24 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pova-6-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Pova 6 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-a34-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy A34 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g13-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G13 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-note-13-proplus-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi Note 13 Pro+ 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-nokia-g22-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Nokia G22 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-blaze-2-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Lava Blaze 2 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-top-7-premium-iso-video-editors-for-flawless-iso-file-playback/"><u>The Ultimate Guide: Top 7 Premium ISO Video Editors for Flawless ISO File Playback</u></a></li>
 </ul></div>
 

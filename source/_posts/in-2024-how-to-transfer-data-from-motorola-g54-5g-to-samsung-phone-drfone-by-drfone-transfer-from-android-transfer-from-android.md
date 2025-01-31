@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer Data from Motorola G54 5G to Samsung Phone | Dr.fone
-date: 2024-09-07T16:03:50.103Z
-updated: 2024-09-08T16:03:50.103Z
+date: 2025-01-28T18:53:35.885Z
+updated: 2025-01-30T19:48:43.419Z
 tags: 
   - transfer
 categories:
@@ -21,8 +21,6 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 ## Part 1: Transfer Data from Motorola to Samsung using Dr.Fone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can be used for transferring data from to phone to another phone like messages, contacts, call logs, calendars, photos, music, video, and apps. Also, you can back up your iPhone and save the data on your PC, for example, and restore it later when you wish. Basically, all your necessary data can be transferred fast from a phone to another phone, including transfer from Motorola to Samsung.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -50,12 +48,6 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 ![Motorola to samsung-select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3.** There will be several modes listed on the screen. Select the “Phone Transfer” mode. Dr.Fone - Phone Transfer will display both of your devices after detecting them.
 
 ![Motorola to samsung-connect devices to computer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
@@ -66,19 +58,15 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 **Step 5.** You can cancel the transferring process at any time by hitting the “Cancel” button however, make sure that neither of the Motorola G54 5G devices gets detached while the transferring process is still underway.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Transfer WhatsApp from Motorola to Samsung via WhatsApp Transfer Tool
 
 Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Samsung? If yes, your best bet to complete the transfer without a hitch is [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/). This solution facilitates the smooth transfer of WhatsApp chats, ensuring all attachments are included. Not only can you transfer chats, but you can also effortlessly backup and restore your WhatsApp data,
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
@@ -100,18 +88,16 @@ Begin by opening Wondershare Dr.Fone on your computer and proceed to link your M
 
 ![choose the whatsapp transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Assign Correct Positions to Motorola and Samsung Devices**
 
 Now, you need to assign the Motorola and Samsung devices to their respective positions. Here, the Motorola phone should be in the "Source" position. In the same way, the Samsung device needs to be in the "Destination" position. Use the "Flip" button in case the assigned positions are incorrect.
 
 ![source and destination device](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3: Complete the WhatsApp Transfer Process**
 
 Afterward, click "Transfer" to commence the WhatsApp transfer process. A prompt will appear asking whether you want to back up WhatsApp data on the destination device. After making your choice, wait for the transfer process to finish, which will take only a few moments.
@@ -119,12 +105,8 @@ Afterward, click "Transfer" to commence the WhatsApp transfer process. A prompt 
 ![whatsapp data transfer in process](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
 
 ## Part 3. Using Official Tools to Transfer Data from Motorola to Samsung
 
@@ -134,12 +116,6 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 
 ![motorola to samsung data transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2.** On the Motorola device, tap "Send Data" and follow it by pressing "Wireless." Now move to Samsung and tap "Receive Data," then press "Galaxy/Android," and finally tap "Wireless."
 
 ![receive data on samsung](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-5.jpg)
@@ -148,12 +124,6 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 
 ![head to home screen after transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Want to Manage Your Motorola G54 5G Data before Transferring Data?
 
 Before initiating data transfer from your Motorola phone to your new Samsung device, it's a great idea to declutter and organize your data. [Wondershare Dr.Fone](https://drfone.wondershare.com/guide/manage-android-device.html) is your go-to smart solution for managing and transferring Android data. With its intuitive features, you can preview, delete, export, and manage your data. This software facilitates smooth file transfers between your Motorola G54 5G and computer.
@@ -162,13 +132,11 @@ Moreover, it enables easy transfer of media files between iTunes and Android. Dr
 
 ![wondershare dr.fone phone manager](https://images.wondershare.com/drfone/guide/manage-android-apps-1.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To cater for the above mentioned problems and many other, Dr.Fone - Phone Transfer was developed. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is an easy to use tool. It has been designed to assist you to in transferring data from your old phone to your new phone, including transferring contacts from Motorola to Samsung.
-
-
-
-
 
 ## Tips of Transferring Messages from Motorola G54 5G to iPhone 14/15
 
@@ -177,8 +145,6 @@ Are you switching your phone to the latest iPhone 14 or 15 and wondering how to 
 Transferring your messages allows you to keep your important messages intact, preserving cherished conversations and important information. Be it a heartfelt message from a loved one or crucial details in a business conversation, some of your text messages must hold significant sentimental and practical value.
 
 This article will guide you through effective and easy methods to **transfer texts from Motorola G54 5G to iPhone**. Let's explore together the best ways to transfer texts and overcome the hurdles that come with this process.
-
-
 
 When it comes to seamlessly transferring SMS from Motorola G54 5G to iPhone, Apple's official app, "Move to iOS," can be a reliable and straightforward solution. This app is designed to streamline the transfer process, allowing you to move not only your text messages but also other essential data to your iPhone.
 
@@ -195,26 +161,16 @@ To use this Move to iOS app, you need to download it from the Google Play Store 
 
 ![move data from android with move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Move Text Messages From Motorola G54 5G to iPhone Quickly with Computer
 
 If you're looking for a swift and reliable way to move text messages from Motorola G54 5G to iPhone, third-party software like Wondershare Dr.Fone can be the perfect go-to solution.
 
 Packed with a user-friendly interface, this software streamlines the process, ensuring a quick and efficient transfer of your messages through its Phone Transfer feature. Dr.Fone Phone Transfer supports seamless data transfer between Android and iOS devices and vice versa. It also regularly updates so that compatibility won't be an issue.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to transfer texts from Motorola G54 5G to iPhone with Dr.Fone
 
 - **Step 1:** Open Wondershare Dr.Fone from its [official website](https://tools.techidaily.com/wondershare/drfone/phone-switch/), and find the phone transfer tool.
@@ -227,32 +183,18 @@ Packed with a user-friendly interface, this software streamlines the process, en
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3:** Choose text messages as data types for transfer. Proceed to select the types of data you wish to transfer. Checkmark the text messages category and click the Start Transfer button. If you want to remove existing data from the destination device, you can select “Clear data before copy.”
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Monitor music transfer progress. The progress of the data transfer will be displayed in a pop-up window. Once completed, click OK to conclude the process.
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshoot Why I Can’t Transfer Texts from Motorola G54 5G to iPhone
 
 Even with the reliable methods mentioned earlier, there may be instances where you encounter difficulties in transferring texts from your Android to your iPhone. Don't worry; we've got you covered with solutions to common issues that might hinder a smooth transfer.
@@ -275,12 +217,6 @@ Users may encounter situations where only some content is transferred, or the iO
 
 For this issue, you can consider erasing your iOS device and starting the transfer again. Make sure that the available space on your iPhone accommodates the Android content. Delete unnecessary data or apps on your iPhone to free up space if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to Back Up Messages with Google Drive
 
 In addition to seamless transfers between devices, backing up your text messages becomes equally important. Fortunately, Google Drive offers a convenient solution by allowing you to back up your messages with ease. Turning on backup on Google Drive ensures that your valuable SMS history remains safe and accessible whenever you need it.
@@ -295,31 +231,15 @@ In addition to seamless transfers between devices, backing up your text messages
 ![back-up messages with google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-messages-from-android-to-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Conclusion
 
 Switching phones to the latest model is an exciting occurrence. However, the challenge of transferring crucial data, especially text messages, from an Android to a new iPhone can be challenging.
 
 Fortunately, armed with the insights from this article, we've delved into two effective methods for seamlessly transferring text messages: using Apple's official "Move to iOS" app and leveraging third-party software like Wondershare Dr.Fone. With these methods, you can bid farewell to any complications associated with message transfers.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Contacts from Motorola G54 5G to Other Android Devices Devices?
 
 Android, which is developed by the Google, has a very strong mobile operating system. It is totally based on the Linux kernel and specially designed for touch screen mobile devices such as smartphones and tablets. And these Android mobiles are used by millions of people. Some of the users might feel the need to transfer their contacts from one Android device to another due to up gradation or changing of the mobile. There are many methods which can help transfer contacts from Motorola G54 5G to Other Android Devices.
@@ -330,14 +250,10 @@ So for all those who want to know how to transfer contacts from Motorola G54 5G 
 
 One of the most popular toolkit to transfer contacts from Motorola G54 5G to Other Android Devices is the [Dr.Fone toolkit - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This is a revolutionary application for your entire backup and restores solutions. This application supports over 8000+ Android devices worldwide and with its advanced features, the application allows the user to take backup and restore by selecting their needs and requirements.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 Transfer Everything from Android/iPhone to New iPhone in 1 Click.
@@ -356,12 +272,6 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 ![How to Transfer Photos from Motorola G54 5G to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2. Connect both phones to PC and select "Photos"
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both devices between “source” and “Destination” by using the “Flip” button.
@@ -376,12 +286,6 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
 ![Transfer Photos from Motorola G54 5G to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
@@ -394,15 +298,13 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 ![Transfer Photos from Motorola G54 5G to Other Android Devices by NFC-Go to Settings](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
 ![Transfer data from Motorola G54 5G to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Another method of checking is by opening the settings menu and tapping on the search icon. Type in “NFC”. If your phone is capable, it will show up. The NFC function works hand-in-hand with the android beam. NFC may not work at optimal levels if the android beam is “off”.
 
@@ -414,12 +316,6 @@ Next, place both devices against each other, back to back.
 
 ![Transfer Photos from Motorola G54 5G to Other Android Devices by NFC-Choose Photos](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 At this stage, both an audio sound and visual message will appear, acting as confirmation that both devices have found each other’s radio waves.
 
 Now, on your old android device, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
@@ -434,12 +330,6 @@ Finally, when the beaming is complete, you will hear an audio sound. This is to 
 
 Now, we’ll discuss how to transfer contacts from one Android to another with the help of a SIM card.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to transfer contacts from Motorola G54 5G to Other Android Devices using SIM card?
 
 Here are the steps which will help you.
@@ -480,6 +370,10 @@ The steps:
 
 ![wifi direct](https://images.wondershare.com/drfone/article/2017/05/14945041942239.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This method is simple and easy to use.
 
 There is yet another method to transfer contacts from Motorola G54 5G to Other Android Devices using Samsung’s own app “Smart Switch”.
@@ -488,12 +382,6 @@ Advantage: This is a very fast process.
 
 Disadvantage : Sometimes the contacts are not saved automatically. You have to open the name card file one by one to save them. If you have a lot of contacts, this process is very hectic and lengthy.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to transfer contacts from Motorola G54 5G to Other Android Devices using Samsung Smart Switch?
 
 Samsung launched a new app called “Smart Switch” to allow transfer of content between Android devices. Although, it does not support allAndroid devices.
@@ -506,22 +394,10 @@ To transfer contacts from Motorola G54 5G to Other Android Devices via this app,
 
 ![select old device](https://images.wondershare.com/drfone/article/2017/05/14945045848700.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Now, Select the new device as ‘Receiving device”
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4\. Now connect with your old device by opening the app on your old Android mobile. This will prompt to enter the pin number as displayed. Enter the same and hit “Connect” to start the process.
 
 5\. Now, select “Contact” on your old device and tap “Send”.
@@ -533,7 +409,6 @@ Advantages: The process is very fast and can transfer all the contacts at once.
 Disadvantages: This app is not supported on all the Android devices.  Also, the process is lengthy and needs some technical knowledge.
 
 Thus, these were the four best options that you can use to transfer contacts from Motorola G54 5G to Other Android Devices. However, in our experience, the first method, the Dr.Fone toolkit- Android data backup and restore is by far the best and most secured among all solutions for transferring contacts from Motorola G54 5G to Other Android Devices. So, if you do not want to lose any data while transfer or worry about the security, use the Dr.Fone toolkit for the best result.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -547,9 +422,16 @@ Thus, these were the four best options that you can use to transfer contacts fro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-efficient-content-curation-multiple-photosvideos-to-instagram-storyboard/"><u>[New] 2024 Approved Efficient Content Curation Multiple Photos/Videos to Instagram Storyboard</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rofessional-video-setup-ideal-stabilizers-for-youtubers-for-2024/"><u>[New] Professional Video Setup Ideal Stabilizers for YouTubers for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-gionee-f3-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Gionee F3 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-meizu-21-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Meizu 21 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y27-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y27 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-10-v-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 10 V To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-case-against-automated-dialogue-a-deep-dive/"><u>The Case Against Automated Dialogue: A Deep Dive</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-secrets-from-pros-for-stellar-youtubers-music-videos-for-2024/"><u>Top 10 Secrets From Pros for Stellar Youtubers' Music Videos for 2024</u></a></li>
+</ul></div>
 
