@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Sync Contacts from Poco C50 to Gmail | Dr.fone
-date: 2025-01-29T21:22:04.528Z
-updated: 2025-01-31T01:16:30.790Z
+date: 2025-02-09T00:39:55.011Z
+updated: 2025-02-12T11:49:45.538Z
 tags: 
   - transfer
 categories:
@@ -19,10 +19,6 @@ If you have ever lost your phone, you will agree that getting all the informatio
 One of the most important stuff you can keep on your phone is your contacts, the information about the people in your life, as well as their phone numbers. This can prove to be the most difficult data to get back after a phone is lost. Therefore, this article will tell you ways to keep your contacts updated by synchronizing contacts from Poco C50 to Google mail account. As with almost everything in the tech world, there is more than one way to skin a cat, and this is especially true about synchronizing contacts on Android phones.
 
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from Poco C50 to Gmail? (Easier way)
 
@@ -48,6 +44,10 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
 - 7\. Click on the "Export" button and choose "to vCard file" as your export format.
@@ -63,6 +63,10 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 - 3.Tap on the "More" button and select "Import" from the list. Gmail will open a pop-up for you to select the location of the previously saved.VCF or vCard file.
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
@@ -87,10 +91,6 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
 
@@ -173,7 +173,7 @@ In this article, we are going to introduce 4 vital solutions to make your transi
 If you want to import contacts to iPhone XS/11 from Android in a single click, there is no better solution than [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Not only contacts but a wide range of device data can be transferred from your Android to an iPhone with this tool. Photos, music, text messages, videos, etc. are a few of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
@@ -200,6 +200,10 @@ Step 2: Now, connect both your Poco C50 and iPhone XS/11 to the computer using g
 Step 3:  Once the Poco C50 devices get detected, you need to select Android as the source device on the next screen. As you wish to import contacts to iPhone XS/11 from Android, the iPhone XS/11 needs to be selected in place of the target device.
 
 ![import contacts to iPhone XS (Max) from android - specify source and target devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** _In case of a wrong selection, you can tap the ‘Flip’ button and change the selection._
 
@@ -236,11 +240,11 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 ![transfer contacts from Poco C50 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to transfer contacts from Poco C50 to iPhone XS/11 using Google account
@@ -252,10 +256,6 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 1. Go to your Poco C50 and go to the ‘Accounts’ tab and enable syncing of contacts. ‘Settings’ > ‘Accounts’ > ‘Google’ > Turn on ‘Contacts’ switch > tap on ‘3 vertical dots’ > ‘Sync Now’.
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
@@ -323,10 +323,6 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 ![Motorola to samsung-transfer from Motorola to Samsung](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5.** You can cancel the transferring process at any time by hitting the “Cancel” button however, make sure that neither of the Poco C50 devices gets detached while the transferring process is still underway.
 
 ## Part 2: Transfer WhatsApp from Motorola to Samsung via WhatsApp Transfer Tool
@@ -355,21 +351,29 @@ Begin by opening Wondershare Dr.Fone on your computer and proceed to link your M
 
 ![choose the whatsapp transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Assign Correct Positions to Motorola and Samsung Devices**
 
 Now, you need to assign the Motorola and Samsung devices to their respective positions. Here, the Motorola phone should be in the "Source" position. In the same way, the Samsung device needs to be in the "Destination" position. Use the "Flip" button in case the assigned positions are incorrect.
 
 ![source and destination device](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Complete the WhatsApp Transfer Process**
 
 Afterward, click "Transfer" to commence the WhatsApp transfer process. A prompt will appear asking whether you want to back up WhatsApp data on the destination device. After making your choice, wait for the transfer process to finish, which will take only a few moments.
 
 ![whatsapp data transfer in process](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Using Official Tools to Transfer Data from Motorola to Samsung
 
@@ -383,13 +387,13 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 
 ![receive data on samsung](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Afterward, finalize the connection by selecting "Allow" on the old phone. Then, on your new phone, select the content you wish to transfer and proceed by tapping "Transfer." Once the transfer finishes, tap "Go to Home Screen" on the new phone, and you're all set to proceed.
 
 ![head to home screen after transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: Want to Manage Your Poco C50 Data before Transferring Data?
 
@@ -398,10 +402,6 @@ Before initiating data transfer from your Motorola phone to your new Samsung dev
 Moreover, it enables easy transfer of media files between iTunes and Android. Dr.Fone also offers the capability to import contacts from iCloud to either your Poco C50 or computer. Additionally, it allows you to view and manage mobile notifications directly on your PC. It checks how much storage is left and generates a report showing the Poco C50 device's history with basic details automatically.
 
 ![wondershare dr.fone phone manager](https://images.wondershare.com/drfone/guide/manage-android-apps-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To cater for the above mentioned problems and many other, Dr.Fone - Phone Transfer was developed. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is an easy to use tool. It has been designed to assist you to in transferring data from your old phone to your new phone, including transferring contacts from Motorola to Samsung.
 
@@ -419,14 +419,16 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-silver-winners-prime-dvd-software-for-sierra-os/"><u>[New] Silver Winners Prime Dvd Software for Sierra OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dell-monitors-no-longer-flicker-successful-troubleshooting/"><u>Dell Monitors No Longer Flicker: Successful Troubleshooting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-vip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 VIP to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-7-hd-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 7 HD to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g-5g-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G 5G (2023) to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-camon-20-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Camon 20 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-visionary-layout-overhauls/"><u>In 2024, Visionary Layout Overhauls</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013314041-quick-fixes-for-gaming-glitch-stop-grand-theft-auto-5-from-freezing-now/"><u>Quick Fixes for Gaming Glitch: Stop Grand Theft Auto 5 From Freezing Now!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-followers-in-motion-analyzer/"><u>[New] In 2024, Followers in Motion Analyzer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-backlink-blueprint-for-channel-growth-for-2024/"><u>[New] Step-by-Step Backlink Blueprint for Channel Growth for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-hidden-trove-unseen-artifacts-and-auction-secrets/"><u>[New] The Hidden Trove - Unseen Artifacts and Auction Secrets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-video-content-for-youtube-success/"><u>[Updated] Mastering Video Content for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-secure-fb-pages-with-ease-8-best-tools-no-cost-online/"><u>[Updated] Secure FB Pages with Ease 8 Best Tools, No Cost Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-with-the-newest-driver-update-for-rtx-2080-compatible-with-windows-1011/"><u>Enhance Your Gaming Experience with the Newest Driver Update for RTX 2080 - Compatible with Windows 10/11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-sony-xperia-1-v-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Sony Xperia 1 V to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-8-online-locations-for-3d-text-psd-downloads/"><u>In 2024, Best 8 Online Locations for 3D Text PSD Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-nord-n30-se-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus Nord N30 SE to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f15-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F15 5G to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
 
