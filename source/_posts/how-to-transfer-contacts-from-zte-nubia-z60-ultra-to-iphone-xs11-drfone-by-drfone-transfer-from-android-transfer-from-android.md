@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 | Dr.fone
-date: 2024-09-09T23:54:22.464Z
-updated: 2024-09-14T04:27:38.192Z
+date: 2025-02-24T01:20:41.879Z
+updated: 2025-03-02T20:39:03.971Z
 tags: 
   - transfer
 categories:
@@ -19,13 +19,6 @@ When it comes to transferring contacts from ZTE Nubia Z60 Ultra to iPhone XS/11,
 Though, there are numerous ways to [switch to a new iPhone](https://drfone.wondershare.com/transfer-to-new-iphone.html) from an Android device, some of them are really outdated. Consider, transferring contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 via Bluetooth for that matter. If you have a huge phone book, then it will take ages to finish moving the contacts. You don’t need to worry at all. We have amazing alternative solutions for you.
 
 In this article, we are going to introduce 4 vital solutions to make your transition from ZTE Nubia Z60 Ultra to iPhone a smooth sail.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 in one click
 
@@ -56,13 +49,6 @@ Step 3:  Once the ZTE Nubia Z60 Ultra devices get detected, you need to select 
 
 ![import contacts to iPhone XS (Max) from android - specify source and target devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** _In case of a wrong selection, you can tap the ‘Flip’ button and change the selection._
 
 Step 4:  In this step, you have to select the data type you want to move from your ZTE Nubia Z60 Ultra to the iPhone XS/11, i.e. ‘Contacts’. Now, push the ‘Start Transfer’ button consecutively to initiate the transfer.
@@ -74,13 +60,6 @@ Step 4:  In this step, you have to select the data type you want to move from y
 Step 5: Allow some time to get the process completed. Your contacts are successfully transferred from the Android device to iPhone XS/11.
 
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 using Move to iOS
 
@@ -104,13 +83,6 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from ZTE Nubia Z60 Ultra to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to transfer contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 using Google account
 
 Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Android mobile, as well. to do that, you need to get your Gmail and Android device contacts to get synced first.
@@ -121,40 +93,13 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from ZTE Nubia Z60 Ultra to iPhone XS/11 using SIM card
 
@@ -169,13 +114,6 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 2. Now, open the SIM card slot of your ZTE Nubia Z60 Ultra and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your ZTE Nubia Z60 Ultra supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Can You Transfer Files From ZTE Nubia Z60 Ultra To iPhone 15/14/13?
 
@@ -192,13 +130,6 @@ The easiest way for most people is to use the Move to iOS app that Apple created
 **Step 1:** On your ZTE Nubia Z60 Ultra, download Move to iOS from the Google Play Store.
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** When setting up your new iPhone 15/14/13, select the option to transfer data from Android.
 
@@ -234,13 +165,6 @@ You can also connect your ZTE Nubia Z60 Ultra directly to your new iPhone with t
 
 And that's it! With these simple steps, you can easily move your important info, photos, videos, and other content from your old Android to your slick new iPhone 15/14/13.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How Can You Transfer Data From ZTE Nubia Z60 Ultra To iPhone 15/14/13 Using Google Drive?
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-7.png)
@@ -255,13 +179,6 @@ If you have files stored on Google Drive, you can easily access them on your new
 
 **Step 4:** Your Google Drive content will now be available on your iPhone!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part IV: How To Transfer Particular Data From ZTE Nubia Z60 Ultra To iPhone 15/14/13?
 
 Want to move all your precious data from your ZTE Nubia Z60 Ultra over to your new iPhone 15/14/13? With some simple steps, you can easily transfer your contacts, photos, messages, and other key data.
@@ -269,13 +186,6 @@ Want to move all your precious data from your ZTE Nubia Z60 Ultra over to your n
 ### Method 1: Transfer Contacts Using Sim Card
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-to-transfer-data-from-android-to-iphone-13-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you stored all your contacts on your ZTE Nubia Z60 Ultra’s SIM card, you’re in luck! This is the easiest way to move them to iPhone 15/14/13. Here’s how:
 
@@ -289,13 +199,6 @@ If you stored all your contacts on your ZTE Nubia Z60 Ultra’s SIM card, you’
 
 And it’s done! All your SIM contacts are now safely stored on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Transfer Photos Using Google Photos App
 
 The Google Photos app makes it a breeze to transfer all your Android photos and videos over to your shiny new iPhone 15/14/13:
@@ -308,31 +211,11 @@ The Google Photos app makes it a breeze to transfer all your Android photos and 
 
 **Step 4:** Give it some time, and all your media will **transfer automatically from ZTE Nubia Z60 Ultra to iPhone**!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Transfer Messages Using SendAnywhere
 
 If you use messages a lot, you'll surely want to move your messaging history from your Android. The SendAnywhere app handles this seamlessly:
 
 ![Send Anywhere working](https://images.wondershare.com/drfone/article/2024/02/how-to-transfer-data-from-android-to-iphone-13-9.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 1:** Download SendAnywhere on both your Android and iPhone.
 
@@ -356,13 +239,6 @@ First thing first, get your ZTE Nubia Z60 Ultra and new iPhone 15/14/13 ready th
 
 Dr.Fone's phone transfer feature makes **switching data from ZTE Nubia Z60 Ultra to iPhone** easier than you can imagine. Just follow these simple steps:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 1 Click to Transfer Data From ZTE Nubia Z60 Ultra To iPhone
@@ -380,13 +256,6 @@ Dr.Fone's phone transfer feature makes **switching data from ZTE Nubia Z60 Ultra
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Launch the Dr.Fone app on the computer and click on the "Phone Transfer" module. The user-friendly phone switch interface opens up, ready to shift your data.
 
 **Step 4:** Select your ZTE Nubia Z60 Ultra as the "Source" and your iPhone as the "Destination". Click "Flip" anytime to change direction. Also, choose what data types to transfer - contacts, messages, photos, videos, music, etc.
@@ -397,32 +266,11 @@ Dr.Fone's phone transfer feature makes **switching data from ZTE Nubia Z60 Ultra
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And that's all it takes! In minutes, Dr.Fone securely transfers your essential data making your switch to the iPhone a breeze. Quick, hassle-free, safe - phone transfer doesn't get easier than this!
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 So go ahead – move your life to your terrific new iPhone 15/14/13 in minutes with the exceptional data transfer powers of Dr. Fone's Phone Transfer tool! Bid goodbye to manual processes or slow wireless transfers. For swift, simple, and safe **Android to iOS transfer**, Dr Fone is your go-to digital companion!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -435,13 +283,6 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 There can be many reasons to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices, such as the change of the ZTE Nubia Z60 Ultra device since you bought a new one or want to keep music readily available on multiple devices. Therefore, if you face a dilemma over how to transfer music from one Android device to another, this is the right article for you.
 
 So, keep reading to know about five different ways that will help you transfer your music files easily.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices in 1 click?
 
@@ -476,13 +317,6 @@ If you want the Source device to be the Destination device, click on the “Flip
 
 ![transfer music from android to android-click on “Start Transfer”](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You should now see your music files being transferred with the overall progress displayed on a dialogue box.
 
 There you go; within a few seconds, your music files will be transferred successfully.
@@ -490,13 +324,6 @@ There you go; within a few seconds, your music files will be transferred success
 ## Part 2. How to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Selectively?
 
 Another way to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices is by using the transfer feature on [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). As the name implies, this feature can be used to transfer files from one Android device to another by selecting the particular music file one by one instead of choosing an entire music file.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -516,13 +343,6 @@ Here are a few easy steps to follow on how to transfer music from ZTE Nubia Z60 
 
 ![transfer music from android to android-click on the “Music” tab](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** The moment all the audio files or music files on the connected device are displayed on the Dr.Fone software screen. You can scroll down and select each file you wish to copy or select an entire folder from the left side pane.
 
 ![transfer music from android to android-select each file you wish to copy](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-01.jpg)
@@ -530,13 +350,6 @@ Here are a few easy steps to follow on how to transfer music from ZTE Nubia Z60 
 **Step 3.** After selecting the music files, you wish to copy, click on the “Export” button on the app and then select “Export to Device”. You will see the other device connected; there, click on the ZTE Nubia Z60 Ultra device's name to begin the transfer process.
 
 ![transfer music from android to android-click on the “Export” button](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices using Bluetooth?
 
@@ -552,13 +365,6 @@ Bluetooth transfer is one of the oldest methods that can be used to transfer mus
 
 ![transfer music from android to android-Go to “Connection”](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Now, switch on the Bluetooth for the destination device as well. Once done, search for your device’s Bluetooth name on the phone and click to pair both Bluetooth devices together.
 
 Mostly, you will be provided with a pair confirmation code that will be displayed on both devices. Click OK to pair both devices successfully.
@@ -572,13 +378,6 @@ Here, scroll until you see the “Bluetooth” option. You will be immediately p
 This is how you can transfer music files from ZTE Nubia Z60 Ultra to Other Android Devices using Bluetooth.
 
 ![transfer music from android to android-use Bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices using NFC?
 
@@ -628,5 +427,20 @@ At last, we hope that you now know how to transfer music from ZTE Nubia Z60 Ultr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-cure-for-the-vanished-watch-video-icon-2023-edition-for-2024/"><u>[New] Cure for the Vanished Watch Video Icon, 2023 Edition for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unlock-your-films-potential-top-11-color-grading-and-correction-methods/"><u>[New] In 2024, Unlock Your Film's Potential Top 11 Color Grading and Correction Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-reversal-unlock-the-power-of-video-rotation/"><u>[New] Insta-Reversal Unlock the Power of Video Rotation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effortless-guide-how-to-automate-recording-of-your-google-gatherings-for-2024/"><u>[Updated] Effortless Guide How to Automate Recording of Your Google Gatherings for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-enhance-your-channels-image-adding-watermarks-and-logos-to-video-posts/"><u>2024 Approved Enhance Your Channel's Image Adding Watermarks & Logos to Video Posts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-upgrade-premium-mode-at-20mth-us-only/"><u>ChatGPT's Upgrade: Premium Mode at $20/Mth, U.S. Only</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-11x-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 11X 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-itel-a05s-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Itel A05s to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-6-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 6 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-civi-3-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Civi 3 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-selecting-the-right-flight-stabilizer-drones-edition/"><u>In 2024, Selecting the Right Flight Stabilizer Drones Edition</u></a></li>
+</ul></div>
 

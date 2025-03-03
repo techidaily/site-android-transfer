@@ -1,7 +1,7 @@
 ---
 title: Top 6 Ways to Transfer Text Messages from ZTE Nubia Z60 Ultra to Other Android Devices | Dr.fone
-date: 2025-02-08T01:57:02.139Z
-updated: 2025-02-12T09:52:30.489Z
+date: 2025-02-28T02:25:35.824Z
+updated: 2025-03-03T04:36:57.583Z
 tags: 
   - transfer
 categories:
@@ -31,10 +31,6 @@ One of the best and easiest ways to transfer text messages from your old Android
 **Step 3 -** Select Messages from the options you receive on the next tab and click on “Next”.
 
 ![messages transfer by sms backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4 -** Select where you want to create your backup. And click on “Next”.
 
@@ -78,17 +74,9 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 3](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6 -** It will start restoring all your SMS’s.
 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Smart Switch (Samsung)
 
@@ -134,10 +122,6 @@ Transfer Everything from Android/iPhone to New iPhone in 1 Click.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3 –** Simply select the files you want to transfer.
 
 ![phone switch 02](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -157,10 +141,6 @@ Whether you want to transfer data, i.e. images or videos or text messages, the s
 **Step 1:** Grab your copy of the Dr.Fone - Phone Manager (Android) from its official website and then install it over your PC. Now, launch the tool and then opt for the “Transfer” tab from the main screen. Meanwhile, get your “Source” device connected with your PC using the genuine USB cable only.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Next, once your device is detected by the tool, you need to get into the required data section from the navigation panel at the top. For instance, “Information” in this case. Meanwhile, get your target device connected to the PC too.
 
@@ -200,25 +180,13 @@ Connect your two Android devices to the computer via USB cables. After recognize
 
 ![How to Transfer data from ZTE Nubia Z60 Ultra to Other Android Devices-start to transfer contacts from ZTE Nubia Z60 Ultra to Other Android Devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3. Transfer Contacts, Photos, Videos, Music, SMS, Call Logs, Calendar and Apps from ZTE Nubia Z60 Ultra to Other Android Devices
 
 Between the two Android phones, display all the contents you can transfer. You can uncheck any content you dislike to transfer. Then, click Start Transfer to transfer files from ZTE Nubia Z60 Ultra to another Android Phone quickly.
 
 ![How to Transfer data from ZTE Nubia Z60 Ultra to Other Android Devices-Android to Android transfer completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That's all. It isn't easy to transfer all your data from ZTE Nubia Z60 Ultra to Other Android Devices. Try [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) free to transfer Android files to your new Android phone. It is the best Android to Android data transfer tool. With it, you can transfer everything from ZTE Nubia Z60 Ultra to Other Android Devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Everything from ZTE Nubia Z60 Ultra to Other Android Devices with Google Backup
 
@@ -239,10 +207,6 @@ This one is the best to transfer the data such as photos, videos, songs, and oth
 ## Part 4. Tips about how to transfer from ZTE Nubia Z60 Ultra to Other Android Devices
 
 When you have bought a new device, then certainly there is a need to transfer your data such as Contacts, SMS, Photos, Music, Apps, and more other documents using different methods. Your device data can also be transferred from Android smartphones to iPhone and vice versa. If you need to have a fast and easy way to transfer the data, you can try with Dr.Fone - Phone Transfer. Here we also have a list of a few different ways which can be used easily without any restrictions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Transfer Contacts from ZTE Nubia Z60 Ultra to Other Android Devices
 
@@ -268,10 +232,6 @@ We all love music and have collected the music according to our choice. Mostly w
 
 ![how to transfer from ZTE Nubia Z60 Ultra to Other Android Devices -Transfer Music](https://images.wondershare.com/drfone/article/2017/11/android-android-006.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Transfer Apps from ZTE Nubia Z60 Ultra to Other Android Devices
 
 There are many apps that you require to transfer from your old phone to a new device, but here we have a Helium backup tool that can explain how to transfer from ZTE Nubia Z60 Ultra to Other Android Devices apps easily and do not require to be rooted. It can transfer the tool which can come in a free trial version and also support SD card and PC. You can automatically schedule the backup and can sync your ZTE Nubia Z60 Ultras.
@@ -291,22 +251,16 @@ Why not download it have a try? If this guide helps, don't forget to share it wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-extracting-images-from-movies-using-windows-10-photos-app/"><u>[New] 2024 Approved Extracting Images From Movies Using Windows 10 Photos App</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-access-facebooks-classic-stories/"><u>[New] In 2024, Mastering Access Facebook's Classic Stories</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-live-twitch-streams-top-5-tips/"><u>[Updated] In 2024, Mastering Live Twitch Streams Top 5 Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-review-snapshot-is-active-8-top-tier-or-not/"><u>[Updated] In 2024, Screen Review Snapshot Is Active 8 Top-Tier or Not?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210196588-9781631599668-10-minute-crystal-healing/"><u>10-Minute Crystal Healing | Free Book</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 8 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-10t-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 10T 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-40i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 40i to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-f23-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo F23 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-x5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco X5 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-v-purse-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor V Purse To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x50iplus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X50i+ to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958008975-latest-and-optimized-nvidia-rtx-1080-drivers-for-windows-10-pcs-download-now/"><u>Latest and Optimized NVIDIA RTX 1080 Drivers for Windows 10 PCs - Download Now!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-the-art-of-eye-catching-fb-ad-content-for-2024/"><u>Mastering the Art of Eye-Catching FB Ad Content for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-easy-tips-for-moving-dvd-content-from-pc-to-iphone-77-plus-without-hitches/"><u>Quick & Easy Tips for Moving DVD Content From PC to iPhone 7/7 Plus Without Hitches</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-tweaking-mouse-preferences-in-yl-computings-platform/"><u>Step-by-Step Guide: Tweaking Mouse Preferences in YL Computing's Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegif-genius/"><u>[New] GiggleGif Genius</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-insiders-guide-to-tiktok-on-apple-and-windows-systems-for-2024/"><u>[New] The Insider's Guide to TikTok on Apple and Windows Systems for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-a05s-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel A05s</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola G54 5G FRP?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x9a-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X9a to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-s18e-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo S18e to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s23-tactical-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S23 Tactical Edition Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-s18-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo S18 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g13-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Moto G13 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/troubleshooting-and-resolving-standard-scanner-connection-problems-expert-advice-from-yl-computing/"><u>Troubleshooting & Resolving Standard Scanner Connection Problems: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-best-18-video-recording-gadgets-for-peak-performance/"><u>Uncover Best 18 Video Recording Gadgets for Peak Performance</u></a></li>
 </ul></div>
 
